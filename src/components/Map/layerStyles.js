@@ -18,7 +18,7 @@ export const layerStyles = {
         1,
       ],
     },
-    minZoom: 12,
+    minZoom: 9,
   },
   'toilets-labels': {
     id: 'layer-toilets',
