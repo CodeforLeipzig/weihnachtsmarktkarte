@@ -144,12 +144,14 @@ export const MapComponent: FC<MapComponentType> = ({
         attributionControl={false}
         // onLoad={onMapLoad}
       >
+        {/*
         <Source id="toilets-source" type="geojson" data={mapData.toilets}>
           {/* @ts-ignore */}
           <Layer {...layerStyles['toilets-labels']} />
           {/* @ts-ignore */}
           <Layer {...layerStyles['toilets-circles']} />
         </Source>
+        */}
         <GeolocateControl
           positionOptions={{ enableHighAccuracy: true }}
           trackUserLocation={true}
