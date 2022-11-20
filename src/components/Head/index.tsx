@@ -25,15 +25,15 @@ interface HeadPropType {
 }
 
 export const Head: FC<Partial<HeadPropType>> = ({
-  description = 'Glühwein, Glögg, Glückseligkeit - Finde Weihnachtsmärkte in Berlin basierend auf Öffnungszeiten und Themen',
-  siteTitle = 'weihnachtsmaerkte.odis-berlin.de',
-  pageTitle = 'Berliner Weihnachtsmarkt-Finder',
+  description = 'Glühwein, Glögg, Glückseligkeit - Finde Weihnachtsmärkte in Leipzig basierend auf Öffnungszeiten und Themen',
+  siteTitle = 'weihnachtsmaerkte.codeforleipzig.de',
+  pageTitle = 'Leipziger Weihnachtsmarkt-Finder',
   fbAppId = '',
-  keywords = ['Berlin', 'Weihnachtsmärkte','Weihnachtsmarkt', 'ODIS', 'Karte','Open Data'],
+  keywords = ['Leipzig', 'Weihnachtsmärkte','Weihnachtsmarkt', 'ODIS', 'Karte','Open Data'],
   themeColor = '#091725',
   locales = ['de'],
   locale = 'de',
-  twitterUsername = 'citylabberlin',
+  twitterUsername = '_hanwong',
   socialThumbnail = '',
 }) => {
   const { pathname } = useRouter()

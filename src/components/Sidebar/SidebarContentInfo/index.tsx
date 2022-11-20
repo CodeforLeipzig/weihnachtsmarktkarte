@@ -5,7 +5,6 @@ import { SidebarBody } from '@components/Sidebar/SidebarBody'
 
 import { CitylabLogo } from '@components/Logos/CitylabLogo'
 import { OdisLogo } from '@components/Logos/OdisLogo'
-import { SenWebLogo } from '@components/Logos/SenWebLogo'
 import { TsbLogo } from '@components/Logos/TsbLogo'
 import { Accordion } from '@components/Accordion'
 import { SenInLogo } from '@components/Logos/SenInLogo'
@@ -19,9 +18,9 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
 
       <SidebarBody>
         <p className="text-sm pt-2 pb-2">
-          Von klassisch über kiezig bis krawallig: Bei den Berliner
+          Von klassisch über kiezig bis krawallig: Bei den Leipziger
           Weihnachtsmärkten ist für jeden Geschmack etwas dabei. Einige der über 60 Weihnachtsmärkte sind dabei nur für wenige Tage geöffnet. Mit dem
-          Berliner Weihnachtsmarkt-Finder behältst du stets den Überblick, an
+          Leipziger Weihnachtsmarkt-Finder behältst du stets den Überblick, an
           welchen Tagen und zu welchen Uhrzeiten welche Weihnachtsmärkte zu
           einem Besuch einladen. Entdecke außerdem, welche Weihnachtsmärkte
           kostenlos sind, wo es spannende Attraktionen und Programm zu erleben gibt und mehr. Zoom in die Karte rein, um Haltestationen zu öffentlichen Verkehrsmitteln und Standorte von nahegelegenen öffentlichen Toiletten zu sehen. Mit einem Klick über die Teilen-Funktion kannst du den Link zu deinem Lieblingsweihnachtsmarkt kopieren und an Freund:innen verschicken.
@@ -38,30 +37,14 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
                   href="https://daten.berlin.de/datensaetze/berliner-weihnachtsmärkte-2022"
                   className="text-gold"
                 >
-                  Berliner Weihnachtsmärkte 2022{' '}
-                </a>, der jährlich von der Senatsverwaltung für Wirtschaft, Energie und Betriebe bereitgestellt wird.
-                Dadurch sind nur die der Senatsverwaltung gemeldeten Märkte aufgeführt und es besteht kein Anspruch auf Vollständigkeit.
-                Weiterhin liegen in der Karte{' '}
-                <a
-                  target="blank"
-                  href="https://daten.berlin.de/datensaetze/standorte-der-öffentlichen-toiletten"
-                  className="text-gold"
-                >
-                  Standorte der öffentlichen Toiletten{' '}
-                </a>, die sich ebenfalls im Berliner Open Data Portal befinden und regelmäßig durch die Senatsverwaltung für Umwelt,
-                Mobilität, Verbraucher- und Klimaschutz aktualisiert werden. Für die Identifizierung der nahelegenen{' '}
-                <a
-                  target="blank"
-                  href="https://daten.berlin.de/datensaetze/koordinaten-der-zugangsmöglichkeiten-zu-stationen"
-                  className="text-gold"
-                >
-                  S-Bahn und U-Bahn-Stationen{' '}
-                </a> wurde ein weiterer offener Datensatz des VBB herangezogen. Weihnachtsmärkte die unter 400m Luftlinie entfernt zu diesen Haltestellen liegen
+                  Leipziger Weihnachtsmärkte 2022{' '}
+                </a>. Es besteht kein Anspruch auf Vollständigkeit.
+                Weihnachtsmärkte die unter 400m Luftlinie entfernt zu Haltestellen liegen
                 werden entsprechend bei der Filterung “Kurze Wege” ausgegeben. Die verarbeiteten Daten und die Skripte zur
                 Datenprozessierung sind in{' '}
                 <a
                   target="blank"
-                  href="https://github.com/technologiestiftung/weihnachtsmarktkarte"
+                  href="https://github.com/codeforleipzig/weihnachtsmarktkarte"
                   className="text-gold"
                 >
                   GitHub-Repository{' '}
@@ -84,21 +67,14 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
                 Offene Daten definieren sich dadurch, dass sie in einem offenen und maschinenlesbaren Format vorliegen,
                 unter einer freien Lizenz nutzbar sind, der Zugang diskriminierungsfrei und kostenlos ist und die Daten
                 an einem zentralen Ort dauerhaft auffindbar sind. Open Data ist heute ein wichtiger Bestandteil im Verwaltungshandeln
-                Berlins und schafft nicht nur Transparenz und Offenheit, sondern ermöglicht auch Analysen und Anwendungen wie
-                diese, um den Alltag angenehmer zu machen. Deshalb unterstützt die{' '}
+                Leipzigs und schafft nicht nur Transparenz und Offenheit, sondern ermöglicht auch Analysen und Anwendungen wie
+                diese, um den Alltag angenehmer zu machen. Mehr offene Daten findest du im{' '}
                 <a
                   target="blank"
-                  href="https://odis-berlin.de"
+                  href="https://opendata.leipzig.de"
                   className="text-gold"
                 >
-                  Open Data Infor­mations­stelle{' '}
-                </a>Berliner Behörden bei der Bereit­stellung von Open Data. Mehr offene Daten findest du im{' '}
-                <a
-                  target="blank"
-                  href="https://daten.berlin.de"
-                  className="text-gold"
-                >
-                  Berliner Datenportal
+                  Leipziger OpenData-Portal
                 </a>.
               </p>
             </>
@@ -112,7 +88,7 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
                 Der Code ist{' '}
                 <a
                   target="blank"
-                  href="https://github.com/technologiestiftung/weihnachtsmarktkarte"
+                  href="https://github.com/codeforleipzig/weihnachtsmarktkarte"
                   className="text-gold"
                 >
                   Open Source {' '}
@@ -136,12 +112,12 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
           id: '4', title: 'Was ist mit anderen Städten?', content:
             <>
               <p className="text-sm pb-2">
-                Der “Berliner Weihnachtsmarkt-Finder” ist ein Open-Source-Projekt und läuft unter einer MIT Lizenz.
+                Der “Leipziger Weihnachtsmarkt-Finder” ist ein Open-Source-Projekt und läuft unter einer MIT Lizenz.
                 Dementsprechend kann die Idee, aber auch der Quellcode für die Umsetzung in anderen Städten kostenlos genutzt, angepasst
                 und weiterentwickelt werden. Wenn Du dich dafür interessierst, schau gerne in unserem{' '}
                 <a
                   target="blank"
-                  href="https://github.com/technologiestiftung/weihnachtsmarktkarte"
+                  href="https://github.com/codeforleipzig/weihnachtsmarktkarte"
                   className="text-gold"
                 >
                   GitHub-Repository{' '}
@@ -154,14 +130,27 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
           content:
             <>
               <p className="text-sm pb-2">
-                Der “Berliner Weihnachtsmarkt-Finder” ist ein Projekt der{' '}
+                Der “Leipziger Weihnachtsmarkt-Finder” wurde vom{' '}
+                <a
+                  target="blank"
+                  href="https://www.codefor.de/leipzig"
+                  className="text-gold"
+                >
+                  OKLab Leipzig{' '}
+                </a> abgeleitet vom <a
+                  target="blank"
+                  href="https://www.codefor.de/leipzig"
+                  className="text-gold"
+                >
+                  Berliner Weihnachtsmarkt-Finder{' '}
+                </a>, welcher ein Projekt der{' '}
                 <a
                   target="blank"
                   href="https://odis-berlin.de"
                   className="text-gold"
                 >
                   Open Data Informationsstelle{' '}
-                </a>in Zusammenarbeit mit dem CityLAB Berlin. Die ODIS wird von der Berliner Senatsverwaltung für Inneres,
+                </a> ist, entstanden in Zusammenarbeit mit dem CityLAB Berlin. Die ODIS wird von der Berliner Senatsverwaltung für Inneres,
                 Digitalisierung und Sport und der Investitionsbank Berlin aus den Mitteln des Landes Berlin gefördert und
                 ist ein Projekt der{' '}
                 <a
@@ -173,13 +162,9 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
                 </a>. Seit 2018 begleiten wir als ODIS die Stadt auf dem Weg zu einer partizipativen, nachhaltigen und
                 datengetriebenen Gesellschaft mit dem Schwerpunkt auf die Bereitstellung und Nutzung offener Daten.
                 Du hast Feedback oder willst mehr erfahren? Schau dich auf unserer Webseite um oder kontaktiere uns unter{' '}
-                <a href="mailto:odis@ts.berlin"
+                <a href="mailto:leipzig@codefor.de"
                   className="text-gold"
-                >odis@ts.berlin</a>.
-                {/* Presseanfragen gehen am besten an:
-            Laura Schubert
-            laura.schubert@ts.berlin
-            +49 151 1434 0237 */}
+                >leipzig@codefor.de</a>.
               </p>
             </>
         }]} />
@@ -188,23 +173,23 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
           id: '2', title: `I don’t speak German: What's going on here?`, content:
             <>
               <p className="text-sm pb-2">
-                The Berlin Christmas Market Finder shows all of Berlin’s Christmas markets embedded in an
+                The Leipzig Christmas Market Finder shows all of Leipzig’s Christmas markets embedded in an
                 interactive map of the city. You can filter the markets by date and attributes like free entry,
                 themed markets with special attractions or proximity to public transport. Once you have found
                 a Christmas market, you can also share it with your friends and colleagues.
                 Based itself on open data, this application demonstrates the importance and usefulness of opening
-                the data held by Berlin’s public administration. Beyond creating transparency and openness,
+                the data held by Leipzig’s public administration. Beyond creating transparency and openness,
                 it allows users to explore the city and come together to spread the Christmas cheer! You can find more open data in the{' '}
                 <a
                   target="blank"
-                  href="https://daten.berlin.de"
+                  href="https://opendata.leipzig.de"
                   className="text-gold"
                 >
-                  Berlin Open Data Portal
+                  Leipzig Open Data Portal
                 </a>. Feel free to contact us{' '}
-                <a href="mailto:odis@ts.berlin"
+                <a href="mailto:leipzig@codefor.de
                   className="text-gold"
-                >odis@ts.berlin</a>.
+                >leipzig@codefor.de</a>.
               </p>
             </>
         }]} />
@@ -239,10 +224,6 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
               <CitylabLogo className={`w-36`} />
             </a>
           </div> */}
-          <div className="flex flex-col">
-            <span className="text-sm mb-2">Gefördert von</span>
-            <SenInLogo className="w-40" />
-          </div>
         </section>
       </SidebarBody>
       <footer className={classNames('mt-8 p-4', 'flex flex-wrap')}>
@@ -250,7 +231,7 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
           © 2022 Technologiestiftung Berlin
         </span>
         <a
-          href="https://www.technologiestiftung-berlin.de/de/impressum/"
+          href="https://codefor.de/impressum/"
           className={`text-xs hover:underline mr-4`}
           target="_blank"
           rel="noreferrer"
@@ -258,7 +239,7 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
           Impressum
         </a>
         <a
-          href="https://www.technologiestiftung-berlin.de/de/datenschutz/"
+          href="https://codefor.de/datenschutz/"
           className={`text-xs hover:underline`}
           target="_blank"
           rel="noreferrer"

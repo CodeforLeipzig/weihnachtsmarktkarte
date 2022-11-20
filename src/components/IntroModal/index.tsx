@@ -50,8 +50,8 @@ export const IntroModal: FC<IntroModalType> = ({
               >
                 <Cross />
               </button>
-              <h2 className="font-bold text-2xl pb-2 pt-2 text-lightblue/80">
-                Berliner Weihnachtsmarkt-Finder
+              <h2 className="font-bold text-2xl pb-2 pt-2">
+                Leipziger Weihnachtsmarkt-Finder
                 <img
                   src="./stern_ausgewaehlt.png"
                   alt="stern"
@@ -64,10 +64,10 @@ export const IntroModal: FC<IntroModalType> = ({
               </h4>
               <p className="pb-4">
                 Der Weihnachtsmarkt-Finder zeigt das vielfältige Angebot von
-                über 60 Berliner Weihnachtsmärkten von traditionellem bis zu
+                über 20 Leipziger Weihnachtsmärkten von traditionellem bis zu
                 individuellem Flair. Lass dir Weihnachtsmärkte nach Wunschdatum
                 und Öffnungszeiten anzeigen. So verpasst du deinen
-                Lieblingsmarkt im Kiez nie wieder. Oder nutze die Filter, um
+                Lieblingsmarkt im Viertel nie wieder. Oder nutze die Filter, um
                 passende Märkte zu finden und teile deine Entdeckung mit deinen
                 Freund:innen! Frohe Weihnachten!
               </p>
@@ -90,7 +90,7 @@ export const IntroModal: FC<IntroModalType> = ({
                   <i>
                     Eine prototypische Datenvisualisierung der Open Data
                     Informationsstelle Berlin in Zusammenarbeit mit dem CityLAB
-                    Berlin
+                    Berlin (Adaption für Leipzig durch Code for Leipzig)
                   </i>
                 </p>
                 <div className="inline-block ml-4 md:flex self-center">
