@@ -105,7 +105,7 @@ export const SidebarContentFilter: FC<SidebarContentFilterType> = ({
           <ExpandablePanel title={'Kurze Wege'} open={true}>
             <SwitchWrapper
               text={
-                'Mit den Öffis unterwegs? Zeige Märkte mit kurzen Wegen zu U- oder S-Bahnstationen.'
+                'Mit den Öffis unterwegs? Zeige Märkte mit kurzen Wegen zu S-Bahn- oder Straßenbahnstationen.'
               }
               enabled={marketFilterTrain}
               setEnabled={setMarketFilterTrain}
