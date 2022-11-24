@@ -125,6 +125,7 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
               </p>
             </>
         }]} />
+
         <Accordion items={[{
           id: '5', title: 'Über uns',
           content:
@@ -187,13 +188,12 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
                 >
                   Leipzig Open Data Portal
                 </a>. Feel free to contact us{' '}
-                <a href="mailto:leipzig@codefor.de
+                <a href="mailto:leipzig@codefor.de"
                   className="text-gold"
                 >leipzig@codefor.de</a>.
               </p>
             </>
         }]} />
-
 
         <section className="mt-6 flex flex-wrap">
           <div className="flex flex-col mr-6 mb-6">
@@ -224,8 +224,9 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
               <CitylabLogo className={`w-36`} />
             </a>
           </div> */}
-        </section>
+        </section>        
       </SidebarBody>
+
       <footer className={classNames('mt-8 p-4', 'flex flex-wrap')}>
         <span className="text-xs w-full mb-4">
           © 2022 Technologiestiftung Berlin
