@@ -148,7 +148,7 @@
         "urheberschaft": null,
         "train": "Straßenbahn 3 bis Haltstelle \"Adler\"",
         "train_distance": 381,
-        "short_distance": 0
+        "short_distance": 1
     },
     {
         "id": 6,
@@ -261,7 +261,7 @@
         "urheberschaft": null,
         "train": " Straßenbahnen Linie 10,11 (Haltestelle Wiederitzscher Str.) und der Linie 4 (Haltestelle Lindenthaler Str.)",
         "train_distance": 279,
-        "short_distance": 0
+        "short_distance": 1
     },
     {
         "id": 37,
@@ -299,7 +299,7 @@
         "urheberschaft": null,
         "train": "Bus 86 bis \"Hohenheida (Leipzig), Lindengasse\"",
         "train_distance": 334,
-        "short_distance": 0
+        "short_distance": 1
     },
     {
         "id": 30,
@@ -337,7 +337,7 @@
         "urheberschaft": null,
         "train": "Bus 217 bis \"Schkeuditz, Rathaus\"",
         "train_distance": 328,
-        "short_distance": 0
+        "short_distance": 1
     },
     {
         "id": 13,
@@ -413,7 +413,7 @@
         "urheberschaft": null,
         "train": "Straßenbahn 3 oder 7 bis \"Leipzig, Torgauer Platz\"",
         "train_distance": 349,
-        "short_distance": 0
+        "short_distance": 1
     },
     {
         "id": 25,
@@ -451,7 +451,7 @@
         "urheberschaft": null,
         "train": "Bus 65 oder 66 bis \"Leipzig, Sellinerstr. / Gesundheitszentrum\"",
         "train_distance": 39,
-        "short_distance": 0
+        "short_distance": 1
     },
     {
         "id": 26,
@@ -489,7 +489,7 @@
         "urheberschaft": null,
         "train": "Bus 100, 101 oder 107 bis \"Zwenkau Hafen\"",
         "train_distance": 118,
-        "short_distance": 0
+        "short_distance": 1
     },
     {
         "id": 33,
@@ -564,7 +564,7 @@
         "urheberschaft": null,
         "train": "Straßenbahn 3 bis \"Fortunabadstr.\"",
         "train_distance": 290,
-        "short_distance": 0
+        "short_distance": 1
     },
     {
         "id": 15,
@@ -788,7 +788,7 @@
         "urheberschaft": null,
         "train": "Straßenbahn 3 oder 7 bis \"Leipzig, Torgauer Platz\"",
         "train_distance": 349,
-        "short_distance": 0
+        "short_distance": 1
     },
     {
         "id": 14,
@@ -864,7 +864,7 @@
         "urheberschaft": null,
         "train": "Straßenbahn 3 oder 7 bis \"Leipzig, Torgauer Platz\"",
         "train_distance": 349,
-        "short_distance": 0
+        "short_distance": 1
     },
     {
         "id": 28,
@@ -1199,7 +1199,7 @@
         "urheberschaft": null,
         "train": "Straßenbahn 1 bis \"Schönauer-/Ratzelstr.\"",
         "train_distance": 305,
-        "short_distance": 0
+        "short_distance": 1
     },
     {
         "id": 19,
@@ -1350,7 +1350,7 @@
         "urheberschaft": null,
         "train": "Bus 131 bis \"Rückmarsdorf (Leipzig), Zum Bahnhof\"",
         "train_distance": 281,
-        "short_distance": 0
+        "short_distance": 1
     },
     {
         "id": 22,
@@ -1501,7 +1501,7 @@
         "urheberschaft": null,
         "train": "RB110 bis Naunhof",
         "train_distance": 368,
-        "short_distance": 0
+        "short_distance": 1
     },
     {
         "id": 102,
@@ -1729,7 +1729,7 @@
         "urheberschaft": null,
         "train": "Bus 693 bis \"Trebsen (Mulde), Markt\"",
         "train_distance": 354,
-        "short_distance": 0
+        "short_distance": 1
     },
     {
         "id": 108,
