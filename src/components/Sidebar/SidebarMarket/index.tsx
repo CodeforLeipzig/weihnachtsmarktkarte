@@ -90,6 +90,12 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
           </div>
         </div>
 
+        {marketData['RSS-Beschreibung']?.length > 0 && (
+          <MarketInfo title="Beschreibung" icon={<Info />}>
+            <p className="text-sm">{marketData['RSS-Beschreibung']}</p>
+          </MarketInfo>
+        )}
+
         <MarketInfo
           title={marketData['closed-exc'] !== '0' ? 'Datum *' : 'Datum'}
           icon={<Calendar />}
