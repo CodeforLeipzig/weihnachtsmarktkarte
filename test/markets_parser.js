@@ -75,7 +75,7 @@ const jsonToCsv = (data) => {
 const groupByLoc = (data) => {
   const map = new Map()
   data.map((entry) => {
-    const key = entry['Ort']
+    const key = entry.Ort + '__' + entry.Name
     const existing = map.get(key)
     if (existing) {
       existing.push(entry)
@@ -86,10 +86,97 @@ const groupByLoc = (data) => {
   return map
 }
 
+const weekdays = ['So', 'Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa']
+
+const getDate = (dateStr) => {
+  const parts = dateStr.split('.')
+  return new Date(parts[2], parts[1] - 1, parts[0])
+}
+
+const getWeekDay = (date) => weekdays[date.getDay()]
+
+const groupToJson = ({ id, grouped }) => {
+  const group = grouped[0]
+  const dateMap = grouped.map((gr) => {
+    return { dateStr: gr.Von, date: getDate(gr.Von) }
+  })
+  const fromDate = Math.min(dateMap.map((entry) => entry.date.getTime()))
+  const from = dateMap.filter((entry) => entry.date.getTime() === fromDate)[0]
+    ?.dateStr
+  const toDate = Math.max(dateMap.map((entry) => entry.date.getTime()))
+  const to = dateMap.filter((entry) => entry.date.getTime() === toDate)[0]
+    ?.dateStr
+  const json = {
+    id: id,
+    bezirk: null,
+    name: group.Name,
+    shortname: group.Name,
+    strasse: null,
+    plz_ort: null,
+    von: from || group.Von,
+    bis: to || group.Von,
+    veranstalter: group.Ort,
+    oeffnungszeiten: group.Zeit?.replace(': ', ':').replace(' - ', '-'),
+    email: null,
+    w3: null,
+    bemerkungen: null,
+    lat: null,
+    lng: null,
+    'RSS-Titel': group.Name,
+    'RSS-Beschreibung': group.Beschreibung || null,
+    'immer-kostenlos': 1,
+    Mo: 0,
+    Di: 0,
+    Mi: 0,
+    Do: 0,
+    Fr: 0,
+    Sa: 0,
+    So: 0,
+    'closed-exc': null,
+    'hours-exc': null,
+    ignore: null,
+    merged: null,
+    international: 0,
+    action: 0,
+    image: null,
+    urheberschaft: null,
+    train: null,
+    train_distance: null,
+    short_distance: 0,
+  }
+  for (gr of grouped) {
+    const date = getDate(gr.Von)
+    const weekDay = getWeekDay(date)
+    json[weekDay] = group.Zeit?.replace(': ', ':').replace(' - ', '-')
+  }
+  return json
+}
+
 const c1 = parseLeipzigDe()
 const c2 = parseLeipzigLeben()
 const c3 = parseMarketWmf()
 
-c1.then((data) => console.log(groupByLoc(data)))
+c1.then((data) => {
+  const grouped = groupByLoc(data)
+  var index = 0
+  const collected = []
+  for (const value of grouped.values()) {
+    collected.push(groupToJson({ id: index, grouped: value }))
+    index++
+  }
+  const sorted = collected.sort((a, b) => a.name.localeCompare(b.name))
+  fs.writeFile(
+    'output.json',
+    '[' + sorted.map((entry) => JSON.stringify(entry, null, 2)).join(',') + ']',
+    (err) => {
+      if (err) throw err
+    }
+  )
+})
 
-c3.then((data) => console.log(jsonToCsv(data)))
+c3.then((data) => {
+  const csvContent = jsonToCsv(data)
+  fs.writeFile('markets.csv', csvContent, (err) => {
+    if (err) throw err
+  })
+})
