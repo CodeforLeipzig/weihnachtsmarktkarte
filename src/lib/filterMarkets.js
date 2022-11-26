@@ -33,7 +33,7 @@ function openOnDate(date, d) {
         isExeption = false
         return
       }
-      if (toDate(e).toISOString() === date.toISOString()) {
+      if (toDate(e.trim()).toISOString() === date.toISOString()) {
         isExeption = true
       }
     })
