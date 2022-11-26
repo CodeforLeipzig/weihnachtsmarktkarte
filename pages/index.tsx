@@ -86,7 +86,7 @@ const MapSite: NextPage = (mapData: any) => {
         setMarketData(queriedMarket)
         setModalOpen(false)
         setZoomToCenter([queriedMarket.lng, queriedMarket.lat])
-        setMapZoom(12)
+        setMapZoom(11)
       }
     } else {
       setModalOpen(true)

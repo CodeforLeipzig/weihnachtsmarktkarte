@@ -138,7 +138,7 @@ export const MapComponent: FC<MapComponentType> = ({
         // @ts-ignore
         ref={mapRef}
         maxBounds={[
-          12.166022,51.238171,12.614421,51.448115
+          12.000218,51.144137,12.682744,51.524548
         ]}
         attributionControl={false}
         // onLoad={onMapLoad}
