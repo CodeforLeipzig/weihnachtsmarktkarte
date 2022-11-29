@@ -52,7 +52,7 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
 
   return (
     <>
-      <SidebarHeader text={marketData.shortname} fontSize="text-lg" />
+      <SidebarHeader text={marketData.name} fontSize="text-lg" />
       <SidebarBody>
         <img
           className="bg-darkblue w-full h-[200px]"
@@ -93,6 +93,12 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
         {marketData['RSS-Beschreibung']?.length > 0 && (
           <MarketInfo title="Beschreibung" icon={<Info />}>
             <p className="text-sm">{marketData['RSS-Beschreibung']}</p>
+          </MarketInfo>
+        )}
+
+        {marketData['veranstalter']?.length > 0 && (
+          <MarketInfo title="Veranstalter" icon={<Info />}>
+            <p className="text-sm">{marketData['veranstalter']}</p>
           </MarketInfo>
         )}
 

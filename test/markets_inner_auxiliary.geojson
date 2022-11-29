@@ -1,0 +1,1244 @@
+{
+  "type": "FeatureCollection",
+  "name": "2d-markt-auxiliary-punkte",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "überdachter Gastraum",
+        "st_area_sh": 5.75993306,
+        "st_length_": 9.5999442186900001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379721991241892,
+          51.338945523642089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Erste Hilfe - Punkt",
+        "st_area_sh": 15.24994002,
+        "st_length_": 17.199940340800001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380696814099139,
+          51.339826243440619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Büro",
+        "st_area_sh": 28.799863585000001,
+        "st_length_": 21.599946413800001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380483917834763,
+          51.338641959290662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Büro",
+        "st_area_sh": 17.999781665,
+        "st_length_": 17.9999658258
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374683384322239,
+          51.340666821743028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Erste Hilfe - Punkt",
+        "st_area_sh": 14.99989851,
+        "st_length_": 16.999936661900001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375186105521777,
+          51.341258038128736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.500225185,
+        "st_length_": 11.0001268594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37472205574054,
+          51.340626906135505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Torbogen",
+        "st_area_sh": 8.50540116,
+        "st_length_": 13.8904841011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375037394544629,
+          51.340885424445936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "WC",
+        "st_area_sh": 15.24993039,
+        "st_length_": 17.199949519099999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378195959474889,
+          51.340700594663353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 5.141214,
+        "st_length_": 9.3134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374563934043616,
+          51.338943375105565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Tassenrückgabe San-Remo",
+        "st_area_sh": 5.59115832,
+        "st_length_": 9.4729190287399998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.377932484012872,
+          51.340012466675425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 55.99875903,
+        "st_length_": 29.999677319300002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380547496197543,
+          51.338791544717786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Müllpresse",
+        "st_area_sh": 10.00016564,
+        "st_length_": 13.000084771399999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380443694615295,
+          51.338576208997495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 8.03734407,
+        "st_length_": 11.9582917423
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375639106089581,
+          51.340028836747322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 28.79982725,
+        "st_length_": 21.599947319399998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379661293275804,
+          51.338689097480433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Märchenwald",
+        "st_area_sh": 1005.86923881,
+        "st_length_": 112.571356825
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381099788007086,
+          51.339462150074418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.500012235,
+        "st_length_": 11.0000025372
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374351899048131,
+          51.34095629755867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.50019578,
+        "st_length_": 11.000152076099999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374732370905782,
+          51.340771397907019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Müllpresse",
+        "st_area_sh": 24.49979249,
+        "st_length_": 21.000013630800002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375533120732371,
+          51.341649016749741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Bühne",
+        "st_area_sh": 19.79788892,
+        "st_length_": 19.055048215100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379752920108032,
+          51.338845503440076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 8.45286203,
+        "st_length_": 19.494746077199999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379678584267506,
+          51.339475373796049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.4999826,
+        "st_length_": 10.9999871988
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374935824453122,
+          51.340975698993944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.49987036,
+        "st_length_": 10.999898316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374974944630287,
+          51.341055701480236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.50015702,
+        "st_length_": 11.000111994699999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374955841501194,
+          51.341024337219508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.50001434,
+        "st_length_": 11.0000204443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374929568290753,
+          51.340801320731863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "WC",
+        "st_area_sh": 11.34536128,
+        "st_length_": 14.0758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374819172052479,
+          51.340078346629809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.50004704,
+        "st_length_": 11.0000448531
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374664345359461,
+          51.340824843249273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.50005966,
+        "st_length_": 11.0000688672
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374952294535547,
+          51.340297770059927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.50029564,
+        "st_length_": 11.000225288099999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374957589342335,
+          51.340235988187466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Müllpresse",
+        "st_area_sh": 24.50045912,
+        "st_length_": 21.000240828100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376584366177017,
+          51.341288024973288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Müllpresse",
+        "st_area_sh": 24.499772395000001,
+        "st_length_": 20.999926831500002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381665763983795,
+          51.339657958136982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.500042335,
+        "st_length_": 11.000032982700001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374943216928196,
+          51.340204968122258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Backstage",
+        "st_area_sh": 7.500057355,
+        "st_length_": 11.0000606315
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374909460498245,
+          51.340349067720119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Backstage",
+        "st_area_sh": 7.500058905,
+        "st_length_": 11.0000314527
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374958162214567,
+          51.340374432029506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 14.999878525,
+        "st_length_": 21.999943327699999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374556183321577,
+          51.340992841628129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.500012235,
+        "st_length_": 11.0000025372
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374395521355567,
+          51.340961560323393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.49968066,
+        "st_length_": 10.9997775352
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374505484148056,
+          51.340986632424197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.49968066,
+        "st_length_": 10.9997775352
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374503812884505,
+          51.341015865151796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "WC / Behinderten-WC",
+        "st_area_sh": 18.000041155000002,
+        "st_length_": 18.000051133500001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37658428742815,
+          51.341356010153106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Torbogen",
+        "st_area_sh": 7.123108605,
+        "st_length_": 16.2460410395
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381002080120432,
+          51.339211046187337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.50024295,
+        "st_length_": 11.000176637399999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37466719371626,
+          51.340619607370314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.4999758,
+        "st_length_": 10.999940714599999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374665380525004,
+          51.34064134025914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "überdachter Gastraum",
+        "st_area_sh": 16.23185272,
+        "st_length_": 16.157140105900002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37885016555499,
+          51.339533410447956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.500225185,
+        "st_length_": 11.0001268594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374758483092728,
+          51.340627723033073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 3.6,
+        "st_length_": 9.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376471902862798,
+          51.341015898764233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "überdachter Gastraum",
+        "st_area_sh": 11.595679675,
+        "st_length_": 13.957528422099999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.377805923176536,
+          51.339725487321999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 184.4025039,
+        "st_length_": 54.710748531199997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376592019880546,
+          51.341092365540618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Müllpresse",
+        "st_area_sh": 24.49921778,
+        "st_length_": 20.999712830499998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379084516151927,
+          51.340276609079304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Müllpresse",
+        "st_area_sh": 24.49921778,
+        "st_length_": 20.999712830499998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379060180350347,
+          51.340214692539014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.49971145,
+        "st_length_": 10.999828386100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374953030926337,
+          51.340323926860307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Weihnachtsbaum und -Krippe",
+        "st_area_sh": 32.29913069,
+        "st_length_": 20.1721670063
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374473776122988,
+          51.340891411138742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.500341025,
+        "st_length_": 11.000266768099999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374926598648045,
+          51.340266347601549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "WC",
+        "st_area_sh": 15.24993091,
+        "st_length_": 17.199989544600001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380467101916761,
+          51.338934434364006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Müllpresse",
+        "st_area_sh": 24.50045912,
+        "st_length_": 21.000240828100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376590721980099,
+          51.341256039466622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.499894795,
+        "st_length_": 10.999924732
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374695907571974,
+          51.340367308956814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Torbogen",
+        "st_area_sh": 8.50514614,
+        "st_length_": 13.890442540700001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375007924571891,
+          51.340088167222881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Torbogen",
+        "st_area_sh": 8.5055075,
+        "st_length_": 13.8906
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374507158044304,
+          51.34005849416959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.49997249,
+        "st_length_": 10.9999916441
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374731811475257,
+          51.340805974869724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.99992168,
+        "st_length_": 11.9998912612
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376870841713194,
+          51.34105348407158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Müllpresse",
+        "st_area_sh": 24.499772395000001,
+        "st_length_": 20.999926831500002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381716297935023,
+          51.33965123569525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.50023684,
+        "st_length_": 11.000170475299999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374460637576197,
+          51.341013470319886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.4999609,
+        "st_length_": 10.9999756135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37466166963155,
+          51.340771953886708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Kühlung / Lager",
+        "st_area_sh": 7.50007789,
+        "st_length_": 11.0000358756
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374742232640278,
+          51.34083224721816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "überdachter Gastraum",
+        "st_area_sh": 5.75993306,
+        "st_length_": 9.5999442186900001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379818689830415,
+          51.33884804218998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "überdachter Gastraum",
+        "st_area_sh": 5.75993306,
+        "st_length_": 9.5999442186900001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379833488890293,
+          51.338893038707603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "überdachter Gastraum",
+        "st_area_sh": 5.75993306,
+        "st_length_": 9.5999442186900001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379803682891621,
+          51.338803468233863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "überdachter Gastraum",
+        "st_area_sh": 5.75993306,
+        "st_length_": 9.5999442186900001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379877036336703,
+          51.339025885735843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "überdachter Gastraum",
+        "st_area_sh": 5.75993306,
+        "st_length_": 9.5999442186900001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379847454609973,
+          51.338936408437412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Finnisches Zelt",
+        "st_area_sh": 78.14135299,
+        "st_length_": 31.376001780300001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.38079822393701,
+          51.338661704583622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Torbogen",
+        "st_area_sh": 8.50567972,
+        "st_length_": 13.890763702299999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374340636079317,
+          51.340904424324769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "überdachter Gastraum",
+        "st_area_sh": 5.75993306,
+        "st_length_": 9.5999442186900001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379862202863711,
+          51.338981415505501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "WC",
+        "st_area_sh": 15.24993091,
+        "st_length_": 17.199989544600001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380569076294067,
+          51.338928387693741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "überdachter Gastraum",
+        "st_area_sh": 5.75993306,
+        "st_length_": 9.5999442186900001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37968038388289,
+          51.338821491859896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "überdachter Gastraum",
+        "st_area_sh": 5.75993306,
+        "st_length_": 9.5999442186900001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379646449211181,
+          51.338724585131381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Polizei + Security",
+        "st_area_sh": 15.00015849,
+        "st_length_": 17.000095239899998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375061775407474,
+          51.341291244376109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "Bühne",
+        "st_area_sh": 43.46057395,
+        "st_length_": 27.5856847029
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374885840075255,
+          51.340422745336888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "WC / Behinderten-WC",
+        "st_area_sh": 15.25010043,
+        "st_length_": 17.2000191371
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380776437410715,
+          51.339855747703091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "objektart": "WC",
+        "st_area_sh": 7.50025497,
+        "st_length_": 11.000172580799999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3781665325301,
+          51.340655419642196
+        ]
+      }
+    }
+  ]
+}

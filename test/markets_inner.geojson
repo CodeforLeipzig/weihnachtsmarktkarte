@@ -1,0 +1,6375 @@
+{
+  "type": "FeatureCollection",
+  "name": "2d-markt-maerkte-punkte",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 19",
+        "standort": "Naschmarkt",
+        "firma": "Küchen-Messer Raphael Burkhardt",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 4.05073164,
+        "st_length_": 8.7865194090899994
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375776091770669,
+          51.340381451245328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 10/01",
+        "standort": "Markt",
+        "firma": "Herrnhuter Sterne GmbH",
+        "angebot": "Weihnachtliches",
+        "internet": "http://www.herrnhuter-sterne.de",
+        "st_area_sh": 18.0004779,
+        "st_length_": 18.000138960600001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374775874866739,
+          51.340360070136221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 11",
+        "standort": "Naschmarkt",
+        "firma": "ThoBoe Tonkunst - Thomas Böhme",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 8.74994327,
+        "st_length_": 11.999981162299999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375717020587718,
+          51.340216100436855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 08",
+        "standort": "Naschmarkt",
+        "firma": "Tischlermeister Robby Winkler",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 6.25016297,
+        "st_length_": 10.000130375199999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375667522956677,
+          51.340162657206619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 07",
+        "standort": "Naschmarkt",
+        "firma": "Dörthe Siefken",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 8.74994327,
+        "st_length_": 11.999981162299999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375662416184964,
+          51.340137774935144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 05",
+        "standort": "Naschmarkt",
+        "firma": "Heureka Gastro GmbH & Co. KG",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.heureka-leipzig.de",
+        "st_area_sh": 11.99995182,
+        "st_length_": 13.9999694533
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375677385404353,
+          51.340065994488214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 10",
+        "standort": "Naschmarkt",
+        "firma": "Fladenbäcker Sprafke, Huke, Guter GbR",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 8.74983302,
+        "st_length_": 11.9999351865
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375720775892317,
+          51.340143723230206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 31",
+        "standort": "Grimmaische Straße",
+        "firma": "Xmas GmbH - Marko Fritzsche",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 14.249758845000001,
+        "st_length_": 16.399912564699999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379692876991548,
+          51.339453120720215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 09/01",
+        "standort": "Markt",
+        "firma": "Käthe Wohlfahrt KG",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.kaethe-wohlfahrt.com",
+        "st_area_sh": 35.9990233,
+        "st_length_": 23.999674431100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374522879660237,
+          51.340376653518547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 05",
+        "standort": "Augustusplatz",
+        "firma": "Schaustellerbetrieb Cornelia Nüßner",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 21.1039792,
+        "st_length_": 19.299530077299998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380927509663294,
+          51.339317540555641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 32",
+        "standort": "Grimmaische Straße",
+        "firma": "EWU - Thüring. Wurst- und Spezialitäten GmbH",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.ewu-thueringer.de",
+        "st_area_sh": 27.00051428,
+        "st_length_": 21.000198310999998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379785999674171,
+          51.339439116077578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 09",
+        "standort": "Naschmarkt",
+        "firma": "Süßigkeiten Magdalena Teubert",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 8.74994327,
+        "st_length_": 11.999981162299999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375605792281206,
+          51.340167916339098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 06/08",
+        "standort": "Markt",
+        "firma": "Alpidee KG",
+        "angebot": "allg. Handel",
+        "internet": "http://www.alpidee.com",
+        "st_area_sh": 18.00013983,
+        "st_length_": 18.000072041500001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374617138654104,
+          51.340641055760848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 03/03",
+        "standort": "Markt",
+        "firma": "Nadezda Reinhardt",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 9.0,
+        "st_length_": 12.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374372136816223,
+          51.340741262118755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 17",
+        "standort": "Naschmarkt",
+        "firma": "Filzerei Kathleen Dahl",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 5.999909705,
+        "st_length_": 9.9999347059199994
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375691561318076,
+          51.340477123842184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 09/04",
+        "standort": "Markt",
+        "firma": "Käthe Wohlfahrt KG",
+        "angebot": "Weihnachtliches",
+        "internet": "http://www.kaethe-wohlfahrt.com",
+        "st_area_sh": 35.9990237,
+        "st_length_": 23.999674564500001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374548830238151,
+          51.340198522091939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 04/04",
+        "standort": "Markt",
+        "firma": "AMADEUS TREND SRL",
+        "angebot": "Bekleidung / Textil",
+        "internet": null,
+        "st_area_sh": 17.999706335,
+        "st_length_": 17.999899944199999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374528294058397,
+          51.340580165023674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 05/04",
+        "standort": "Markt",
+        "firma": "Liebelei - Jürgen Lange",
+        "angebot": "Nahrung + Genuss",
+        "internet": null,
+        "st_area_sh": 18.00033434,
+        "st_length_": 18.000163254299999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374777724801559,
+          51.340746389531574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 03/05",
+        "standort": "Markt",
+        "firma": "Gaumenschmeicheley - A. M. Teubert",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 8.99976676,
+        "st_length_": 11.9998445057
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374381417974217,
+          51.34066198812998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 03/04",
+        "standort": "Markt",
+        "firma": "Puppenwerkstattung und Trachtenartikel",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 9.0,
+        "st_length_": 12.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374376397558613,
+          51.340703283201421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "N 13",
+        "standort": "Nikolaikirchhof",
+        "firma": "Ralf Lüllmann",
+        "angebot": "allg. Handel",
+        "internet": "http://www.luellmann-kristalle.de",
+        "st_area_sh": 16.00003209,
+        "st_length_": 16.4000218981
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378227515040349,
+          51.340538774644713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 08A",
+        "standort": "Petersstraße",
+        "firma": "Schaustellerbetrieb Birgit Sehning",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.matti-unternehmensgruppe.de",
+        "st_area_sh": 7.97886567,
+        "st_length_": 11.978788160900001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374460145937631,
+          51.339499475436135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "N 09",
+        "standort": "Nikolaikirchhof",
+        "firma": "Historisches Backhaus Uwe Naumann",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 17.49972528,
+        "st_length_": 16.999858806799999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378864715990121,
+          51.340491769878419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "N 08",
+        "standort": "Nikolaikirchhof",
+        "firma": "Feuerzangenbowle Wolf",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 48.749432175000003,
+        "st_length_": 27.9998382731
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379123183941596,
+          51.340602143499325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 25",
+        "standort": "Augustusplatz",
+        "firma": "Schaustellerbetrieb Karl Parpalioni",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 20.000388205,
+        "st_length_": 18.000160338499999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381358756330821,
+          51.339778373714047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "F 02",
+        "standort": "Augustusplatz",
+        "firma": "Kalevala Spirit GmbH",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.kalevalaspirit.de",
+        "st_area_sh": 30.0002799,
+        "st_length_": 22.000106647
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380697116174421,
+          51.338740754656996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "F 03",
+        "standort": "Augustusplatz",
+        "firma": "Kalevala Spirit GmbH",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.kalevalaspirit.de",
+        "st_area_sh": 24.000263125,
+        "st_length_": 20.000041142400001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381019053692848,
+          51.338660820643703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "StD 04",
+        "standort": "Augustusplatz",
+        "firma": "Brennerei Kapaurer",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.kapaurer-shop.com",
+        "st_area_sh": 13.199961315,
+        "st_length_": 15.7999784148
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379702051526243,
+          51.338885905836598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "StD 05",
+        "standort": "Augustusplatz",
+        "firma": "Brennerei Kapaurer",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.kapaurer-shop.com",
+        "st_area_sh": 13.199855195,
+        "st_length_": 15.7999474525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379683920286322,
+          51.338768638887686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "StD 03",
+        "standort": "Augustusplatz",
+        "firma": "Brennerei Kapaurer",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.kapaurer-shop.com",
+        "st_area_sh": 13.199961315,
+        "st_length_": 15.7999784148
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379784647102881,
+          51.338934693539912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "StD 08",
+        "standort": "Augustusplatz",
+        "firma": "Brennerei Kapaurer",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.kapaurer-shop.com",
+        "st_area_sh": 5.7598147,
+        "st_length_": 9.5998455842699997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379774843886707,
+          51.338709257785901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "StD 01",
+        "standort": "Augustusplatz",
+        "firma": "Brennerei Kapaurer",
+        "angebot": "Nahrung + Genuss",
+        "internet": "http://www.kapaurer-shop.com",
+        "st_area_sh": 13.20008855,
+        "st_length_": 15.800069779
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379788651536979,
+          51.339082405156489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 10",
+        "standort": "Grimmaische Straße",
+        "firma": "Michael Mertel",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 14.99951842,
+        "st_length_": 15.9998159618
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.377236971355703,
+          51.339754969219669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 01/10",
+        "standort": "Markt",
+        "firma": "Carbon Clouds GmbH - Marko Dietz",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 17.99992396,
+        "st_length_": 18.000018795900001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374419878650249,
+          51.340937584547873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 11A",
+        "standort": "Petersstraße",
+        "firma": "Kelterei Manufaktur Michael D. Oese",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.oese.net",
+        "st_area_sh": 17.62812394,
+        "st_length_": 18.0053896788
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374283676852048,
+          51.339451780769572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 11A",
+        "standort": "Petersstraße",
+        "firma": "Kelterei Manufaktur Michael D. Oese",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.oese.net",
+        "st_area_sh": 5.76008235,
+        "st_length_": 9.6000686273499998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374225403344793,
+          51.339424968622687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "S 02",
+        "standort": "Salzgäßchen",
+        "firma": "Stein Café",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.stein-cafe.de",
+        "st_area_sh": 20.00998951,
+        "st_length_": 19.600049431399999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375403799234544,
+          51.340945066470404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "S 05",
+        "standort": "Salzgäßchen",
+        "firma": "Zonta Leipzig Elster e.V.",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.zonta-leipzig-elster.de",
+        "st_area_sh": 12.17976804,
+        "st_length_": 14.1998400697
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375913814484653,
+          51.340940316090702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "StD 09",
+        "standort": "Augustusplatz",
+        "firma": "Brennerei Kapaurer",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.kapaurer-shop.com",
+        "st_area_sh": 13.20005117,
+        "st_length_": 15.7999992367
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37973945319435,
+          51.338666801218835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 06/11",
+        "standort": "Markt",
+        "firma": "Goldhelm Schokolade GmbH & Co. KG - Alexander Kühn",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 9.000361,
+        "st_length_": 12.0002406643
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374756501787234,
+          51.340699122550156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 11/05",
+        "standort": "Markt",
+        "firma": "Nick Liebold",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 18.0006651,
+        "st_length_": 18.0003832853
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374690988767272,
+          51.340262600776235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 10/03",
+        "standort": "Markt",
+        "firma": "Tobias Kleinhenz",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 17.99992102,
+        "st_length_": 18.000011556099999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374682363510132,
+          51.340313808299115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 04/03",
+        "standort": "Markt",
+        "firma": "Lederwaren Lochmann des Josef Lochmann & Co. KG",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 18.00035344,
+        "st_length_": 18.000176719100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374522334674854,
+          51.340640756746268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 06/10",
+        "standort": "Markt",
+        "firma": "Athena International Company s.r.o. - Tatana Senkova",
+        "angebot": "Nahrung + Genuss",
+        "internet": null,
+        "st_area_sh": 18.00033754,
+        "st_length_": 18.000218354800001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37467759167474,
+          51.340696353707401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 05/08",
+        "standort": "Markt",
+        "firma": "Gerd Bayer",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 18.000008,
+        "st_length_": 18.000004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374626112537715,
+          51.340855161861633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 07/07",
+        "standort": "Markt",
+        "firma": "Timo Mittag",
+        "angebot": "Nahrung + Genuss",
+        "internet": null,
+        "st_area_sh": 8.99994122,
+        "st_length_": 11.9999608133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374884086975491,
+          51.340697104341189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 21",
+        "standort": "Petersstraße",
+        "firma": "Huss Räucherkerzenherstellung",
+        "angebot": "Weihnachtliches",
+        "internet": "http://www.juergen-huss.de",
+        "st_area_sh": 13.919962575,
+        "st_length_": 15.399948139199999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374516224939741,
+          51.339168702713472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 07",
+        "standort": "Augustusplatz",
+        "firma": "Schmalzbäckerei Axel Sehning",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 20.400272654999998,
+        "st_length_": 18.800107112399999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380817025081551,
+          51.339427083262386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 06",
+        "standort": "Augustusplatz",
+        "firma": "Knobi-Matti",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.matti-unternehmensgruppe.de",
+        "st_area_sh": 21.00016448,
+        "st_length_": 19.000010383300001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380853300354536,
+          51.339365980635563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 08",
+        "standort": "Augustusplatz",
+        "firma": "Schaustellerbetrieb Franz-Josef Sehning",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 21.00035963,
+        "st_length_": 20.000144002900001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380822490924086,
+          51.339496285086128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 07/09",
+        "standort": "Markt",
+        "firma": "Markthandel Frank Merkwirth",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 8.99994122,
+        "st_length_": 11.9999608133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374887932166496,
+          51.340779408697209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 07/11",
+        "standort": "Markt",
+        "firma": "Karl-Heinz Hartnagel",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 17.999821835,
+        "st_length_": 17.999915103100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374953254990652,
+          51.340840194327527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 11/04",
+        "standort": "Markt",
+        "firma": "Ingo Egger",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 8.99977348,
+        "st_length_": 11.9998489857
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374650783068697,
+          51.34023556962908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "R 01",
+        "standort": "Reichsstraße",
+        "firma": "Schaustellerbetrieb Silvio Fischer",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 19.53,
+        "st_length_": 18.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37646378008421,
+          51.341649019345937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 11/01",
+        "standort": "Markt",
+        "firma": "primoza GmbH - Masha Nikitina",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 9.00039226,
+        "st_length_": 12.000261503799999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374793117331098,
+          51.340238047435662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 10/02",
+        "standort": "Markt",
+        "firma": "Nicola Sommerfeld",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 9.00025218,
+        "st_length_": 12.0001681188
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374761191426344,
+          51.340318003554735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 10/05",
+        "standort": "Markt",
+        "firma": "Apinima GmbH - Leander Hoyer",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 9.00019818,
+        "st_length_": 12.0001321193
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374631778334198,
+          51.340368643793795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 06/03",
+        "standort": "Markt",
+        "firma": "Mahlschatz Thüringer Schmuck - Karin Stiefel",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 8.9999325,
+        "st_length_": 11.9999549999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374802452535564,
+          51.340633045754082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 02",
+        "standort": "Naschmarkt",
+        "firma": "Heureka Gastro GmbH & Co. KG",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.heureka-leipzig.de",
+        "st_area_sh": 11.99995182,
+        "st_length_": 13.9999694533
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375597812657793,
+          51.340032322267994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 18",
+        "standort": "Petersstraße",
+        "firma": "DWU-Drechselwerkstatt Uhlig",
+        "angebot": "Weihnachtliches",
+        "internet": "http://www.wichtelstuebl.de",
+        "st_area_sh": 14.57022026,
+        "st_length_": 15.600113931099999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374538650002222,
+          51.338991748349763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "R 02",
+        "standort": "Reichsstraße",
+        "firma": "Captain Lekkerbek GmbH",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 19.80008664,
+        "st_length_": 18.600031426000001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376509375429743,
+          51.341419528453855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 05/01",
+        "standort": "Markt",
+        "firma": "Gerlinde Huber GmbH",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 34.53028341,
+        "st_length_": 29.051672254
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374762127520766,
+          51.340853486169117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 23",
+        "standort": "Augustusplatz",
+        "firma": "Schaustellerbetrieb Petra Parpalioni",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 16.80070973,
+        "st_length_": 17.600321956399998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381117726593219,
+          51.339805936115894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 05/02",
+        "standort": "Markt",
+        "firma": "Gerhard Bauer",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 8.99951026,
+        "st_length_": 11.9996735022
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374794066272363,
+          51.340806378839581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 06/09",
+        "standort": "Markt",
+        "firma": "Keramikwerkstatt Reglindis Schütze",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 8.99938,
+        "st_length_": 11.9995866595
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374611458491485,
+          51.340682139525192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 08/12",
+        "standort": "Markt",
+        "firma": "Feinkost Delikatessen - Serdal Coban",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 18.00036666,
+        "st_length_": 18.000133374000001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374368123499151,
+          51.340371392389905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 08/03",
+        "standort": "Markt",
+        "firma": "Seyko Geschenke",
+        "angebot": "allg. Handel",
+        "internet": "http://www.seyko-geschenke.de",
+        "st_area_sh": 27.00025184,
+        "st_length_": 24.000077486199999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374423794644981,
+          51.34025698862304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "S 10",
+        "standort": "Salzgäßchen",
+        "firma": "Kamary-Gallery",
+        "angebot": "allg. Handel",
+        "internet": "http://www.bastelnnachzahlen.de",
+        "st_area_sh": 12.180067605,
+        "st_length_": 14.200007022799999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376033913487161,
+          51.340843153764027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 08/07",
+        "standort": "Markt",
+        "firma": "Dudel Gewürze und Kräuter",
+        "angebot": "Nahrung + Genuss",
+        "internet": "http://www.dudel.de",
+        "st_area_sh": 27.00008339,
+        "st_length_": 24.000066728499998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374394873105967,
+          51.340088723379417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 05/03",
+        "standort": "Markt",
+        "firma": "Gewürz- und Teehandel - Franziska Schwarz",
+        "angebot": "Nahrung + Genuss",
+        "internet": "http://www.gewuerzhandel-teehandel-leipzig.de",
+        "st_area_sh": 8.9994836,
+        "st_length_": 11.9996557284
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374794971990216,
+          51.340775135861691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 39",
+        "standort": "Augustusplatz",
+        "firma": "Schaustellerbetrieb Jürgen Parniske",
+        "angebot": "Fahrgeschäft",
+        "internet": null,
+        "st_area_sh": 19.5351231,
+        "st_length_": 15.687914547
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380271959018186,
+          51.33943236318779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 08/06",
+        "standort": "Markt",
+        "firma": "Käthe Wohlfahrt KG",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.kaethe-wohlfahrt.com",
+        "st_area_sh": 36.0,
+        "st_length_": 24.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374427480688443,
+          51.340015062517629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 08/08",
+        "standort": "Markt",
+        "firma": "Starker Alpakas - Angelika Starker",
+        "angebot": "Bekleidung / Textil",
+        "internet": "http://www.starker-alpaka.de",
+        "st_area_sh": 9.00017668,
+        "st_length_": 12.000117788200001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37438845454011,
+          51.340152962687384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 03/10",
+        "standort": "Markt",
+        "firma": "melt4felt - Mario Schuster",
+        "angebot": "Bekleidung / Textil",
+        "internet": "http://www.melt4felt.com",
+        "st_area_sh": 17.99998486,
+        "st_length_": 17.999966806900002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374345002039497,
+          51.340593805023218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 01/09",
+        "standort": "Markt",
+        "firma": "Perlkönig GmbH",
+        "angebot": "allg. Handel",
+        "internet": "http://www.perlkoenig.de",
+        "st_area_sh": 18.00095537,
+        "st_length_": 18.000322505100002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374506752426472,
+          51.34094733705728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 26",
+        "standort": "Augustusplatz",
+        "firma": "Erzgebirgische Holzkunst Gahlenz GmbH",
+        "angebot": "Weihnachtliches",
+        "internet": "http://www.gahlenz.de",
+        "st_area_sh": 17.70078341,
+        "st_length_": 17.9003646273
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381439512793643,
+          51.339714598940752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 12/11",
+        "standort": "Markt",
+        "firma": "Schaustellerbetrieb Richard Berger jr.",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 18.00017428,
+        "st_length_": 18.000104629599999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374988205636512,
+          51.340466377368159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 11/06",
+        "standort": "Markt",
+        "firma": "Crepes Keller - Joachim Keller",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 8.999888825,
+        "st_length_": 11.9999258848
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374769549187924,
+          51.340264913274297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 07/08",
+        "standort": "Markt",
+        "firma": "Image Amber - P. S. Nikiel",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 9.00008529,
+        "st_length_": 12.000056861899999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374888305059956,
+          51.340737081280828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 10/06",
+        "standort": "Markt",
+        "firma": "Töpferei  Annette Gmyrek",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 9.00017668,
+        "st_length_": 12.000117788200001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374652969971677,
+          51.340397458446027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 09/02",
+        "standort": "Markt",
+        "firma": "Der Lindwurm HGmbH",
+        "angebot": "allg. Handel",
+        "internet": "http://www.derlindwurm.com",
+        "st_area_sh": 18.00036666,
+        "st_length_": 18.000133374000001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374551746025851,
+          51.340322919780562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 33",
+        "standort": "Augustusplatz",
+        "firma": "Schaustellerbetrieb Mario Seiferth",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 23.42999936,
+        "st_length_": 20.300097441999998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381156809273271,
+          51.339284588908932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 28",
+        "standort": "Augustusplatz",
+        "firma": "Janos Baumstriezel - Sven Burghart",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.baumkuchenstriezelei.de",
+        "st_area_sh": 18.54969768,
+        "st_length_": 17.5999569361
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381351966744541,
+          51.339551603633268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 12/08",
+        "standort": "Markt",
+        "firma": "Das Bienenhaus - Sabine Kahlenberg",
+        "angebot": "Nahrung + Genuss",
+        "internet": "http://www.dasbienenhaus.com",
+        "st_area_sh": 18.00032688,
+        "st_length_": 18.0000887056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374881693476427,
+          51.340265261320681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 10/07",
+        "standort": "Markt",
+        "firma": "Michael Peetz",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 17.99978392,
+        "st_length_": 17.9999400761
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374720896502941,
+          51.340400095146279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "N 06",
+        "standort": "Nikolaikirchhof",
+        "firma": "Cynthia Abels",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 12.17989651,
+        "st_length_": 14.199944545
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378718252010945,
+          51.340656272913947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "N 07",
+        "standort": "Nikolaikirchhof",
+        "firma": "Santa´s Schmaus - Nancy Scheffler",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 17.99995808,
+        "st_length_": 17.99997904
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378814141002058,
+          51.340651175918943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 07",
+        "standort": "Petersstraße",
+        "firma": "Frank Liebscher",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 19.14000597,
+        "st_length_": 18.2000439089
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374504302199806,
+          51.339510187425624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 12/09",
+        "standort": "Markt",
+        "firma": "Holzschnitzerei Josef Bachmann",
+        "angebot": "Weihnachtliches",
+        "internet": "http://www.holzschnitzerei-bachmann.com",
+        "st_area_sh": 27.00035372,
+        "st_length_": 24.0000943085
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374870326594213,
+          51.340333273244966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 11/02",
+        "standort": "Markt",
+        "firma": "Zoo Leipzig GmbH",
+        "angebot": "allg. Handel",
+        "internet": "http://www.zoo-leipzig.de",
+        "st_area_sh": 18.0000721,
+        "st_length_": 17.999982991
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374744809057855,
+          51.340209623122959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "R 11",
+        "standort": "Reichsstraße",
+        "firma": "Schaustellerbetrieb Carola Kirchner",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 11.39986957,
+        "st_length_": 13.5999487195
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376657658110416,
+          51.341007748769201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "Foto",
+        "standort": "Salzgäßchen",
+        "firma": "cosmoproducts GmbH",
+        "angebot": "allg. Handel",
+        "internet": "http://www.cosmocard.de",
+        "st_area_sh": 1.00007195,
+        "st_length_": 4.0001439038699997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375199573387629,
+          51.340991893961558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "S 16",
+        "standort": "Salzgäßchen",
+        "firma": "Kork Studio Grobe",
+        "angebot": "allg. Handel",
+        "internet": "http://www.korki.de",
+        "st_area_sh": 12.180095175,
+        "st_length_": 14.2000467662
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375414333513543,
+          51.340876124824369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "S 14",
+        "standort": "Salzgäßchen",
+        "firma": "Martina Sensenschmidt",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 12.180129825,
+        "st_length_": 14.200085776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375660471789748,
+          51.340865135012336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "S 09",
+        "standort": "Salzgäßchen",
+        "firma": "Corinna Wernicke",
+        "angebot": "Bekleidung / Textil",
+        "internet": null,
+        "st_area_sh": 12.179623205,
+        "st_length_": 14.1997951069
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376107893826291,
+          51.340838388416984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "S 17",
+        "standort": "Salzgäßchen",
+        "firma": "Der kleine Maulwurf - Katrin Mittag",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 12.18002817,
+        "st_length_": 14.1999923425
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375334734283006,
+          51.340879452878305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "S 13",
+        "standort": "Salzgäßchen",
+        "firma": "Patrick Putnins",
+        "angebot": "Süßwaren",
+        "internet": "http://www.putnins.de",
+        "st_area_sh": 12.180129825,
+        "st_length_": 14.200085776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375730415235097,
+          51.340861230972941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 35",
+        "standort": "Augustusplatz",
+        "firma": "Fischhandel Ute Pohle",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 13.15957764,
+        "st_length_": 14.9998031257
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381575012737565,
+          51.339458226268995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "S 18",
+        "standort": "Salzgäßchen",
+        "firma": "Georg Gräfe - Pulsnitzer Pfefferkuchen GmbH",
+        "angebot": "Nahrung + Genuss",
+        "internet": "http://www.pfefferkuchen-pulsnitz.com",
+        "st_area_sh": 12.180145405,
+        "st_length_": 14.200032188
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375255006871708,
+          51.340881709730027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "S 11",
+        "standort": "Salzgäßchen",
+        "firma": "Andreas Raabe",
+        "angebot": "allg. Handel",
+        "internet": "http://www.miniaturenworld.com",
+        "st_area_sh": 12.180112955,
+        "st_length_": 14.200057539199999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375954824629616,
+          51.340844236656729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 32",
+        "standort": "Augustusplatz",
+        "firma": "patiperro - Mareike Schade",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 18.359442595000001,
+        "st_length_": 17.5997443567
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381255424417418,
+          51.339310262178195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "S 07",
+        "standort": "Salzgäßchen",
+        "firma": "Lions Hilfswerk Leipzig e.V.",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.lionsclub-leipzig.de",
+        "st_area_sh": 12.179903335000001,
+        "st_length_": 14.1999386771
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376252772843173,
+          51.340826285401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 38",
+        "standort": "Augustusplatz",
+        "firma": "Landwermann-Henschel GbR",
+        "angebot": "Fahrgeschäft",
+        "internet": "http://www.riesenraeder.de",
+        "st_area_sh": 199.99783281000001,
+        "st_length_": 59.999753948600002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381502374564892,
+          51.339143112137492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "S 15",
+        "standort": "Salzgäßchen",
+        "firma": "Süßwaren Ingolf Grobe",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 12.18028044,
+        "st_length_": 14.2001041759
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375490163094893,
+          51.340872227375868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 34",
+        "standort": "Augustusplatz",
+        "firma": "72 Grad - Walter Hecht",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 17.98060554,
+        "st_length_": 17.800204068700001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381567601539079,
+          51.339525949651375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 37",
+        "standort": "Augustusplatz",
+        "firma": "Schaustellerbetrieb Florian Kaiser",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 54.99955494,
+        "st_length_": 30.9999451859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.38153753408492,
+          51.339293418212982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 36",
+        "standort": "Augustusplatz",
+        "firma": "Schaustellerbetrieb Ronny Scheffler",
+        "angebot": "Fahrgeschäft",
+        "internet": null,
+        "st_area_sh": 21.11897797,
+        "st_length_": 19.599719888
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381563039140046,
+          51.33939218779134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "S 12",
+        "standort": "Salzgäßchen",
+        "firma": "Brotgefühle / Merlin Enterprises GmbH",
+        "angebot": "Nahrung + Genuss",
+        "internet": "http://www.brotgefuehle.de",
+        "st_area_sh": 12.180221595000001,
+        "st_length_": 14.200131539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375798689928626,
+          51.340856575364299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "S 08",
+        "standort": "Salzgäßchen",
+        "firma": "Kunsthandwerk Rainer Müller",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 12.179999025000001,
+        "st_length_": 14.2000052436
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376180907334252,
+          51.340833956609544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "S 06",
+        "standort": "Salzgäßchen",
+        "firma": "Süßwarenhandel Mario Wolf",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 12.17974336,
+        "st_length_": 14.199834346099999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375978579477492,
+          51.340937247394898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 03",
+        "standort": "Grimmaische Straße",
+        "firma": "Andrea Lohmann",
+        "angebot": "Weihnachtliches",
+        "internet": null,
+        "st_area_sh": 19.83997372,
+        "st_length_": 19.000020008500002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376183688352448,
+          51.339835730670757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 21",
+        "standort": "Grimmaische Straße",
+        "firma": "Rasenballsport Leipzig GmbH",
+        "angebot": "allg. Handel",
+        "internet": "http://www.redbullshop.com/de/rb-leipzig/",
+        "st_area_sh": 15.00015675,
+        "st_length_": 16.000019201400001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378508222599994,
+          51.339616186945982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "N 05",
+        "standort": "Nikolaikirchhof",
+        "firma": "Kunsthandwerk Silvio Große",
+        "angebot": "Weihnachtliches",
+        "internet": null,
+        "st_area_sh": 14.579779255,
+        "st_length_": 16.199905218600001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378636514886832,
+          51.340659909628307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "N 03",
+        "standort": "Nikolaikirchhof",
+        "firma": "Saxonia-Catering GmbH & Co. KG",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.saxonia-catering.de",
+        "st_area_sh": 20.90082124,
+        "st_length_": 18.600375099400001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378386062845472,
+          51.340679698215844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "N 15",
+        "standort": "Nikolaikirchhof",
+        "firma": "Blank Kunsthandwerk - Uwe Blank",
+        "angebot": "Weihnachtliches",
+        "internet": "http://www.blank-engel.de",
+        "st_area_sh": 13.50015832,
+        "st_length_": 15.799861073100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378130555405262,
+          51.340517350225731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "N 04",
+        "standort": "Nikolaikirchhof",
+        "firma": "Christbaumschmuck Gerald Kraft",
+        "angebot": "Weihnachtliches",
+        "internet": null,
+        "st_area_sh": 16.56054944,
+        "st_length_": 16.400273883499999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378550905887536,
+          51.340669984215914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 22",
+        "standort": "Augustusplatz",
+        "firma": "Schaustellerbetrieb Andre Herrmann",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 44.99958087,
+        "st_length_": 28.999809555
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380973494674233,
+          51.339783674497738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 29",
+        "standort": "Augustusplatz",
+        "firma": "Schaustellerbetrieb Patrick Zinnecker",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.zinnecker-schausteller.de",
+        "st_area_sh": 24.50062495,
+        "st_length_": 21.000112195100002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.38138417747335,
+          51.339488383235384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 27",
+        "standort": "Grimmaische Straße",
+        "firma": "Kerstin Teich",
+        "angebot": "Bekleidung / Textil",
+        "internet": "http://www.baby-kinder-treff.de",
+        "st_area_sh": 16.67262734,
+        "st_length_": 17.4000638638
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37921407477689,
+          51.339551104236811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 13",
+        "standort": "Grimmaische Straße",
+        "firma": "Bäckerei u. Konditorei Gerd Nestler",
+        "angebot": "Nahrung + Genuss",
+        "internet": "http://www.baeckerei-nestler.de",
+        "st_area_sh": 12.1798302,
+        "st_length_": 14.1999557597
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.377518782600744,
+          51.33974639320143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 15",
+        "standort": "Grimmaische Straße",
+        "firma": "Eberhard Wiedenmann e. K.",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.sanremo-leipzig.de/",
+        "st_area_sh": 19.50027528,
+        "st_length_": 19.000180136400001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.377729271564917,
+          51.339730788076579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 01",
+        "standort": "Grimmaische Straße",
+        "firma": "Christoph Arnold",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 21.0800252,
+        "st_length_": 19.199987151199998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375911309912563,
+          51.339859736634999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 23",
+        "standort": "Grimmaische Straße",
+        "firma": "Raum- und Tafelschmuck Gabriele Günther",
+        "angebot": "Weihnachtliches",
+        "internet": "http://www.rauta.de",
+        "st_area_sh": 21.75972682,
+        "st_length_": 19.9998844301
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378722997870366,
+          51.339585072101379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 29",
+        "standort": "Grimmaische Straße",
+        "firma": "\"Die Schaubackstube\" - Siegel & Rößler GbR",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.schaubacken.de",
+        "st_area_sh": 15.50013554,
+        "st_length_": 16.2001354195
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379383966209533,
+          51.339520143778415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "Foto",
+        "standort": "Petersstraße",
+        "firma": "cosmoproducts GmbH",
+        "angebot": "allg. Handel",
+        "internet": "http://www.cosmocard.de",
+        "st_area_sh": 1.00003851,
+        "st_length_": 4.0000770292499999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374365278920413,
+          51.339472817366143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 17",
+        "standort": "Grimmaische Straße",
+        "firma": "Hiller Fournituren GbR",
+        "angebot": "Weihnachtliches",
+        "internet": null,
+        "st_area_sh": 19.84017976,
+        "st_length_": 19.000086909299998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378153708321227,
+          51.339668548175574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 19",
+        "standort": "Augustusplatz",
+        "firma": "THD Agentur",
+        "angebot": "allg. Handel",
+        "internet": "http://www.olivenholzprodukte.com",
+        "st_area_sh": 12.1797546,
+        "st_length_": 14.199880025100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380707848048608,
+          51.339579657893402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 19",
+        "standort": "Grimmaische Straße",
+        "firma": "Schaustellerbetrieb Ingo Westenberg",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 23.800030755000002,
+        "st_length_": 20.600033937100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378348114790649,
+          51.339639002110033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 17",
+        "standort": "Augustusplatz",
+        "firma": "Petit Con de France - Gildas Voland",
+        "angebot": "Nahrung + Genuss",
+        "internet": null,
+        "st_area_sh": 12.1796084,
+        "st_length_": 14.199793035100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380667753157057,
+          51.339489879940878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 15",
+        "standort": "Augustusplatz",
+        "firma": "Gartengaststätte Osthöhe",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 12.18003736,
+        "st_length_": 14.2000157232
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380646986694304,
+          51.339394347344893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 16",
+        "standort": "Augustusplatz",
+        "firma": "Sächsiche Großbäckerei Union GmbH (Emil Reimann)",
+        "angebot": "Nahrung + Genuss",
+        "internet": "http://www.emil-reimann.de",
+        "st_area_sh": 12.18055057,
+        "st_length_": 14.2003611148
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380654521636169,
+          51.339442109923475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 02",
+        "standort": "Grimmaische Straße",
+        "firma": "Trockenobst Vogel",
+        "angebot": "Nahrung + Genuss",
+        "internet": "http://www.trockenobst-spezialist.de",
+        "st_area_sh": 17.67010809,
+        "st_length_": 18.100027379
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376003635308654,
+          51.339855585840688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 22",
+        "standort": "Grimmaische Straße",
+        "firma": "Schaustellerbetrieb Martina Volkland",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 19.80043829,
+        "st_length_": 18.600113565699999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378608192714516,
+          51.339601632830878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 25",
+        "standort": "Grimmaische Straße",
+        "firma": "Schaustellerbetrieb Jürgen Seiferth",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 17.36019237,
+        "st_length_": 17.4000555583
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379041696912992,
+          51.339579605402946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 26",
+        "standort": "Grimmaische Straße",
+        "firma": "Erzgebirgische Volkskunst - Rita Langer-Erler",
+        "angebot": "Weihnachtliches",
+        "internet": null,
+        "st_area_sh": 13.57036474,
+        "st_length_": 15.1002026452
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379135852939134,
+          51.339564699318487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "R 09",
+        "standort": "Reichsstraße",
+        "firma": "Schaustellerbetrieb Silvia Felber",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 12.5,
+        "st_length_": 15.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376479946032916,
+          51.341000789153185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "R 15",
+        "standort": "Reichsstraße",
+        "firma": "Schmalzbäckerei Heiko Fischer",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 16.73963231,
+        "st_length_": 17.799882837999998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376835322153472,
+          51.34088740613096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 20",
+        "standort": "Augustusplatz",
+        "firma": "Fellhandel Körner",
+        "angebot": "allg. Handel",
+        "internet": "http://www.fellhandel-koerner.de",
+        "st_area_sh": 12.18004872,
+        "st_length_": 14.2000284
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380738065917798,
+          51.33962269230102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 13/08",
+        "standort": "Markt",
+        "firma": "RBB",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 18.0,
+        "st_length_": 18.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374591431918033,
+          51.340116522762642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 13/05",
+        "standort": "Markt",
+        "firma": "Drechslerei Rolf Zänker",
+        "angebot": "Weihnachtliches",
+        "internet": "http://www.original-zaenker.de",
+        "st_area_sh": 9.0,
+        "st_length_": 12.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374707350210768,
+          51.34000489713565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 02/03",
+        "standort": "Markt",
+        "firma": "Harisch & Schneller GbR",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 26.999812465000002,
+        "st_length_": 23.9998894155
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374915205465443,
+          51.340926284337662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 08/09",
+        "standort": "Markt",
+        "firma": "Wiesensteiger Glaswerkstätten",
+        "angebot": "allg. Handel",
+        "internet": "http://www.wiesensteiger-glaswerstaett.de",
+        "st_area_sh": 18.00018672,
+        "st_length_": 17.999995327899999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374382812678713,
+          51.34021283353583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 02/04",
+        "standort": "Markt",
+        "firma": "Ratskeller der Stadt Leipzig",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.ratskeller-leipzig.de",
+        "st_area_sh": 17.99980884,
+        "st_length_": 17.999856667300001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374883422734914,
+          51.340976844156735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 07/10",
+        "standort": "Markt",
+        "firma": "Georg Schweizer & Sohn",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.langos-schorsch.de",
+        "st_area_sh": 8.99999362,
+        "st_length_": 11.99999575
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374887228391145,
+          51.340808003395914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 07/01",
+        "standort": "Markt",
+        "firma": "Birgit Schweizer",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 17.99954955,
+        "st_length_": 17.999824626900001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375033350334068,
+          51.34082188439718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 06/01",
+        "standort": "Markt",
+        "firma": "WITO GmbH",
+        "angebot": "Nahrung + Genuss",
+        "internet": null,
+        "st_area_sh": 9.0,
+        "st_length_": 12.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374802264116244,
+          51.340699896939149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 22",
+        "standort": "Petersstraße",
+        "firma": "Fleischerei Mike Müller",
+        "angebot": "Nahrung + Genuss",
+        "internet": null,
+        "st_area_sh": 12.00026802,
+        "st_length_": 16.0001121709
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374452658805684,
+          51.339544123485119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 08/11",
+        "standort": "Markt",
+        "firma": "Old Tablers 203 Leipzig",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.ot203leipzig.de",
+        "st_area_sh": 8.999919615,
+        "st_length_": 11.999946412
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374373671134475,
+          51.340318905490335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 12/06",
+        "standort": "Markt",
+        "firma": "Käthe Wohlfahrt KG",
+        "angebot": "Weihnachtliches",
+        "internet": "http://www.kaethe-wohlfahrt.com",
+        "st_area_sh": 26.99989856,
+        "st_length_": 23.999958708899999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374949862099724,
+          51.340167298078157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 12",
+        "standort": "Petersstraße",
+        "firma": "Wiender Mandeln - Dietmar Dengler",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 20.76994938,
+        "st_length_": 19.099976099100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374607045773361,
+          51.339184124159573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "R 01A",
+        "standort": "Reichsstraße",
+        "firma": "Schaustellerbetrieb Silvio Fischer",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 10.71039948,
+        "st_length_": 13.7582
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376378836821676,
+          51.341650136794499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 01",
+        "standort": "Petersstraße",
+        "firma": "Die Nüssemacher - K. + S. Neumüller",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 20.2990321,
+        "st_length_": 18.599583017499999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374440815174768,
+          51.339829945786818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 03",
+        "standort": "Petersstraße",
+        "firma": "StiVoTex - Stichservice Vogel",
+        "angebot": "Weihnachtliches",
+        "internet": "http://www.stickerei-vogel.de",
+        "st_area_sh": 9.72039551,
+        "st_length_": 12.600264043399999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374480928406019,
+          51.339737191819395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 04",
+        "standort": "Petersstraße",
+        "firma": "Klaus Adam e.K.",
+        "angebot": "Weihnachtliches",
+        "internet": "http://www.world-of-christmas.de",
+        "st_area_sh": 17.64095307,
+        "st_length_": 18.200528833100002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374460483339494,
+          51.339693932639214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "F 01A",
+        "standort": "Augustusplatz",
+        "firma": "Kalevala Spirit GmbH",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.kalevalaspirit.de",
+        "st_area_sh": 50.00003582,
+        "st_length_": 29.9999863942
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380695545989989,
+          51.338859611641361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 13",
+        "standort": "Augustusplatz",
+        "firma": "Schaustellerbetrieb Dieter Hadlok",
+        "angebot": "Fahrgeschäft",
+        "internet": null,
+        "st_area_sh": 90.99940064,
+        "st_length_": 39.9998758443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380614185497386,
+          51.339554735468781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 40",
+        "standort": "Augustusplatz",
+        "firma": "Schaustellerbetrieb Camillo Franzelius",
+        "angebot": "Fahrgeschäft",
+        "internet": "http://www.breakdancer-no1.de",
+        "st_area_sh": 28.13205874,
+        "st_length_": 18.825993149399999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381238666250622,
+          51.33981066901277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 28",
+        "standort": "Grimmaische Straße",
+        "firma": "Illgro GmbH - H. Zink",
+        "angebot": "allg. Handel",
+        "internet": "http://www.ilggro.de",
+        "st_area_sh": 14.87983287,
+        "st_length_": 17.199878034600001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379301676739772,
+          51.339536050286988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 30",
+        "standort": "Grimmaische Straße",
+        "firma": "Kerstin Naumann",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 11.395228355,
+        "st_length_": 13.9001076854
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379620696967994,
+          51.339466605634428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 02/06",
+        "standort": "Markt",
+        "firma": "Delacher und Richter GbR",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 17.99980884,
+        "st_length_": 17.999856667300001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374935852250431,
+          51.341096527113649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 01/03",
+        "standort": "Markt",
+        "firma": "Heiko Wild",
+        "angebot": "allg. Handel",
+        "internet": "http://www.heikowild.de",
+        "st_area_sh": 18.0,
+        "st_length_": 18.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374510658458298,
+          51.341109456818074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 08",
+        "standort": "Petersstraße",
+        "firma": "Schaustellerbetrieb Birgit Sehning",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.matti-unternehmensgruppe.de",
+        "st_area_sh": 18.479560755000001,
+        "st_length_": 17.1997962445
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374491407572453,
+          51.339458297911911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 11",
+        "standort": "Petersstraße",
+        "firma": "Kelterei Manufaktur Michael D. Oese",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.oese.net",
+        "st_area_sh": 17.00065724,
+        "st_length_": 16.8003042663
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374523430890946,
+          51.339218054132296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 13",
+        "standort": "Petersstraße",
+        "firma": "Finefoodandmore - Jürgen Kliemann",
+        "angebot": "Nahrung + Genuss",
+        "internet": "http://www.finefoodandmore.de",
+        "st_area_sh": 18.9000847,
+        "st_length_": 17.8000592193
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374603499154638,
+          51.33911409606894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 20",
+        "standort": "Petersstraße",
+        "firma": "Lederwaren Sören Klein",
+        "angebot": "allg. Handel",
+        "internet": "http://www.klein-import.de",
+        "st_area_sh": 18.599267775000001,
+        "st_length_": 18.399573954699999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374523665215992,
+          51.339110511012748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 05",
+        "standort": "Petersstraße",
+        "firma": "Thomas Reinhold",
+        "angebot": "Weihnachtliches",
+        "internet": null,
+        "st_area_sh": 23.7995269,
+        "st_length_": 20.799755961100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374468578610498,
+          51.339612768259684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 10",
+        "standort": "Petersstraße",
+        "firma": "Schmalzbäckerei Andreas Fischer",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 17.64050268,
+        "st_length_": 18.200212945200001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374510681660478,
+          51.339317790061003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 14",
+        "standort": "Petersstraße",
+        "firma": "Backzauber GbR",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 16.9996344,
+        "st_length_": 16.7998204636
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374610398111992,
+          51.339064234462377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 16",
+        "standort": "Petersstraße",
+        "firma": "Schaustellerbetrieb Diana Scheffler-Fietkau",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 25.30020367,
+        "st_length_": 20.200109109900001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374577402499899,
+          51.338907299621923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 19",
+        "standort": "Petersstraße",
+        "firma": "Langos - Kathrin Naumann",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 10.640306335,
+        "st_length_": 13.200209000099999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374529022298358,
+          51.339054128503982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 02",
+        "standort": "Petersstraße",
+        "firma": "Barbara Kusnik",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 18.3593066,
+        "st_length_": 17.599697105899999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374468729433504,
+          51.339784547528737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "S 03",
+        "standort": "Salzgäßchen",
+        "firma": "Schaustellerbetrieb Samuel Neumüller",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 6.71951414,
+        "st_length_": 10.399593765500001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375699109608664,
+          51.340951524602659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 18",
+        "standort": "Augustusplatz",
+        "firma": "Wechselhütte - div. gemeinnützige Vereine",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 12.1796084,
+        "st_length_": 14.199793035100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380684882695725,
+          51.339535952903091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 14",
+        "standort": "Augustusplatz",
+        "firma": "Schaustellerbetrieb Maik Hadlok",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 17.999713315000001,
+        "st_length_": 17.9998276295
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380596147187187,
+          51.339436992075861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 06",
+        "standort": "Grimmaische Straße",
+        "firma": "Hase-Dietz-Keramik - Eva Hermann",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 10.799911915,
+        "st_length_": 13.1999464666
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376945511542848,
+          51.339798616146041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 09",
+        "standort": "Petersstraße",
+        "firma": "Heinz-Bodo Schmidt",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 25.89927051,
+        "st_length_": 21.399828339199999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374500894941994,
+          51.339348981327461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 05/06",
+        "standort": "Markt",
+        "firma": "O´donnell Moonshine GmbH",
+        "angebot": "Nahrung + Genuss",
+        "internet": "http://www.odonnell.de",
+        "st_area_sh": 8.99951026,
+        "st_length_": 11.9996735022
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374652716065738,
+          51.340741366857969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "R 08",
+        "standort": "Reichsstraße",
+        "firma": "Michael Winkelmann & Halvor Wolf GbR",
+        "angebot": "allg. Handel",
+        "internet": "http://www.caracol.de",
+        "st_area_sh": 25.599616545,
+        "st_length_": 20.799859926100002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376472834938836,
+          51.341055575929879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "R 10",
+        "standort": "Reichsstraße",
+        "firma": "Schaustellerbetrieb René Kirchner",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 18.00042129,
+        "st_length_": 18.000160583700001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376571933177052,
+          51.341005523017635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "R 07",
+        "standort": "Reichsstraße",
+        "firma": "Anett Kirschner",
+        "angebot": "Bekleidung / Textil",
+        "internet": null,
+        "st_area_sh": 16.379847195,
+        "st_length_": 17.799916442000001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376471586741054,
+          51.341123675545951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "R 06",
+        "standort": "Reichsstraße",
+        "firma": "Almgourmet - Dirk Esters",
+        "angebot": "Nahrung + Genuss",
+        "internet": "http://www.almgourmet.de",
+        "st_area_sh": 13.79992301,
+        "st_length_": 15.199972113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376483108759423,
+          51.341184852426885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "R 12",
+        "standort": "Reichsstraße",
+        "firma": "Schaustellerbetrieb Silvia Felber",
+        "angebot": "Fahrgeschäft",
+        "internet": null,
+        "st_area_sh": 112.52540896,
+        "st_length_": 37.651513434100004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376540631898004,
+          51.340874615995617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "R 14",
+        "standort": "Reichsstraße",
+        "firma": "Schaustellerbetrieb Karl Hoffmann",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 31.99928795,
+        "st_length_": 23.9997342823
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376845236251304,
+          51.340962618275803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 12",
+        "standort": "Grimmaische Straße",
+        "firma": "Kunststück - Sandra Alt",
+        "angebot": "allg. Handel",
+        "internet": "http://www.kunststueck-ritter.de",
+        "st_area_sh": 15.52504793,
+        "st_length_": 15.900047950799999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.377412698756844,
+          51.339755745705965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 14",
+        "standort": "Grimmaische Straße",
+        "firma": "Kaubes Sternenladen - Daniel Kaube",
+        "angebot": "Weihnachtliches",
+        "internet": "http://www.sternladen.de",
+        "st_area_sh": 16.55969848,
+        "st_length_": 16.399855733399999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.377568086114717,
+          51.339742443975808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "N 02",
+        "standort": "Nikolaikirchhof",
+        "firma": "Edelstein-Schmuck-Manufaktur Isabell Liebs",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 13.639750565,
+        "st_length_": 16.799912984799999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37826795625177,
+          51.340663976131694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 05",
+        "standort": "Grimmaische Straße",
+        "firma": "Sachsen Sail",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.sanremo-leipzig.de/",
+        "st_area_sh": 31.49991034,
+        "st_length_": 25.0000232525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376836845598756,
+          51.339807901942685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 08/10",
+        "standort": "Markt",
+        "firma": "Crêpes Seifert",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 18.00036666,
+        "st_length_": 18.000133374000001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374376352373453,
+          51.340267346788472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "N 01",
+        "standort": "Nikolaikirchhof",
+        "firma": "Waffelbäckerei Steffen Guse",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 17.49964569,
+        "st_length_": 18.9998817428
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378121619135088,
+          51.34068502495397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 34A",
+        "standort": "Augustusplatz",
+        "firma": "72 Grad - Walter Hecht",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 7.00008558,
+        "st_length_": 11.0000419731
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381541665220624,
+          51.33956599202893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 02",
+        "standort": "Augustusplatz",
+        "firma": "Andria Pastore",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.andria-leipzig.de",
+        "st_area_sh": 19.4996694,
+        "st_length_": 18.999960658599999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.38089745834224,
+          51.3392099043323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 08",
+        "standort": "Grimmaische Straße",
+        "firma": "\"LOTUS\" - Nadja Kramer",
+        "angebot": "allg. Handel",
+        "internet": "http://www.lotus-bernburg.de",
+        "st_area_sh": 10.92001482,
+        "st_length_": 13.5999709772
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.377045128130716,
+          51.339789783877798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 11",
+        "standort": "Grimmaische Straße",
+        "firma": "Steffen Müller",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 12.684666915,
+        "st_length_": 14.499787227500001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.377362423047943,
+          51.339760023607568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "Foto",
+        "standort": "Nikolaikirchhof",
+        "firma": "cosmoproducts GmbH",
+        "angebot": "allg. Handel",
+        "internet": "http://www.cosmocard.de",
+        "st_area_sh": 1.00000628,
+        "st_length_": 4.0000125672299998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378596570123092,
+          51.340538577838679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "R 13",
+        "standort": "Reichsstraße",
+        "firma": "Ingeborg Neumüller",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 19.500144745,
+        "st_length_": 19.000043717299999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376835703611448,
+          51.341041366258793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "S 01",
+        "standort": "Salzgäßchen",
+        "firma": "Schaustellerbetrieb Frank Sawatzke",
+        "angebot": "Fahrgeschäft",
+        "internet": "http://www.kinderkarussel-sawatzke.de",
+        "st_area_sh": 10.126652495,
+        "st_length_": 11.2951003684
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375204108224803,
+          51.340954315763014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "Foto",
+        "standort": "Augustusplatz",
+        "firma": "cosmoproducts GmbH",
+        "angebot": "allg. Handel",
+        "internet": "http://www.cosmocard.de",
+        "st_area_sh": 1.00000628,
+        "st_length_": 4.0000125672299998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380630436645745,
+          51.33892546861405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 27",
+        "standort": "Augustusplatz",
+        "firma": "Feinkost Delikatessen - Serdal Coban",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 22.75007114,
+        "st_length_": 20.000050675499999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381304212460995,
+          51.339605458438669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 06/07",
+        "standort": "Markt",
+        "firma": "Schatztruhe Jens Hug",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 17.99999812,
+        "st_length_": 18.000103940599999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374624819263177,
+          51.340583165171935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 12/10",
+        "standort": "Markt",
+        "firma": "Michael Doss",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 9.00005972,
+        "st_length_": 12.000039813300001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374922126174488,
+          51.340473673814806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 09/03?",
+        "standort": "Markt",
+        "firma": "Angelika Belger",
+        "angebot": "Bekleidung / Textil",
+        "internet": null,
+        "st_area_sh": 18.00035344,
+        "st_length_": 18.000176719100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37456272364693,
+          51.340253298904031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "N 10",
+        "standort": "Nikolaikirchhof",
+        "firma": "Grillmeister René Krell",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.wurstmeister.com",
+        "st_area_sh": 17.0400075,
+        "st_length_": 16.700001152700001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378767951806223,
+          51.340506648877522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 04/01",
+        "standort": "Markt",
+        "firma": "Käthe Wohlfahrt KG",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.kaethe-wohlfahrt.com",
+        "st_area_sh": 36.000788,
+        "st_length_": 24.000262665200001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374482043238871,
+          51.340765976566701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 04/07",
+        "standort": "Markt",
+        "firma": "Oberweisbacher Glaskunst - Home Styles",
+        "angebot": "Weihnachtliches",
+        "internet": "http://www.oberweissbacher-glaskunst.de",
+        "st_area_sh": 18.00013983,
+        "st_length_": 18.000072041500001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374471793855149,
+          51.340644697232612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 04",
+        "standort": "Naschmarkt",
+        "firma": "Heureka Gastro GmbH & Co. KG",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.heureka-leipzig.de",
+        "st_area_sh": 11.99995182,
+        "st_length_": 13.9999694533
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375622235143771,
+          51.340070349741076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 03",
+        "standort": "Naschmarkt",
+        "firma": "Heureka Gastro GmbH & Co. KG",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.heureka-leipzig.de",
+        "st_area_sh": 11.99995182,
+        "st_length_": 13.9999694533
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3756796669905,
+          51.34002606712292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 01/01",
+        "standort": "Markt",
+        "firma": "Duftholz Team - Annette Vogt",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 9.0,
+        "st_length_": 12.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374383605656192,
+          51.341104227478333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 01/02",
+        "standort": "Markt",
+        "firma": "Very Good",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 8.99992503,
+        "st_length_": 11.999950022
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374425798618084,
+          51.341105483109551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 12",
+        "standort": "Naschmarkt",
+        "firma": "Heureka Gastro GmbH & Co. KG",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.heureka-leipzig.de",
+        "st_area_sh": 11.99995182,
+        "st_length_": 13.9999694533
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375740676711775,
+          51.340248268174165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 18",
+        "standort": "Naschmarkt",
+        "firma": "Lederwaren Peer Carstens",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 5.999909705,
+        "st_length_": 9.9999347059199994
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375752483493899,
+          51.340474800180331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 16",
+        "standort": "Naschmarkt",
+        "firma": "Bilder & Miniaturen Mario Knauber",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 6.000033005,
+        "st_length_": 10.0000563618
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375630508791822,
+          51.340481702923306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 15",
+        "standort": "Naschmarkt",
+        "firma": "Korbmacher Jürgen Dresen",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 4.050676365,
+        "st_length_": 8.786563573
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375615529116491,
+          51.340388798040422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 05/07",
+        "standort": "Markt",
+        "firma": "Candyman - Bernhard Wachinger",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 27.00032256,
+        "st_length_": 24.000077328500002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37460622916622,
+          51.340800539438554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 06",
+        "standort": "Naschmarkt",
+        "firma": "Räucherwaren Matthias Kellner",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 8.74994327,
+        "st_length_": 11.999981162299999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375601336922498,
+          51.340142830112946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 03/12",
+        "standort": "Markt",
+        "firma": "Reinhard Krause",
+        "angebot": "Bekleidung / Textil",
+        "internet": null,
+        "st_area_sh": 18.00013983,
+        "st_length_": 18.000072041500001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374332359564928,
+          51.340691186495967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 04/08",
+        "standort": "Markt",
+        "firma": "Oliver Schrader",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 18.00013983,
+        "st_length_": 18.000072041500001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374463172743766,
+          51.34070911348261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 07/02",
+        "standort": "Markt",
+        "firma": "Andria Pastore GmbH",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.andria-leipzig.de",
+        "st_area_sh": 27.00061317,
+        "st_length_": 24.000215702199998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374930103236007,
+          51.34072102516302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 07/06",
+        "standort": "Markt",
+        "firma": "Blaull Seifenmanufaktur",
+        "angebot": "allg. Handel",
+        "internet": "http://www.blaull.de",
+        "st_area_sh": 8.99994122,
+        "st_length_": 11.9999608133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374887010101347,
+          51.340649961064912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 02/01",
+        "standort": "Markt",
+        "firma": "Wein- und Sektgut Matthias Keth",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.weingut-keth.de",
+        "st_area_sh": 17.99994168,
+        "st_length_": 18.000072242600002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37501818226789,
+          51.341043095397701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 02/02",
+        "standort": "Markt",
+        "firma": "Handzeitbrot GmbH - A. Gust",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.handbrotzeit.de",
+        "st_area_sh": 36.00105704,
+        "st_length_": 24.000352344100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375006576991373,
+          51.340971563693763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 07/04",
+        "standort": "Markt",
+        "firma": "Käthe Wohlfahrt KG",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.kaethe-wohlfahrt.com",
+        "st_area_sh": 36.00109946,
+        "st_length_": 24.000366483899999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374992713814031,
+          51.340575988107986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 01/08",
+        "standort": "Markt",
+        "firma": "Gesellschaft der Freunde Lions e.V.",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 8.99959601,
+        "st_length_": 11.9997306703
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374585883852767,
+          51.340952119794345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 01/07",
+        "standort": "Markt",
+        "firma": "LVZ Logistik GmbH",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 8.99959601,
+        "st_length_": 11.9997306703
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374628557641127,
+          51.3409533205553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 02/07",
+        "standort": "Markt",
+        "firma": "Gemeinnützige Vereine - im Wechsel",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 9.0,
+        "st_length_": 12.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374997154131393,
+          51.341111919370825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 07/03",
+        "standort": "Markt",
+        "firma": "Lothar Schneider",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 8.99987348,
+        "st_length_": 11.999915653
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375020993431464,
+          51.340618431926345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 07/05",
+        "standort": "Markt",
+        "firma": "L.E. gendaire Crepes - Daniel Seiferth",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 8.999875925,
+        "st_length_": 11.9999172847
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374911045774613,
+          51.340607335527153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 13/07",
+        "standort": "Markt",
+        "firma": "Schaustellerbetrieb Silvana Seiferth",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 8.9996657,
+        "st_length_": 11.9997771313
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374568186308105,
+          51.340082012049656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 03/13",
+        "standort": "Markt",
+        "firma": "Annaberger Backwaren",
+        "angebot": "Nahrung + Genuss",
+        "internet": "http://www.annaberger-backwaren.de",
+        "st_area_sh": 8.99985188,
+        "st_length_": 11.999901252900001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374327720906201,
+          51.340740622091332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 03/06",
+        "standort": "Markt",
+        "firma": "Bäckerei Krätzer GmbH",
+        "angebot": "Nahrung + Genuss",
+        "internet": "http://www.baeckerei-kraetzer.de",
+        "st_area_sh": 9.0004237,
+        "st_length_": 12.0002824633
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374386580498031,
+          51.340624863185312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 03/14",
+        "standort": "Markt",
+        "firma": "Blindenhilfswerk Dresden e.V.",
+        "angebot": "allg. Handel",
+        "internet": "http://www.blindenhilfswerk-dresden.de",
+        "st_area_sh": 18.00013983,
+        "st_length_": 18.000072041500001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374324070738078,
+          51.340786305956861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 01/05",
+        "standort": "Markt",
+        "firma": "Knobisatt Claudia Kahlhöfer",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 8.99988842,
+        "st_length_": 11.9999256131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374672448038394,
+          51.341112729040255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 03/01",
+        "standort": "Markt",
+        "firma": "Axel Thier e.K.",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 35.99977123,
+        "st_length_": 23.999923744
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374340148768939,
+          51.340844927725996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 03/02",
+        "standort": "Markt",
+        "firma": "Naschkatze - Gerd Helmchen",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 9.0,
+        "st_length_": 12.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374370099560565,
+          51.340773579688523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 03/07",
+        "standort": "Markt",
+        "firma": "Der süße Regenbogen",
+        "angebot": "Süßwaren",
+        "internet": "http://www.dersuesseregenbogen.de",
+        "st_area_sh": 18.00013983,
+        "st_length_": 18.000072041500001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374391909404963,
+          51.34058329576709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 03/08",
+        "standort": "Markt",
+        "firma": "Markus Harich GmbH",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.markus-harich.de",
+        "st_area_sh": 35.99977123,
+        "st_length_": 23.999923744
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374378980467847,
+          51.340501341234116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 03/09",
+        "standort": "Markt",
+        "firma": "Sterne vom Himmel GmbH & Co. KG",
+        "angebot": "allg. Handel",
+        "internet": "http://www.sternevomhimmel.de",
+        "st_area_sh": 9.0002585,
+        "st_length_": 12.0001723321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374351803604062,
+          51.340551978849945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 03/11",
+        "standort": "Markt",
+        "firma": "Garten-Peter - Robert Both",
+        "angebot": "allg. Handel",
+        "internet": "http://www.garten-peter.de",
+        "st_area_sh": 8.99954192,
+        "st_length_": 11.999694609400001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37433816968854,
+          51.340644242441812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 04/05",
+        "standort": "Markt",
+        "firma": "fairgourmet GmbH",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.fairgourmet.de",
+        "st_area_sh": 27.43766782,
+        "st_length_": 24.290647028199999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374500402201438,
+          51.340539247361676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 06/06",
+        "standort": "Markt",
+        "firma": "Heidrun Mittag",
+        "angebot": "Nahrung + Genuss",
+        "internet": null,
+        "st_area_sh": 8.99951026,
+        "st_length_": 11.9996735022
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374629768631019,
+          51.340537984420635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 06/04",
+        "standort": "Markt",
+        "firma": "Alexander Weiß",
+        "angebot": "Süßwaren",
+        "internet": null,
+        "st_area_sh": 26.99944831,
+        "st_length_": 23.999820124599999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374804096606677,
+          51.340572369242395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 06/05",
+        "standort": "Markt",
+        "firma": "Käthe Wohlfahrt KG",
+        "angebot": "Weihnachtliches",
+        "internet": "http://www.kaethe-wohlfahrt.com",
+        "st_area_sh": 81.00016394,
+        "st_length_": 36.0000364311
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374715638267686,
+          51.340568668580978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 13/03",
+        "standort": "Markt",
+        "firma": "Käthe Wohlfahrt KG",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.kaethe-wohlfahrt.com",
+        "st_area_sh": 36.0,
+        "st_length_": 24.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374940953932045,
+          51.340021818009909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 13/09",
+        "standort": "Markt",
+        "firma": "Schaustellerbetrieb Bernd Schleinitz",
+        "angebot": "Fahrgeschäft",
+        "internet": null,
+        "st_area_sh": 23.99963634,
+        "st_length_": 21.999895760699999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374708177101782,
+          51.340140159097849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 13/01",
+        "standort": "Markt",
+        "firma": "Foto Rechtnitz",
+        "angebot": "allg. Handel",
+        "internet": "http://www.foto-rechtnitz.de",
+        "st_area_sh": 9.0,
+        "st_length_": 12.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374804029378726,
+          51.340146078920419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 06/02",
+        "standort": "Markt",
+        "firma": "Karl Louis Lehmann GmbH",
+        "angebot": "allg. Handel",
+        "internet": "http://www.toepferei-lehmann.de",
+        "st_area_sh": 9.0,
+        "st_length_": 12.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37480076428897,
+          51.340661800521239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 12/07",
+        "standort": "Markt",
+        "firma": "Scarlett Weiß",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 9.00021226,
+        "st_length_": 12.0001415058
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374890761581067,
+          51.340215774172712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 13/06",
+        "standort": "Markt",
+        "firma": "Müller Filz - Steffen Müller",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 17.99998299,
+        "st_length_": 17.9999922017
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374573084176399,
+          51.34002082704221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 08/01",
+        "standort": "Markt",
+        "firma": "Tortissimo GmbH",
+        "angebot": "allg. Handel",
+        "internet": "http://www.tortissimo.de",
+        "st_area_sh": 8.99991461,
+        "st_length_": 11.999943073200001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374410424713389,
+          51.340386673147101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 12/02",
+        "standort": "Markt",
+        "firma": "Fisch Wenning GmbH",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.fisch-wenning.com",
+        "st_area_sh": 27.00012458,
+        "st_length_": 23.999985068600001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375002667658901,
+          51.340335760547859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 08/02",
+        "standort": "Markt",
+        "firma": "PLS Events GmbH & Co. KG",
+        "angebot": "allg. Handel",
+        "internet": "http://www.pls-events.com",
+        "st_area_sh": 9.0000003599999996,
+        "st_length_": 12.00000024
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374414683091645,
+          51.340346034185899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 12/05",
+        "standort": "Markt",
+        "firma": "CORSOELA GmbH",
+        "angebot": "Nahrung + Genuss",
+        "internet": "http://www.corsoela.de",
+        "st_area_sh": 8.99989834,
+        "st_length_": 11.999932229800001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374997075733921,
+          51.34018560689487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 12/04",
+        "standort": "Markt",
+        "firma": "Weinstube \"Zur Höll\"",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.hoell-rothenburg.de",
+        "st_area_sh": 17.99999765,
+        "st_length_": 18.000002526700001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374997753144955,
+          51.340231819831814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 11/03",
+        "standort": "Markt",
+        "firma": "Der bunte Planet der Perlsacktiere - Falk Prüfer",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 9.00016165,
+        "st_length_": 12.000107766199999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374674135404236,
+          51.340208293195907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 12/01",
+        "standort": "Markt",
+        "firma": "WITO GmbH",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 36.00035404,
+        "st_length_": 24.0001180139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374988440829464,
+          51.340417067411899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 12/03",
+        "standort": "Markt",
+        "firma": "Heise Crêpes - Volker Heise",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 9.00000348,
+        "st_length_": 12.0000023233
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37500021560955,
+          51.340281409883538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 01/06",
+        "standort": "Markt",
+        "firma": "Wendl GmbH Konditorei & Bäckerei",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.brotagonist.de",
+        "st_area_sh": 78.0010383,
+        "st_length_": 40.400126674299997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374695841122779,
+          51.341029685962553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 10/04",
+        "standort": "Markt",
+        "firma": "Freiberger Zinn - Holger Küchenmeister",
+        "angebot": "allg. Handel",
+        "internet": "http://www.freiberger-zinn.de",
+        "st_area_sh": 9.00017668,
+        "st_length_": 12.000117788200001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374633849179949,
+          51.340339797848493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 09/05",
+        "standort": "Markt",
+        "firma": "Raebel OHG",
+        "angebot": "Bekleidung / Textil",
+        "internet": "http://www.raebel.de",
+        "st_area_sh": 26.99993222,
+        "st_length_": 24.000033911900001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374512675652687,
+          51.34028057650702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 20",
+        "standort": "Naschmarkt",
+        "firma": "Hieronymus-Lotter-Gesellschaft",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.lotter-gesellschaft.de",
+        "st_area_sh": 16.500453675,
+        "st_length_": 17.0002245433
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375718321393498,
+          51.340511634890291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "Foto",
+        "standort": "Nikolaikirchhof",
+        "firma": "cosmoproducts GmbH",
+        "angebot": "allg. Handel",
+        "internet": "http://www.cosmocard.de",
+        "st_area_sh": 1.00000628,
+        "st_length_": 4.0000125672299998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378558902287713,
+          51.340539518775422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "R 04",
+        "standort": "Reichsstraße",
+        "firma": "Schaustellerbetrieb Camillo Franzelius",
+        "angebot": "Süßwaren",
+        "internet": "http://www.breakdancer-no1.de",
+        "st_area_sh": 21.10558211,
+        "st_length_": 19.3002702416
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376491804169369,
+          51.341250803608013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "S 04",
+        "standort": "Salzgäßchen",
+        "firma": "Franz Wild GbR",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.wild-brennerei.de",
+        "st_area_sh": 12.180079405000001,
+        "st_length_": 14.2000572846
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375760644150075,
+          51.340952912945525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 12",
+        "standort": "Augustusplatz",
+        "firma": "Geduldsspiele-iiiKUH230",
+        "angebot": "allg. Handel",
+        "internet": "http://www.iii-kuh230.de",
+        "st_area_sh": 12.17997381,
+        "st_length_": 14.199975461899999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381027131023153,
+          51.339644298137344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "N 11",
+        "standort": "Nikolaikirchhof",
+        "firma": "ZIP-Me",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 12.179857375,
+        "st_length_": 14.1999412026
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378454802431685,
+          51.340528619017533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 10",
+        "standort": "Augustusplatz",
+        "firma": "Variété van Kroen",
+        "angebot": "Bekleidung / Textil",
+        "internet": "http://www.variete-van-kroen.com",
+        "st_area_sh": 12.17985529,
+        "st_length_": 14.1999486566
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380907570875216,
+          51.339592244597796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 11",
+        "standort": "Augustusplatz",
+        "firma": "Ligna Arts GbR",
+        "angebot": "allg. Handel",
+        "internet": "http://www.holz3dpuzzle.de",
+        "st_area_sh": 12.179947225,
+        "st_length_": 14.2000276392
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380966689149423,
+          51.339621528162041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 04",
+        "standort": "Augustusplatz",
+        "firma": "Edition Calvert",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.whiskypunsch.de",
+        "st_area_sh": 12.17986102,
+        "st_length_": 14.1999272689
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380924148924414,
+          51.339238197349644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 03",
+        "standort": "Augustusplatz",
+        "firma": "Greenlife Value GmbH",
+        "angebot": "allg. Handel",
+        "internet": "http://www.warmies.de",
+        "st_area_sh": 12.17986102,
+        "st_length_": 14.1999272689
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381086739247332,
+          51.33921344156294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 01",
+        "standort": "Augustusplatz",
+        "firma": "Hensel & Stache GbR",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.burgervereinleipzig.de",
+        "st_area_sh": 12.17986102,
+        "st_length_": 14.1999272689
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381076099966943,
+          51.339183457579956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 09",
+        "standort": "Augustusplatz",
+        "firma": "Drei p GmbH",
+        "angebot": "allg. Handel",
+        "internet": "http://www.dreip.de",
+        "st_area_sh": 12.180083615,
+        "st_length_": 14.200046652199999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380857524573681,
+          51.339553260416366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 04",
+        "standort": "Grimmaische Straße",
+        "firma": "Matthias Hentschke",
+        "angebot": "Bekleidung / Textil",
+        "internet": "http://www.hut-bude.de",
+        "st_area_sh": 16.50000486,
+        "st_length_": 18.199970499300001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37630494944394,
+          51.33982925969363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 01",
+        "standort": "Naschmarkt",
+        "firma": "Heureka Gastro GmbH & Co. KG",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.heureka-leipzig.de",
+        "st_area_sh": 28.495412005,
+        "st_length_": 37.137714476900001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375628134753365,
+          51.339953957513714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 14",
+        "standort": "Naschmarkt",
+        "firma": "Heureka Gastro GmbH & Co. KG",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.heureka-leipzig.de",
+        "st_area_sh": 26.152278585000001,
+        "st_length_": 36.304441852300002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375686803089366,
+          51.340325385403588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "NM 13",
+        "standort": "Naschmarkt",
+        "firma": "Heureka Gastro GmbH & Co. KG",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.heureka-leipzig.de",
+        "st_area_sh": 16.13658019,
+        "st_length_": 15.8471787514
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375625018245834,
+          51.340267612943087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 23",
+        "standort": "Petersstraße",
+        "firma": "Pasiina Oy - Arktischer Honig",
+        "angebot": "Nahrung + Genuss",
+        "internet": "http://www.arktischer-honig.com",
+        "st_area_sh": 15.91294575,
+        "st_length_": 16.200247472099999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374431335229689,
+          51.339730011713236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "StD 02",
+        "standort": "Augustusplatz",
+        "firma": "Brennerei Kapaurer",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.kapaurer-shop.com",
+        "st_area_sh": 13.199961315,
+        "st_length_": 15.7999784148
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379743665234628,
+          51.339005625110936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "N 12",
+        "standort": "Nikolaikirchhof",
+        "firma": "Margarita Degen",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 26.60031479,
+        "st_length_": 21.600051782400001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378346515137116,
+          51.340532532415907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "R 12A",
+        "standort": "Reichsstraße",
+        "firma": "Schaustellerbetrieb Silvia Felber",
+        "angebot": "Fahrgeschäft",
+        "internet": null,
+        "st_area_sh": 5.89777053,
+        "st_length_": 9.7689823974899994
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376644888967293,
+          51.340874497561032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 21",
+        "standort": "Augustusplatz",
+        "firma": "Sächsische Staatsweingut GmbH Schloß Wackerbarth",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.schloss-wackerbarth.de",
+        "st_area_sh": 24.119724715,
+        "st_length_": 20.599831641200002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380755573004842,
+          51.339669740243089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 24",
+        "standort": "Grimmaische Straße",
+        "firma": "Bäckerei Wendl GmbH - Käse-Alm",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.brotagonist.de",
+        "st_area_sh": 24.49989304,
+        "st_length_": 20.9999784488
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378841790778907,
+          51.339568166539543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 09",
+        "standort": "Grimmaische Straße",
+        "firma": "Mathias Straube",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 19.52994535,
+        "st_length_": 18.799956184300001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.377244912767186,
+          51.33978640769066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 16",
+        "standort": "Grimmaische Straße",
+        "firma": "Leder Jo - Katinka Oroz",
+        "angebot": "allg. Handel",
+        "internet": "http://www.theJOriginal.com",
+        "st_area_sh": 19.5301239,
+        "st_length_": 18.800047261100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378051014158583,
+          51.339683143005146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 18",
+        "standort": "Grimmaische Straße",
+        "firma": "Seyko Handelskontor",
+        "angebot": "allg. Handel",
+        "internet": "http://www.seyko-kerzen.de",
+        "st_area_sh": 14.57997724,
+        "st_length_": 16.199926523399999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378249021814939,
+          51.339657061315691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "G 07",
+        "standort": "Grimmaische Straße",
+        "firma": "Angelika Belger",
+        "angebot": "Bekleidung / Textil",
+        "internet": null,
+        "st_area_sh": 16.11989451,
+        "st_length_": 16.600023247100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.377091175772112,
+          51.339785539426721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "N 08A",
+        "standort": "Nikolaikirchhof",
+        "firma": "Feuerzangenbowle Wolf",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 21.535140525,
+        "st_length_": 20.298723857100001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379146139275319,
+          51.340539597101078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "P 24",
+        "standort": "Petersstraße",
+        "firma": "Alexander Birke Gastro- & Eventservice",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 9.869870745,
+        "st_length_": 13.100008304599999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374420005841824,
+          51.339786225235571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "R 05",
+        "standort": "Reichsstraße",
+        "firma": "Schaustellerbetrieb Danny Ortelt",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 28.69987051,
+        "st_length_": 22.200045609699998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376507275070869,
+          51.341358512598774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 31",
+        "standort": "Augustusplatz",
+        "firma": "Fellhandel Jablonski",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 19.49963208,
+        "st_length_": 18.999914421700002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.38132664695779,
+          51.339355525774806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "A 30",
+        "standort": "Augustusplatz",
+        "firma": "Plauderstübchen - Julia Tärrer",
+        "angebot": "Imbiss + Getränke",
+        "internet": null,
+        "st_area_sh": 22.40047658,
+        "st_length_": 19.8002079635
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381377816218814,
+          51.339415953651454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "R 03",
+        "standort": "Reichsstraße",
+        "firma": "Trdelnik Radek Luka",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.trdelnik.com",
+        "st_area_sh": 12.60013112,
+        "st_length_": 14.400072979000001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376514472073222,
+          51.34149080519461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "StD 06",
+        "standort": "Augustusplatz",
+        "firma": "Brennerei Kapaurer",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.kapaurer-shop.com",
+        "st_area_sh": 5.7598147,
+        "st_length_": 9.5998455842699997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379889138440133,
+          51.339069957555523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "StD 07",
+        "standort": "Augustusplatz",
+        "firma": "Brennerei Kapaurer",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.kapaurer-shop.com",
+        "st_area_sh": 5.7598147,
+        "st_length_": 9.5998455842699997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379786428949455,
+          51.338755920920384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 13/02",
+        "standort": "Markt",
+        "firma": "Casa Millefiori Egmont Schoendorf",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 17.999773515000001,
+        "st_length_": 17.999907861499999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374876969282001,
+          51.340122433348498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 01/04",
+        "standort": "Markt",
+        "firma": "TON Galeria - Olena Herold",
+        "angebot": "allg. Handel",
+        "internet": null,
+        "st_area_sh": 8.99992503,
+        "st_length_": 11.999950022
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374592434318759,
+          51.341111600118658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 05/05",
+        "standort": "Markt",
+        "firma": "Elsass Gastro",
+        "angebot": "Nahrung + Genuss",
+        "internet": null,
+        "st_area_sh": 8.99951026,
+        "st_length_": 11.9996735022
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374712562051513,
+          51.340744612994428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "F 04",
+        "standort": "Augustusplatz",
+        "firma": "Kalevala Spirit GmbH",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.kalevalaspirit.de",
+        "st_area_sh": 23.9998121,
+        "st_length_": 19.999912396199999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381109112299292,
+          51.338700709525376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "F 01",
+        "standort": "Augustusplatz",
+        "firma": "Kalevala Spirit GmbH",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.kalevalaspirit.de",
+        "st_area_sh": 24.000126474999998,
+        "st_length_": 20.0000554113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380722965803153,
+          51.338804774791562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 13/04",
+        "standort": "Markt",
+        "firma": "Wendl GmbH Konditorei & Bäckerei",
+        "angebot": "Nahrung + Genuss",
+        "internet": "http://www.brotagonist.de",
+        "st_area_sh": 18.0,
+        "st_length_": 18.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374774395658614,
+          51.340006401562434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 08/04",
+        "standort": "Markt",
+        "firma": "Eis Müller - J.&J. Müller",
+        "angebot": "Nahrung + Genuss",
+        "internet": "http://www.eis-mueller.com",
+        "st_area_sh": 27.00008339,
+        "st_length_": 24.000066728499998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374432139982998,
+          51.340174513343598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 02/05",
+        "standort": "Markt",
+        "firma": "Obstland Dürrweitschen AG",
+        "angebot": "Imbiss + Getränke",
+        "internet": "http://www.obstland.de",
+        "st_area_sh": 17.99980884,
+        "st_length_": 17.999856667300001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374908499453317,
+          51.341036660119393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 04/02",
+        "standort": "Markt",
+        "firma": "Traumrauch - Karin Uhlig",
+        "angebot": "allg. Handel",
+        "internet": "http://www.traumrauch.com",
+        "st_area_sh": 18.00052824,
+        "st_length_": 18.000213446499998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374514522375842,
+          51.340704791353758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 04/06",
+        "standort": "Markt",
+        "firma": "Terre GmbH",
+        "angebot": "allg. Handel",
+        "internet": "http://www.terre.de",
+        "st_area_sh": 9.00006724,
+        "st_length_": 12.0000448266
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374476967927881,
+          51.340604329741517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marktart": "Weihnachtsmarkt",
+        "teilnahme": "ja",
+        "hausnummer": "M 08/05",
+        "standort": "Markt",
+        "firma": "Perlkönig GmbH",
+        "angebot": "allg. Handel",
+        "internet": "http://www.perlkoenig.de",
+        "st_area_sh": 17.99986373,
+        "st_length_": 17.999981841099999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37444047611922,
+          51.340096305764483
+        ]
+      }
+    }
+  ]
+}

@@ -4,14 +4,98 @@
         {
             "type": "Feature",
             "properties": {
-                "Description": "Toilette Ottmachauer Steig (oberhalb Badestelle Ostufer)",
-                "isHandicappedAccessible": 0
+                "Description": "WC",
+                "isHandicappedAccessible": false
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.240574813,
-                    52.453581173
+                    12.378195959474889,
+                    51.34070059466335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Description": "WC",
+                "isHandicappedAccessible": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37481917205248,
+                    51.34007834662981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Description": "WC",
+                "isHandicappedAccessible": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37658428742815,
+                    51.341356010153106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Description": "WC",
+                "isHandicappedAccessible": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.38046710191676,
+                    51.338934434364006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Description": "WC",
+                "isHandicappedAccessible": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.380569076294067,
+                    51.33892838769374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Description": "WC",
+                "isHandicappedAccessible": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.380776437410715,
+                    51.33985574770309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Description": "WC",
+                "isHandicappedAccessible": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3781665325301,
+                    51.3406554196422
                 ]
             }
         }

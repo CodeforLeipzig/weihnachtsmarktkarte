@@ -50,8 +50,8 @@ const parseLeipzigLeben = async () => {
     })
 }
 
-const parseMarketWmf = async () => {
-  return readFileAsPromise('./markets_wmf.json')
+const parseJson = async (jsonFile) => {
+  return readFileAsPromise(jsonFile)
     .then((data) => {
       return JSON.parse(data)
     })
@@ -152,10 +152,97 @@ const groupToJson = ({ id, grouped }) => {
   return json
 }
 
-const c1 = parseLeipzigDe()
-const c2 = parseLeipzigLeben()
-const c3 = parseMarketWmf()
+const readInnerGeojson = () => {
+  return readFileAsPromise('./markets_inner.geojson')
+    .then((data) => {
+      const entries = JSON.parse(data).features;
+      const markets = []
+      var index = 500;
+      for (var i = 0; i < entries.length; i++) {
+        const entry = entries[i];
+        const coords = entry.geometry.coordinates;
+        const lat = coords[1];
+        const lng = coords[0];
+        const atts = entry.properties;
+        const train = ('Augustusplatz'.localeCompare(atts.standort) == 0) ? "Straßenbahn 4, 7, 12, 14, 15 (oder 8, 10, 11, 12, 14 auf Ostseite)" : "S1, S2, S3, S4, S5, S5X und S6 bis \"Leipzig, Markt\""
+        markets.push({
+          "id": index,
+          "bezirk": "Zentrum",
+          "name": 'Haus ' + atts.hausnummer,
+          "shortname": atts.firma,
+          "strasse": atts.standort,
+          "plz_ort": "04109 Leipzig",
+          "von": "22.11.22",
+          "bis": "23.12.22",
+          "veranstalter": atts.firma,
+          "oeffnungszeiten": "10:00-21:00",
+          "email": null,
+          "w3": atts.internet || "https://www.leipzig.de/freizeit-kultur-und-tourismus/einkaufen-und-ausgehen/maerkte/leipziger-weihnachtsmarkt",
+          "bemerkungen": null,
+          "lat": lat,
+          "lng": lng,
+          "RSS-Titel": atts.firma,
+          "RSS-Beschreibung": atts.angebot,
+          "immer-kostenlos": 1,
+          "Mo": "10:00-21:00",
+          "Di": "10:00-21:00",
+          "Mi": "10:00-21:00",
+          "Do": "10:00-21:00",
+          "Fr": "10:00-22:00",
+          "Sa": "10:00-22:00",
+          "So": "10:00-21:00",
+          "closed-exc": 0,
+          "hours-exc": 0,
+          "ignore": 0,
+          "merged": null,
+          "international": 0,
+          "action": 0,
+          "image": null,
+          "urheberschaft": null,
+          "train": train,
+          "train_distance": 72,
+          "short_distance": 1,
+        })
+        index++;
+      }
+      return markets
+    })
+    .catch((err) => {
+      throw err
+    })
+}
 
+const readToiletsInner = () => {
+  return readFileAsPromise('./markets_inner_auxiliary.geojson').then((data) => {
+    const toilets = JSON.parse(data);
+    const features = [];
+    for (feature of toilets.features) {
+      const art = feature.properties.objektart;
+      if (art == 'WC / Behinderten-WC' || art == 'WC') {
+        features.push(
+          {
+            "type": "Feature",
+            "properties": {
+              "Description": "WC",
+              "isHandicappedAccessible": (art == 'WC / Behinderten-WC')
+            },
+            "geometry": feature.geometry
+          }
+        );
+      }
+    }
+    return {
+      "type": "FeatureCollection",
+      "features": features
+    }
+  }).catch((err) => {
+    throw err
+  })
+}
+
+const c2 = parseLeipzigLeben()
+
+const c1 = parseLeipzigDe()
 c1.then((data) => {
   const grouped = groupByLoc(data)
   var index = 0
@@ -174,9 +261,41 @@ c1.then((data) => {
   )
 })
 
+const c3 = parseJson('./markets_wmf.json')
 c3.then((data) => {
   const csvContent = jsonToCsv(data)
   fs.writeFile('markets.csv', csvContent, (err) => {
     if (err) throw err
   })
+})
+
+const c4 = readInnerGeojson();
+c4.then((data) => {
+  const sorted = data.sort((a, b) => a.name.localeCompare(b.name))
+  fs.writeFile(
+    'output_inner.json',
+    '[' + sorted.map((entry) => JSON.stringify(entry, null, 2)).join(',') + ']',
+    (err) => {
+      if (err) throw err
+    }
+  )
+})
+
+const c5 = parseJson('./output_inner.json')
+c5.then((data) => {
+  const csvContent = jsonToCsv(data)
+  fs.writeFile('markets_inner.csv', csvContent, (err) => {
+    if (err) throw err
+  })
+})
+
+const c6 = readToiletsInner();
+c6.then((data) => {
+  fs.writeFile(
+    'toilets.geojson',
+    JSON.stringify(data, null, 2),
+    (err) => {
+      if (err) throw err
+    }
+  )
 })
