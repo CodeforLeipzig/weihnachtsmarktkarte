@@ -105,6 +105,7 @@ const MapSite: NextPage = (mapData: any) => {
 
   // load snow on first load
   useEffect(() => {
+    setMarketFilterDate(new Date());
     if (typeof window !== 'undefined') {
       const script = document.createElement('script')
       script.src = 'snowstorm.js'
