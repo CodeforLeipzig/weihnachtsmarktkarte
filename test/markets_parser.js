@@ -155,55 +155,62 @@ const groupToJson = ({ id, grouped }) => {
 const readInnerGeojson = () => {
   return readFileAsPromise('./markets_inner.geojson')
     .then((data) => {
-      const entries = JSON.parse(data).features;
+      const entries = JSON.parse(data).features
       const markets = []
-      var index = 500;
+      var index = 500
       for (var i = 0; i < entries.length; i++) {
-        const entry = entries[i];
-        const coords = entry.geometry.coordinates;
-        const lat = coords[1];
-        const lng = coords[0];
-        const atts = entry.properties;
-        const train = ('Augustusplatz'.localeCompare(atts.standort) == 0) ? "Straßenbahn 4, 7, 12, 14, 15 (oder 8, 10, 11, 12, 14 auf Ostseite)" : "S1, S2, S3, S4, S5, S5X und S6 bis \"Leipzig, Markt\""
+        const entry = entries[i]
+        const coords = entry.geometry.coordinates
+        const lat = coords[1]
+        const lng = coords[0]
+        const atts = entry.properties
+        const train =
+          'Augustusplatz'.localeCompare(atts.standort) == 0
+            ? 'Straßenbahn 4, 7, 12, 14, 15 (oder 8, 10, 11, 12, 14 auf Ostseite)'
+            : 'S1, S2, S3, S4, S5, S5X und S6 bis "Leipzig, Markt"'
         markets.push({
-          "id": index,
-          "bezirk": "Zentrum",
-          "name": 'Haus ' + atts.hausnummer,
-          "shortname": atts.firma,
-          "strasse": atts.standort,
-          "plz_ort": "04109 Leipzig",
-          "von": "22.11.22",
-          "bis": "23.12.22",
-          "veranstalter": atts.firma,
-          "oeffnungszeiten": "10:00-21:00",
-          "email": null,
-          "w3": atts.internet || "https://www.leipzig.de/freizeit-kultur-und-tourismus/einkaufen-und-ausgehen/maerkte/leipziger-weihnachtsmarkt",
-          "bemerkungen": null,
-          "lat": lat,
-          "lng": lng,
-          "RSS-Titel": atts.firma,
-          "RSS-Beschreibung": atts.angebot,
-          "immer-kostenlos": 1,
-          "Mo": "10:00-21:00",
-          "Di": "10:00-21:00",
-          "Mi": "10:00-21:00",
-          "Do": "10:00-21:00",
-          "Fr": "10:00-22:00",
-          "Sa": "10:00-22:00",
-          "So": "10:00-21:00",
-          "closed-exc": 0,
-          "hours-exc": 0,
-          "ignore": 0,
-          "merged": null,
-          "international": 0,
-          "action": 0,
-          "image": null,
-          "urheberschaft": null,
-          "train": train,
-          "train_distance": 72,
-          "short_distance": 1,
+          id: index,
+          bezirk: 'Zentrum',
+          name: 'Haus ' + atts.hausnummer,
+          shortname: atts.firma,
+          strasse: atts.standort,
+          plz_ort: '04109 Leipzig',
+          von: '22.11.22',
+          bis: '23.12.22',
+          veranstalter: atts.firma,
+          oeffnungszeiten: '10:00-21:00',
+          email: null,
+          w3:
+            atts.internet ||
+            'https://www.leipzig.de/freizeit-kultur-und-tourismus/einkaufen-und-ausgehen/maerkte/leipziger-weihnachtsmarkt',
+          bemerkungen: null,
+          lat: lat,
+          lng: lng,
+          'RSS-Titel': atts.firma,
+          'RSS-Beschreibung': atts.angebot,
+          'immer-kostenlos': 1,
+          Mo: '10:00-21:00',
+          Di: '10:00-21:00',
+          Mi: '10:00-21:00',
+          Do: '10:00-21:00',
+          Fr: '10:00-22:00',
+          Sa: '10:00-22:00',
+          So: '10:00-21:00',
+          'closed-exc': 0,
+          'hours-exc':
+            '01.12.22=10:00-22:00,02.12.22=10:00-22:00,08.12.22=10:00-22:00,09.12.22=10:00-22:00,15.12.22=10:00-22:00,16.12.22=10:00-22:00,22.12.22=10:00-22:00,23.12.22=10:00-22:00',
+          'hours-exc-readable': null,
+          ignore: 0,
+          merged: null,
+          international: 0,
+          action: 0,
+          image: null,
+          urheberschaft: null,
+          train: train,
+          train_distance: 72,
+          short_distance: 1,
         })
-        index++;
+        index++
       }
       return markets
     })
@@ -213,31 +220,31 @@ const readInnerGeojson = () => {
 }
 
 const readToiletsInner = () => {
-  return readFileAsPromise('./markets_inner_auxiliary.geojson').then((data) => {
-    const toilets = JSON.parse(data);
-    const features = [];
-    for (feature of toilets.features) {
-      const art = feature.properties.objektart;
-      if (art == 'WC / Behinderten-WC' || art == 'WC') {
-        features.push(
-          {
-            "type": "Feature",
-            "properties": {
-              "Description": "WC",
-              "isHandicappedAccessible": (art == 'WC / Behinderten-WC')
+  return readFileAsPromise('./markets_inner_auxiliary.geojson')
+    .then((data) => {
+      const toilets = JSON.parse(data)
+      const features = []
+      for (feature of toilets.features) {
+        const art = feature.properties.objektart
+        if (art == 'WC / Behinderten-WC' || art == 'WC') {
+          features.push({
+            type: 'Feature',
+            properties: {
+              Description: 'WC',
+              isHandicappedAccessible: art == 'WC / Behinderten-WC',
             },
-            "geometry": feature.geometry
-          }
-        );
+            geometry: feature.geometry,
+          })
+        }
       }
-    }
-    return {
-      "type": "FeatureCollection",
-      "features": features
-    }
-  }).catch((err) => {
-    throw err
-  })
+      return {
+        type: 'FeatureCollection',
+        features: features,
+      }
+    })
+    .catch((err) => {
+      throw err
+    })
 }
 
 const c2 = parseLeipzigLeben()
@@ -269,7 +276,7 @@ c3.then((data) => {
   })
 })
 
-const c4 = readInnerGeojson();
+const c4 = readInnerGeojson()
 c4.then((data) => {
   const sorted = data.sort((a, b) => a.name.localeCompare(b.name))
   fs.writeFile(
@@ -289,13 +296,9 @@ c5.then((data) => {
   })
 })
 
-const c6 = readToiletsInner();
+const c6 = readToiletsInner()
 c6.then((data) => {
-  fs.writeFile(
-    'toilets.geojson',
-    JSON.stringify(data, null, 2),
-    (err) => {
-      if (err) throw err
-    }
-  )
+  fs.writeFile('toilets.geojson', JSON.stringify(data, null, 2), (err) => {
+    if (err) throw err
+  })
 })

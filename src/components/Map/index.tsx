@@ -103,7 +103,7 @@ export const MapComponent: FC<MapComponentType> = ({
 
   const markers = useMemo(
     () =>
-      marketsData.map((feature: any) => (
+      marketsData.filter((feature: any) => !feature.hideFeature).map((feature: any) => (
         <Marker
           longitude={feature.lng}
           latitude={feature.lat}

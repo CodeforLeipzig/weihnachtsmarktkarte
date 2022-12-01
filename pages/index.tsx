@@ -123,6 +123,7 @@ const MapSite: NextPage = (mapData: any) => {
   useEffect(() => {
     const newData = filterMarkets(
       marketsData,
+      marketFilterDate || new Date(),
       marketFilterInternational,
       marketFilterCosts,
       marketFilterDate,

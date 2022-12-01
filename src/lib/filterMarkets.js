@@ -23,6 +23,14 @@ function checkOpenOnDay(date, d) {
   }
 }
 
+function isBeforeDate(todayOrSelected, dateStr) {
+  return (
+    todayOrSelected &&
+    dateStr &&
+    toDate(dateStr.trim()).getTime() < todayOrSelected.getTime()
+  )
+}
+
 function openOnDate(date, d) {
   //check for exceptions
   if (d['closed-exc'] !== '0') {
@@ -105,6 +113,7 @@ function openLate(d, date) {
 
 export function filterMarkets(
   data,
+  todayOrSelected,
   marketFilterInternational,
   marketFilterCosts,
   marketFilterDate,
@@ -114,6 +123,11 @@ export function filterMarkets(
 ) {
   data.forEach((d) => {
     d.inaktiv = false
+    d.hideFeature = false
+    if (isBeforeDate(todayOrSelected, d['bis'])) {
+      d.hideFeature = true
+      return
+    }
     if (marketFilterCosts && d['immer-kostenlos'] === '0') {
       d.inaktiv = true
       return

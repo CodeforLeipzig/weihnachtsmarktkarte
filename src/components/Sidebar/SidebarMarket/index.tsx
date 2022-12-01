@@ -39,13 +39,9 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
   const hasImage = marketData.image
 
   const TimeExeption: FC<TimeExeptionType> = ({ hoursExc }) => {
-    const data = hoursExc.split(',')
     return (
       <div className="text-sm italic pt-2 text-gray-500">
-        <p>* Ausnahmen:</p>
-        {data.map((d: string, i: number) => (
-          <p key={'ex' + i}>{d.split('=')[0] + ': ' + d.split('=')[1]}</p>
-        ))}
+        <p>* Ausnahmen: {hoursExc}</p>
       </div>
     )
   }
@@ -117,7 +113,7 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
 
           {marketData['closed-exc'] !== '0' && (
             <p className="text-sm italic pt-0 text-gray-500">
-              * geschlossen am {marketData['closed-exc']}
+              * geschlossen am {marketData['closed-exc-readable']}
             </p>
           )}
         </MarketInfo>
@@ -145,8 +141,8 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
             ))}
           </ul>
 
-          {marketData['hours-exc'] !== '0' && (
-            <TimeExeption hoursExc={marketData['hours-exc']} />
+          {marketData['hours-exc-readable'] && (
+            <TimeExeption hoursExc={marketData['hours-exc-readable']} />
           )}
         </MarketInfo>
 
