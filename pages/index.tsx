@@ -1,4 +1,6 @@
 import type { NextPage } from 'next'
+import dynamic from 'next/dynamic'
+
 import { useState, useEffect } from 'react'
 // import { snowStorm } from '@lib/snowstorm'
 
@@ -21,6 +23,15 @@ import { IntroModal } from '@components/IntroModal'
 
 import { getMapData } from '@lib/loadMapData'
 import { filterMarkets } from '@lib/filterMarkets'
+
+import { AudioEntry } from '@components/MusicPlayer'
+
+const MusicPlayer = dynamic(
+  () => import('@components/MusicPlayer'),
+  { ssr: false }
+)
+
+const tracks: Array<AudioEntry> = require('@lib/audio.json');
 
 export async function getStaticProps() {
   const mapData = getMapData()
@@ -168,6 +179,7 @@ const MapSite: NextPage = (mapData: any) => {
         id="snowId"
         className="w-full h-full absolute z-50 pointer-events-none overflow-hidden"
       ></div>
+      <MusicPlayer tracks={tracks} />
       <IntroModal
         modalOpen={modalOpen}
         setModalOpen={setModalOpen}

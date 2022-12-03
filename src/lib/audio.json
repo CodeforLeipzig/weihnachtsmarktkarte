@@ -1,0 +1,77 @@
+[
+  {
+    "music": {
+      "name": "Leise rieselt der Schnee",
+      "src": "audio/leise-rieselt-der-schnee-snow-falls-softly-at-night-angel-choir-10788.ogg",
+      "url": "https://pixabay.com/de/music/weihnachten-leise-rieselt-der-schnee-snow-falls-softly-at-night-angel-choir-10788/"
+    },
+    "author": {
+      "name": "JuliusH",
+      "url": "https://pixabay.com/de/users/juliush-3921568/"
+    },
+    "website": {
+      "name": "Pixabay Music",
+      "url": "https://pixabay.com/de/music/"
+    }
+  },
+  {
+    "author": {
+      "name": "Grand Project",
+      "url": "https://pixabay.com/de/users/grand_project-19033897/"
+    },
+    "music": {
+      "name": "Jingle Bells",
+      "src": "audio/jingle-bells-orchestra-127418.ogg",
+      "url": "https://pixabay.com/de/music/weihnachten-jingle-bells-orchestra-127418/"
+    },
+    "website": {
+      "name": "Pixabay Music",
+      "url": "https://pixabay.com/de/music/"
+    }
+  },
+  {
+    "music": {
+      "name": "O du fröhliche Weihnachtszeit",
+      "src": "audio/oh-you-joyful-o-du-frohliche-weihnachtszeit-carol-piano-1800.ogg",
+      "url": "https://pixabay.com/de/music/weihnachten-oh-you-joyful-o-du-frohliche-weihnachtszeit-carol-piano-1800/"
+    },
+    "author": {
+      "name": "JuliusH",
+      "url": "https://pixabay.com/de/users/juliush-3921568/"
+    },
+    "website": {
+      "name": "Pixabay Music",
+      "url": "https://pixabay.com/de/music/"
+    }
+  },
+  {
+    "music": {
+      "name": "Wish you a merry christmas",
+      "src": "audio/we-wish-you-a-merry-christmas-125995.ogg",
+      "url": "https://pixabay.com/de/music/weihnachten-we-wish-you-a-merry-christmas-125995/"
+    },
+    "author": {
+      "name": "Playsound",
+      "url": "https://pixabay.com/de/users/playsound-24686998/"
+    },
+    "website": {
+      "name": "Pixabay Music",
+      "url": "https://pixabay.com/de/music/"
+    }
+  },
+  {
+    "music": {
+      "name": "Stille Nacht",
+      "src": "audio/silent-night-127419.ogg",
+      "url": "https://pixabay.com/de/music/weihnachten-silent-night-127419/"
+    },
+    "author": {
+      "name": "Grand Project",
+      "url": "https://pixabay.com/de/users/grand_project-19033897/"
+    },
+    "website": {
+      "name": "Pixabay Music",
+      "url": "https://pixabay.com/de/music/"
+    }
+  }
+]
