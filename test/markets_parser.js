@@ -72,6 +72,27 @@ const jsonToCsv = (data) => {
   return lines.reduce((prev, curr) => prev + '\n' + curr)
 }
 
+const jsonToGeojson = (data) => {
+  const entries = [];
+  for (var i = 0; i < data.length; i++) {
+    const props = data[i];
+    const entry = {
+      "type": "Feature",
+      "properties": props,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          props.lng,
+          props.lat
+        ]
+      }
+    }
+    entries.push(JSON.stringify(entry, null, 2));
+  }
+  const main = JSON.stringify({ "type": "FeatureCollection", "name": "markets", "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } }, "features": [] }, null, 2);
+  return main.replace("\"features\": []", "\"features\": [" + entries.reduce((prev, curr) => prev + ',' + curr) + "]")
+}
+
 const groupByLoc = (data) => {
   const map = new Map()
   data.map((entry) => {
@@ -274,6 +295,10 @@ const c3 = parseJson('./markets_wmf.json')
 c3.then((data) => {
   const csvContent = jsonToCsv(data)
   fs.writeFile('markets.csv', csvContent, (err) => {
+    if (err) throw err
+  })
+  const geojson = jsonToGeojson(data);
+  fs.writeFile('markets.geojson', geojson, (err) => {
     if (err) throw err
   })
 })
