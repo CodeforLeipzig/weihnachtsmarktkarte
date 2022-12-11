@@ -133,7 +133,9 @@ const groupToJson = ({ id, grouped }) => {
     Sa: 0,
     So: 0,
     'closed-exc': 0,
+    'closed-exc-readable': null,
     'hours-exc': 0,
+    'hours-exc-readable': null,
     ignore: 0,
     merged: null,
     international: 0,
@@ -166,7 +168,7 @@ const readInnerGeojson = () => {
         const atts = entry.properties
         const train =
           'Augustusplatz'.localeCompare(atts.standort) == 0
-            ? 'Straßenbahn 4, 7, 12, 14, 15 (oder 8, 10, 11, 12, 14 auf Ostseite)'
+            ? 'Straßenbahn 4, 7, 12, 14, 15 (oder 8, 10, 11, 14 auf Ostseite)'
             : 'S1, S2, S3, S4, S5, S5X und S6 bis "Leipzig, Markt"'
         markets.push({
           id: index,
@@ -197,8 +199,8 @@ const readInnerGeojson = () => {
           Sa: '10:00-22:00',
           So: '10:00-21:00',
           'closed-exc': 0,
-          'hours-exc':
-            '01.12.22=10:00-22:00,02.12.22=10:00-22:00,08.12.22=10:00-22:00,09.12.22=10:00-22:00,15.12.22=10:00-22:00,16.12.22=10:00-22:00,22.12.22=10:00-22:00,23.12.22=10:00-22:00',
+          'closed-exc-readable': null,
+          'hours-exc': '01.12.22=10:00-22:00,02.12.22=10:00-22:00,08.12.22=10:00-22:00,09.12.22=10:00-22:00,15.12.22=10:00-22:00,16.12.22=10:00-22:00,22.12.22=10:00-22:00,23.12.22=10:00-22:00',
           'hours-exc-readable': null,
           ignore: 0,
           merged: null,

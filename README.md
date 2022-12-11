@@ -5,9 +5,9 @@ The Leipzig Weihnachtsmarktkarte (Leipzig Christmas market map) is an interactiv
 ![Map](/public/social-image.jpg)
 
 ## Context
-   
+
 This is a fork of [x-mas market map](https://github.com/technologiestiftung/weihnachtsmarktkarte) originally developed by Technologie-Stiftung Berlin.
-   
+
 ## Data sources
 This could have been a wonderful use case of open data ;)
 
