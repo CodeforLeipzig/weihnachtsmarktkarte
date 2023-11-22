@@ -21,6 +21,8 @@ import { MapNav } from '@components/MapNav'
 import { SnowNav } from '@components/SnowNav'
 import { IntroModal } from '@components/IntroModal'
 
+import { WeatherOverlay } from '@components/WeatherOverlay'
+
 import { getMapData } from '@lib/loadMapData'
 import { filterMarkets } from '@lib/filterMarkets'
 
@@ -65,6 +67,8 @@ const MapSite: NextPage = (mapData: any) => {
   const [marketId, setMarketId] = useState<string | number | null>(null)
   const [marketData, setMarketData] = useState<any>()
   const [marketFilterInternational, setMarketFilterInternational] =
+    useState<boolean>(false)
+  const [marketFilterAccessible, setMarketFilterAccessible] =
     useState<boolean>(false)
   const [marketFilterCosts, setMarketFilterCosts] = useState<boolean>(false)
   const [marketFilterDate, setMarketFilterDate] = useState<Date | boolean>(
@@ -136,6 +140,7 @@ const MapSite: NextPage = (mapData: any) => {
       marketsData,
       marketFilterDate || new Date(),
       marketFilterInternational,
+      marketFilterAccessible,
       marketFilterCosts,
       marketFilterDate,
       marketFilterAction,
@@ -146,6 +151,7 @@ const MapSite: NextPage = (mapData: any) => {
     setMarketsData(JSON.parse(JSON.stringify(newData)))
   }, [
     marketFilterInternational,
+    marketFilterAccessible,
     marketFilterCosts,
     marketFilterDate,
     marketFilterAction,
@@ -198,6 +204,8 @@ const MapSite: NextPage = (mapData: any) => {
           <SidebarContentFilter
             marketFilterInternational={marketFilterInternational}
             setMarketFilterInternational={setMarketFilterInternational}
+            marketFilterAccessible={marketFilterAccessible}
+            setMarketFilterAccessible={setMarketFilterAccessible}
             marketFilterCosts={marketFilterCosts}
             setMarketFilterCosts={setMarketFilterCosts}
             marketFilterDate={marketFilterDate}
@@ -234,6 +242,11 @@ const MapSite: NextPage = (mapData: any) => {
         setMarketId={setMarketId}
       />
       <SnowNav></SnowNav>
+      <WeatherOverlay
+        marketFilterDate={marketFilterDate}
+        setSidebarMenuOpen={setSidebarMenuOpen}
+      />
+
       <MapComponent
         mapData={mapData}
         marketsData={marketsData}

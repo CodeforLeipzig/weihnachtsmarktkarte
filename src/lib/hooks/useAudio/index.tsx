@@ -13,7 +13,7 @@ export default (track: AudioEntry, handleSongEnd: () => void) => {
     return audio;
   }
   const audio = useMemo(() => createAudio(track.music.src), []);
-  const udpateAudio = (track: AudioEntry) => {
+  const updateAudio = (track: AudioEntry) => {
     audio.pause()
     audio.setAttribute('src', track.music.src);
     audio.load();
@@ -24,5 +24,5 @@ export default (track: AudioEntry, handleSongEnd: () => void) => {
   useEffect(() => {
     audio.addEventListener('ended', () => handleSongEnd());
   }, []);
-  return { playing, toggle, udpateAudio };
+  return { playing, toggle, updateAudio };
 };

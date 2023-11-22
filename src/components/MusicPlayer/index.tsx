@@ -40,7 +40,7 @@ const MusicPlayer: FC<MusicPlayerProps> = ({ tracks }) => {
   });
   const handleSongEnd = () => next();
   const [track, setTrack] = useState<AudioEntry>(tracks[0]);
-  const { playing, toggle, udpateAudio } = useAudio(track, handleSongEnd)
+  const { playing, toggle, updateAudio } = useAudio(track, handleSongEnd)
 
   const link = (entry: NameAndUrl) => (<a href={entry.url} target="_blank" rel="noopener noreferrer">{entry.name}</a>)
 
@@ -56,7 +56,7 @@ const MusicPlayer: FC<MusicPlayerProps> = ({ tracks }) => {
   }, [current]);
 
   useEffect(() => {
-    udpateAudio(track);
+    updateAudio(track);
   }, [track]);
 
   return (

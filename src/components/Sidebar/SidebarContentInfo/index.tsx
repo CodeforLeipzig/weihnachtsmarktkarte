@@ -5,13 +5,14 @@ import { SidebarBody } from '@components/Sidebar/SidebarBody'
 
 import { CitylabLogo } from '@components/Logos/CitylabLogo'
 import { OdisLogo } from '@components/Logos/OdisLogo'
+import { SenWebLogo } from '@components/Logos/SenWebLogo'
 import { TsbLogo } from '@components/Logos/TsbLogo'
 import { Accordion } from '@components/Accordion'
-import { SenInLogo } from '@components/Logos/SenInLogo'
+import { SenatskanzleiLogo } from '@components/Logos/SenatskanzleiLogo'
 
-export interface SidebarContentInfoType { }
+export interface SidebarContentInfoType {}
 
-export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
+export const SidebarContentInfo: FC<SidebarContentInfoType> = ({}) => {
   return (
     <>
       <SidebarHeader text="Über den Finder" />
@@ -63,6 +64,39 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
                 >
                   OpenStreetMap{' '}
                 </a>.
+                <br />
+                Die Musik kommt von
+                <a
+                  target="blank"
+                  href="https://pixabay.com"
+                  className="text-gold"
+                >
+                  {' '}
+                  Pixabay Music
+                </a>
+                .
+                <br />
+                Die Wetterdaten stammen vom{' '}
+                <a
+                  target="blank"
+                  href="https://www.dwd.de/DE/leistungen/opendata/opendata.html"
+                  className="text-gold"
+                >
+                  Deutschen Wetterdienst (DWD)
+                </a>
+                , der im Rahmen seines Open-Data-Programms eine Vielzahl von
+                meteorologischen Beobachtungen und Berechnungen
+                veröffentlicht. Das Open-Source-Projekt{' '}
+                <a
+                  target="blank"
+                  href="https://brightsky.dev/"
+                  className="text-gold"
+                >
+                  BrightSky
+                </a>
+                , bietet eine kostenlose JSON-API an, um Wetterdaten ganz
+                einfach abzufragen. So können die Wettervorhersagen für
+                Leipzig stundengenau dargestellt werden.
               </p>
             </>
         }]} />
@@ -214,7 +248,7 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Open Data Informationsstelle Berlin"
-            // className={}
+              // className={}
             >
               <OdisLogo className={`w-40`} />
             </a>
@@ -231,15 +265,18 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
               <CitylabLogo className={`w-36`} />
             </a>
           </div> */}
-        </section>        
+          <div className="flex flex-col">
+            <span className="text-sm mb-2">Gefördert von</span>
+            <SenatskanzleiLogo className="w-40" />
+          </div>
+        </section>
       </SidebarBody>
-
       <footer className={classNames('mt-8 p-4', 'flex flex-wrap')}>
         <span className="text-xs w-full mb-4">
-          © 2022 Technologiestiftung Berlin
+          © 2023 Technologiestiftung Berlin
         </span>
         <a
-          href="https://codefor.de/impressum/"
+          href="https://www.technologiestiftung-berlin.de/de/impressum/"
           className={`text-xs hover:underline mr-4`}
           target="_blank"
           rel="noreferrer"
@@ -247,7 +284,7 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
           Impressum
         </a>
         <a
-          href="https://codefor.de/datenschutz/"
+          href="https://www.technologiestiftung-berlin.de/de/datenschutz/"
           className={`text-xs hover:underline`}
           target="_blank"
           rel="noreferrer"

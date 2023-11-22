@@ -1,4 +1,4 @@
-import { FC, useEffect, useState } from 'react'
+import { FC, useState, useEffect } from 'react'
 
 import { format } from 'date-fns'
 import { DayPicker } from 'react-day-picker'
@@ -43,15 +43,16 @@ font-size: 16px
 `
   const [defaultMonth, setDefaultMonth] = useState<Date>()
   const [today, setToday] = useState<Date>()
-  const fromMonth = new Date(2022, 10);
-  const toDate = new Date(2023, 0, 4);
+  const fromMonth = new Date(2023, 10)
+  const toDate = new Date(2024, 0, 7)
 
   useEffect(() => {
-    const today = new Date();
-    const maxOrToday = today.getTime() > toDate.getTime() ? toDate : today;
-    setToday(maxOrToday);
-    setDefaultMonth(new Date(maxOrToday.getFullYear(), maxOrToday.getMonth()));
+    const today = new Date()
+    const maxOrToday = today.getTime() > toDate.getTime() ? toDate : today
+    setToday(maxOrToday)
+    setDefaultMonth(new Date(maxOrToday.getFullYear(), maxOrToday.getMonth()))
   }, [])
+
   return (
     <>
       <div className="self-center">
@@ -66,10 +67,10 @@ font-size: 16px
             mouseover: '!bg-gold',
           }}
           defaultMonth={defaultMonth}
+          today={today}
           fromMonth={fromMonth}
           toDate={toDate}
           locale={de}
-          today={today}
           weekStartsOn={1}
         />
       </div>

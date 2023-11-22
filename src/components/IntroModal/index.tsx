@@ -45,12 +45,12 @@ export const IntroModal: FC<IntroModalType> = ({
           <div className="flex min-h-full items-center justify-center p-4 leading-7">
             <Dialog.Panel className="border-2 border-gold/50  bg-darkblue text-lightblue/90 max-h-full p-6 max-w-xs md:max-w-none filter drop-shadow-lg rounded-lg md:min-w-xl md:w-1/2 mx-auto transition-all">
               <button
-                className="text-lightblue focus:outline-none top-0 right-0 m-2 absolute cursor-pointer z-20 hover:bg-gold rounded-full p-2"
+                className="text-lightblue focus:outline-none top-0 right-0 m-1 absolute cursor-pointer z-20 hover:bg-gold rounded-full p-2"
                 onClick={closeModal}
               >
                 <Cross />
               </button>
-              <h2 className="font-bold text-2xl pb-2 pt-2">
+              <h2 className="font-bold text-2xl pb-2 pt-2 text-lightblue/80">
                 Leipziger Weihnachtsmarkt-Finder
                 <img
                   src="./stern_ausgewaehlt.png"
@@ -86,18 +86,18 @@ export const IntroModal: FC<IntroModalType> = ({
               </button>
 
               <div className="grid md:grid-cols-[1fr,auto] gap-4 mt-4 md:mt-6">
-                <p className="text-xs mb-2 md:mb-0 text-gray-500 max-w-md pt-4">
+                <p className="text-xs mb-2 md:mb-0 text-gray-500 w-11/12 md:w-full pt-4">
                   <i>
                     Eine prototypische Datenvisualisierung der Open Data
                     Informationsstelle Berlin in Zusammenarbeit mit dem CityLAB
                     Berlin (Adaption für Leipzig durch Code for Leipzig)
                   </i>
                 </p>
-                <div className="inline-block ml-4 md:flex self-center">
+                <div className="ml-2 flex self-center w-10/12">
                   <div className="w-32">
                     <TsbLogo className={`w-30`} />
                   </div>
-                  <div className="w-32 pt-2 mr-8 md:mt-0 self-center">
+                  <div className="w-32 pt-2 mr-8 md:mt-0 self-center md:pl-4">
                     <OdisLogo className={`w-30`} />
                   </div>
                 </div>

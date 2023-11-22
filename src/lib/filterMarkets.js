@@ -115,6 +115,7 @@ export function filterMarkets(
   data,
   todayOrSelected,
   marketFilterInternational,
+  marketFilterAccessible,
   marketFilterCosts,
   marketFilterDate,
   marketFilterAction,
@@ -129,6 +130,10 @@ export function filterMarkets(
       return
     }
     if (marketFilterCosts && d['immer-kostenlos'] === '0') {
+      d.inaktiv = true
+      return
+    }
+    if (marketFilterAccessible && d['barrierefrei'] === '0') {
       d.inaktiv = true
       return
     }

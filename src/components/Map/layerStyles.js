@@ -46,7 +46,7 @@ export const layerStyles = {
       'text-anchor': 'bottom',
       'text-radial-offset': 0.7,
       'text-justify': 'auto',
-      'icon-image': 'square',
+      //'icon-image': 'square',
     },
   },
 }
