@@ -1,27 +1,11 @@
 {
   "markets": [
     {
-      "name": "Der kauzige Wintermarkt",
-      "description": "MARKTSTÄNDE, Musik & Naschereien für Kleine und Große",
-      "location": "Was? MARKTSTÄNDE, Musik & Naschereien für Kleine und Große",
-      "time": "Mi bis So immer 16 bis 22 Uhr",
-      "date": "Was? MARKTSTÄNDE, Musik & Naschereien für Kleine und GroßeWo? Herr KAUZIG, Jahnallee 52Wann? Mi bis So immer 16 bis 22 Uhr",
-      "w3c": "https://www.facebook.com/events/349672897722976/349672987722967/"
-    },
-    {
-      "name": "Mühlen-Glühen ",
-      "description": "MÜHLEN-GLÜHEN mit Kindertheater, Verkaufsständen, kulinarischer Versorgung und anschließender Disko statt.",
-      "location": "Was? MÜHLEN-GLÜHEN mit Kindertheater, Verkaufsständen, kulinarischer Versorgung und anschließender Disko statt.",
-      "time": "ab 15 Uhr",
-      "date": "Was? MÜHLEN-GLÜHEN mit Kindertheater, Verkaufsständen, kulinarischer Versorgung und anschließender Disko statt.Wo? Neuseenmühle: Berndorf 28, 04539 GroitzschWann? ab 15 Uhr",
-      "w3c": "https://neuseenmuehle.de/Veranstaltungen.html"
-    },
-    {
       "name": "Eutritzscher Hinterhof-Advent",
       "description": "Adventsflohmarkt mit Punsch & Feuer in den Höfen",
-      "location": "Was? Adventsflohmarkt mit Punsch & Feuer in den Höfen",
+      "location": "Übersicht der teilnehmenden Höfe",
       "time": "12 bis 18 Uhr",
-      "date": "Was? Adventsflohmarkt mit Punsch & Feuer in den HöfenWo? Übersicht der teilnehmenden HöfeWann? 12 bis 18 Uhr",
+      "date": "25.11.2023",
       "w3c": "https://www.leipzig-leben.de/wp-content/uploads/2023/08/Flyer-Hofflohmarkt-Nov-rendered_231112_120905.pdf"
     },
     {
@@ -33,28 +17,6 @@
       "w3c": "https://neuseenmuehle.de/Veranstaltungen.html"
     },
     {
-      "name": "Leipziger Weihnachtsmarkt // Marktplatz",
-      "description": "Der klassische Weihnachtsmarkt auf dem Leipziger Marktplatz ist die zentrale Anlaufstelle für Glühwein, Kräppelchen und Heimlichkeiten.",
-      "location": "Was? Der klassische Weihnachtsmarkt auf dem Leipziger Marktplatz ist die zentrale Anlaufstelle für Glühwein, Kräppelchen und Heimlichkeiten.",
-      "time": "Was? Der klassische Weihnachtsmarkt auf dem Leipziger Marktplatz ist die zentrale Anlaufstelle für Glühwein, Kräppelchen und Heimlichkeiten.Wo? Leipziger Marktplatz",
-      "date": "28. November bis 23. Dezember 2023Sonntag bis Donnerstag: 10 bis 21 UhrFreitag und Samstag: 10 bis 22 Uhr"
-    },
-    {
-      "name": "Weihnachtsduft und Lichterglanz",
-      "description": " selbstgebackene süße oder herzhaften Waffeln, gebrannte Mandeln und hausgemachter Glühwein, Punsch und heiße Säfte. Festliche Stimmung und weihnachtliche Musik im Barockgarten.",
-      "location": "Was?  selbstgebackene süße oder herzhaften Waffeln, gebrannte Mandeln und hausgemachter Glühwein, Punsch und heiße Säfte. Festliche Stimmung und weihnachtliche Musik im Barockgarten.",
-      "time": "Was?  selbstgebackene süße oder herzhaften Waffeln, gebrannte Mandeln und hausgemachter Glühwein, Punsch und heiße Säfte. Festliche Stimmung und weihnachtliche Musik im Barockgarten.Wo? Gohliser Schlösschen",
-      "date": "29. November bis 21. Dezember 2023 Mittwoch bis Samstag: 15 bis 19 UhrSonntag: 12 bis 18 Uhr",
-      "w3c": "https://gohliserschloesschen.de/events/weihnachtsduft-2023/"
-    },
-    {
-      "name": "Felsenkeller Weihnachtsmarkt 2023",
-      "description": "Der Felsenkeller-Weihnachtsmarkt öffnet im Biergarten des renommierten Felsenkeller im Leipziger Szene-Stadtteil Plagwitz.",
-      "location": "Was? Der Felsenkeller-Weihnachtsmarkt öffnet im Biergarten des renommierten Felsenkeller im Leipziger Szene-Stadtteil Plagwitz.",
-      "time": "Was? Der Felsenkeller-Weihnachtsmarkt öffnet im Biergarten des renommierten Felsenkeller im Leipziger Szene-Stadtteil Plagwitz.Wo? Felsenkeller",
-      "date": "30. November bis 23. Dezember 2023»  Zum Felsenkeller Weihnachtsmarkt "
-    },
-    {
       "name": "Tauchaer Weihnachtsmarkt",
       "description": "Die Stadt Taucha veranstaltet gleich ein zwei Orten einen Weihnachtsmarkt, auf dem Marktplatz und auf dem Schlosshof. Auf dem Marktplatz bieten Händler und Vereine in festlich geschmückten Marktbuden ihre Weihnachtserzeugnisse uns Geschenkartikel an.",
       "location": "Was? Die Stadt Taucha veranstaltet gleich ein zwei Orten einen Weihnachtsmarkt, auf dem Marktplatz und auf dem Schlosshof. Auf dem Marktplatz bieten Händler und Vereine in festlich geschmückten Marktbuden ihre Weihnachtserzeugnisse uns Geschenkartikel an.",
@@ -63,35 +25,12 @@
       "w3c": "https://www.taucha.de/themen/tauchaer-weihnachtsmaerkte/"
     },
     {
-      "name": "Weihnachtsmarkt vor dem Schloss Machern",
-      "description": "Der Weihnachtsmarkt auf Schloss Machern öffnet traditionell am ersten und zweiten Adventwochenende",
-      "location": "Was? Der Weihnachtsmarkt auf Schloss Machern öffnet traditionell am ersten und zweiten Adventwochenende",
-      "time": "Was? Der Weihnachtsmarkt auf Schloss Machern öffnet traditionell am ersten und zweiten AdventwochenendeWo? Schloss Machern, Schlossplatz 1 (Machern)",
-      "date": "01. Dezember 2023 // 16 bis 21 Uhr02. Dezember 2023 // 11 bis 21 Uhr03. Dezember 2023 // 11 bis 18 Uhr",
-      "w3c": "https://web.gemeindemachern.de/?q=content/weihnachtsmarkt-am-schloss-machern-0"
-    },
-    {
-      "name": "Makerspace Winterfest",
-      "description": "Kunst & Handwerk, offene Ateliers, Verkaufsstände",
-      "location": "Was? Kunst & Handwerk, offene Ateliers, Verkaufsstände",
-      "time": "von 11 – 18 Uhr",
-      "date": "Was? Kunst & Handwerk, offene Ateliers, VerkaufsständeWo? Kunsttanker + Makerspace, Lindenthaler Straße 61-65Wann? von 11 – 18 Uhr",
-      "w3c": "https://www.leipzig-leben.de/wp-content/uploads/2022/06/Weihnartsmarkt-Plakat-A3.pdf"
-    },
-    {
       "name": "Adventsmarkt in der Versöhnungskirche Gohlis",
       "description": "zum Stöbern, zum Basteln, zum Singen und zum Zuhören, zu Kaffee, Kuchen, Bratwurst und Glühwein – kurz gesagt: zum Adventsmarkt.",
       "location": "Was? zum Stöbern, zum Basteln, zum Singen und zum Zuhören, zu Kaffee, Kuchen, Bratwurst und Glühwein – kurz gesagt: zum Adventsmarkt.",
       "time": "15 bis 18 Uhr",
       "date": "Was? zum Stöbern, zum Basteln, zum Singen und zum Zuhören, zu Kaffee, Kuchen, Bratwurst und Glühwein – kurz gesagt: zum Adventsmarkt.Wo? Versöhnungskirche Leipzig GohlisWann? 15 bis 18 Uhr",
       "w3c": "https://versoehnungs-gemeinde.de/veranstaltungen/adventsmarkt-an-der-versoehnungskirche"
-    },
-    {
-      "name": "Weihnachtsmarkt im Miltitzer Park",
-      "description": "Deftiges aus der Region, kleine Verkaufsstände, Weihnachtsmusik, Kindereisenbahn und Feuerschale. Nachhaltigkeit: Eigene Tasse mitbringen!",
-      "location": "Was? Deftiges aus der Region, kleine Verkaufsstände, Weihnachtsmusik, Kindereisenbahn und Feuerschale. Nachhaltigkeit: Eigene Tasse mitbringen!",
-      "time": "ab 15 Uhr",
-      "date": "Was? Deftiges aus der Region, kleine Verkaufsstände, Weihnachtsmusik, Kindereisenbahn und Feuerschale. Nachhaltigkeit: Eigene Tasse mitbringen!Wo? Miltitzer ParkWann? ab 15 Uhr"
     },
     {
       "name": "Weihnachtsmarkt Böhlitz-Ehrenberg",
@@ -115,56 +54,11 @@
       "date": "02./03. Dezember 202309./10. Dezember 202316./17. Dezember 2023Sonnabends 11 – 20 UhrSonntags 11 – 18 Uhr»  Zum Feinkost Weihnachtsmarkt"
     },
     {
-      "name": "Adventsmarkt im Kulturhof Gohlis",
-      "description": "Modeaccessoires, Keramik und Porzellan, feiner, erlesener Schmuck, Feinkost, Naturkosmetik, wunderschöne Papeterie, Filzkunst, allerlei Wohnaccessoires und vieles mehr",
-      "location": "Was? Modeaccessoires, Keramik und Porzellan, feiner, erlesener Schmuck, Feinkost, Naturkosmetik, wunderschöne Papeterie, Filzkunst, allerlei Wohnaccessoires und vieles mehr",
-      "time": "Was? Modeaccessoires, Keramik und Porzellan, feiner, erlesener Schmuck, Feinkost, Naturkosmetik, wunderschöne Papeterie, Filzkunst, allerlei Wohnaccessoires und vieles mehrWo? Werkcafé im Kulturhof Gohlis",
-      "date": "Samstag 02. Dezember // 13 – 20 UhrSonntag 03. Dezember // 11 – 18 Uhr»  Zum Adventsmarkt im Kulturhof Gohlis"
-    },
-    {
-      "name": "Mittelalterlicher Weihnachtsmarkt Schloss Taucha ",
-      "description": "Mehr und mehr wurde der Weihnachtsmarkt zum mittelalterlich geprägten Markt entwickelt.",
-      "location": "Was? Mehr und mehr wurde der Weihnachtsmarkt zum mittelalterlich geprägten Markt entwickelt.",
-      "time": "Was? Mehr und mehr wurde der Weihnachtsmarkt zum mittelalterlich geprägten Markt entwickelt.Wo? Rittergut Schloss Taucha",
-      "date": "02. Dezember 2023 // 14 bis 20 Uhr03. Dezember 2023 // 14 bis 18 Uhr»  Zum mittelalterlichen Weihnachtsmarkt"
-    },
-    {
       "name": "Schlossweihnacht in Podelwitz",
       "description": "Schausteller, Künstler und Händler im weihnachtlichen Glanz <3",
       "location": "Was? Schausteller, Künstler und Händler im weihnachtlichen Glanz <3",
       "time": "Was? Schausteller, Künstler und Händler im weihnachtlichen Glanz <3Wo? Wasserschloss Podelwitz",
       "date": "02. Dezember 2023 03. Dezember 2023 »  Zur Schlossweihnachten in Podelwitz"
-    },
-    {
-      "name": "Weihnachtsmarkt Schloss Schönefeld",
-      "description": " Über 30 Weihnachtsbuden zeichnen sich durch handgefertigte, regionale oder fair gehandelte Produkte aus.",
-      "location": "Was?  Über 30 Weihnachtsbuden zeichnen sich durch handgefertigte, regionale oder fair gehandelte Produkte aus.",
-      "time": "Was?  Über 30 Weihnachtsbuden zeichnen sich durch handgefertigte, regionale oder fair gehandelte Produkte aus.Wo? Schloss Schönefeld",
-      "date": "03. Dezember 2023 // 11 bis 18 Uhr",
-      "w3c": "https://verein.schloss-schoenefeld.de/veranstaltungen/weihnachtsmarkt/"
-    },
-    {
-      "name": "Stötteritzer Adventsmarkt auf dem Gutshof",
-      "description": "Adventsauftakt auf dem Gutshof Stötteritz & adventlicher Einkauf mit Waren von lokalen Händlern und Produzenten",
-      "location": "Was? Adventsauftakt auf dem Gutshof Stötteritz & adventlicher Einkauf mit Waren von lokalen Händlern und Produzenten",
-      "time": "Was? Adventsauftakt auf dem Gutshof Stötteritz & adventlicher Einkauf mit Waren von lokalen Händlern und ProduzentenWo? Gutshof Stötteritz",
-      "date": "03. Dezember 2023 // 14 bis 19 Uhr Uhr",
-      "w3c": "https://gutshof-stoetteritz.de/"
-    },
-    {
-      "name": "Dölitzer Adventsmarkt",
-      "description": "Bunte Marktstände, Feuerschale, Leckeres aus dem Lehmbackofen,  ein Tannenbaum, Suppe und selbstgemachter Glühwein",
-      "location": "Was? Bunte Marktstände, Feuerschale, Leckeres aus dem Lehmbackofen,  ein Tannenbaum, Suppe und selbstgemachter Glühwein",
-      "time": "Was? Bunte Marktstände, Feuerschale, Leckeres aus dem Lehmbackofen,  ein Tannenbaum, Suppe und selbstgemachter GlühweinWo? Dölitzer Wassermühle",
-      "date": "03. Dezember 2023 // 13 bis 18 Uhr",
-      "w3c": "https://doelitzer-wassermuehle.de/?page_id=259"
-    },
-    {
-      "name": "Weihnachtsmarkt im Wannenbad",
-      "description": "einer der kleinsten, aber auf jeden Fall romantischsten Gohliser Weihnachtsmärkte",
-      "location": "Was? einer der kleinsten, aber auf jeden Fall romantischsten Gohliser Weihnachtsmärkte",
-      "time": "Was? einer der kleinsten, aber auf jeden Fall romantischsten Gohliser WeihnachtsmärkteWo? Gohliser Wannenbad, Georg-Schumann-Str. 116 HH",
-      "date": "Wann? "
     },
     {
       "name": "Hundeweihnachtsmarkt 2023",
@@ -173,50 +67,6 @@
       "time": "Was? inkl. Dogmobile „Urlaub mit Hund im Wohnmobil!“Wo? Bauhofstraße 11",
       "date": "03. Dezember 2023 // 9 bis 17 Uhr",
       "w3c": "https://www.facebook.com/events/671178584566050"
-    },
-    {
-      "name": "Advent im Schloss Trebsen",
-      "description": "Weihnachtszauber für Kinder, Genießer, Geschenksucher und  Kulturbegeisterte.",
-      "location": "Was? Weihnachtszauber für Kinder, Genießer, Geschenksucher und  Kulturbegeisterte.",
-      "time": "Was? Weihnachtszauber für Kinder, Genießer, Geschenksucher und  Kulturbegeisterte.Wo? Schloss Trebsen",
-      "date": "02./03. Dezember 202309./10. Dezember 202316./17. Dezember 2023"
-    },
-    {
-      "name": "Kleiner Weihnachtsmarkt in Knauthain",
-      "description": "Warme und kalte Köstlichkeiten, feine Naschereien, genussvolle Getränke, Adventskalender und vieles mehr ",
-      "location": "Was? Warme und kalte Köstlichkeiten, feine Naschereien, genussvolle Getränke, Adventskalender und vieles mehr ",
-      "time": "Was? Warme und kalte Köstlichkeiten, feine Naschereien, genussvolle Getränke, Adventskalender und vieles mehr Wo? Walradus Hof, Emil-Teich-Straße 4",
-      "date": "03. Dezember bis 17. Dezember 2023"
-    },
-    {
-      "name": "Adventsmarkt bei Brot & Kees in Markkleeberg",
-      "description": "Adventsstimmung in Markkleeberg",
-      "location": "Was? Adventsstimmung in Markkleeberg",
-      "time": "03. Dezember 202310. Dezember 202317. Dezember 202311 bis 18 Uhr",
-      "date": "Was? Adventsstimmung in MarkkleebergWo? Im Kees´schen Park, MarkkleebergWann? 03. Dezember 202310. Dezember 202317. Dezember 202311 bis 18 Uhr",
-      "w3c": "https://kalender.markkleeberg.de/node/5200?time=2023-12-03T11%3A00%3A00"
-    },
-    {
-      "name": "Adventsmarkt bei Faunauge",
-      "description": "Der wohl kleinste Weihnachtsmarkt Leipzigs. Ein Wintermärchen voller kleiner Labels und Keksen im Ladenatelier",
-      "location": "Faunauge // Kurt-Eisner-Straße 11",
-      "time": "05. Dezember bis 16. Dezember 2023",
-      "date": "»  Zur Adventswoche von Faunauge"
-    },
-    {
-      "name": "WERK 2 Weihnachtsmarkt",
-      "description": "Connewitzer Weihnachtsmarkt. Alternative Stände, Kunsthandwerk, Feuerschale und Gemütlichkeit",
-      "location": "Was? Connewitzer Weihnachtsmarkt. Alternative Stände, Kunsthandwerk, Feuerschale und Gemütlichkeit",
-      "time": "08. bis 17. Dezember 2023",
-      "date": "Was? Connewitzer Weihnachtsmarkt. Alternative Stände, Kunsthandwerk, Feuerschale und GemütlichkeitWo? WERK 2 GeländeWann? 08. bis 17. Dezember 2023"
-    },
-    {
-      "name": "Advents-Faktum // Kranwerk Naunhof",
-      "description": "In der Verkaufsauslage findet der geneigte Käufer anspruchsvolle Objekte aus Holz, Glas, Stahl, Weide, Filz, Ton & Stein aber auch Grafisches und natürlich Naschhaftes. ",
-      "location": "Was? In der Verkaufsauslage findet der geneigte Käufer anspruchsvolle Objekte aus Holz, Glas, Stahl, Weide, Filz, Ton & Stein aber auch Grafisches und natürlich Naschhaftes. ",
-      "time": "Was? In der Verkaufsauslage findet der geneigte Käufer anspruchsvolle Objekte aus Holz, Glas, Stahl, Weide, Filz, Ton & Stein aber auch Grafisches und natürlich Naschhaftes. Wo? Altes Kranwerk Naunhof",
-      "date": "8. bis 17. Dezember 2023",
-      "w3c": "https://www.kranwerk.com/advents-faktum/"
     },
     {
       "name": "Delitzscher Adventsmarkt 2023",
@@ -263,26 +113,11 @@
       "date": "09. Dezember 2023 // 12 bis 20 Uhr10. Dezember 2023 // 12 bis 18 Uhr»  Zum veganen Weihnachtsmarkt"
     },
     {
-      "name": "Weihnachtsmarkt in der Mühlstraße",
-      "description": "kleiner feiner Weihnachtsmarkt im Haus & Hof der Mühlstrasse 14, mit Weihnachtsständen, Waffelbäckerei, Kerzenziehen, Geschenke angeln, Glücksrad, Holz- und Naturwerkstatt, Knüppelkuchen, Weihnachtssingen uvm. ",
-      "location": "Was? kleiner feiner Weihnachtsmarkt im Haus & Hof der Mühlstrasse 14, mit Weihnachtsständen, Waffelbäckerei, Kerzenziehen, Geschenke angeln, Glücksrad, Holz- und Naturwerkstatt, Knüppelkuchen, Weihnachtssingen uvm. ",
-      "time": "14 bis 19 Uhr",
-      "date": "Was? kleiner feiner Weihnachtsmarkt im Haus & Hof der Mühlstrasse 14, mit Weihnachtsständen, Waffelbäckerei, Kerzenziehen, Geschenke angeln, Glücksrad, Holz- und Naturwerkstatt, Knüppelkuchen, Weihnachtssingen uvm. Wo? Mühlstraße 14Wann? 14 bis 19 Uhr"
-    },
-    {
       "name": "Dark XMAS Markt in der Moritzbastei",
       "description": "Schaurig schöner, schwarzer Adventssonntag mit Handwerkskunst der Szene",
       "location": "Was? Schaurig schöner, schwarzer Adventssonntag mit Handwerkskunst der Szene",
       "time": "13 bis 19 Uhr",
       "date": "Was? Schaurig schöner, schwarzer Adventssonntag mit Handwerkskunst der SzeneWo? MoritzbasteiWann? 13 bis 19 Uhr"
-    },
-    {
-      "name": "Advent unterm Ginkgobaum // Kulturweihnachtsmarkt",
-      "description": "Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer, Weihnachtsbasteleien und viel Kultur",
-      "location": "Was? Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer, Weihnachtsbasteleien und viel Kultur",
-      "time": "Was? Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer, Weihnachtsbasteleien und viel KulturWo? Budde-Haus in Gohlis",
-      "date": "Freitag 15. Dezember // 15 bis 20 UhrSamastag 16. Dezember // 15 bis 20 UhrSonntag 17. Dezember // 15 bis 18 Uhr",
-      "w3c": "https://www.budde-haus.de/veranstaltungen/"
     },
     {
       "name": "Weihnachtsmarkt am Gut Graßdorf",
@@ -307,21 +142,6 @@
       "time": "13 bis 17 Uhr",
       "date": "16. Dezember 2023",
       "w3c": "https://www.leipzig-leben.de/wp-content/uploads/2023/08/Weihnachtsmarkt-Wachau.jpeg"
-    },
-    {
-      "name": "Weihnachtsmarkt in Holzhausen",
-      "description": "Flammlachs, BBQ-Burger, Kesselgulasch und viele andere Leckereien",
-      "location": "Zuckelhausener Ring, Holzhausen",
-      "time": "16. Dezember 2023 // ab 15 Uhr",
-      "date": "»  Zum Weihnachtsmarkt in Holzhausen"
-    },
-    {
-      "name": "Hof-Advent in Liebertwolkwitz",
-      "description": "Abseits der Einkaufshektik der Großstadt, im vorweihnachtlichen Lichterglanz die unterschiedlichsten Handwerkerstuben aus längst vergangenen Zeiten besuchen: ob Branntweinbrenner, Seilermeister oder Grempler",
-      "location": "Liebertwolkwitzer Markt",
-      "time": "16 bis 22 Uhr",
-      "date": "16./17. Dezember 2023Samstag: 14 bis 20 Uhr Sonntag: 14 bis 18 Uhr",
-      "w3c": "https://www.hofgenossenschaft.de/wolkserhoefe.html"
     },
     {
       "name": "BUDENZAUBER im Textilmarkt",
