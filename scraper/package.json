@@ -1,0 +1,17 @@
+{
+  "name": "wo-ist-weihnachtsmarkt-scraper",
+  "version": "1.0.0",
+  "description": "Scraper für Weihnachtsmarkt-Daten aus Leipzig",
+  "main": "markets_leipzig_de_parser.js",
+  "scripts": {
+    "leipzigde": "node ./markets_leipzig_de_parser.js",
+    "leipzigleben": "node ./markets_leipzig_leben_parser.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joerg Reichert",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "nunjucks": "^3.2.4"
+  }
+}

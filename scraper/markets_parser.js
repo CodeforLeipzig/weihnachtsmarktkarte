@@ -31,6 +31,8 @@ const parseLeipzigDe = async () => {
           Zeit: dateAndTime[1]?.replace(': ', ':'),
           Ort: location,
           Beschreibung: description,
+          source: "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/weihnachten/weihnachtsmaerkte/",
+          source_desc: "Stadt Leipzig"
         })
       }
       return markets
@@ -273,62 +275,65 @@ const readToiletsInner = () => {
     })
 }
 
-const c2 = parseLeipzigLeben()
-
-const c1 = parseLeipzigDe()
-c1.then((data) => {
-  const grouped = groupByLoc(data)
-  var index = 0
-  const collected = []
-  for (const value of grouped.values()) {
-    collected.push(groupToJson({ id: index, grouped: value }))
-    index++
-  }
-  const sorted = collected.sort((a, b) => a.name.localeCompare(b.name))
-  fs.writeFile(
-    'output.json',
-    '[' + sorted.map((entry) => JSON.stringify(entry, null, 2)).join(',') + ']',
-    (err) => {
-      if (err) throw err
+const registry = {
+  "LeipzigDe": () => parseLeipzigDe().then((data) => {
+    const grouped = groupByLoc(data)
+    var index = 0
+    const collected = []
+    for (const value of grouped.values()) {
+      collected.push(groupToJson({ id: index, grouped: value }))
+      index++
     }
-  )
-})
-
-const c3 = parseJson('./markets_wmf.json')
-c3.then((data) => {
-  const csvContent = jsonToCsv(data)
-  fs.writeFile('markets.csv', csvContent, (err) => {
-    if (err) throw err
-  })
-  const geojson = jsonToGeojson(data);
-  fs.writeFile('markets.geojson', geojson, (err) => {
-    if (err) throw err
-  })
-})
-
-const c4 = readInnerGeojson()
-c4.then((data) => {
-  const sorted = data.sort((a, b) => a.name.localeCompare(b.name))
-  fs.writeFile(
-    'output_inner.json',
-    '[' + sorted.map((entry) => JSON.stringify(entry, null, 2)).join(',') + ']',
-    (err) => {
+    const sorted = collected.sort((a, b) => a.name.localeCompare(b.name))
+    fs.writeFile(
+      'output-leipzigde.json',
+      '[' + sorted.map((entry) => JSON.stringify(entry, null, 2)).join(',') + ']',
+      (err) => {
+        if (err) throw err
+      }
+    )
+  }),
+  "LeipzigLeben": parseLeipzigLeben(),
+  "MarketsWmf": parseJson('./markets_wmf.json').then((data) => {
+    const csvContent = jsonToCsv(data)
+    fs.writeFile('markets.csv', csvContent, (err) => {
       if (err) throw err
-    }
-  )
-})
-
-const c5 = parseJson('./output_inner.json')
-c5.then((data) => {
-  const csvContent = jsonToCsv(data)
-  fs.writeFile('markets_inner.csv', csvContent, (err) => {
-    if (err) throw err
+    })
+    const geojson = jsonToGeojson(data);
+    fs.writeFile('markets.geojson', geojson, (err) => {
+      if (err) throw err
+    })
+  }),
+  "InnerMarketsJson": readInnerGeojson().then((data) => {
+    const sorted = data.sort((a, b) => a.name.localeCompare(b.name))
+    fs.writeFile(
+      'output_inner.json',
+      '[' + sorted.map((entry) => JSON.stringify(entry, null, 2)).join(',') + ']',
+      (err) => {
+        if (err) throw err
+      }
+    )
+  }),
+  "InnerMarketsCsv": parseJson('./output_inner.json').then((data) => {
+    const csvContent = jsonToCsv(data)
+    fs.writeFile('markets_inner.csv', csvContent, (err) => {
+      if (err) throw err
+    })
+  }),
+  "InnerToilets": readToiletsInner().then((data) => {
+    fs.writeFile('toilets.geojson', JSON.stringify(data, null, 2), (err) => {
+      if (err) throw err
+    })
   })
-})
+}
 
-const c6 = readToiletsInner()
-c6.then((data) => {
-  fs.writeFile('toilets.geojson', JSON.stringify(data, null, 2), (err) => {
-    if (err) throw err
-  })
-})
+const keys = [
+  "LeipzigDe",
+  "LeipzigLeben",
+  "MarketsWmf",
+  "InnerMarketsJson",
+  "InnerMarketsCsv",
+  "InnerToilets"
+]
+
+keys.forEach((key) => registry[key]());

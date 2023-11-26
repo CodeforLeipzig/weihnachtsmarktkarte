@@ -15,8 +15,9 @@
         "bemerkungen": null,
         "lat": null,
         "lng": null,
-        "RSS-Titel": null,
-        "RSS-Beschreibung": null,
+        "rss_titel": null,
+        "rss_beschreibung": null,
+        "barrierefrei": null,
         "immer-kostenlos": null,
         "Mo": null,
         "Di": null,
@@ -35,6 +36,8 @@
         "urheberschaft": null,
         "train": null,
         "train_distance": null,
-        "short_distance": null
+        "short_distance": null,
+        "source": null,
+        "source_desc": null
     }
 ]

@@ -1,177 +1,205 @@
-[{
+[
+    {
         "name": "Der kauzige Wintermarkt",
         "beschreibung": "MARKTSTÄNDE, Musik & Naschereien für Kleine und Große",
         "adresse": "Herr KAUZIG, Jahnallee 52",
         "oeffnungszeiten": "Mi bis So immer 16 bis 22 Uhr",
-        "von": "22. November 2023,
-                                " bis ": "28.Januar 2024",
-                                " w3c ": "https: //www.facebook.com/events/349672897722976/349672987722967/"
-    }, {
+        "von": "22. November 2023",
+        "bis ": "28.Januar 2024",
+        "w3c": "https://www.facebook.com/events/349672897722976/349672987722967/"
+    },
+    {
         "name": "Mühlen-Glühen",
         "beschreibung": "MÜHLEN-GLÜHEN mit Kindertheater, Verkaufsständen, kulinarischer Versorgung und anschließender Disko statt.",
         "adresse": "Neuseenmühle: Berndorf 28, 04539 Groitzsch",
         "oeffnungszeiten": "ab 15 Uhr",
         "von": "25. November 2023",
         "w3c": "https://neuseenmuehle.de/Veranstaltungen.html"
-    }, {
+    },
+    {
         "name": "Eutritzscher Hinterhof-Advent",
         "beschreibung": "Adventsflohmarkt mit Punsch & Feuer in den Höfen",
         "adresse": "https://umap.openstreetmap.de/de/map/eutritzsch-hinterhof-advent_48497#17/51.36267/12.38590",
         "oeffnungszeiten": "12 bis 18 Uhr",
         "von": "25. November 2023",
         "w3c": "https://www.leipzig-leben.de/wp-content/uploads/2023/08/Flyer-Hofflohmarkt-Nov-rendered_231112_120905.pdf"
-    }, {
+    },
+    {
         "name": "Winterdorf im Paunsdorf Center",
         "beschreibung": "Winterlicher Zauber, Unterhaltung und Spaß für die ganze Familie",
         "adresse": "Paunsdorf Center",
         "oeffnungszeiten": "Mo bis Sa: 10 bis 20 Uhr, So 11 bis 19 Uhr",
         "von": "ab 23. November",
         "w3c": "https://neuseenmuehle.de/Veranstaltungen.html"
-    }, {
+    },
+    {
         "name": "Leipziger Weihnachtsmarkt // Marktplatz",
         "beschreibung": "Der klassische Weihnachtsmarkt auf dem Leipziger Marktplatz ist die zentrale Anlaufstelle für Glühwein, Kräppelchen und Heimlichkeiten.",
         "adresse": "Leipziger Marktplatz",
         "von": "28. November 2023",
         "bis": "23. Dezember 2023",
         "oeffnungszeiten": "Sonntag bis Donnerstag: 10 bis 21 Uhr, Freitag und Samstag: 10 bis 22 Uhr"
-    }, {
+    },
+    {
         "name": "Weihnachtsduft und Lichterglanz",
         "beschreibung": "selbstgebackene süße oder herzhaften Waffeln, gebrannte Mandeln und hausgemachter Glühwein, Punsch und heiße Säfte. Festliche Stimmung und weihnachtliche Musik im Barockgarten.",
         "adresse": "Gohliser Schlösschen",
         "von": "29. November 2023",
         "bis": "21. Dezember 2023",
         "oeffnungszeiten": "Mittwoch bis Samstag: 15 bis 19 Uhr, Sonntag: 12 bis 18 Uhr"
-    }, {
+    },
+    {
         "name": "Felsenkeller Weihnachtsmarkt 2023",
         "beschreibung": "Der Felsenkeller-Weihnachtsmarkt öffnet im Biergarten des renommierten Felsenkeller im Leipziger Szene-Stadtteil Plagwitz.",
         "adresse": "Felsenkeller",
         "von": "30. November 2023",
         "bis": "23. Dezember 2023",
         "w3c": "https://www.felsenkeller-leipzig.com"
-    }, {
+    },
+    {
         "name": "Tauchaer Weihnachtsmarkt",
         "beschreibung": "Die Stadt Taucha veranstaltet gleich ein zwei Orten einen Weihnachtsmarkt, auf dem Marktplatz und auf dem Schlosshof. Auf dem Marktplatz bieten Händler und Vereine in festlich geschmückten Marktbuden ihre Weihnachtserzeugnisse uns Geschenkartikel an.",
         "adresse": "Marktplatz Taucha",
         "von": "01. Dezember 2023",
         "bis": "03. Dezember 2023"
-    }, {
+    },
+    {
         "name": "Weihnachtsmarkt vor dem Schloss Machern",
         "beschreibung": "Der Weihnachtsmarkt auf Schloss Machern öffnet traditionell am ersten und zweiten Adventwochenende",
         "adresse": "Schloss Machern, Schlossplatz 1 (Machern)",
         "von": "01. Dezember 2023",
         "bis": "03. Dezember 2023",
-        "oeffnunsgzeiten": "Freitag, 16 bis 21 Uhr, Samstag: 11 bis 21 Uhr, Sonntag: 11 bis 18 Uhr",
-    }, {
+        "oeffnunsgzeiten": "Freitag, 16 bis 21 Uhr, Samstag: 11 bis 21 Uhr, Sonntag: 11 bis 18 Uhr"
+    },
+    {
         "name": "Makerspace Winterfest",
         "beschreibung": "Kunst & Handwerk, offene Ateliers, Verkaufsstände",
         "adresse": "Kunsttanker + Makerspace, Lindenthaler Straße 61-65",
         "oeffnungszeiten": "11 bis 18 Uhr",
         "von": "02. Dezember 2023",
         "w3c": "https://www.leipzig-leben.de/wp-content/uploads/2022/06/Weihnartsmarkt-Plakat-A3.pdf"
-    }, {
+    },
+    {
         "name": "Adventsmarkt in der Versöhnungskirche Gohlis",
         "beschreibung": "zum Stöbern, zum Basteln, zum Singen und zum Zuhören, zu Kaffee, Kuchen, Bratwurst und Glühwein - kurz gesagt: zum Adventsmarkt.",
         "adresse": "Versöhnungskirche Leipzig Gohlis",
         "oeffnungszeiten": "15 bis 18 Uhr",
         "von": "02. Dezember 2023",
         "w3c": "https://versoehnungs-gemeinde.de/veranstaltungen/adventsmarkt-an-der-versoehnungskirche"
-    }, {
+    },
+    {
         "name": "Weihnachtsmarkt im Miltitzer Park",
         "beschreibung": "Deftiges aus der Region, kleine Verkaufsstände, Weihnachtsmusik, Kindereisenbahn und Feuerschale. Nachhaltigkeit: Eigene Tasse mitbringen!",
         "adresse": "Miltitzer Park",
         "oeffnungszeiten": "ab 15 Uhr",
         "von": "02. Dezember 2023"
-    }, {
+    },
+    {
         "name": "Weihnachtsmarkt Böhlitz-Ehrenberg",
         "beschreibung": "Ein kleines Programm für Groß und Klein beim TSV Böhlitz-Ehrenberg",
         "adresse": "Leipziger Straße 124",
         "oeffnungszeiten": "14 bis 21 Uhr",
         "von": "02. Dezember 2023"
-    }, {
+    },
+    {
         "name": "Lametta for Heinz",
         "beschreibung": "viele schöne Stände mit regionalen, handgefertigten, gebastelten und verrückten Dingen.",
         "adresse": "Zum Wilden Heinz, Hähnelstraße 22",
-        "oeffnungszeiten": "12 bis 20 Uhr",
-    }, {
+        "oeffnungszeiten": "12 bis 20 Uhr"
+    },
+    {
         "name": "Feinkost Weihnachtsmarkt",
         "beschreibung": "Originalität, Regionalität und Familienfreundlichkeit. An rund 30 Ständen werden Händler:innen originelle und nachhaltige Geschenke, Handwerk und Kunst anbieten. Das Angebot wechselt von Wochenende zu Wochenende.",
         "adresse": "Feinkost Innenhof (Außengelände)",
-        "oeffnungszeiten": "02./03. Dezember 2023, 09./10. Dezember 2023, 16./17. Dezember 2023; Sonnabends 11 - 20 Uhr, Sonntags 11 - 18 Uhr"
+        "oeffnungszeiten": "02./03. Dezember 2023, 09./10. Dezember 2023, 16./17. Dezember 2023; Sonnabends 11 - 20 Uhr, Sonntags 11 - 18 Uhr",
         "w3c": "https://www.feinkostgenossenschaft.de/weihnachtsmarkt/"
-    }, {
+    },
+    {
         "name": "Adventsmarkt im Kulturhof Gohlis",
         "beschreibung": "Modeaccessoires, Keramik und Porzellan, feiner, erlesener Schmuck, Feinkost, Naturkosmetik, wunderschöne Papeterie, Filzkunst, allerlei Wohnaccessoires und vieles mehr",
         "adresse": "Werkcafé im Kulturhof Gohlis",
         "oeffnungszeiten": "Samstag 02. Dezember, 13 - 20 Uhr, Sonntag 03. Dezember, 11 - 18 Uhr",
         "w3c": "http://kulturhof-gohlis.de"
-    }, {
+    },
+    {
         "name": "Mittelalterlicher Weihnachtsmarkt Schloss Taucha",
         "beschreibung": "Mehr und mehr wurde der Weihnachtsmarkt zum mittelalterlich geprägten Markt entwickelt.",
         "adresse": "Rittergut Schloss Taucha",
         "oeffnungszeiten": "02. Dezember 2023, 14 bis 20 Uhr, 03. Dezember 2023, 14 bis 18 Uhr",
         "w3c": "https://schlossverein-taucha.de/weihnachtsmarkt.html"
-    }, {
+    },
+    {
         "name": "Schlossweihnacht in Podelwitz",
         "beschreibung": "Schausteller, Künstler und Händler im weihnachtlichen Glanz <3",
         "adresse": "Wasserschloss Podelwitz",
-        "von": "02. Dezember 2023"
+        "von": "02. Dezember 2023",
         "bis": "03. Dezember 2023",
         "w3c": "https://www.wasserschloss-podelwitz.de/index.php"
-    }, {
+    },
+    {
         "name": "Weihnachtsmarkt Schloss Schönefeld",
         "beschreibung": "Über 30 Weihnachtsbuden zeichnen sich durch handgefertigte, regionale oder fair gehandelte Produkte aus.",
         "adresse": "Schloss Schönefeld",
         "von": "03. Dezember 2023",
         "oeffnungszeiten": "11 bis 18 Uhr"
-    }, {
+    },
+    {
         "name": "Stötteritzer Adventsmarkt auf dem Gutshof",
         "beschreibung": "Adventsauftakt auf dem Gutshof Stötteritz & adventlicher Einkauf mit Waren von lokalen Händlern und Produzenten",
         "adresse": "Gutshof Stötteritz",
         "von": "03. Dezember 2023",
         "oeffnungszeiten": "14 bis 19 Uhr"
-    }, {
+    },
+    {
         "name": "Dölitzer Adventsmarkt",
         "beschreibung ": "Bunte Marktstände, Feuerschale, Leckeres aus dem Lehmbackofen, ein Tannenbaum, Suppe und selbstgemachter Glühwein",
         "adresse ": "Dölitzer Wassermühle",
         "von ": "03.Dezember 2023",
-        "oeffnungszeiten ": "13 bis 18 Uhr",
-    }, {
+        "oeffnungszeiten ": "13 bis 18 Uhr"
+    },
+    {
         "name": "Weihnachtsmarkt im Wannenbad",
         "beschreibung": "einer der kleinsten, aber auf jeden Fall romantischsten Gohliser Weihnachtsmärkte",
         "adresse": "Gohliser Wannenbad, Georg - Schumann - Str.116 HH",
         "von": "03.Dezember 2023",
         "oeffnungszeiten": "13 bis 18 Uhr"
-    }, {
+    },
+    {
         "name": "Hundeweihnachtsmarkt 2023",
         "beschreibung": "inkl.Dogmobile, Urlaub mit Hund im Wohnmobil",
         "adresse": "Bauhofstraße 11",
         "oeffnungszeiten": "9 bis 17 Uhr",
         "von": "03.Dezember 2023 "
-    }, {
+    },
+    {
         "name": "Advent im Schloss Trebsen",
         "beschreibung": "Weihnachtszauber für Kinder, Genießer, Geschenksucher und Kulturbegeisterte.",
         "adresse": "Schloss Trebsen",
         "von": "02. / 03.Dezember 2023, 09. / 10.Dezember 2023, 16. / 17.Dezember 2023",
         "oeffnungszeiten": "Samstags und Sonntags von 11 bis 19 Uhr",
-        "bemerkung ": "Eintritt: 10,- Euro, Kinder bis 14 Jahre frei",
-    }, {
+        "bemerkung ": "Eintritt: 10,- Euro, Kinder bis 14 Jahre frei"
+    },
+    {
         "name ": "Kleiner Weihnachtsmarkt in Knauthain",
         "beschreibung ": "Warme und kalte Köstlichkeiten, feine Naschereien, genussvolle Getränke, Adventskalender und vieles mehr",
         "adresse ": "Walradus Hof,Emil - Teich - Straße 4",
         "von ": "03.Dezember bis 17.Dezember 2023 "
-    }, {
+    },
+    {
         "name ": "Adventsmarkt bei Brot & Kees in Markkleeberg",
         "beschreibung ": "Adventsstimmung in Markkleeberg",
         "adresse ": "Im Kees 'schen Park, Markkleeberg",
         "von": "03. Dezember 2023, 10. Dezember 2023, 17. Dezember 2023",
         "oeffnungszeiten": "11 bis 18 Uhr"
-    }, {
+    },
+    {
         "name": "Adventsmarkt bei Faunauge",
         "beschreibung": "Der wohl kleinste Weihnachtsmarkt Leipzigs. Ein Wintermärchen voller kleiner Labels und Keksen im Ladenatelier",
         "adresse": "Faunauge, Kurt-Eisner-Straße 11",
         "von": "05. Dezember",
         "bis": "16. Dezember 2023"
-    }, {
+    },
+    {
         "name": "WERK 2 Weihnachtsmarkt",
         "beschreibung": "Connewitzer Weihnachtsmarkt. Alternative Stände, Kunsthandwerk, Feuerschale und Gemütlichkeit",
         "adresse": "WERK 2 Gelände",
@@ -179,96 +207,111 @@
         "bis": "17.12.2023",
         "oeffnungszeiten": "Freitag: 16–22 Uhr, Samstag: 13–22 Uhr, Sonntag: 13–21 Uhr, Montag: 14–21 Uhr, Dienstag: 14–21 Uhr, Mittwoch: 14–21 Uhr, Donnerstag: 14–21 Uhr, Freitag: 13–22 Uhr, Samstag: 13–22 Uhr, Sonntag: 13–21 Uhr",
         "w3c": "https://www.werk-2.de/programm/2022-12-09_weihnachten_am_kreuz_2022-werk_2_weihnachtsmarkt"
-    }, {
+    },
+    {
         "name": "Advents-Faktum, Kranwerk Naunhof",
         "beschreibung": "In der Verkaufsauslage findet der geneigte Käufer anspruchsvolle Objekte aus Holz, Glas, Stahl, Weide, Filz, Ton & Stein aber auch Grafisches und natürlich Naschhaftes.",
         "adresse": "Altes Kranwerk Naunhof",
         "von": "08.12.2023",
         "bis": "17.12.2023",
         "w3c": "https://www.kranwerk.com/advents-faktum/"
-    }, {
+    },
+    {
         "name": "Delitzscher Adventsmarkt 2023",
         "beschreibung": "An mehr als 80 Ständen warten Spezialitäten auf die Gäste des  beliebten Adventsmarktes.",
         "adresse": "Marktplatz, Delitzsch",
         "oeffnungszeiten": "08. Dezember 2023, 14 bis 22 Uhr, 09. Dezember 2023, 12 bis 22 Uhr, 10. Dezember 2023, 12 bis 19 Uhr",
         "w3c": "https://www.kranwerk.com/advents-faktum/"
-    }, {
+    },
+    {
         "name": "Adventsmarkt an der Mädlervilla",
         "beschreibung": "am 2. und 3. Adventswochenende <3",
         "adresse": "Mädlervilla, Hans-Driesch-Straße 2",
         "oeffnungszeiten": "08. Dezember 2023, 15 bis 20 Uhr, 09. Dezember 2023, 12 bis 20 Uhr, 10. Dezember 2023, 12 bis 18 Uhr, 15. Dezember 2023, 15 bis 20 Uhr, 16. Dezember 2023, 12 bis 20 Uhr, 17. Dezember 2023, 12 bis 18 Uhr",
         "w3c": "http://www.maedlervilla.de/"
-    }, {
+    },
+    {
         "name": "Alternativer Adventsmarkt in der Heilandskirche Plagwitz",
         "beschreibung": "Tolles Kinderprogramm, Basteln, Kuchen und Glühwein",
         "adresse": "Heilandskirche Plagwitz",
         "oeffnungszeiten": "14 bis 18 Uhr",
-        "von": "09. Dezember 2023",
-    }, {
+        "von": "09. Dezember 2023"
+    },
+    {
         "name": "OSTWACHE-Weihnachtsmarkt",
         "beschreibung": "Verweilen, Stöbern und Nachbarschaft treffen",
         "adresse": "Alte Feuerzeughalle OSTWACHE",
         "oeffnungszeiten": "14 bis 20 Uhr",
         "von": "09. Dezember 2023",
         "w3c": "https://www.ostwache.org/ueber-uns/"
-    }, {
+    },
+    {
         "name": "Historischer Weihnachtsmarkt am Torhaus Markkleeberg",
         "beschreibung": "Weihnachtlich-romantische Stimmung im historischen Ensemble zwischen Auenkirche, Torhaus und Schloss Markkleeberg",
         "adresse": "Am Torhaus Markkleeberg, Kirchstraße 40",
         "oeffnungszeiten": "09. Dezember 2023, ab 14 Uhr, 10. Dezember 2023, ab 14 Uhr",
         "w3c": "https://torhaus-markkleeberg.de/"
-    }, {
+    },
+    {
         "name": "Veganer Weihnachtsmarkt",
         "beschreibung": "Gemütlicher veganer Weihnachtsmarkt in Lindenau",
         "adresse": "Philippus Gelände, Aurelienstraße 54 (Lindenau)",
         "oeffnungszeiten": "09. Dezember 2023, 12 bis 20 Uhr, 10. Dezember 2023, 12 bis 18 Uhr",
         "w3c": "http://www.veganer-markt-leipzig.de"
-    }, {
+    },
+    {
         "name": "Weihnachtsmarkt in der Mühlstraße",
         "beschreibung": "kleiner feiner Weihnachtsmarkt im Haus & Hof der Mühlstrasse 14, mit Weihnachtsständen, Waffelbäckerei, Kerzenziehen, Geschenke angeln, Glücksrad, Holz- und Naturwerkstatt, Knüppelkuchen, Weihnachtssingen uvm.",
         "adresse": "Mühlstraße 14",
         "oeffnungszeiten": "14 bis 19 Uhr",
         "von": "10. Dezember 2023",
         "w3c": "https://www.muehlstrasse.de/feste-festivals/weihnachtsmarkt.html"
-    }, {
+    },
+    {
         "name": "Dark XMAS Markt in der Moritzbastei",
         "beschreibung": "Schaurig schöner, schwarzer Adventssonntag mit Handwerkskunst der Szene",
         "adresse": "Moritzbastei",
         "oeffnungszeiten": "13 bis 19 Uhr",
         "von": "10. Dezember 2023",
         "w3c": "https://www.facebook.com/events/1062088785146330/"
-    }, {
+    },
+    {
         "name": "Advent unterm Ginkgobaum, Kulturweihnachtsmarkt",
         "beschreibung": "Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer, Weihnachtsbasteleien und viel Kultur",
         "adresse": "Budde-Haus in Gohlis",
         "oeffnungszeiten": "Freitag 15. Dezember, 15 bis 20 Uhr, Samstag 16. Dezember, 15 bis 20 Uhr, Sonntag 17. Dezember, 15 bis 18 Uhr"
-    }, {
+    },
+    {
         "name": "Weihnachtsmarkt am Gut Graßdorf",
         "beschreibung": "Kuscheliger, regionaler Weihnachtsmarkt für Handwerkskunst und Familien",
         "adresse": "Landgasthof Gut Graßdorf, Am Volksgut 2 (Taucha)",
         "oeffnungszeiten": "Freitag 15. Dezember, 17 bis 21 Uhr, Samstag 16. Dezember, 14 bis 21 Uhr, Sonntag 17. Dezember, 14 bis 19 Uhr"
-    }, {
+    },
+    {
         "name": "Viktorianischer Weihnachtsmarkt",
-        "beschreibung": "Marktstände, die in liebevoller Handarbeit gefertigte Accessoires, Kleidung, Schmuck oder Weihnachtsdekoration anbieten"
+        "beschreibung": "Marktstände, die in liebevoller Handarbeit gefertigte Accessoires, Kleidung, Schmuck oder Weihnachtsdekoration anbieten",
         "adresse": "am Biedermeierstrand am Schladitzer See",
-        "oeffnungszeiten": "ab 15 Uhr"
+        "oeffnungszeiten": "ab 15 Uhr",
         "von": "16. Dezember 2023",
         "w3c": "https://biedermeierstrand.de/a-victorian-christmas-am-16-12-ab-15-uhr/"
-    }, {
+    },
+    {
         "name": "Weihnachtsmarkt in der Kirchenruine Wachau",
         "beschreibung": "Besinnlicher Weihnachtsmarkt in der Kirchenruine Wachau",
         "adresse": "Kirchenruine Wachau, Kirchplatz 1 (Wachau)",
         "oeffnungszeiten": "13 bis 17 Uhr",
         "von": "16. Dezember 2023",
         "w3c": "https://www.leipzig-leben.de/wp-content/uploads/2023/08/Weihnachtsmarkt-Wachau.jpeg"
-    }, {
+    },
+    {
         "name": "Weihnachtsmarkt in Holzhausen",
         "beschreibung": "Flammlachs, BBQ-Burger, Kesselgulasch und viele andere Leckereien",
         "adresse": "Zuckelhausener Ring, Holzhausen",
         "oeffnungszeiten": "ab 15 Uhr",
         "von": "16. Dezember 2023",
         "w3c": "http://www.holzhausen-sachsen.de/veranstaltungen/weihnachtsmarkt/index.htm"
-    }, {
+    },
+    {
         "name": "Hof-Advent in Liebertwolkwitz",
         "beschreibung": "Abseits der Einkaufshektik der Großstadt, im vorweihnachtlichen Lichterglanz die unterschiedlichsten Handwerkerstuben aus längst vergangenen Zeiten besuchen: ob Branntweinbrenner, Seilermeister oder Grempler",
         "adresse": "Liebertwolkwitzer Markt",
@@ -276,28 +319,32 @@
         "bis": "17.12.2023",
         "oeffnungszeiten": "Samstag: 14 bis 20 Uhr, Sonntag: 14 bis 18 Uhr",
         "w3c": "https://www.hofgenossenschaft.de/wolkserhoefe.html"
-    }, {
+    },
+    {
         "name": "BUDENZAUBER im Textilmarkt",
-        "beschreibung": "Kunst ✶ Textiles ✶ Getier ✶ Sinnliches ✶ Keramik ✶ Schönes aus Papier ✶ Schmuck ✶ Wunder in Tüten ✶ Spiele ✶ Licht ✶ Unikate ✶ Kekse ✶ Deko ✶ Glühwein ✶ Stempel ✶ Zauber ✶"
+        "beschreibung": "Kunst ✶ Textiles ✶ Getier ✶ Sinnliches ✶ Keramik ✶ Schönes aus Papier ✶ Schmuck ✶ Wunder in Tüten ✶ Spiele ✶ Licht ✶ Unikate ✶ Kekse ✶ Deko ✶ Glühwein ✶ Stempel ✶ Zauber ✶",
         "adresse": "Stofftieratelier Aichinger, Kochstraße 98 (Südvorstadt)",
-        "oeffnungszeiten": "16. Dezember 2023, von 14 bis 19 Uhr, 17. Dezember 2023, von 14 bis 19 Uhr"
+        "oeffnungszeiten": "16. Dezember 2023, von 14 bis 19 Uhr, 17. Dezember 2023, von 14 bis 19 Uhr",
         "w3c": "https://www.instagram.com/stofftieratelier/"
-    }, {
+    },
+    {
         "name": "Adventsmarkt und Kerzenziehen",
-        "beschreibung": "Verkostungen, Geschenkkörbe, Vorlesungen, Holzspielgeräte, Ponyreiten, Lagerfeuer mit Stockbrot, Flammlachs, Weihnachtsmann"
+        "beschreibung": "Verkostungen, Geschenkkörbe, Vorlesungen, Holzspielgeräte, Ponyreiten, Lagerfeuer mit Stockbrot, Flammlachs, Weihnachtsmann",
         "adresse": "im Hof der Imkerei Beer, Bienenweg 14 (Leipzig Nord)",
         "oeffnungszeiten": "11 bis 18 Uhr",
         "von": "17. Dezember 2023",
         "w3c": "https://www.leipzig-leben.de/wp-content/uploads/2022/06/Weihnachtsmarkt-in-der-Imkerei-Beer.jpg"
-    }, {
+    },
+    {
         "name": "TV CLUB Weihnachtsmarkt",
         "beschreibung": "Weihnachtsgeschenke, Glühwein & Kräppelchen",
         "adresse": "TV Club (Theresienstraße 2)",
         "oeffnungszeiten": "12 bis 18 Uhr",
         "von": "17. Dezember 2023"
-    }, {
+    },
+    {
         "name": "Weihnachtsmarkt im Kulturhaus Eutritzsch",
-        "beschreibung": "Feuerchen, gut Gegrilltes, Kräppelchen und Flohmarkt"
+        "beschreibung": "Feuerchen, gut Gegrilltes, Kräppelchen und Flohmarkt",
         "adresse": "Kulturhaus Eutritzsch, Thaerstraße 39",
         "oeffnungszeiten": "15 bis 19 Uhr",
         "von": "17. Dezember 2023"
