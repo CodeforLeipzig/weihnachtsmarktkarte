@@ -6,6 +6,7 @@
   "scripts": {
     "leipzigde": "node ./markets_leipzig_de_parser.js",
     "leipzigleben": "node ./markets_leipzig_leben_parser.js",
+    "wmf": "node ./markets_parser.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Joerg Reichert",
