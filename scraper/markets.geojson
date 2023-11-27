@@ -1618,7 +1618,7 @@
     "closed-exc": 0,
     "hours-exc": 0,
     "hours-exc-readable": null,
-    "ignore": 1,
+    "ignore": 0,
     "merged": null,
     "international": 0,
     "action": 0,
