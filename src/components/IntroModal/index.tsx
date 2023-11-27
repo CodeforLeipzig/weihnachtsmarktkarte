@@ -64,7 +64,7 @@ export const IntroModal: FC<IntroModalType> = ({
               </h4>
               <p className="pb-4">
                 Der Weihnachtsmarkt-Finder zeigt das vielfältige Angebot von
-                über 40 Weihnachtsmärkten in Leipzig und Umgebung von traditionellem bis zu
+                über 50 Weihnachtsmärkten in Leipzig und Umgebung von traditionellem bis zu
                 individuellem Flair. Lass dir Weihnachtsmärkte nach Wunschdatum
                 und Öffnungszeiten anzeigen. So verpasst du deinen
                 Lieblingsmarkt im Viertel nie wieder. Oder nutze die Filter, um

@@ -65,7 +65,7 @@ export const MapComponent: FC<MapComponentType> = ({
       mapRef.current.easeTo({
         // @ts-ignore
         center: zoomToCenter,
-        zoom: 11,
+        zoom: 7,
         // @ts-ignore
         padding: { left: isMobile ? 0 : 200 },
       })
@@ -141,7 +141,7 @@ export const MapComponent: FC<MapComponentType> = ({
           12.000218, 51.144137, 12.682744, 51.524548
         ]}
         attributionControl={false}
-        // onLoad={onMapLoad}
+      // onLoad={onMapLoad}
       >
         <Source id="toilets-source" type="geojson" data={mapData.toilets}>
           {/* @ts-ignore */}
@@ -190,7 +190,7 @@ export const MapComponent: FC<MapComponentType> = ({
             <img
               src="./stern_ausgewaehlt.png"
               width="40px"
-              // style={{animation:'pulse 4s infinite'}}
+            // style={{animation:'pulse 4s infinite'}}
             />
           </Marker>
         )}
