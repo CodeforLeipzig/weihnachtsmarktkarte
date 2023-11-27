@@ -18,11 +18,13 @@ body {
   }
 
   @font-face {
-      font-family: "Clan Book";
-      src: url('/fonts/clan-book.woff') format("woff");
+    font-family: "Clan Book";
+    src: url('/fonts/clan-book.woff') format("woff");
   }
 
-  html, body, #__next {
+  html,
+  body,
+  #__next {
     font-family: "Clan Book", sans-serif;
     color: #222222;
   }
@@ -42,7 +44,7 @@ body {
 
 
 
-.maplibregl-ctrl{
+.maplibregl-ctrl {
   background: none !important
 }
 
@@ -59,44 +61,63 @@ body {
 
 }
 
-.mapboxgl-user-location-dot{
-  background-color:#BDA33B !important;
-}
-
-.mapboxgl-user-location-dot::before, .maplibregl-user-location-dot::before{
+.mapboxgl-user-location-dot {
   background-color: #BDA33B !important;
 }
 
-.mapboxgl-user-location-accuracy-circle, .maplibregl-user-location-accuracy-circle{
+.mapboxgl-user-location-dot::before,
+.maplibregl-user-location-dot::before {
+  background-color: #BDA33B !important;
+}
+
+.mapboxgl-user-location-accuracy-circle,
+.maplibregl-user-location-accuracy-circle {
   background-color: #BDA33B33 !important;
 }
 
-.mapboxgl-ctrl-group button, .maplibregl-ctrl-group button{
+.mapboxgl-ctrl-group button,
+.maplibregl-ctrl-group button {
   width: 40px !important;
   height: 40px !important;
 }
+
 /* .maplibregl-ctrl-geolocate {
   cursor: pointer;
   position: fixed;
   bottom: 0px;
   right:0px
 } */
-.maplibregl-ctrl{
+.maplibregl-ctrl {
   position: fixed;
-bottom: 36px;
-right: 15px;
-cursor: pointer;
+  bottom: 36px;
+  right: 15px;
+  cursor: pointer;
 }
-.scrolling .scroll-shadow{
+
+.scrolling .scroll-shadow {
   --tw-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
+::-webkit-scrollbar {
+  width: 0.5em;
+}
 
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
 
+::-webkit-scrollbar-thumb {
+  background-color: #BDA33B;
+  outline: 1px solid #091725;
+}
 
+::-webkit-scrollbar-thumb:hover {
+  background: #CEB44C;
+}
 
-
-
-
+div {
+  scrollbar-color: #BDA33B #091725;
+  scrollbar-width: thin;
+}
