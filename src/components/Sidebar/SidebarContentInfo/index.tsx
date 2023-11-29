@@ -10,9 +10,9 @@ import { TsbLogo } from '@components/Logos/TsbLogo'
 import { Accordion } from '@components/Accordion'
 import { SenatskanzleiLogo } from '@components/Logos/SenatskanzleiLogo'
 
-export interface SidebarContentInfoType {}
+export interface SidebarContentInfoType { }
 
-export const SidebarContentInfo: FC<SidebarContentInfoType> = ({}) => {
+export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
   return (
     <>
       <SidebarHeader text="Über den Finder" />
@@ -248,7 +248,7 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({}) => {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Open Data Informationsstelle Berlin"
-              // className={}
+            // className={}
             >
               <OdisLogo className={`w-40`} />
             </a>
@@ -276,7 +276,7 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({}) => {
           © 2023 Technologiestiftung Berlin
         </span>
         <a
-          href="https://www.technologiestiftung-berlin.de/de/impressum/"
+          href="https://codefor.de/impressum/"
           className={`text-xs hover:underline mr-4`}
           target="_blank"
           rel="noreferrer"
@@ -284,7 +284,7 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({}) => {
           Impressum
         </a>
         <a
-          href="https://www.technologiestiftung-berlin.de/de/datenschutz/"
+          href="https://codefor.de/impressum/#datenschutzerkl%C3%A4rung"
           className={`text-xs hover:underline`}
           target="_blank"
           rel="noreferrer"

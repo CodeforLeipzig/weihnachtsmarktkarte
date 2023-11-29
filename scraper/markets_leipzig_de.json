@@ -1,3 +1,1899 @@
 {
-  "markets": []
+  "markets": [
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023",
+      "from": "28.11.2023",
+      "to": "23.12.2023",
+      "location": "Leipziger Innenstadt",
+      "summary": "Leipziger Weihnachtsmarkt 2023",
+      "description": "Die Tradition des Leipziger Weihnachtsmarktes reicht bis in das Jahr...",
+      "details": {
+        "date": "28.11.2023 -  23.12.2023",
+        "time": "",
+        "location": {
+          "name": "Leipziger Innenstadt",
+          "street": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/winterfreizeitpark",
+      "from": "28.11.2023",
+      "to": "06.01.2024",
+      "location": "Paunsdorf Center",
+      "summary": "Winterfreizeitpark am Paunsdorf Center",
+      "description": "Der Winterfreizeitpark ist ein Pop-Up Freizeitpark von mehreren...",
+      "details": {
+        "date": "28.11.2023 -  06.01.2024",
+        "time": "14:00",
+        "location": {
+          "name": "Paunsdorf Center",
+          "street": "Paunsdorfer Allee 1",
+          "zipcode": "04329",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/winterfreizeitpark?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231129",
+      "from": "29.11.2023",
+      "to": "03.12.2023",
+      "location": "Herr Kauzig",
+      "summary": "Der kauzige Wintermarkt",
+      "description": "Der kauzige Wintermarkt mit Marktständen, Musik und Party Marktstände ...",
+      "details": {
+        "date": "29.11.2023 -  03.12.2023",
+        "time": "",
+        "location": {
+          "name": "Herr Kauzig",
+          "street": "Jahnallee 52",
+          "zipcode": "04177",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231129?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "06.12.2023 -  10.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231206"
+          },
+          {
+            "date": "13.12.2023 -  17.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231213"
+          },
+          {
+            "date": "20.12.2023 -  24.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231220"
+          },
+          {
+            "date": "27.12.2023 -  31.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231227"
+          },
+          {
+            "date": "03.01.2024 -  07.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240103"
+          },
+          {
+            "date": "10.01.2024 -  14.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240110"
+          },
+          {
+            "date": "17.01.2024 -  21.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240117"
+          },
+          {
+            "date": "24.01.2024 -  28.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240124"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5",
+      "from": "29.11.2023",
+      "to": "21.12.2023",
+      "location": "Gohliser Schlösschen",
+      "summary": "Weihnachtsduft und Lichterglanz",
+      "description": "Wir begrüßen Sie wieder zu selbstgebackenen süßen und herzhaften...",
+      "details": {
+        "date": "29.11.2023 -  21.12.2023",
+        "time": "",
+        "location": {
+          "name": "Gohliser Schlösschen",
+          "street": "Menckestr. 23",
+          "zipcode": "04155",
+          "city": "Leipzig",
+          "w3c": "http://www.gohliser-schloss.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/wintergarten",
+      "from": "30.11.2023",
+      "to": "23.12.2023",
+      "location": "Felsenkeller",
+      "summary": "Weihnachtsmarkt Felsenkeller",
+      "description": "Im Biergarten des Felsenkellers warten viele...",
+      "details": {
+        "date": "30.11.2023 -  23.12.2023",
+        "time": "",
+        "location": {
+          "name": "Felsenkeller",
+          "street": "Karl-Heine-Straße 32",
+          "zipcode": "04229",
+          "city": "Leipzig",
+          "w3c": "https://www.felsenkeller-leipzig.com/"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/wintergarten?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-8",
+      "from": "01.12.2023",
+      "to": "03.12.2023",
+      "location": "Marktplatz Taucha",
+      "summary": "Weihnachtsmarkt Taucha",
+      "description": "",
+      "details": {
+        "date": "01.12.2023 -  03.12.2023",
+        "time": "",
+        "location": {
+          "name": "Marktplatz Taucha",
+          "street": "04425 Taucha"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-8?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-20",
+      "from": "01.12.2023",
+      "to": "02.12.2023",
+      "location": "TSG Blau Weiß Großlehna e.V.",
+      "summary": "Blau Weiße Weihnacht",
+      "description": "Altranstädter Weihnachtsmarkt mit Basteln im Weihnachtszimmer,...",
+      "details": {
+        "date": "01.12.2023 -  02.12.2023",
+        "time": "15:00 - 22:00",
+        "location": {
+          "name": "TSG Blau Weiß Großlehna e.V.",
+          "street": "Schwedenstr. 23c",
+          "zipcode": "04420",
+          "city": "Markranstädt"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-20?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-4",
+      "from": "02.12.2023",
+      "to": "03.12.2023",
+      "location": "Zum Wilden Heinz",
+      "summary": "Weihnachtsmarkt Lametta for Heinz",
+      "description": "",
+      "details": {
+        "date": "02.12.2023 -  03.12.2023",
+        "time": "",
+        "location": {
+          "name": "Zum Wilden Heinz",
+          "street": "Hähnelstr. 22",
+          "zipcode": "04177",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-4?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20231202",
+      "from": "02.12.2023",
+      "to": "03.12.2023",
+      "location": "Feinkost",
+      "summary": "Weihnachtsmarkt auf der Feinkost 2023",
+      "description": "Bei den Weihnachtsmärkten im einzigartigen Ambiente der Feinkost stehen...",
+      "details": {
+        "date": "02.12.2023 -  03.12.2023",
+        "time": "",
+        "location": {
+          "name": "Feinkost",
+          "street": "Karl-Liebknecht-Straße 36",
+          "zipcode": "04275",
+          "city": "Leipzig",
+          "w3c": "http://www.feinkostgenossenschaft.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20231202?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "09.12.2023 -  10.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20231209"
+          },
+          {
+            "date": "16.12.2023 -  17.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20231216"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-6",
+      "from": "02.12.2023",
+      "to": "03.12.2023",
+      "location": "Kulturhof Gohlis",
+      "summary": "Adventsmarkt im Kulturhof Gohlis",
+      "description": "Rund 20 Ausstellerinnen und Aussteller nehmen am diesjährigen...",
+      "details": {
+        "date": "02.12.2023 -  03.12.2023",
+        "time": "13:00",
+        "location": {
+          "name": "Kulturhof Gohlis",
+          "street": "Eisenacher Str. 72",
+          "zipcode": "04155",
+          "city": "Leipzig",
+          "w3c": "http://www.kulturhof-gohlis.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-6?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lichterfest-vor-der-kirche",
+      "from": "02.12.2023",
+      "to": "13:00",
+      "location": "Apostelkirche",
+      "summary": "Lichterfest vor der Kirche",
+      "description": "Glühwein, Bratwurst, weihnachtliche Naschereien... ...",
+      "details": {
+        "date": "02.12.2023",
+        "time": "13:00",
+        "location": {
+          "name": "Apostelkirche",
+          "street": "Huttenstraße 14",
+          "zipcode": "04249",
+          "city": "Leipzig",
+          "w3c": "http://www.apostelkirche-leipzig.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lichterfest-vor-der-kirche?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/mittelalterlicher-weihnachtsmarkt-20231202",
+      "from": "02.12.2023",
+      "to": "14:00",
+      "location": "Rittergutsschloss Taucha",
+      "summary": "Mittelalterlicher Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "02.12.2023",
+        "time": "14:00",
+        "location": {
+          "name": "Rittergutsschloss Taucha",
+          "street": "Haugwitzwinkel 1",
+          "zipcode": "04425",
+          "city": "Taucha"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/mittelalterlicher-weihnachtsmarkt-20231202?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "03.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/mittelalterlicher-weihnachtsmarkt-20231203"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-20231202",
+      "from": "02.12.2023",
+      "to": "14:00",
+      "location": "Philippuskirche",
+      "summary": "Adventszauber",
+      "description": "",
+      "details": {
+        "date": "02.12.2023",
+        "time": "14:00",
+        "location": {
+          "name": "Philippuskirche",
+          "street": "Aurelienstraße 54",
+          "zipcode": "04177",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-20231202?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "03.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-20231203"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-7",
+      "from": "02.12.2023",
+      "to": "15:00",
+      "location": "Versöhnungskirche",
+      "summary": "Adventsmarkt an der Versöhnungskirche",
+      "description": "Viele weihnachtliche Angebote, wie Flohmarkt, Basar, basteln und...",
+      "details": {
+        "date": "02.12.2023",
+        "time": "15:00",
+        "location": {
+          "name": "Versöhnungskirche",
+          "street": "Franz-Mehring-Straße 44",
+          "zipcode": "04157",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-7?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/wichtelmarkt",
+      "from": "02.12.2023",
+      "to": "15:00",
+      "location": "Rittergut",
+      "summary": "Wichtelmarkt",
+      "description": "mit feierlichem Anstoß der Adventspyramide, musikalischem Programm,...",
+      "details": {
+        "date": "02.12.2023",
+        "time": "15:00",
+        "location": {
+          "name": "Rittergut",
+          "street": "Im Rittergut 1",
+          "zipcode": "04463",
+          "city": "Großpösna"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/wichtelmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-12",
+      "from": "02.12.2023",
+      "to": "15:00",
+      "location": "Park Miltitz",
+      "summary": "Weihnachtsmarkt im Miltitzer Park",
+      "description": "Deftiges aus der Region Naschereien und Getränke kleine...",
+      "details": {
+        "date": "02.12.2023",
+        "time": "15:00",
+        "location": {
+          "name": "Park Miltitz",
+          "street": "04205 Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-12?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-mit-kulinarischen-koestlichkeiten-hand-und-selbstgemachtem-und-adventlichem",
+      "from": "02.12.2023",
+      "to": "15:00",
+      "location": "Kirche Rückmarsdorf",
+      "summary": "Adventsmarkt mit kulinarischen Köstlichkeiten, Hand- und Selbstgemachtem und Adventlichem",
+      "description": "17.00 UhrMusikalische Andacht zum Ausklang in der Kirche ...",
+      "details": {
+        "date": "02.12.2023",
+        "time": "15:00",
+        "location": {
+          "name": "Kirche Rückmarsdorf",
+          "street": "Brandensteinstr. ",
+          "zipcode": "04178",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-mit-kulinarischen-koestlichkeiten-hand-und-selbstgemachtem-und-adventlichem?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-13",
+      "from": "03.12.2023",
+      "to": "17.12.2023",
+      "location": "Landgasthof Walradus Hof",
+      "summary": "Weihnachtsmarkt auf dem Walradus Hof",
+      "description": "Vom ersten bis dritten Advent können sich große und kleine Gäste auf...",
+      "details": {
+        "date": "03.12.2023 -  17.12.2023",
+        "time": "",
+        "location": {
+          "name": "Landgasthof Walradus Hof",
+          "street": "Emil-Teich-Str. 4",
+          "zipcode": "04249",
+          "city": "Leipzig,"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-13?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-20231203",
+      "from": "03.12.2023",
+      "to": "11:00",
+      "location": "Kees'scher Park",
+      "summary": "Adventsmarkt bei Brot und Kees",
+      "description": "Adventsstimmung mit Händlern aus der Region, handgemachtem und...",
+      "details": {
+        "date": "03.12.2023",
+        "time": "11:00",
+        "location": {
+          "name": "Kees'scher Park",
+          "street": "Lauersche Str. ",
+          "zipcode": "04416",
+          "city": "Markkleeberg,",
+          "w3c": "http://www.keesscher-park.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-20231203?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "10.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-20231210"
+          },
+          {
+            "date": "17.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-20231217"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-15",
+      "from": "03.12.2023",
+      "to": "11:00",
+      "location": "Schloss Schönefeld",
+      "summary": "Weihnachtsmarkt am Schloss Schönefeld",
+      "description": "Am ersten Adventssonntag verwandelt sich das Schlossareal in einen...",
+      "details": {
+        "date": "03.12.2023",
+        "time": "11:00",
+        "location": {
+          "name": "Schloss Schönefeld",
+          "street": "Zeumerstraße 1",
+          "zipcode": "04347",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-15?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-8",
+      "from": "03.12.2023",
+      "to": "11:00",
+      "location": "Gnadenkirche Leipzig-Wahren",
+      "summary": "Adventsmarkt",
+      "description": "",
+      "details": {
+        "date": "03.12.2023",
+        "time": "11:00",
+        "location": {
+          "name": "Gnadenkirche Leipzig-Wahren",
+          "street": "Opferweg",
+          "zipcode": "04159",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-8?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-1",
+      "from": "03.12.2023",
+      "to": "13:00",
+      "location": "Dölitzer Wassermühle",
+      "summary": "Dölitzer Adventsmarkt",
+      "description": "Stollenanschnitt, Weihnachtslieder am Feuer, Glühwein trinken und...",
+      "details": {
+        "date": "03.12.2023",
+        "time": "13:00",
+        "location": {
+          "name": "Dölitzer Wassermühle",
+          "street": "Vollhardtstr. 16",
+          "zipcode": "04279",
+          "city": "Leipzig",
+          "w3c": "http://www.doelitzer-wassermuehle.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/gruenauer-adventszauber",
+      "from": "03.12.2023",
+      "to": "13:00",
+      "location": "Robert-Koch-Park",
+      "summary": "Grünauer Adventszauber",
+      "description": "",
+      "details": {
+        "date": "03.12.2023",
+        "time": "13:00",
+        "location": {
+          "name": "Robert-Koch-Park",
+          "street": "Nikolai-Rumjanzew-Straße 100 (Zufahrt Schönauer Straße)",
+          "zipcode": "04207",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/gruenauer-adventszauber?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lichterfest-vor-der-kirche-1",
+      "from": "03.12.2023",
+      "to": "13:00",
+      "location": "Apostelkirche",
+      "summary": "Lichterfest vor der Kirche",
+      "description": "Glühwein, Bratwurst, weihnachtliche Naschereien... ...",
+      "details": {
+        "date": "03.12.2023",
+        "time": "13:00",
+        "location": {
+          "name": "Apostelkirche",
+          "street": "Huttenstraße 14",
+          "zipcode": "04249",
+          "city": "Leipzig",
+          "w3c": "http://www.apostelkirche-leipzig.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lichterfest-vor-der-kirche-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/hafenweihnacht",
+      "from": "03.12.2023",
+      "to": "13:30",
+      "location": "Zwenkauer See",
+      "summary": "Hafenweihnacht",
+      "description": "",
+      "details": {
+        "date": "03.12.2023",
+        "time": "13:30",
+        "location": {
+          "name": "Zwenkauer See",
+          "street": ""
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/hafenweihnacht?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/mittelalterlicher-weihnachtsmarkt-20231203",
+      "from": "03.12.2023",
+      "to": "14:00",
+      "location": "Rittergutsschloss Taucha",
+      "summary": "Mittelalterlicher Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "03.12.2023",
+        "time": "14:00",
+        "location": {
+          "name": "Rittergutsschloss Taucha",
+          "street": "Haugwitzwinkel 1",
+          "zipcode": "04425",
+          "city": "Taucha"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/mittelalterlicher-weihnachtsmarkt-20231203?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "02.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/mittelalterlicher-weihnachtsmarkt-20231202"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-20231203",
+      "from": "03.12.2023",
+      "to": "14:00",
+      "location": "Philippuskirche",
+      "summary": "Adventszauber",
+      "description": "",
+      "details": {
+        "date": "03.12.2023",
+        "time": "14:00",
+        "location": {
+          "name": "Philippuskirche",
+          "street": "Aurelienstraße 54",
+          "zipcode": "04177",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-20231203?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "02.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-20231202"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-4",
+      "from": "03.12.2023",
+      "to": "14:00",
+      "location": "Die Scheune",
+      "summary": "Adventsmarkt auf dem Gutshof Stötteritz",
+      "description": "Imkereierzeugnisse, Holz- und Papierwaren, Designer Schmuck, Kreative...",
+      "details": {
+        "date": "03.12.2023",
+        "time": "14:00",
+        "location": {
+          "name": "Die Scheune",
+          "street": "Oberdorfstr. 15",
+          "zipcode": "04299",
+          "city": "Leipzig",
+          "w3c": "http://www.diescheune-leipzig.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-4?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-16",
+      "from": "03.12.2023",
+      "to": "14:00",
+      "location": "Gohliser Wannenbad",
+      "summary": "Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "03.12.2023",
+        "time": "14:00",
+        "location": {
+          "name": "Gohliser Wannenbad",
+          "street": "Georg-Schumann-Straße 116",
+          "zipcode": "04155",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-16?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231206",
+      "from": "06.12.2023",
+      "to": "10.12.2023",
+      "location": "Herr Kauzig",
+      "summary": "Der kauzige Wintermarkt",
+      "description": "Der kauzige Wintermarkt mit Marktständen, Musik und Party Marktstände ...",
+      "details": {
+        "date": "06.12.2023 -  10.12.2023",
+        "time": "",
+        "location": {
+          "name": "Herr Kauzig",
+          "street": "Jahnallee 52",
+          "zipcode": "04177",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231206?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "29.11.2023 -  03.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231129"
+          },
+          {
+            "date": "13.12.2023 -  17.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231213"
+          },
+          {
+            "date": "20.12.2023 -  24.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231220"
+          },
+          {
+            "date": "27.12.2023 -  31.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231227"
+          },
+          {
+            "date": "03.01.2024 -  07.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240103"
+          },
+          {
+            "date": "10.01.2024 -  14.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240110"
+          },
+          {
+            "date": "17.01.2024 -  21.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240117"
+          },
+          {
+            "date": "24.01.2024 -  28.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240124"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-auf-dem-schulhof",
+      "from": "06.12.2023",
+      "to": "15:00",
+      "location": "Evangelisches Schulzentrum Leipzig",
+      "summary": "Adventsmarkt auf dem Schulhof",
+      "description": "18.30 UhrKonzert in der Peterskirche, Gaudigplatz ...",
+      "details": {
+        "date": "06.12.2023",
+        "time": "15:00",
+        "location": {
+          "name": "Evangelisches Schulzentrum Leipzig",
+          "street": "Schletterstraße 7",
+          "zipcode": "04107",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-auf-dem-schulhof?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-5-20231208",
+      "from": "08.12.2023",
+      "to": "10.12.2023",
+      "location": "Mädler-Villa",
+      "summary": "Adventsmarkt an der Mädler Villa",
+      "description": "In familiärer Atmosphäre zwischen zahlreichen Kunsthandwerk-Ständen...",
+      "details": {
+        "date": "08.12.2023 -  10.12.2023",
+        "time": "",
+        "location": {
+          "name": "Mädler-Villa",
+          "street": "Hans-Driesch-Straße 2",
+          "zipcode": "04179",
+          "city": "Leipzig",
+          "w3c": "http://www.mädlervilla.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-5-20231208?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "15.12.2023 -  17.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-5-20231215"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachten-am-kreuz-1",
+      "from": "08.12.2023",
+      "to": "17.12.2023",
+      "location": "Werk 2",
+      "summary": "Weihnachten am Kreuz",
+      "description": "Es ist wieder soweit: Das gesamte Gelände vom Werk 2 wird zum...",
+      "details": {
+        "date": "08.12.2023 -  17.12.2023",
+        "time": "",
+        "location": {
+          "name": "Werk 2",
+          "street": "Kochstr. 132",
+          "zipcode": "04277",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachten-am-kreuz-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-10",
+      "from": "09.12.2023",
+      "to": "10.12.2023",
+      "location": "Marktplatz Markranstädt",
+      "summary": "Markranstädter Weihnachtsmarkt",
+      "description": "Bühnenprogramm am Samstag, den 09.12.2023 14 Uhr Adventsmusik mit...",
+      "details": {
+        "date": "09.12.2023 -  10.12.2023",
+        "time": "",
+        "location": {
+          "name": "Marktplatz Markranstädt",
+          "street": "04420 Markranstädt"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-10?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20231209",
+      "from": "09.12.2023",
+      "to": "10.12.2023",
+      "location": "Feinkost",
+      "summary": "Weihnachtsmarkt auf der Feinkost 2023",
+      "description": "Bei den Weihnachtsmärkten im einzigartigen Ambiente der Feinkost stehen...",
+      "details": {
+        "date": "09.12.2023 -  10.12.2023",
+        "time": "",
+        "location": {
+          "name": "Feinkost",
+          "street": "Karl-Liebknecht-Straße 36",
+          "zipcode": "04275",
+          "city": "Leipzig",
+          "w3c": "http://www.feinkostgenossenschaft.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20231209?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "02.12.2023 -  03.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20231202"
+          },
+          {
+            "date": "16.12.2023 -  17.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20231216"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/budenzauber-im-garten",
+      "from": "09.12.2023",
+      "to": "10:00",
+      "location": "Botanischer Garten",
+      "summary": "Budenzauber im Garten",
+      "description": "",
+      "details": {
+        "date": "09.12.2023",
+        "time": "10:00",
+        "location": {
+          "name": "Botanischer Garten",
+          "street": "Linnéstraße 1",
+          "zipcode": "04103",
+          "city": "Leipzig",
+          "w3c": "http://www.bota.uni-leipzig.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/budenzauber-im-garten?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/veganer-weihnachtsmarkt-1-20231209",
+      "from": "09.12.2023",
+      "to": "12:00",
+      "location": "Philippuskirche",
+      "summary": "Veganer Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "09.12.2023",
+        "time": "12:00",
+        "location": {
+          "name": "Philippuskirche",
+          "street": "Aurelienstraße 54",
+          "zipcode": "04177",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/veganer-weihnachtsmarkt-1-20231209?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "10.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/veganer-weihnachtsmarkt-1-20231210"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/historischer-weihnachtsmarkt-20231209",
+      "from": "09.12.2023",
+      "to": "14:00",
+      "location": "Torhaus Markkleeberg",
+      "summary": "Historischer Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "09.12.2023",
+        "time": "14:00",
+        "location": {
+          "name": "Torhaus Markkleeberg",
+          "street": "Kirchstraße 40",
+          "zipcode": "04416",
+          "city": "Markkleeberg",
+          "w3c": "http://www.torhaus-markkleeberg.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/historischer-weihnachtsmarkt-20231209?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "10.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/historischer-weihnachtsmarkt-20231210"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-9",
+      "from": "09.12.2023",
+      "to": "14:00",
+      "location": "Friedenskirche Gohlis",
+      "summary": "Adventsmarkt",
+      "description": "",
+      "details": {
+        "date": "09.12.2023",
+        "time": "14:00",
+        "location": {
+          "name": "Friedenskirche Gohlis",
+          "street": "Kirchplatz 9",
+          "zipcode": "04155",
+          "city": "Leipzig",
+          "w3c": "https://www.michaelis-friedens.de/"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-9?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-2",
+      "from": "09.12.2023",
+      "to": "14:00",
+      "location": "Heilandskirche in Plagwitz",
+      "summary": "Adventsmarkt am Westkreuz",
+      "description": "Christstollen seit Oktober, „Stille Nacht“ aus der Konserve, Gedrängel...",
+      "details": {
+        "date": "09.12.2023",
+        "time": "14:00",
+        "location": {
+          "name": "Heilandskirche in Plagwitz",
+          "street": "Weißenfelser Straße 16",
+          "zipcode": "04229",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-2?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-17",
+      "from": "09.12.2023",
+      "to": "14:00",
+      "location": "Alte Feuerwache „Ostwache“",
+      "summary": "Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "09.12.2023",
+        "time": "14:00",
+        "location": {
+          "name": "Alte Feuerwache „Ostwache“",
+          "street": "Gregor-Fuchs-Str. 45-47",
+          "zipcode": "04318",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-17?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-20231210",
+      "from": "10.12.2023",
+      "to": "11:00",
+      "location": "Kees'scher Park",
+      "summary": "Adventsmarkt bei Brot und Kees",
+      "description": "Adventsstimmung mit Händlern aus der Region, handgemachtem und...",
+      "details": {
+        "date": "10.12.2023",
+        "time": "11:00",
+        "location": {
+          "name": "Kees'scher Park",
+          "street": "Lauersche Str. ",
+          "zipcode": "04416",
+          "city": "Markkleeberg,",
+          "w3c": "http://www.keesscher-park.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-20231210?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "03.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-20231203"
+          },
+          {
+            "date": "17.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-20231217"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/veganer-weihnachtsmarkt-1-20231210",
+      "from": "10.12.2023",
+      "to": "12:00",
+      "location": "Philippuskirche",
+      "summary": "Veganer Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "10.12.2023",
+        "time": "12:00",
+        "location": {
+          "name": "Philippuskirche",
+          "street": "Aurelienstraße 54",
+          "zipcode": "04177",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/veganer-weihnachtsmarkt-1-20231210?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "09.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/veganer-weihnachtsmarkt-1-20231209"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/historischer-weihnachtsmarkt-20231210",
+      "from": "10.12.2023",
+      "to": "14:00",
+      "location": "Torhaus Markkleeberg",
+      "summary": "Historischer Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "10.12.2023",
+        "time": "14:00",
+        "location": {
+          "name": "Torhaus Markkleeberg",
+          "street": "Kirchstraße 40",
+          "zipcode": "04416",
+          "city": "Markkleeberg",
+          "w3c": "http://www.torhaus-markkleeberg.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/historischer-weihnachtsmarkt-20231210?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "09.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/historischer-weihnachtsmarkt-20231209"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-9",
+      "from": "10.12.2023",
+      "to": "14:00",
+      "location": "Mühlstraße 14",
+      "summary": "Weihnachtsmarkt in der Mühlstraße",
+      "description": "Traditionell ist am 2. Advent der kleine, feine Weihnachtsmarkt im...",
+      "details": {
+        "date": "10.12.2023",
+        "time": "14:00 - 19:00",
+        "location": {
+          "name": "Mühlstraße 14",
+          "street": "Mühlstraße 14 ",
+          "zipcode": "04317",
+          "city": "Leipzig",
+          "w3c": "http://www.muehlstrasse.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-9?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-7",
+      "from": "10.12.2023",
+      "to": "15:00",
+      "location": "Haus Steinstraße",
+      "summary": "Weihnachtsmarkt Haus Steinstraße",
+      "description": "Auch in diesem Jahr wird es wieder unseren beliebten...",
+      "details": {
+        "date": "10.12.2023",
+        "time": "15:00 - 18:00",
+        "location": {
+          "name": "Haus Steinstraße",
+          "street": "Steinstraße 18",
+          "zipcode": "04275",
+          "city": "Leipzig",
+          "w3c": "http://www.haus-steinstrasse.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-7?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231213",
+      "from": "13.12.2023",
+      "to": "17.12.2023",
+      "location": "Herr Kauzig",
+      "summary": "Der kauzige Wintermarkt",
+      "description": "Der kauzige Wintermarkt mit Marktständen, Musik und Party Marktstände ...",
+      "details": {
+        "date": "13.12.2023 -  17.12.2023",
+        "time": "",
+        "location": {
+          "name": "Herr Kauzig",
+          "street": "Jahnallee 52",
+          "zipcode": "04177",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231213?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "29.11.2023 -  03.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231129"
+          },
+          {
+            "date": "06.12.2023 -  10.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231206"
+          },
+          {
+            "date": "20.12.2023 -  24.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231220"
+          },
+          {
+            "date": "27.12.2023 -  31.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231227"
+          },
+          {
+            "date": "03.01.2024 -  07.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240103"
+          },
+          {
+            "date": "10.01.2024 -  14.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240110"
+          },
+          {
+            "date": "17.01.2024 -  21.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240117"
+          },
+          {
+            "date": "24.01.2024 -  28.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240124"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-5-20231215",
+      "from": "15.12.2023",
+      "to": "17.12.2023",
+      "location": "Mädler-Villa",
+      "summary": "Adventsmarkt an der Mädler Villa",
+      "description": "In familiärer Atmosphäre zwischen zahlreichen Kunsthandwerk-Ständen...",
+      "details": {
+        "date": "15.12.2023 -  17.12.2023",
+        "time": "",
+        "location": {
+          "name": "Mädler-Villa",
+          "street": "Hans-Driesch-Straße 2",
+          "zipcode": "04179",
+          "city": "Leipzig",
+          "w3c": "http://www.mädlervilla.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-5-20231215?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "08.12.2023 -  10.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-5-20231208"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-rund-ums-eis",
+      "from": "15.12.2023",
+      "to": "17.12.2023",
+      "location": "Rathausplatz Markkleeberg",
+      "summary": "Weihnachtsmarkt „Rund ums Eis“",
+      "description": "Dem Motto folgend, dreht sich auf dem Markkleeberger Weihnachtsmarkt...",
+      "details": {
+        "date": "15.12.2023 -  17.12.2023",
+        "time": "",
+        "location": {
+          "name": "Rathausplatz Markkleeberg",
+          "street": "04416 Markkleeberg"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-rund-ums-eis?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-18-20231215",
+      "from": "15.12.2023",
+      "to": "15:00",
+      "location": "Historisches Straßenbahndepot",
+      "summary": "Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "15.12.2023",
+        "time": "15:00",
+        "location": {
+          "name": "Historisches Straßenbahndepot",
+          "street": "Rathausplatz 11",
+          "zipcode": "04435",
+          "city": "Schkeuditz"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-18-20231215?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "16.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-18-20231216"
+          },
+          {
+            "date": "17.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-18-20231217"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/advent-unterm-ginkgobaum-kulturweihnachtsmarkt",
+      "from": "15.12.2023",
+      "to": "17.12.2023",
+      "location": "Budde-Haus",
+      "summary": "Advent unterm Ginkgobaum - Kulturweihnachtsmarkt",
+      "description": "Zum dritten Adventswochenende vom 15. bis zum 17. Dezember 2023 lädt...",
+      "details": {
+        "date": "15.12.2023 -  17.12.2023",
+        "time": "15:00",
+        "location": {
+          "name": "Budde-Haus",
+          "street": "Lützowstraße 19",
+          "zipcode": "04157",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/advent-unterm-ginkgobaum-kulturweihnachtsmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-14-20231215",
+      "from": "15.12.2023",
+      "to": "17:00",
+      "location": "Landgasthof Gut Graßdorf",
+      "summary": "Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "15.12.2023",
+        "time": "17:00",
+        "location": {
+          "name": "Landgasthof Gut Graßdorf",
+          "street": "Am Volksgut 2",
+          "zipcode": "04425",
+          "city": "Taucha"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-14-20231215?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "17.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-14-20231217"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20231216",
+      "from": "16.12.2023",
+      "to": "17.12.2023",
+      "location": "Feinkost",
+      "summary": "Weihnachtsmarkt auf der Feinkost 2023",
+      "description": "Bei den Weihnachtsmärkten im einzigartigen Ambiente der Feinkost stehen...",
+      "details": {
+        "date": "16.12.2023 -  17.12.2023",
+        "time": "",
+        "location": {
+          "name": "Feinkost",
+          "street": "Karl-Liebknecht-Straße 36",
+          "zipcode": "04275",
+          "city": "Leipzig",
+          "w3c": "http://www.feinkostgenossenschaft.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20231216?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "02.12.2023 -  03.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20231202"
+          },
+          {
+            "date": "09.12.2023 -  10.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20231209"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-3",
+      "from": "16.12.2023",
+      "to": "13:00",
+      "location": "Kirchenruine Wachau",
+      "summary": "Adventsmarkt in der Kirchenruine Wachau",
+      "description": "Adventsmarkt mit regionalen Ständen, Basteltischen, Leckereien und...",
+      "details": {
+        "date": "16.12.2023",
+        "time": "13:00",
+        "location": {
+          "name": "Kirchenruine Wachau",
+          "street": "Kirchplatz 1",
+          "zipcode": "04416",
+          "city": "Markkleeberg",
+          "w3c": "http://www.kirchenruinewachau.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-3?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/hof-advent-20231216",
+      "from": "16.12.2023",
+      "to": "14:00",
+      "location": "Stiftsgut Liebertwolkwitz",
+      "summary": "Hof-Advent",
+      "description": "",
+      "details": {
+        "date": "16.12.2023",
+        "time": "14:00",
+        "location": {
+          "name": "Stiftsgut Liebertwolkwitz",
+          "street": "Markt 11",
+          "zipcode": "04288",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/hof-advent-20231216?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "17.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/hof-advent-20231217"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1",
+      "from": "16.12.2023",
+      "to": "14:00",
+      "location": "Zuckelhausener Teich",
+      "summary": "Weihnachtsmarkt",
+      "description": "auch im Heimatverein und an der Kirche",
+      "details": {
+        "date": "16.12.2023",
+        "time": "14:00",
+        "location": {
+          "name": "Zuckelhausener Teich",
+          "street": "04288 Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/advent-in-den-hoefen-kleinzschochers",
+      "from": "16.12.2023",
+      "to": "14:00",
+      "location": "Kleinzschocher",
+      "summary": "Advent in den Höfen Kleinzschochers",
+      "description": "Orte: Baumannstr. 16, Eythraer Str. 8, Windorfer Str. 44, 45 a und 55,...",
+      "details": {
+        "date": "16.12.2023",
+        "time": "14:00",
+        "location": {
+          "name": "Kleinzschocher",
+          "street": "04229 Leipzig, Stadt"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/advent-in-den-hoefen-kleinzschochers?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-18-20231216",
+      "from": "16.12.2023",
+      "to": "15:00",
+      "location": "Historisches Straßenbahndepot",
+      "summary": "Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "16.12.2023",
+        "time": "15:00",
+        "location": {
+          "name": "Historisches Straßenbahndepot",
+          "street": "Rathausplatz 11",
+          "zipcode": "04435",
+          "city": "Schkeuditz"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-18-20231216?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "15.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-18-20231215"
+          },
+          {
+            "date": "17.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-18-20231217"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/viktorianischer-weihnachtsmarkt",
+      "from": "16.12.2023",
+      "to": "15:00",
+      "location": "Biedermeierstrand Hayna",
+      "summary": "Viktorianischer Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "16.12.2023",
+        "time": "15:00",
+        "location": {
+          "name": "Biedermeierstrand Hayna",
+          "street": "Zur Schafhöhe ",
+          "zipcode": "04435",
+          "city": "Schkeuditz"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/viktorianischer-weihnachtsmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-18-20231217",
+      "from": "17.12.2023",
+      "to": "11:00",
+      "location": "Historisches Straßenbahndepot",
+      "summary": "Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "17.12.2023",
+        "time": "11:00",
+        "location": {
+          "name": "Historisches Straßenbahndepot",
+          "street": "Rathausplatz 11",
+          "zipcode": "04435",
+          "city": "Schkeuditz"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-18-20231217?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "15.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-18-20231215"
+          },
+          {
+            "date": "16.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-18-20231216"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-20231217",
+      "from": "17.12.2023",
+      "to": "11:00",
+      "location": "Kees'scher Park",
+      "summary": "Adventsmarkt bei Brot und Kees",
+      "description": "Adventsstimmung mit Händlern aus der Region, handgemachtem und...",
+      "details": {
+        "date": "17.12.2023",
+        "time": "11:00",
+        "location": {
+          "name": "Kees'scher Park",
+          "street": "Lauersche Str. ",
+          "zipcode": "04416",
+          "city": "Markkleeberg,",
+          "w3c": "http://www.keesscher-park.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-20231217?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "03.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-20231203"
+          },
+          {
+            "date": "10.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-20231210"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-10",
+      "from": "17.12.2023",
+      "to": "14:00",
+      "location": "Genezarethkirche",
+      "summary": "Adventsmarkt",
+      "description": "",
+      "details": {
+        "date": "17.12.2023",
+        "time": "14:00",
+        "location": {
+          "name": "Genezarethkirche",
+          "street": "Theodor-Heuss-Straße 45",
+          "zipcode": "04328",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-10?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/hof-advent-20231217",
+      "from": "17.12.2023",
+      "to": "14:00",
+      "location": "Stiftsgut Liebertwolkwitz",
+      "summary": "Hof-Advent",
+      "description": "",
+      "details": {
+        "date": "17.12.2023",
+        "time": "14:00",
+        "location": {
+          "name": "Stiftsgut Liebertwolkwitz",
+          "street": "Markt 11",
+          "zipcode": "04288",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/hof-advent-20231217?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "16.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/hof-advent-20231216"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-14-20231217",
+      "from": "17.12.2023",
+      "to": "14:00",
+      "location": "Landgasthof Gut Graßdorf",
+      "summary": "Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "17.12.2023",
+        "time": "14:00",
+        "location": {
+          "name": "Landgasthof Gut Graßdorf",
+          "street": "Am Volksgut 2",
+          "zipcode": "04425",
+          "city": "Taucha"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-14-20231217?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "15.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-14-20231215"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventmarkt",
+      "from": "17.12.2023",
+      "to": "15:00",
+      "location": "Schlosskirche Lützschena",
+      "summary": "Adventmarkt",
+      "description": "",
+      "details": {
+        "date": "17.12.2023",
+        "time": "15:00",
+        "location": {
+          "name": "Schlosskirche Lützschena",
+          "street": "Schloßweg 4",
+          "zipcode": "04159",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/1-meusdorfer-weihnachtsmarkt",
+      "from": "17.12.2023",
+      "to": "15:00",
+      "location": "Wirtshaus am Monarchenhügel",
+      "summary": "1. Meusdorfer Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "17.12.2023",
+        "time": "15:00",
+        "location": {
+          "name": "Wirtshaus am Monarchenhügel",
+          "street": "Schwarzenbergweg 9",
+          "zipcode": "04289",
+          "city": "Leipzig",
+          "w3c": "http://www.wirtshaus-monarchenhuegel.de"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/1-meusdorfer-weihnachtsmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231220",
+      "from": "20.12.2023",
+      "to": "24.12.2023",
+      "location": "Herr Kauzig",
+      "summary": "Der kauzige Wintermarkt",
+      "description": "Der kauzige Wintermarkt mit Marktständen, Musik und Party Marktstände ...",
+      "details": {
+        "date": "20.12.2023 -  24.12.2023",
+        "time": "",
+        "location": {
+          "name": "Herr Kauzig",
+          "street": "Jahnallee 52",
+          "zipcode": "04177",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231220?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "29.11.2023 -  03.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231129"
+          },
+          {
+            "date": "06.12.2023 -  10.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231206"
+          },
+          {
+            "date": "13.12.2023 -  17.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231213"
+          },
+          {
+            "date": "27.12.2023 -  31.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231227"
+          },
+          {
+            "date": "03.01.2024 -  07.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240103"
+          },
+          {
+            "date": "10.01.2024 -  14.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240110"
+          },
+          {
+            "date": "17.01.2024 -  21.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240117"
+          },
+          {
+            "date": "24.01.2024 -  28.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240124"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231227",
+      "from": "27.12.2023",
+      "to": "31.12.2023",
+      "location": "Herr Kauzig",
+      "summary": "Der kauzige Wintermarkt",
+      "description": "Der kauzige Wintermarkt mit Marktständen, Musik und Party Marktstände ...",
+      "details": {
+        "date": "27.12.2023 -  31.12.2023",
+        "time": "",
+        "location": {
+          "name": "Herr Kauzig",
+          "street": "Jahnallee 52",
+          "zipcode": "04177",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231227?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "29.11.2023 -  03.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231129"
+          },
+          {
+            "date": "06.12.2023 -  10.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231206"
+          },
+          {
+            "date": "13.12.2023 -  17.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231213"
+          },
+          {
+            "date": "20.12.2023 -  24.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231220"
+          },
+          {
+            "date": "03.01.2024 -  07.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240103"
+          },
+          {
+            "date": "10.01.2024 -  14.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240110"
+          },
+          {
+            "date": "17.01.2024 -  21.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240117"
+          },
+          {
+            "date": "24.01.2024 -  28.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240124"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240103",
+      "from": "03.01.2024",
+      "to": "07.01.2024",
+      "location": "Herr Kauzig",
+      "summary": "Der kauzige Wintermarkt",
+      "description": "Der kauzige Wintermarkt mit Marktständen, Musik und Party Marktstände ...",
+      "details": {
+        "date": "03.01.2024 -  07.01.2024",
+        "time": "",
+        "location": {
+          "name": "Herr Kauzig",
+          "street": "Jahnallee 52",
+          "zipcode": "04177",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240103?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "29.11.2023 -  03.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231129"
+          },
+          {
+            "date": "06.12.2023 -  10.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231206"
+          },
+          {
+            "date": "13.12.2023 -  17.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231213"
+          },
+          {
+            "date": "20.12.2023 -  24.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231220"
+          },
+          {
+            "date": "27.12.2023 -  31.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231227"
+          },
+          {
+            "date": "10.01.2024 -  14.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240110"
+          },
+          {
+            "date": "17.01.2024 -  21.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240117"
+          },
+          {
+            "date": "24.01.2024 -  28.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240124"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240110",
+      "from": "10.01.2024",
+      "to": "14.01.2024",
+      "location": "Herr Kauzig",
+      "summary": "Der kauzige Wintermarkt",
+      "description": "Der kauzige Wintermarkt mit Marktständen, Musik und Party Marktstände ...",
+      "details": {
+        "date": "10.01.2024 -  14.01.2024",
+        "time": "",
+        "location": {
+          "name": "Herr Kauzig",
+          "street": "Jahnallee 52",
+          "zipcode": "04177",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240110?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "29.11.2023 -  03.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231129"
+          },
+          {
+            "date": "06.12.2023 -  10.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231206"
+          },
+          {
+            "date": "13.12.2023 -  17.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231213"
+          },
+          {
+            "date": "20.12.2023 -  24.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231220"
+          },
+          {
+            "date": "27.12.2023 -  31.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231227"
+          },
+          {
+            "date": "03.01.2024 -  07.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240103"
+          },
+          {
+            "date": "17.01.2024 -  21.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240117"
+          },
+          {
+            "date": "24.01.2024 -  28.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240124"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240117",
+      "from": "17.01.2024",
+      "to": "21.01.2024",
+      "location": "Herr Kauzig",
+      "summary": "Der kauzige Wintermarkt",
+      "description": "Der kauzige Wintermarkt mit Marktständen, Musik und Party Marktstände ...",
+      "details": {
+        "date": "17.01.2024 -  21.01.2024",
+        "time": "",
+        "location": {
+          "name": "Herr Kauzig",
+          "street": "Jahnallee 52",
+          "zipcode": "04177",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240117?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "29.11.2023 -  03.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231129"
+          },
+          {
+            "date": "06.12.2023 -  10.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231206"
+          },
+          {
+            "date": "13.12.2023 -  17.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231213"
+          },
+          {
+            "date": "20.12.2023 -  24.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231220"
+          },
+          {
+            "date": "27.12.2023 -  31.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231227"
+          },
+          {
+            "date": "03.01.2024 -  07.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240103"
+          },
+          {
+            "date": "10.01.2024 -  14.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240110"
+          },
+          {
+            "date": "24.01.2024 -  28.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240124"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240124",
+      "from": "24.01.2024",
+      "to": "28.01.2024",
+      "location": "Herr Kauzig",
+      "summary": "Der kauzige Wintermarkt",
+      "description": "Der kauzige Wintermarkt mit Marktständen, Musik und Party Marktstände ...",
+      "details": {
+        "date": "24.01.2024 -  28.01.2024",
+        "time": "",
+        "location": {
+          "name": "Herr Kauzig",
+          "street": "Jahnallee 52",
+          "zipcode": "04177",
+          "city": "Leipzig"
+        },
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240124?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "29.11.2023 -  03.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231129"
+          },
+          {
+            "date": "06.12.2023 -  10.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231206"
+          },
+          {
+            "date": "13.12.2023 -  17.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231213"
+          },
+          {
+            "date": "20.12.2023 -  24.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231220"
+          },
+          {
+            "date": "27.12.2023 -  31.12.2023",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231227"
+          },
+          {
+            "date": "03.01.2024 -  07.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240103"
+          },
+          {
+            "date": "10.01.2024 -  14.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240110"
+          },
+          {
+            "date": "17.01.2024 -  21.01.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20240117"
+          }
+        ]
+      }
+    }
+  ]
 }

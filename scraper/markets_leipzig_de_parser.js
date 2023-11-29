@@ -68,12 +68,12 @@ const scrape = async (content) => {
         const configObj = {
             markets: c
         }
-        fs.writeFileSync('./config.json', JSON.stringify(configObj, null, 2), 'utf-8')
+        fs.writeFileSync('./markets_leipzig_de.json', JSON.stringify(configObj, null, 2), 'utf-8')
     });
 }
 
 const getUniqueLocations = () => {
-    const config = require('./config.json').markets.map(m => m.details.location)
+    const config = require('./markets_leipzig_de.json').markets.map(m => m.details.location)
 
     const groupBy = (data, keyFun, valueFun) =>
         data.reduce((acc, curr) => {
