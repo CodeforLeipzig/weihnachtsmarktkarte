@@ -55,7 +55,7 @@ const scrape = async (content) => {
     const configObj = {
         markets
     }
-    fs.writeFileSync('./config.json', JSON.stringify(configObj, null, 2), 'utf-8')
+    fs.writeFileSync('./markets_leipzig_leben.json', JSON.stringify(configObj, null, 2), 'utf-8')
 }
 
 
