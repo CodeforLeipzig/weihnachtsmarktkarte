@@ -73,7 +73,8 @@ const scrape = async (content) => {
 }
 
 const getUniqueLocations = () => {
-    const config = require('./markets_leipzig_de.json').markets.map(m => m.details.location)
+    const config = require('./markets_leipzig_de.json').markets.map(m => m)
+    const knownLocations = require('./markets_wmf.json')
 
     const groupBy = (data, keyFun, valueFun) =>
         data.reduce((acc, curr) => {
@@ -87,32 +88,43 @@ const getUniqueLocations = () => {
             return acc;
         }, {});
 
-    const keyFun = l => l.city + "__" + l.zipcode + '__' + l.street;
+    const keyFun = l => l.details.location.city +
+        '__' + l.details.location.zipcode +
+        '__' + l.details.location.street;
+
+    const resolveKnownLocationCoords = o => {
+        const found = knownLocations.filter(l => l.w3 === o.url || l.strasse === o.details?.location.street);
+        const loc = found.length > 0 ? found[0] : null
+        return loc && [loc.lng, loc.lat]
+    };
+
     const valueFun = l => ({
-        type: 'feature',
-        properties: {
-            name: l.name,
-            street: l.street,
-            zipcode: l.zipcode,
-            city: l.city,
+        "type": 'feature',
+        "properties": {
+            "name": l.details.location.name,
+            "url": l.url,
+            "street": l.details.location.street,
+            "zipcode": l.details.location.zipcode,
+            "city": l.details.location.city,
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [
-                12,
-                51
-            ]
+            "coordinates": resolveKnownLocationCoords(l)
         }
     });
 
     const locs = groupBy(config, keyFun, valueFun);
     const sortedKeys = Object.keys(locs).sort();
+    const sortedFeatures = [];
     sortedKeys.forEach(element => {
-        console.log(locs[element][0])
+        sortedFeatures.push(locs[element][0]);
     });
+    fs.writeFileSync('./markets_leipzig_de_know_locations.json', JSON.stringify(sortedFeatures, null, 2), 'utf-8')
 }
 
+/*
 getHtml("https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/weihnachten/weihnachtsmaerkte/").then(
     content => scrape(content)
 )
+*/
 getUniqueLocations();

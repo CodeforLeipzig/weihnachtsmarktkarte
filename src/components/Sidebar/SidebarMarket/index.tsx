@@ -113,7 +113,7 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
 
           {marketData['closed-exc'] !== '0' && (
             <p className="text-sm italic pt-0 text-gray-500">
-              * geschlossen am {marketData['closed-exc-readable']}
+              * geschlossen: {marketData['closed-exc-readable']}
             </p>
           )}
         </MarketInfo>

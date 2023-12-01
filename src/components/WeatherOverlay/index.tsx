@@ -124,7 +124,7 @@ export const WeatherRow: FC<WeatherRowPropType> = ({
           <span className="">{ICON_MAPPING[weatherRecords[hour].icon]}</span>
         </div>
       )}
-      {weatherRecords[hour] && weatherRecords[hour].temperature && (
+      {weatherRecords[hour] && !!weatherRecords[hour].temperature && (
         <div className="my-auto text-xs sm:text-lg font-bold text-lightblue/90 ml-auto sm:mr-1 w-12 sm:w-14">
           {/* @ts-ignore */}
           {Math.round(weatherRecords[hour].temperature)} °C
