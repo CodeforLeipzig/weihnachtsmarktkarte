@@ -1,5 +1,5 @@
-import React, { useState, useRef, useEffect, FC } from 'react'
-import { FaPlay, FaPause, FaBackward, FaForward, FaVolumeMute, FaVolumeUp } from 'react-icons/fa'
+import React, { useState, useEffect, useMemo, FC } from 'react'
+import { FaPlay, FaPause, FaBackward, FaForward } from 'react-icons/fa'
 import useAudio from '@lib/hooks/useAudio'
 
 export interface AudioEntry {

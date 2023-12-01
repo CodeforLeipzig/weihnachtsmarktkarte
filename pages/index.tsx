@@ -1,7 +1,7 @@
 import type { NextPage } from 'next'
 import dynamic from 'next/dynamic'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useMemo, useRef } from 'react'
 // import { snowStorm } from '@lib/snowstorm'
 
 import { useRouter } from 'next/router'
@@ -27,6 +27,8 @@ import { getMapData } from '@lib/loadMapData'
 import { filterMarkets } from '@lib/filterMarkets'
 
 import { AudioEntry } from '@components/MusicPlayer'
+
+import { InitialAudioContext } from '@lib/hooks/useAudio/InitialAudioContext'
 
 const MusicPlayer = dynamic(
   () => import('@components/MusicPlayer'),
@@ -178,6 +180,18 @@ const MapSite: NextPage = (mapData: any) => {
 
   const [showMapLayerToilets, setShowMapLayerToilets] = useState(true)
 
+  const firstRender = useRef(true);
+
+  const [initial, setInitial] = useState(false);
+
+  useEffect(() => {
+    if (firstRender.current) {
+      setInitial(true)
+    }
+    firstRender.current = false;
+    return () => { firstRender.current = true };
+  }, []);
+
   return (
     <>
       <Head />
@@ -185,7 +199,9 @@ const MapSite: NextPage = (mapData: any) => {
         id="snowId"
         className="w-full h-full absolute z-50 pointer-events-none overflow-hidden"
       ></div>
-      <MusicPlayer tracks={tracks} />
+      <InitialAudioContext.Provider value={{ initial, setInitial }}>
+        <MusicPlayer tracks={tracks} />
+      </InitialAudioContext.Provider>
       <IntroModal
         modalOpen={modalOpen}
         setModalOpen={setModalOpen}
