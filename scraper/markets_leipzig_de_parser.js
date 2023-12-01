@@ -93,7 +93,7 @@ const getUniqueLocations = () => {
         '__' + l.details.location.street;
 
     const resolveKnownLocationCoords = o => {
-        const found = knownLocations.filter(l => l.w3 === o.url || l.strasse === o.details?.location.street);
+        const found = knownLocations.filter(l => l.w3 === o.url /*|| l.strasse === o.details?.location.street*/);
         const loc = found.length > 0 ? found[0] : null
         return loc && [loc.lng, loc.lat]
     };
