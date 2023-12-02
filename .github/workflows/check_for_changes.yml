@@ -2,32 +2,36 @@ name: CheckForChanges
 
 on:
   schedule:
-    - cron: "45 11 * * *"
+    - cron: "55 11 * * *"
 
 jobs:
   checkForChanges:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
+      - name: UseNode
         uses: actions/setup-node@v3
         with:
           node-version: "20.x"
-      - name: Scrape markets
+      - name: ScrapeMarkets
         run: |
           cd ./scraper
           npm install
           npm run leipzigde
           git diff markets_leipzig_de.json | echo >> git_diff.txt
-          export HAS_CHANGES = [ -s git_diff.txt ] && TRUE
-      - name: Upload Weihnachtsmärkte
+          [ -s git_diff.txt ] && echo "HAS_CHANGES=TRUE" >> "$GITHUB_OUTPUT"
+      - name: UploadWeihnachtsmaerkte
+        env:
+          HAS_CHANGES: ${{ steps.ScrapeMarkets.outputs.HAS_CHANGES }}
         if: ${{ HAS_CHANGES }}
         uses: actions/upload-artifact@v3
         with:
           name: weihnachts_maerkte_leipzigde.json
           path: markets_leipzig_de.json
           retention-days: 1
-      - name: Upload Diff
+      - name: UploadDiff
+        env:
+          HAS_CHANGES: ${{ steps.ScrapeMarkets.outputs.HAS_CHANGES }}
         if: ${{ HAS_CHANGES }}
         uses: actions/upload-artifact@v3
         with:
@@ -35,5 +39,7 @@ jobs:
           path: git.diff
           retention-days: 1
       - name: FailOnChanges
+        env:
+          HAS_CHANGES: ${{ steps.ScrapeMarkets.outputs.HAS_CHANGES }}
         if: ${{ HAS_CHANGES }}
         run: exit 1
