@@ -2,7 +2,7 @@ name: CheckForChanges
 
 on:
   schedule:
-    - cron: "00 12 * * *"
+    - cron: "40 12 * * *"
 
 jobs:
   checkForChanges:
