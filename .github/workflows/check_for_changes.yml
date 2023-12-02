@@ -2,7 +2,7 @@ name: CheckForChanges
 
 on:
   schedule:
-    - cron: "15 11 * * *"
+    - cron: "35 11 * * *"
 
 jobs:
   checkForChanges:
@@ -19,10 +19,21 @@ jobs:
           npm install
           npm run leipzigde
           git diff markets_leipzig_de.json | echo >> git_diff.txt
-          [ -s git_diff.txt ] && exit 1
-      - name: Upload artifact
+          export HAS_CHANGES = [ -s git_diff.txt ] && TRUE
+      - name: Upload Weihnachtsmärkte
+        if: ${{ HAS_CHANGES }}
         uses: actions/upload-artifact@v3
         with:
           name: weihnachts_maerkte_leipzigde.json
           path: markets_leipzig_de.json
           retention-days: 1
+      - name: Upload Diff
+        if: ${{ HAS_CHANGES }}
+        uses: actions/upload-artifact@v3
+        with:
+          name: git_diff.txt
+          path: git.diff
+          retention-days: 1
+      - name: FailOnChanges
+        if: ${{ HAS_CHANGES }}
+        run: exit 1
