@@ -1,0 +1,28 @@
+name: Node.js CI
+
+on:
+  schedule:
+    - cron: "00 12 * * *"
+
+jobs:
+  checkForChanges:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20.x"
+      - name: Scrape markets
+        run: |
+          cd ./scraper
+          npm install
+          npm run leipzigde
+          git diff markets_leipzig_de.json | echo >> git_diff.txt
+          [ -s git_diff.txt ] && exit 1
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: weihnachts_maerkte_leipzigde.json
+          path: markets_leipzig_de.json
+          retention-days: 1
