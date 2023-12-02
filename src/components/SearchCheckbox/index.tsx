@@ -91,13 +91,22 @@ export const SearchCheckbox: FC<SearchCheckboxType> = ({
   marketFilterFulltext,
   setMarketFilterFulltext
 }) => {
+  const mapping = new Map<string, boolean | undefined>([
+    ["searchInName", marketFilterFulltext?.searchInName],
+    ["searchInDescription", marketFilterFulltext?.searchInDescription],
+    ["searchInStreet", marketFilterFulltext?.searchInStreet],
+    ["searchInDistrict", marketFilterFulltext?.searchInDistrict],
+    ["searchInCity", marketFilterFulltext?.searchInCity],
+    ["searchInOrganizer", marketFilterFulltext?.searchInOrganizer],
+  ]);
+  const checked = mapping.get(field)
   return (
     <>
       <input type="checkbox" id={`${field}Cb`}
-        checked={marketFilterFulltext && marketFilterFulltext[field]}
+        checked={marketFilterFulltext && checked}
         onChange={(_) => setMarketFilterFulltext({
           ...marketFilterFulltext,
-          [`${field}`]: marketFilterFulltext && !marketFilterFulltext[field]
+          [`${field}`]: marketFilterFulltext && !checked
         })}
       />
       <label htmlFor={`${field}Cb`}>{label}</label>
