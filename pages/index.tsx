@@ -79,6 +79,14 @@ const MapSite: NextPage = (mapData: any) => {
   const [marketFilterTime, setMarketFilterTime] = useState<boolean>(false)
   const [marketFilterAction, setMarketFilterAction] = useState<boolean>(false)
   const [marketFilterTrain, setMarketFilterTrain] = useState<boolean>(false)
+  const [marketFilterFulltext, setMarketFilterFulltext] = useState<any>({
+    searchInName: true,
+    searchInDescription: true,
+    searchInStreet: true,
+    searchInDistrict: true,
+    searchInCity: true,
+    searchInOrganizer: true,
+  })
 
   const [navView, setNavView] = useState<'filter' | 'info'>('filter')
   const [sidebarMenuOpen, setSidebarMenuOpen] = useState<boolean>(false)
@@ -147,7 +155,8 @@ const MapSite: NextPage = (mapData: any) => {
       marketFilterDate,
       marketFilterAction,
       marketFilterTrain,
-      marketFilterTime
+      marketFilterTime,
+      marketFilterFulltext
     )
     // const newData 0
     setMarketsData(JSON.parse(JSON.stringify(newData)))
@@ -159,6 +168,7 @@ const MapSite: NextPage = (mapData: any) => {
     marketFilterAction,
     marketFilterTrain,
     marketFilterTime,
+    marketFilterFulltext,
   ])
 
   // when the sidebar is closed -> set markerId to null
@@ -232,6 +242,8 @@ const MapSite: NextPage = (mapData: any) => {
             setMarketFilterAction={setMarketFilterAction}
             marketFilterTrain={marketFilterTrain}
             setMarketFilterTrain={setMarketFilterTrain}
+            marketFilterFulltext={marketFilterFulltext}
+            setMarketFilterFulltext={setMarketFilterFulltext}
           />
         )}
         {navView === 'info' && <SidebarContentInfo />}

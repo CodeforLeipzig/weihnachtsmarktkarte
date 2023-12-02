@@ -123,7 +123,8 @@ export function filterMarkets(
   marketFilterDate,
   marketFilterAction,
   marketFilterTrain,
-  marketFilterTime
+  marketFilterTime,
+  marketFilterFulltext,
 ) {
   data.forEach((d) => {
     d.inaktiv = false
@@ -158,6 +159,22 @@ export function filterMarkets(
     }
     if (marketFilterTime && !openLate(d, marketFilterDate)) {
       d.inaktiv = true
+      return
+    }
+    if (marketFilterFulltext && marketFilterFulltext.filter) {
+      const filterLower = marketFilterFulltext.filter.toLowerCase();
+      const checks = [
+        (text) => marketFilterFulltext.searchInName && (d.name.toLowerCase().indexOf(text) >= 0 || d.shortname.toLowerCase().indexOf(text) >= 0),
+        (text) => marketFilterFulltext.searchInDescription && d.rss_beschreibung && d.rss_beschreibung.toLowerCase().indexOf(text) >= 0,
+        (text) => marketFilterFulltext.searchInStreet && d.strasse && d.strasse.toLowerCase().indexOf(text) >= 0,
+        (text) => marketFilterFulltext.searchInDistrict && d.bezirk && d.bezirk.toLowerCase().indexOf(text) >= 0,
+        (text) => marketFilterFulltext.searchInCity && d.plz_ort && d.plz_ort.toLowerCase().indexOf(text) >= 0,
+        (text) => marketFilterFulltext.searchInOrganizer && d.veranstalter && d.veranstalter.toLowerCase().indexOf(text) >= 0,
+      ]
+      const found = checks.map((check) => check(filterLower)).filter(res => res);
+      if (found.length === 0) {
+        d.inaktiv = true
+      }
       return
     }
   })

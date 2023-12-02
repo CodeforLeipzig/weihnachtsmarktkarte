@@ -5,7 +5,7 @@ import { SwitchWrapper } from '@components/SwitchWrapper'
 import { FilterDate } from '@components/FilterDate'
 import { SidebarHeader } from '@components/Sidebar/SidebarHeader'
 import { SidebarBody } from '@components/Sidebar/SidebarBody'
-import { WeatherOverlay } from '@components/WeatherOverlay'
+import { SearchCheckboxes, FullTextFilter } from '@components/SearchCheckbox'
 
 export interface SidebarContentFilterType {
   marketFilterInternational: boolean
@@ -22,6 +22,8 @@ export interface SidebarContentFilterType {
   setMarketFilterAction: (enabled: boolean) => void
   marketFilterTrain: boolean
   setMarketFilterTrain: (enabled: boolean) => void
+  marketFilterFulltext: any,
+  setMarketFilterFulltext: (data: FullTextFilter) => void
 }
 
 export const SidebarContentFilter: FC<SidebarContentFilterType> = ({
@@ -39,6 +41,8 @@ export const SidebarContentFilter: FC<SidebarContentFilterType> = ({
   setMarketFilterAction,
   marketFilterTrain,
   setMarketFilterTrain,
+  marketFilterFulltext,
+  setMarketFilterFulltext,
 }) => {
   function resetFilter() {
     setMarketFilterCosts(false)
@@ -48,6 +52,14 @@ export const SidebarContentFilter: FC<SidebarContentFilterType> = ({
     setMarketFilterTime(false)
     setMarketFilterAction(false)
     setMarketFilterTrain(false)
+    setMarketFilterFulltext({
+      searchInName: true,
+      searchInDescription: true,
+      searchInStreet: true,
+      searchInDistrict: true,
+      searchInCity: true,
+      searchInOrganizer: true,
+    })
   }
 
   return (
@@ -66,6 +78,22 @@ export const SidebarContentFilter: FC<SidebarContentFilterType> = ({
                 setMarketFilterDate={setMarketFilterDate}
               />
             </div>
+          </ExpandablePanel>
+          <hr className="my-2 border-lightblue/70" />
+          <ExpandablePanel title={'Volltextsuche'} open={true}>
+            <div className="justify-left flex pb-2">
+              <input type="text" style={{ background: 'black' }}
+                value={(marketFilterFulltext && marketFilterFulltext.filter) || ""}
+                onChange={(event) => setMarketFilterFulltext({
+                  ...marketFilterFulltext, "filter": event.currentTarget.value
+                })}
+              />
+            </div>
+            <div style={{ paddingBottom: '5px' }}>Suche in: </div>
+            <SearchCheckboxes
+              marketFilterFulltext={marketFilterFulltext}
+              setMarketFilterFulltext={setMarketFilterFulltext}
+            />
           </ExpandablePanel>
           <hr className="my-2 border-lightblue/70" />
           <ExpandablePanel title={'Abends offen'} open={true}>
@@ -134,16 +162,18 @@ export const SidebarContentFilter: FC<SidebarContentFilterType> = ({
             marketFilterAccessible ||
             marketFilterCosts ||
             marketFilterTime ||
-            marketFilterDate) && (
-            <button
-              className="block mr-auto ml-auto sticky bottom-4 mb-8 xmas-btn px-4 bg-darkblue text-gold hover:bg-gold hover:text-lightblue p-2 text-bold rounded border-2 border-gold hover:border-gold"
-              onClick={resetFilter}
-            >
-              Filter zurücksetzen
-            </button>
-          )}
+            marketFilterDate ||
+            (marketFilterFulltext && marketFilterFulltext.filter
+              && marketFilterFulltext.filter.length > 0)) && (
+              <button
+                className="block mr-auto ml-auto sticky bottom-4 mb-8 xmas-btn px-4 bg-darkblue text-gold hover:bg-gold hover:text-lightblue p-2 text-bold rounded border-2 border-gold hover:border-gold"
+                onClick={resetFilter}
+              >
+                Filter zurücksetzen
+              </button>
+            )}
         </>
-      </SidebarBody>
+      </SidebarBody >
     </>
   )
 }
