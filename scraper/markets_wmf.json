@@ -1718,8 +1718,8 @@
     "action": 0,
     "image": null,
     "urheberschaft": null,
-    "train": "Straßenbahn 34 bis \"Sportforum Ost\"",
-    "train_distance": 1800,
+    "train": "Straßenbahn 10 oder 11 bis \"Karl-Liebknecht-/Kurt-Eisner-Str.\"",
+    "train_distance": 421,
     "short_distance": 0
   },
   {
@@ -2879,7 +2879,7 @@
     "action": 1,
     "image": null,
     "urheberschaft": null,
-    "train": "Straßenbah 15 bis \"Lindenau Bushof\"",
+    "train": "Straßenbahn 15 bis \"Lindenau Bushof\"",
     "train_distance": 168,
     "short_distance": 1
   },
