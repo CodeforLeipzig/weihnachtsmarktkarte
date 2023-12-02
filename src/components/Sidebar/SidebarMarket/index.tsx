@@ -113,7 +113,11 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
 
           {marketData['closed-exc'] !== '0' && (
             <p className="text-sm italic pt-0 text-gray-500">
-              * geschlossen: {marketData['closed-exc-readable']}
+              * geschlossen: {marketData['closed-exc-readable']
+                || (!!marketData['closed-exc'] ?
+                  marketData['closed-exc'].split(",").map(
+                    (c: string) => c.substring(0, 6)
+                  ) : "").join(", ")}
             </p>
           )}
         </MarketInfo>
@@ -163,7 +167,11 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
 
         {marketData.bemerkungen !== '' && (
           <MarketInfo title="Informationen" icon={<Info />}>
-            <p className="text-sm">{marketData.bemerkungen}</p>
+            <p className="text-sm">
+              <div
+                dangerouslySetInnerHTML={{ __html: marketData.bemerkungen }}
+              />
+            </p>
           </MarketInfo>
         )}
 
@@ -174,10 +182,13 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
               href={marketData.w3}
               target="_blank"
             >
-              {marketData.w3
-                .replace('www.', '')
-                .replace('https://', '')
-                .replace('http://', '')}
+              {(() => {
+                const link = marketData.w3
+                  .replace('www.', '')
+                  .replace('https://', '')
+                  .replace('http://', '');
+                return link.length < 60 ? link : link.substring(0, 60) + "...";
+              })()}
             </a>
           </MarketInfo>
         )}
