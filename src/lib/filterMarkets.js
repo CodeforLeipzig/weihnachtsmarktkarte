@@ -24,6 +24,9 @@ function checkOpenOnDay(date, d) {
 }
 
 function isBeforeDate(todayOrSelected, dateStr) {
+  if (todayOrSelected) {
+    todayOrSelected.setHours(0, 0, 0, 0);
+  }
   return (
     todayOrSelected &&
     dateStr &&
