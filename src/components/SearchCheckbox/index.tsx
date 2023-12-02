@@ -12,12 +12,14 @@ export interface FullTextFilter {
 }
 
 export interface SearchCheckboxesType {
+  index: number,
   selectedFields?: string[];
   marketFilterFulltext: FullTextFilter;
   setMarketFilterFulltext: (data: FullTextFilter) => void;
 }
 
 export interface SearchCheckboxType {
+  index: string;
   field: string;
   label: string;
   marketFilterFulltext: FullTextFilter;
@@ -53,10 +55,11 @@ export const SearchCheckboxes: FC<SearchCheckboxesType> = ({
   ]
   return (
     <>
-      {pairs.map(pair => (
-        <div className="justify-left flex pb-2">
+      {pairs.map((pair, index) => (
+        <div key={`search-box-line${index}`} className="justify-left flex pb-2">
           <PartialSearchCheckboxes
             selectedFields={pair}
+            index={index}
             marketFilterFulltext={marketFilterFulltext}
             setMarketFilterFulltext={setMarketFilterFulltext}
           />
@@ -67,14 +70,17 @@ export const SearchCheckboxes: FC<SearchCheckboxesType> = ({
 }
 
 export const PartialSearchCheckboxes: FC<SearchCheckboxesType> = ({
+  index,
   selectedFields,
   marketFilterFulltext,
   setMarketFilterFulltext
 }) => {
   return (
     <>
-      {selectedFields?.map((field: string) => (
+      {selectedFields?.map((field: string, innerIndex: number) => (
         <SearchCheckbox
+          index={`${index}-${innerIndex}`}
+          key={`searchbox-${index}-${innerIndex}`}
           field={field} label={fieldToLabel.get(field) || "unbekannt"}
           marketFilterFulltext={marketFilterFulltext}
           setMarketFilterFulltext={setMarketFilterFulltext}
@@ -86,6 +92,7 @@ export const PartialSearchCheckboxes: FC<SearchCheckboxesType> = ({
 }
 
 export const SearchCheckbox: FC<SearchCheckboxType> = ({
+  index,
   field,
   label,
   marketFilterFulltext,
@@ -102,14 +109,14 @@ export const SearchCheckbox: FC<SearchCheckboxType> = ({
   const checked = mapping.get(field)
   return (
     <>
-      <input type="checkbox" id={`${field}Cb`}
+      <input key={`searchbox-ìnput-${index}`} type="checkbox" id={`${field}Cb`}
         checked={marketFilterFulltext && checked}
         onChange={(_) => setMarketFilterFulltext({
           ...marketFilterFulltext,
           [`${field}`]: marketFilterFulltext && !checked
         })}
       />
-      <label htmlFor={`${field}Cb`}>{label}</label>
+      <label key={`searchbox-ìnput-label-${index}`} htmlFor={`${field}Cb`}>{label}</label>
     </>
   )
 }
