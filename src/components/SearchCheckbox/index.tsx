@@ -1,5 +1,4 @@
-import { FC, ReactElement, useState, ReactNode } from 'react'
-import classNames from 'classnames'
+import { FC } from 'react'
 
 export interface FullTextFilter {
   filter?: string;
@@ -12,7 +11,7 @@ export interface FullTextFilter {
 }
 
 export interface SearchCheckboxesType {
-  index: number,
+  index?: number,
   selectedFields?: string[];
   marketFilterFulltext: FullTextFilter;
   setMarketFilterFulltext: (data: FullTextFilter) => void;
