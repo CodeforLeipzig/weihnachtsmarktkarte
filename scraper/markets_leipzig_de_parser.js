@@ -11,6 +11,7 @@ const handleDetails = (content) => {
     const $ = cheerio.load("<html>" + adaptedContent)
     const table = $('.cal_meta_singleview');
     const ical = $('.cal_export_singleview > div > a').first();
+    const description = $(".cal_content_singleview > p")?.text()?.trim();
     const otherDateSection = $('#eventdetail-additionaldates-accordeon');
     const otherDates = otherDateSection.map(function () {
         return $(this).find("a").map(function () {
@@ -30,6 +31,7 @@ const handleDetails = (content) => {
         date: table.find('.date').first().text().trim().replace('Datum ', ''),
         time: table.find('.time').first().text().trim().replace('Uhrzeit ', ''),
         location: table.find('.location').first().text().trim().replace('Veranstaltungsort ', ''),
+        description,
         ical: "https://www.leipzig.de" + ical.attr('href'),
         otherDates,
         location: {
@@ -73,7 +75,7 @@ const scrape = async (content) => {
 }
 
 const getUniqueLocations = () => {
-    const config = require('./markets_leipzig_de.json').markets.map(m => m)
+    const config = require('./markets_leipzig_de.json').markets
     const knownLocations = require('./markets_wmf.json')
 
     const groupBy = (data, keyFun, valueFun) =>
@@ -122,9 +124,36 @@ const getUniqueLocations = () => {
     fs.writeFileSync('./markets_leipzig_de_know_locations.json', JSON.stringify(sortedFeatures, null, 2), 'utf-8')
 }
 
+const updateDescription = () => {
+    const existing = require('./markets_wmf.json')
+    const leipzigde = require('./markets_leipzig_de.json').markets
+    for (market of leipzigde) {
+        const found = existing.filter(exist => exist.w3 === market.url)
+        if (found.length > 0) {
+            for (elem of found) {
+                console.log(`${market.details?.description}`)
+                elem.rss_beschreibung = market.details?.description
+            }
+        }
+    }
+    fs.writeFileSync('./markets_wmf.json', JSON.stringify(existing, null, 2), 'utf-8')
+}
+
+const findMissingDescriptions = () => {
+    const existing = require('./markets_wmf.json')
+    const found = existing.filter(exist => !exist.rss_beschreibung || exist.rss_beschreibung.trim().length === 0);
+    if (found.length > 0) {
+        for (elem of found) {
+            console.log(`name: ${elem.name}`);
+        }
+    }
+}
 
 getHtml("https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/weihnachten/weihnachtsmaerkte/").then(
     content => scrape(content)
 )
 
 getUniqueLocations();
+updateDescription();
+
+findMissingDescriptions();

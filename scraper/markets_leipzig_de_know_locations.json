@@ -2,23 +2,6 @@
   {
     "type": "feature",
     "properties": {
-      "name": "Rittergut",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/wichtelmarkt",
-      "street": "Im Rittergut 1",
-      "zipcode": "04463",
-      "city": "Großpösna"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        12.50240850118493,
-        51.269111249999995
-      ]
-    }
-  },
-  {
-    "type": "feature",
-    "properties": {
       "name": "Landgasthof Walradus Hof",
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-13",
       "street": "Emil-Teich-Str. 4",
@@ -172,23 +155,6 @@
   {
     "type": "feature",
     "properties": {
-      "name": "Versöhnungskirche",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-7",
-      "street": "Franz-Mehring-Straße 44",
-      "zipcode": "04157",
-      "city": "Leipzig"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        12.368551114828596,
-        51.37182545
-      ]
-    }
-  },
-  {
-    "type": "feature",
-    "properties": {
       "name": "Budde-Haus",
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/advent-unterm-ginkgobaum-kulturweihnachtsmarkt",
       "street": "Lützowstraße 19",
@@ -241,17 +207,14 @@
     "type": "feature",
     "properties": {
       "name": "Philippuskirche",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-20231202",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-20231203",
       "street": "Aurelienstraße 54",
       "zipcode": "04177",
       "city": "Leipzig"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        12.329398002457262,
-        51.33195125
-      ]
+      "coordinates": null
     }
   },
   {
@@ -285,23 +248,6 @@
       "coordinates": [
         12.3424501,
         51.338934
-      ]
-    }
-  },
-  {
-    "type": "feature",
-    "properties": {
-      "name": "Kirche Rückmarsdorf",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-mit-kulinarischen-koestlichkeiten-hand-und-selbstgemachtem-und-adventlichem",
-      "street": "Brandensteinstr. ",
-      "zipcode": "04178",
-      "city": "Leipzig"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        12.250671038278057,
-        51.34437093976388
       ]
     }
   },
@@ -377,17 +323,14 @@
     "type": "feature",
     "properties": {
       "name": "Apostelkirche",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lichterfest-vor-der-kirche",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lichterfest-vor-der-kirche-1",
       "street": "Huttenstraße 14",
       "zipcode": "04249",
       "city": "Leipzig"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        12.32877619878487,
-        51.3007469
-      ]
+      "coordinates": null
     }
   },
   {
@@ -648,23 +591,6 @@
   {
     "type": "feature",
     "properties": {
-      "name": "TSG Blau Weiß Großlehna e.V.",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-20",
-      "street": "Schwedenstr. 23c",
-      "zipcode": "04420",
-      "city": "Markranstädt"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        12.170209450000002,
-        51.3118183
-      ]
-    }
-  },
-  {
-    "type": "feature",
-    "properties": {
       "name": "Historisches Straßenbahndepot",
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-17-20231215",
       "street": "Rathausplatz 11",
@@ -717,17 +643,14 @@
     "type": "feature",
     "properties": {
       "name": "Rittergutsschloss Taucha",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/mittelalterlicher-weihnachtsmarkt-20231202",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/mittelalterlicher-weihnachtsmarkt-20231203",
       "street": "Haugwitzwinkel 1",
       "zipcode": "04425",
       "city": "Taucha"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        12.4973428,
-        51.3813807
-      ]
+      "coordinates": null
     }
   },
   {
@@ -742,21 +665,6 @@
       "coordinates": [
         12.334048942485769,
         51.23417845
-      ]
-    }
-  },
-  {
-    "type": "feature",
-    "properties": {
-      "name": "Park Miltitz",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-12",
-      "street": "04205 Leipzig"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        12.256178495191364,
-        51.3218316
       ]
     }
   },
@@ -839,6 +747,18 @@
         12.374693129488247,
         51.340578550000004
       ]
+    }
+  },
+  {
+    "type": "feature",
+    "properties": {
+      "name": "Agra-Park",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/christmas-garden-2-20231203",
+      "street": "Markkleeberg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": null
     }
   }
 ]
