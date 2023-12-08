@@ -31,8 +31,9 @@ const parseLeipzigDe = async () => {
           Zeit: dateAndTime[1]?.replace(': ', ':'),
           Ort: location,
           Beschreibung: description,
-          source: "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/weihnachten/weihnachtsmaerkte/",
-          source_desc: "Stadt Leipzig"
+          source:
+            'https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/weihnachten/weihnachtsmaerkte/',
+          source_desc: 'Stadt Leipzig',
         })
       }
       return markets
@@ -75,28 +76,40 @@ const jsonToCsv = (data) => {
 }
 
 const jsonToGeojson = (data) => {
-  const entries = [];
+  const entries = []
   for (var i = 0; i < data.length; i++) {
-    const props = data[i];
+    const props = data[i]
     const entry = {
-      "type": "Feature",
-      "properties": props,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          props.lng,
-          props.lat
-        ]
-      }
+      type: 'Feature',
+      properties: props,
+      geometry: {
+        type: 'Point',
+        coordinates: [props.lng, props.lat],
+      },
     }
-    entries.push(JSON.stringify(entry, null, 2));
+    entries.push(JSON.stringify(entry, null, 2))
   }
-  const main = JSON.stringify({ "type": "FeatureCollection", "name": "markets", "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } }, "features": [] }, null, 2);
-  return main.replace("\"features\": []", "\"features\": [" + entries.reduce((prev, curr) => prev + ',' + curr) + "]")
+  const main = JSON.stringify(
+    {
+      type: 'FeatureCollection',
+      name: 'markets',
+      crs: {
+        type: 'name',
+        properties: { name: 'urn:ogc:def:crs:OGC:1.3:CRS84' },
+      },
+      features: [],
+    },
+    null,
+    2
+  )
+  return main.replace(
+    '"features": []',
+    '"features": [' + entries.reduce((prev, curr) => prev + ',' + curr) + ']'
+  )
 }
 
 const geojsonToJson = (data) => {
-  return data.features.map(d => d.properties);
+  return data.features.map((d) => d.properties)
 }
 
 const groupByLoc = (data) => {
@@ -201,24 +214,23 @@ const readInnerGeojson = () => {
             : 'S1, S2, S3, S4, S5, S5X und S6 bis "Leipzig, Markt"'
         markets.push({
           id: index,
+          bezirk: 'Zentrum',
           name: 'Haus ' + atts.hausnummer,
           shortname: atts.firma,
           strasse: atts.standort,
           plz_ort: '04109 Leipzig',
-          bezirk: 'Zentrum',
+          von: '28.11.23',
+          bis: '23.12.23',
           veranstalter: atts.firma,
-          von: '22.11.22',
-          bis: '23.12.22',
           oeffnungszeiten: '10:00-21:00',
           email: null,
           w3:
             atts.internet ||
-            'https://www.leipzig.de/freizeit-kultur-und-tourismus/einkaufen-und-ausgehen/maerkte/leipziger-weihnachtsmarkt',
+            'https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023',
           bemerkungen: null,
           lat: lat,
           lng: lng,
           rss_titel: atts.firma,
-          rss_beschreibung: atts.angebot,
           barrierefrei: null,
           'immer-kostenlos': 1,
           Mo: '10:00-21:00',
@@ -230,8 +242,9 @@ const readInnerGeojson = () => {
           So: '10:00-21:00',
           'closed-exc': 0,
           'closed-exc-readable': null,
-          'hours-exc': '01.12.22=10:00-22:00,02.12.22=10:00-22:00,08.12.22=10:00-22:00,09.12.22=10:00-22:00,15.12.22=10:00-22:00,16.12.22=10:00-22:00,22.12.22=10:00-22:00,23.12.22=10:00-22:00',
-          'hours-exc-readable': null,
+          'hours-exc':
+            '01.12.23=10:00-22:00,02.12.23=10:00-22:00,08.12.23=10:00-22:00,09.12.23=10:00-22:00,15.12.23=10:00-22:00,16.12.23=10:00-22:00,22.12.23=10:00-22:00',
+          'hours-exc-readable': 'freitags und samstags bis 22 Uhr',
           ignore: 0,
           merged: null,
           international: 0,
@@ -241,6 +254,7 @@ const readInnerGeojson = () => {
           train: train,
           train_distance: 72,
           short_distance: 1,
+          rss_beschreibung: atts.angebot,
         })
         index++
       }
@@ -280,7 +294,7 @@ const readToiletsInner = () => {
 }
 
 const registry = {
-  "LeipzigDe": () => {
+  LeipzigDe: () => {
     parseLeipzigDe().then((data) => {
       const grouped = groupByLoc(data)
       var index = 0
@@ -292,47 +306,51 @@ const registry = {
       const sorted = collected.sort((a, b) => a.name.localeCompare(b.name))
       fs.writeFile(
         'output-leipzigde.json',
-        '[' + sorted.map((entry) => JSON.stringify(entry, null, 2)).join(',') + ']',
+        '[' +
+        sorted.map((entry) => JSON.stringify(entry, null, 2)).join(',') +
+        ']',
         (err) => {
           if (err) throw err
         }
       )
     })
   },
-  "LeipzigLeben": () => parseLeipzigLeben(),
-  "MarketsWmf": () => {
+  LeipzigLeben: () => parseLeipzigLeben(),
+  MarketsWmf: () => {
     parseJson('./markets_wmf.json').then((data) => {
       const csvContent = jsonToCsv(data)
       fs.writeFile('markets.csv', csvContent, (err) => {
         if (err) throw err
       })
-      const geojson = jsonToGeojson(data);
+      const geojson = jsonToGeojson(data)
       fs.writeFile('markets.geojson', geojson, (err) => {
         if (err) throw err
       })
     })
   },
-  "MarketsGeojsonToJson": () => {
+  MarketsGeojsonToJson: () => {
     parseJson('./markets.geojson').then((data) => {
-      const json = geojsonToJson(data);
+      const json = geojsonToJson(data)
       fs.writeFile('markets_wmf.json', JSON.stringify(json, null, 2), (err) => {
         if (err) throw err
       })
     })
   },
-  "InnerMarketsJson": () => {
+  InnerMarketsJson: () => {
     readInnerGeojson().then((data) => {
       const sorted = data.sort((a, b) => a.name.localeCompare(b.name))
       fs.writeFile(
         'output_inner.json',
-        '[' + sorted.map((entry) => JSON.stringify(entry, null, 2)).join(',') + ']',
+        '[' +
+        sorted.map((entry) => JSON.stringify(entry, null, 2)).join(',') +
+        ']',
         (err) => {
           if (err) throw err
         }
       )
     })
   },
-  "InnerMarketsCsv": () => {
+  InnerMarketsCsv: () => {
     parseJson('./output_inner.json').then((data) => {
       const csvContent = jsonToCsv(data)
       fs.writeFile('markets_inner.csv', csvContent, (err) => {
@@ -340,23 +358,23 @@ const registry = {
       })
     })
   },
-  "InnerToilets": () => {
+  InnerToilets: () => {
     readToiletsInner().then((data) => {
       fs.writeFile('toilets.geojson', JSON.stringify(data, null, 2), (err) => {
         if (err) throw err
       })
     })
-  }
+  },
 }
 
 const keys = [
-  "LeipzigDe",
-  "LeipzigLeben",
-  "MarketsWmf",
-  "MarketsGeojsonToJson",
-  "InnerMarketsJson",
-  "InnerMarketsCsv",
-  "InnerToilets"
+  'LeipzigDe',
+  'LeipzigLeben',
+  'MarketsWmf',
+  'MarketsGeojsonToJson',
+  'InnerMarketsJson',
+  'InnerMarketsCsv',
+  'InnerToilets',
 ]
 
-keys.filter(f => f == "MarketsWmf").forEach((key) => registry[key]());
+keys.filter((f) => f == 'InnerMarketsCsv').forEach((key) => registry[key]())
