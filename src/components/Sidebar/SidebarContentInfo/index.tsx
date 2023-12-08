@@ -38,14 +38,14 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({ }) => {
                   href="https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/weihnachten/weihnachtsmaerkte/"
                   className="text-gold"
                 >
-                  Leipziger Weihnachtsmärkte 2022 von Leipzig.de{' '}
+                  Leipziger Weihnachtsmärkte 2023 von Leipzig.de{' '}
                 </a> sowie{' '}
                 <a
                   target="blank"
-                  href="https://www.leipzig-leben.de/weihnachtsmaerkte-leipzig-2022/"
+                  href="https://www.leipzig-leben.de/weihnachtsmaerkte-leipzig-2023-alle-orte-termine/"
                   className="text-gold"
                 >
-                  Leipziger Weihnachtsmärkte 2022 vom Blog Leipzig-Leben.de{' '}
+                  Leipziger Weihnachtsmärkte 2023 vom Blog Leipzig-Leben.de{' '}
                 </a>. Es besteht kein Anspruch auf Vollständigkeit.
                 Weihnachtsmärkte die unter 400m Luftlinie entfernt zu Haltestellen liegen
                 werden entsprechend bei der Filterung “Kurze Wege” ausgegeben. Die verarbeiteten Daten und die Skripte zur

@@ -433,7 +433,7 @@
     "train": "Bus 100, 101 oder 107 bis 'Zwenkau Hafen'",
     "train_distance": 118,
     "short_distance": 1,
-    "rss_beschreibung": "Ab 13:30 Uhr locken Glühwein, Grillleckereien, Kaffe und Kuchen, Kutschfahrten eine Bastelstraße und vieles mehr zu einem vorweihnachtlichen Ausflug an den Zwenkauer Hafen. Dank des guten Zweckes, als Spendenaktion für regionale Kinder- und Jugendprojekte ließ sich auch der Weihnachtsmann nicht zweimal bitten und ist natürlich mit dabei!"
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -481,7 +481,7 @@
     "train": "Bus 690 bis 'Leipzig, Schwarzes Ross'",
     "train_distance": 423,
     "short_distance": 0,
-    "rss_beschreibung": "Am 16. und 17. Dezember findet auf dem historischen Gewerbehof des Stiftsguts am Liebertwolkwitzer Markt 11, auf dem Liebnerschen Hof (Markt 3) mit der Flechtwerkstatt 'Tausendschön' und auf dem Gelände des Seniorendomizils 'Vierseithof' der AWO (Teichmannstraße 1b) sowie auf dem Museumshof (Alte Tauchaer Straße 1) wieder unser traditioneller 'Hof-Advent' statt. Abseits der Einkaufshektik der Großstadt können Sie hier im vorweihnachtlichen Lichterglanz die unterschiedlichsten Handwerkerstuben aus längst vergangenen Zeiten besuchen. Der Branntweinbrenner, die Korbmacherin, der Seilermeister, der Grempler, der Schmied und viele weitere erwarten Sie. Bummeln Sie über die kleinen, liebevoll gestalteten Höfe mit ihren vielen Ständen. Überall können Sie noch die eine oder andere kleine, aber besondere Geschenkidee für ihre Lieben finden. Ihre Kinder können die Märchenlesung besuchen, in einer der kleinen Werkstätten basteln oder ihren Spaß bei verschiedenen Angeboten haben. Ob mit Räucherware vom Landfleischer, Flammlachs am offenen Buchenfeuer, Glühwein aus dem Kessel und Brattaler oder frisch duftendem Brot aus der Hofbäckerei, ist auch für Speise und Trank ist gesorgt. Verweilen Sie in dieser märchenhaften Idylle, stimmen Sie sich historisch-besinnlich auf einem der wohl schönsten Weihnachtsmärkte Leipzigs auf die bevorstehenden Feiertage ein."
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -577,7 +577,7 @@
     "train": "Straßenbahn 10 oder 11 bis 'Wiederitzscher Str.'",
     "train_distance": 42,
     "short_distance": 1,
-    "rss_beschreibung": "es wird wieder eine schöne Mischung an Ständen geben, auch was leckeres, was warmes und was flüssiges wird in unterschiedlichen Kombinationen dabei sein"
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -719,8 +719,8 @@
     "urheberschaft": null,
     "train": "Straßenbahn 34 oder 15 bis 'Merseburgerstr.'",
     "train_distance": 370,
-    "short_distance": 0,
-    "rss_beschreibung": "Die weihnachtlichen Traditionen und kulinarischen Gerichte bleiben bestehen, auch ohne Leid und Ausbeutung von Tieren. Vielmehr blühen diese durch Innovationen auf und führen so zu einem wahrhaft besinnlichen Fest. Wir verstehen uns als kulturelle Veranstaltung zur Förderung des Tierrechts-Gedankens und des Veganismus’."
+    "short_distance": 1,
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -767,7 +767,7 @@
     "urheberschaft": null,
     "train": "Straßenbahn 1 oder 3, oder Bus 74 bis 'Elsterpassage'",
     "train_distance": 384,
-    "short_distance": 0,
+    "short_distance": 1,
     "rss_beschreibung": "Christstollen seit Oktober, „Stille Nacht“ aus der Konserve, Gedrängel in der City – wem die Vorweihnachtszeit zu kommerziell, zu schmalzig, zu hektisch, mit einem Wort: zu unweihnachtlich ist, der sollte einmal auf dem Alternativen Adventsmark in der Plagwitzer Heilandskirche vorbeischauen. Kinder und Erwachsene kommen hier gleichermaßen auf ihre Kosten. Während die Kleinen an einen der vielen Stände spielen und basteln, der Märchenerzählerin zuhören oder sich „Kaspar und der Weihnachtsstern Schnuppe“ der Puppenbühne Hellwig Junior ansehen, können die Großen in aller Ruhe über den Markt schlendern, sich bei Kuchen und Glühwein unterhalten – oder einfach nur die wunderbare Atmosphäre genießen. Verkaufsstände, Adventscafé, Basteln, Puppenspiel, Märchenerzählerin, Geschichten für Kinder und viele Überraschungen mehr. Eintritt frei"
   },
   "geometry": {
@@ -913,7 +913,7 @@
     "train": "Straßenbahn 15 oder Bus 60 bis 'Leipzig, Ostplatz'",
     "train_distance": 518,
     "short_distance": 0,
-    "rss_beschreibung": "Weihnachten steht vor der Tür und der Förderverein lässt auch dieses Jahr wieder den Garten im Advent glänzen. Mit alkoholfreien Punsch und hausgemachten Waffeln stimmen wir sie winterlich-botanisch ein und machen ausnahmsweise sogar die Gewächshaustüren auf. Unsere Garten-Guides gestalten kurze kostenlose Führungen (immer zur vollen Stunde) durch die feuchtwarmen Tropen und Anthony Ulbrich and the swinging cash daddys geben regional interpretierte Weihnachtslieder LIVE zum Besten."
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -1108,7 +1108,7 @@
     "train": "S4, S6 oder Straßenbahn 11 bis 'Markkleeberg, Virchowstr.'",
     "train_distance": 664,
     "short_distance": 0,
-    "rss_beschreibung": "eine Vielzahl von Ständen, mit Kunsthandwerk und kulinarische Köstlichkeiten. Besonders beliebt sind Stände mit Glühwein, Punsch und Bratwurst. Für Kinder gibt es auf dem Weihnachtsmarkt  ein buntes Programm mit Karussell, Spielständen und anderen Attraktionen."
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -1204,7 +1204,7 @@
     "train": "Straßenbahn 1 bis 'Schönauer-/Ratzelstr.'",
     "train_distance": 305,
     "short_distance": 1,
-    "rss_beschreibung": "Neben Fruchtpunsch wird es allerlei Leckereien geben, wie Grillwürstchen, Waffeln, selbst gemachten Kuchen und Stockbrot. Zusammen mit den Damen vom KOMM e.V. können sie Fröbelsterne und kleine Weihnachtsgestecke basteln. Musikalisch wird das Fest unter anderem begleitet vom Chor der Hochschule für Grafik- und Buchkunst. Dieser interpretiert Popsongs und klassische Stücke. Gegen 17 Uhr wird Opernsänger und Weihnachtsmann Alexander Voigt die herrlichsten Weihnachtslieder singen. Für die Kleinen gibt es einen spannenden Lampionumzug durch den Park."
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -1786,7 +1786,7 @@
     "train": "Rufbus 217 bis 'Hayna (Schkeuditz), Biedermeierstrand'",
     "train_distance": 0,
     "short_distance": 1,
-    "rss_beschreibung": "Neben kulinarischen Köstlichkeiten von Glühwein bis Weihnachtseis lockt der Weihnachtsmarkt am Biedermeierstrand mit weihnachtlicher Chormusik, irischen Klängen, historischen Marktständen mit Accessoires, Kleidung und Schmuck sowie mit liebevoll gefertigter Weihnachtsdekoration."
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -1981,7 +1981,7 @@
     "urheberschaft": null,
     "train": "Straßenbahn 4 bis 'Viertelsweg'",
     "train_distance": 304,
-    "short_distance": 0
+    "short_distance": 1
   },
   "geometry": {
     "type": "Point",
@@ -2177,7 +2177,7 @@
     "train": "Straßenbahn 3 bis 'An der Bürgerruhe, Taucha'",
     "train_distance": 1300,
     "short_distance": 0,
-    "rss_beschreibung": "Genießen Sie einen unserer leckeren Glühweine in verschiedenen Sorten oder unserer hausgemachten Feuerzangenbowle und stillen Sie Ihren Appetit mit einem kleinen Snack auf unserem Hof. Eine gute Möglichkeit zur Pause auf einer kleinen vorweihnachtlichen Spazierrunde oder eine willkommene Gelegenheit, sich mit Freunden auf ein kleines Heißgetränk zu treffen. Wir legen viel Wert auf Handwerkskunst und Familien."
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -2226,7 +2226,7 @@
     "train": "Straßenbahn 15 bis 'Meusdorf'",
     "train_distance": 449,
     "short_distance": 0,
-    "rss_beschreibung": "Auf der Festwiese hinter dem Wirtshaus mit köstlichen Naschereien, wie Käppelchen, Zuckerwatte, Leckeres vom Grill, Punsch und Glühwein. Mit dabei: ein Chor, erzgebirgische Handwerkskunst, Blechbläser und ein Weihnachtsmann."
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -2323,7 +2323,7 @@
     "urheberschaft": null,
     "train": "Straßenbahn 7 bis 'Permoserstr.'",
     "train_distance": 280,
-    "short_distance": 0,
+    "short_distance": 1,
     "rss_beschreibung": "Der Winterfreizeitpark ist ein Pop-Up Freizeitpark von mehreren Schaustellerfirmen. Große und kleine Gäste können sich über verschiedene Fahrgeschäfte, leckere Winter-Schmankerl sowie tolle Spiel- und Spaßstände freuen.An Sonn- und Feiertagen sowie am 24. und 31. Dezember 2023 ist kein Winterfreizeitpark."
   },
   "geometry": {
@@ -2422,7 +2422,7 @@
     "urheberschaft": null,
     "train": "Bus 621 bis 'Hauptstr, Podelwitz'",
     "train_distance": 347,
-    "short_distance": 0
+    "short_distance": 1
   },
   "geometry": {
     "type": "Point",
@@ -2471,7 +2471,7 @@
     "urheberschaft": null,
     "train": "Straßenbahn 7 bis 'Ludwig-Jahn-Str'",
     "train_distance": 326,
-    "short_distance": 0
+    "short_distance": 1
   },
   "geometry": {
     "type": "Point",
@@ -2569,7 +2569,7 @@
     "train": "Straßenbahn 7 bis 'Edlichstr'",
     "train_distance": 996,
     "short_distance": 0,
-    "rss_beschreibung": "Bei warmen Getränken und Snacks könnt Ihr Euch bei uns in Weihnachtsstimmung bringen. Was Euch erwartet: Kunsthandwerk, Tombola, Tanz, Musik, Theater, Infos zur OSTWACHE, Getränke und lecker Essen"
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -2667,7 +2667,7 @@
     "urheberschaft": null,
     "train": "Straßenbahn 11 oder 16 bis 'Wilhelminenstr.'",
     "train_distance": 262,
-    "short_distance": 0
+    "short_distance": 1
   },
   "geometry": {
     "type": "Point",
@@ -2912,7 +2912,7 @@
     "train": "Straßenbahn 11 bis 'Leipzig Wahren Rathaus'",
     "train_distance": 434,
     "short_distance": 0,
-    "rss_beschreibung": "Am 1. Advent, dem 3.12., findet wieder der beliebte Adventsmarkt auf dem Wahrener Kirchberg statt. Um 11:00Uhr beginnt zunächst der Familiengottesdienst,zu dem alle herzlich eingeladensind. Danach startet der Adventsmarkt,organisiert vom Förderverein Gemeindeaufbau der Ev.-Luth. GnadenkircheLeipzig-Wahren e.V. Alle Gemeindemitglieder, Nachbarn, Freunde und Interessierte sind eingeladen, Bratwurst, Glühwein und andere Leckereienzu genießen; auch 'Hausgemachtes' wie Marmeladen, Gelees und Plätzchen wird es geben. Eine große Feuerschale lädt zur Gemütlichkeit ein; die Kirche wird für Besichtigungen offen stehen. Von 13:00 bis 15:00 Uhr kann im Gartenhaus weihnachtlich gebastelt werden. Um 16:00 Uhr sind alle in die Gnadenkirche eingeladen, mitzusingen oder zuzuhören und die adventliche Atmosphäre beim stimmungsvollen Adventsliedersingen in der Kirche zu genießen. Gegen 17:00 Uhr endet der Adventsmarkt auf dem Wahrener Kirchberg. Éva Hein"
+    "rss_beschreibung": "Am 1. Advent, dem 3.12., findet wieder der beliebte Adventsmarkt auf dem Wahrener Kirchberg statt. Um 11:00Uhr beginnt zunächst der Familiengottesdienst,zu dem alle herzlich eingeladensind. Danach startet der Adventsmarkt,organisiert vom Förderverein Gemeindeaufbau der Ev.-Luth. GnadenkircheLeipzig-Wahren e.V. Alle Gemeindemitglieder, Nachbarn, Freunde und Interessierte sind eingeladen, Bratwurst, Glühwein und andere Leckereienzu genießen; auch „Hausgemachtes“ wie Marmeladen, Gelees und Plätzchen wird es geben. Eine große Feuerschale lädt zur Gemütlichkeit ein; die Kirche wird für Besichtigungen offen stehen. Von 13:00 bis 15:00 Uhr kann im Gartenhaus weihnachtlich gebastelt werden. Um 16:00 Uhr sind alle in die Gnadenkirche eingeladen, mitzusingen oder zuzuhören und die adventliche Atmosphäre beim stimmungsvollen Adventsliedersingen in der Kirche zu genießen. Gegen 17:00 Uhr endet der Adventsmarkt auf dem Wahrener Kirchberg. Éva Hein"
   },
   "geometry": {
     "type": "Point",
@@ -2961,7 +2961,7 @@
     "train": "Straßenbahn 4 bis 'Fritz-Seger-Str.'",
     "train_distance": 434,
     "short_distance": 0,
-    "rss_beschreibung": "Sie erwartet ein buntes Angebot von Kunst und künstlerischen Dingen, Bücher, Musikalien und anderen Dingen zum Kaufen und Verschenken."
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -3010,7 +3010,7 @@
     "train": "Straßenbahn 11 bis 'Rathausplatz Schkeuditz'",
     "train_distance": 97,
     "short_distance": 1,
-    "rss_beschreibung": "Der Schkeuditzer Weihnachtsmarkt im historischen Straßenbahndepot lädt alle ein, bunten Weihnachtstrubel drinnen und draußen zu genießen. Sowohl die Halle als auch das Außengelände werden 'bespielt'. Hier bietet sich das wunderbar weihnachtliche Ambiente zum Treffen mit Freunden und der Familie an. Täglich gibt es ein Bühnenprogramm - mit Kinderstücken, Weihnachtsmann u.v.m., diverse Marktstände bieten Ware feil, es gibt ein Kinderkarussell, Pony-Reiten, Mitmachaktionen und natürlich Glühwein und andere Leckereien."
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -3059,7 +3059,7 @@
     "train": "Straßenbahn 7 bis 'Theodor-Heuss'",
     "train_distance": 452,
     "short_distance": 0,
-    "rss_beschreibung": "'Macht hoch die Tür, die Tor macht weit' – das nehmen sich 19 Familien, Vereine und Institutionen zu Herzen und öffnen ihre Haus- und WohnungsTÜRen inner- und außerhalb der Stadtteilgrenzen für den Lebendigen Adventskalender. Eingeladen sind alle interessierte Menschen. Lassen Sie sich darauf ein, mit anderen Unbekannten und Bekannten ein Stück Gemeinschaft und Frieden zu erleben, sei es bei Musik und Kerzenschein, beim Basteln, Spielen oder Geschichtenhören. Sehen Sie das Zeichen, versammeln sich alle im Freien, oft um ein Feuer. Ihr Kommen ist das größte DANKESCHÖN an alle 'Türchenfüller'! Die Türchen werden in der Regel 18.00 Uhr für ca. 30 Minuten geöffnet. An den Adventssonntagen laden wir Sie zu den Veranstaltungen der Kirchgemeinden ein."
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -3108,7 +3108,7 @@
     "train": "Straßenbahn 10 oder 11 bis 'Münzgasse'",
     "train_distance": 256,
     "short_distance": 1,
-    "rss_beschreibung": "Am 10. Dezember von 14-21 Uhr liefern wir euch Arts&Crafts, Glühwein, Pizza, hot Cocktails, Kaffee und Kuchen und vieles mehr!"
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -3206,7 +3206,7 @@
     "train": "Straßenbahn 4, 7, 12 oder 15 bis 'Augustusplatz'",
     "train_distance": 659,
     "short_distance": 0,
-    "rss_beschreibung": "Vom 4. bis 21. Dezember 2023 verwandelt sich der Innenhof der städtischen Musikschule Leipzig 'Johann Sebastian Bach' unter der Woche wieder zu einem kleinen Adventsmarkt. An jedem Werktag können sich Musikliebhaberinnen und Weihnachtsfreunde von 17 bis 17:30 Uhr Kurzkonzerte von verschiedensten Musikensembles kostenfrei anhören.Bei Glühwein und Gebäck lädt die Konzertreihe „Adventsmusik“ in gemütlicher Atmosphäre dazu ein, dem Trubel der Innenstadt für einen Moment zu entfliehen und sich auf die Festtage einzustimmen. Das Programm ist gewohnt vielfältig – von klassischen Bläserklängen über jazzig-rockigen Sound bis hin zu bekannten Weihnachtsliedern zum Mitsingen bieten die Ensembles der Musikschule Leipzig an jedem Wochentag vorweihnachtlichen Hörgenuss.wochentags ab 17 UhrKonzerte: 17 bis 17:30 UhrEintritt frei"
+    "rss_beschreibung": "Vom 4. bis 21. Dezember 2023 verwandelt sich der Innenhof der städtischen Musikschule Leipzig \"Johann Sebastian Bach\" unter der Woche wieder zu einem kleinen Adventsmarkt. An jedem Werktag können sich Musikliebhaberinnen und Weihnachtsfreunde von 17 bis 17:30 Uhr Kurzkonzerte von verschiedensten Musikensembles kostenfrei anhören.Bei Glühwein und Gebäck lädt die Konzertreihe „Adventsmusik“ in gemütlicher Atmosphäre dazu ein, dem Trubel der Innenstadt für einen Moment zu entfliehen und sich auf die Festtage einzustimmen. Das Programm ist gewohnt vielfältig – von klassischen Bläserklängen über jazzig-rockigen Sound bis hin zu bekannten Weihnachtsliedern zum Mitsingen bieten die Ensembles der Musikschule Leipzig an jedem Wochentag vorweihnachtlichen Hörgenuss.wochentags ab 17 UhrKonzerte: 17 bis 17:30 UhrEintritt frei"
   },
   "geometry": {
     "type": "Point",
@@ -3500,7 +3500,7 @@
     "urheberschaft": null,
     "train": "S5, S5X und S6 bis 'Markkleeberg Nord'",
     "train_distance": 323,
-    "short_distance": 0
+    "short_distance": 1
   },
   "geometry": {
     "type": "Point",
@@ -3607,6 +3607,106 @@
     "coordinates": [
       12.41728261882562,
       51.3438931
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "id": 75,
+    "bezirk": "Störmthal",
+    "name": "Schloss Störmthal Weihnachtsmarkt",
+    "shortname": "Schloss Störmthal",
+    "strasse": "Rosengang 3",
+    "plz_ort": "04463 Großpösna",
+    "von": "10.12.23",
+    "bis": "10.12.23",
+    "veranstalter": "Schloss Störmthal",
+    "oeffnungszeiten": "12:00-19:00",
+    "email": null,
+    "w3": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-19",
+    "bemerkungen": "<a class='text-sm underline' target='blank' href='http://barockschloss-störmthal.de'>Offizielle Seite</a>",
+    "lat": 51.2448778,
+    "lng": 12.473900009137697,
+    "rss_titel": "Schloss Störmthal Weihnachtsmarkt",
+    "rss_beschreibung": "Weihnachtsmarkt im Schlosshof und im Schloss mit Basteln für Kinder, Weihnachtssingen und Weihnachtsmann. Bratwurst, Soljanka, Eierkuchen, Glühwein mit und ohne Alkohol zum gemütlichen Beisammensein an den Feuerschalen. Im beheizten Schloss gibt es Kaffee, Kakao und Kuchen vom Pfarrcafe aus Störmthal und unsere Schloss-Bar ist ebenfalls geöffnet. Es gibt ein gutes Angebot an Verkaufsständen z.B. Stollen der Bäckerei Perduß aus Großpösna, Bücher der Thalia-Buchhandlung , Hüte, Kreativschmuck, Lederwaren.",
+    "immer-kostenlos": 0,
+    "barrierefrei": "unbekannt",
+    "Mo": 0,
+    "Di": 0,
+    "Mi": 0,
+    "Do": 0,
+    "Fr": 0,
+    "Sa": 0,
+    "So": "12:00-19:00",
+    "closed-exc": 0,
+    "closed-exc-readable": null,
+    "hours-exc": 0,
+    "hours-exc-readable": null,
+    "ignore": 0,
+    "merged": null,
+    "international": 0,
+    "action": 1,
+    "image": null,
+    "urheberschaft": null,
+    "train": "Bus 141 bis 'Störmthal, Ortsmitte'",
+    "train_distance": 74,
+    "short_distance": 1
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.473900009137697,
+      51.2448778
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "id": 76,
+    "bezirk": "Volkmarsdorf",
+    "name": "Sellerhäuser Adventslicht",
+    "shortname": "Sellerhäuser Adventslicht",
+    "strasse": "Wurzner Straße 160",
+    "plz_ort": "04318 Leipzig",
+    "von": "10.12.23",
+    "bis": "10.12.23",
+    "veranstalter": "Emmauskirche Sellerhausen",
+    "oeffnungszeiten": "15:00-18:00",
+    "email": null,
+    "w3": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/sellerhaeuser-adventslicht",
+    "bemerkungen": "<a class='text-sm underline' target='blank' href='https://www.bv-sellerhausen.de/2023/12/01/sellerhaeuser-adventslicht-2023/'>Offizielle Seite</a>",
+    "lat": 51.34325225,
+    "lng": 12.427336693200154,
+    "rss_titel": "Sellerhäuser Adventslicht",
+    "rss_beschreibung": "Kurrenden, Jugendchor, Kantorei, Blockflötensextett und Veeh-Harfen-Gruppe der Emmauskirche; Leitung: Konrad Pippel",
+    "immer-kostenlos": 0,
+    "barrierefrei": "unbekannt",
+    "Mo": 0,
+    "Di": 0,
+    "Mi": 0,
+    "Do": 0,
+    "Fr": 0,
+    "Sa": 0,
+    "So": "15:00-18:00",
+    "closed-exc": 0,
+    "closed-exc-readable": null,
+    "hours-exc": 0,
+    "hours-exc-readable": null,
+    "ignore": 0,
+    "merged": null,
+    "international": 0,
+    "action": 1,
+    "image": null,
+    "urheberschaft": null,
+    "train": "Straßenbahn 7 bis 'Sellerhausen / Emmaustraße'",
+    "train_distance": 89,
+    "short_distance": 1
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.427336693200154,
+      51.34325225
     ]
   }
 }]
