@@ -19,7 +19,7 @@ jobs:
           npm install
           npm run leipzigde
           git diff markets_leipzig_de.json | echo >> git_diff.txt
-          [ -s git_diff.txt ] && echo "HAS_CHANGES=TRUE" >> "$GITHUB_OUTPUT"
+          if [ -s git_diff.txt ]; then echo "HAS_CHANGES=TRUE" >> "$GITHUB_OUTPUT"; fi
       - name: UploadWeihnachtsmaerkte
         if: ${{ steps.ScrapeMarkets.outputs.HAS_CHANGES }}
         uses: actions/upload-artifact@v3

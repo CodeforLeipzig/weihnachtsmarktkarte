@@ -377,4 +377,5 @@ const keys = [
   'InnerToilets',
 ]
 
-keys.filter((f) => f == 'InnerMarketsCsv').forEach((key) => registry[key]())
+const args = process.argv || ['MarketsWmf'];
+keys.filter((f) => args.indexOf(f) > 0).forEach((key) => registry[key]())

@@ -6,7 +6,12 @@
   "scripts": {
     "leipzigde": "node ./markets_leipzig_de_parser.js",
     "leipzigleben": "node ./markets_leipzig_leben_parser.js",
-    "wmf": "node ./markets_parser.js",
+    "wmf": "node ./markets_parser.js MarketsWmf",
+    "leipzigde_groupbyloc": "node ./markets_parser.js LeipzigDe",
+    "geojson2json": "node ./markets_parser.js MarketsGeojsonToJson",
+    "innermarkets2json": "node ./markets_parser.js InnerMarketsJson",
+    "innermarkets2csv": "node ./markets_parser.js InnerMarketsCsv",
+    "innermarkettoilets": "node ./markets_parser.js InnerToilets",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Joerg Reichert",

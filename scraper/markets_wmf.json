@@ -390,7 +390,7 @@
     "train": "Bus 690 bis 'Leipzig, Schwarzes Ross'",
     "train_distance": 423,
     "short_distance": 0,
-    "rss_beschreibung": ""
+    "rss_beschreibung": "Am 16. und 17. Dezember 2023 findet auf dem historischen Gewerbehof des Stiftsguts am Liebertwolkwitzer Markt 11, auf dem Liebnerschen Hof (Markt 3) mit der Flechtwerkstatt „Tausendschön“ und auf dem Gelände des Seniorendomizils „Vierseithof“ der AWO (Teichmannstraße 1b) sowie auf dem Museumshof (Alte Tauchaer Straße 1) wieder der traditionelle „Hof-Advent“ statt.Abseits der Einkaufshektik der Großstadt können Sie hier im vorweihnachtlichen Lichterglanz die unterschiedlichsten Handwerkerstuben aus längst vergangenen Zeiten besuchen. Der Branntweinbrenner, die Korbmacherin, der Seilermeister, der Grempler, der Schmied und viele weitere erwarten Sie. Bummeln Sie über die kleinen, liebevoll gestalteten Höfe mit ihren vielen Ständen. Überall können Sie noch die eine oder andere kleine, aber besondere Geschenkidee für ihre Lieben finden.Ihre Kinder können die Märchenlesung besuchen, in einer der kleinen Werkstätten basteln oder ihren Spaß bei verschiedenen Angeboten haben. Ob mit Räucherware vom Landfleischer, Flammlachs am offenen Buchenfeuer, Glühwein aus dem Kessel und Brattaler oder frisch duftendem Brot aus der Hofbäckerei, ist auch für Speise und Trank ist gesorgt.Samstag, 16.12.2023: 14 bis 20 UhrSonntag, 17.12.2023: 14 bis 18 Uhr"
   },
   {
     "id": 11,
@@ -1771,7 +1771,7 @@
     "train": "Straßenbahn 3 bis 'An der Bürgerruhe, Taucha'",
     "train_distance": 1300,
     "short_distance": 0,
-    "rss_beschreibung": ""
+    "rss_beschreibung": "Am 3. Adventwochenende vom 15. bis 17. Dezember 2023 findet der 2. Graßdorfer Weihnachtsmarkt auf dem Hof statt.Freitag: 17 bis 21 UhrSamstag: 14 bis 21 UhrSonntag: 14 bis 19 Uhrhttps://www.wulf-catering.de"
   },
   {
     "id": 46,
@@ -2091,7 +2091,7 @@
     "train": "Straßenbahn 7 bis 'Edlichstr'",
     "train_distance": 996,
     "short_distance": 0,
-    "rss_beschreibung": ""
+    "rss_beschreibung": "Der Schkeuditzer Weihnachtsmarkt im historischen Straßenbahndepot lädt alle ein, bunten Weihnachtstrubel drinnen und draußen zu genießen. Sowohl die Halle als auch das Außengelände werden \"bespielt\". Hier bietet sich das wunderbar weihnachtliche Ambiente zum Treffen mit Freunden und der Familie an. Täglich gibt es ein Bühnenprogramm - mit Kinderstücken, Weihnachtsmann und vielem mehr. Diverse Marktstände bieten Ware, es gibt ein Kinderkarussell, Pony-Reiten, Mitmachaktionen und natürlich Glühwein und andere Leckereien.Eintritt frei"
   },
   {
     "id": 54,
@@ -2411,7 +2411,7 @@
     "train": "Straßenbahn 4 bis 'Fritz-Seger-Str.'",
     "train_distance": 434,
     "short_distance": 0,
-    "rss_beschreibung": ""
+    "rss_beschreibung": "Stöbern, kaufen, Glühwein, Kaffee, Naschereien…"
   },
   {
     "id": 62,
@@ -2491,7 +2491,7 @@
     "train": "Straßenbahn 7 bis 'Theodor-Heuss'",
     "train_distance": 452,
     "short_distance": 0,
-    "rss_beschreibung": ""
+    "rss_beschreibung": "Kuchen, Würstchen, Wein, Töpferwaren, Handarbeiten und Flohmarkt"
   },
   {
     "id": 64,
@@ -2952,7 +2952,7 @@
     "lat": 51.2448778,
     "lng": 12.473900009137697,
     "rss_titel": "Schloss Störmthal Weihnachtsmarkt",
-    "rss_beschreibung": "Weihnachtsmarkt im Schlosshof und im Schloss mit Basteln für Kinder, Weihnachtssingen und Weihnachtsmann. Bratwurst, Soljanka, Eierkuchen, Glühwein mit und ohne Alkohol zum gemütlichen Beisammensein an den Feuerschalen. Im beheizten Schloss gibt es Kaffee, Kakao und Kuchen vom Pfarrcafe aus Störmthal und unsere Schloss-Bar ist ebenfalls geöffnet. Es gibt ein gutes Angebot an Verkaufsständen z.B. Stollen der Bäckerei Perduß aus Großpösna, Bücher der Thalia-Buchhandlung , Hüte, Kreativschmuck, Lederwaren.",
+    "rss_beschreibung": "",
     "immer-kostenlos": 0,
     "barrierefrei": "unbekannt",
     "Mo": 0,

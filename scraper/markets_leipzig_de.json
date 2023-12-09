@@ -454,16 +454,14 @@
       "summary": "Weihnachtsmarkt",
       "description": "",
       "details": {
-        "date": "10.12.2023",
-        "time": "12:00",
+        "date": "",
+        "time": "",
         "location": {
-          "name": "Schloss Störmthal",
-          "street": "Rosengang 3",
-          "zipcode": "04463",
-          "city": "Großpösna"
+          "name": "",
+          "street": ""
         },
         "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-19?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "ical": "https://www.leipzig.deundefined",
         "otherDates": []
       }
     },
@@ -619,12 +617,7 @@
         },
         "description": "In familiärer Atmosphäre zwischen zahlreichen Kunsthandwerk-Ständen flanieren und nach dem ein oder anderen Weihnachtsgeschenk für die Liebsten Ausschau halten, bei weihnachtlichen Klängen an Feuerschalen verweilen und dabei süße und herzhafte Leckereien genießen - das können Sie beim Adventsmarkt an der Mädler Villa.Freitag, 08.12.2023, 19 Uhr - Bölitzer PosaunenchorSamstag, 09.12.2023, 17 Uhr - Singschule LeipzigFreitag, 15.12.2023, 18 Uhr - Kinderchor an der Linie 7Samstag, 16.12.2023, 18 Uhr - Caroline und Sophia HollerFreitag: 15 bis 20 UhrSamstag: 12 bis 20 UhrSonntag: 12 bis 18 Uhr",
         "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-5-20231215?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "08.12.2023 -  10.12.2023",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-5-20231208"
-          }
-        ]
+        "otherDates": []
       }
     },
     {
