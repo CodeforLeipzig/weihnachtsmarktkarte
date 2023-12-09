@@ -264,9 +264,9 @@ export const WeatherOverlay: FC<{
             className={classNames(
               'rounded-full w-10 h-10 mt-16',
               'fixed right-4 text-center py-2 z-10',
-              'bg-darkblue text-gold',
+              'bg-darkblue',
               isWeatherOpened && 'bg-gold text-darkblue',
-              !isWeatherOpened && 'hover:bg-gold hover:text-darkblue'
+              !isWeatherOpened && 'text-gold hover:bg-gold hover:text-darkblue'
             )}
           >
             {' '}
