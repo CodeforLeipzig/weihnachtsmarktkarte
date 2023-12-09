@@ -5,8 +5,7 @@ import Map, {
   Marker,
   GeolocateControl,
   Popup,
-} from 'react-map-gl'
-import maplibregl from 'maplibre-gl'
+} from 'react-map-gl/maplibre';
 import 'maplibre-gl/dist/maplibre-gl.css'
 import mapStyle from './mapStyle'
 import { layerStyles } from './layerStyles'
@@ -130,7 +129,6 @@ export const MapComponent: FC<MapComponentType> = ({
   return (
     <div className="h-screen w-screen">
       <Map
-        mapLib={maplibregl}
         initialViewState={{ ...startMapView }}
         mapStyle={process.env.NEXT_PUBLIC_MAPTILER_STYLE}
         // mapStyle={mapStyle()}
