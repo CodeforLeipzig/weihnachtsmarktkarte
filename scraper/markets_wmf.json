@@ -2807,8 +2807,8 @@
     "merged": null,
     "international": 0,
     "action": 1,
-    "image": null,
-    "urheberschaft": null,
+    "image": "schweizer02.jpg",
+    "urheberschaft": "Jörg Reichert, CC BY-SA 4.0",
     "train": "S1, S2, S3, S4, S5, S5X und S6 bis 'Wilhelm-Leuschner-Platz'",
     "train_distance": 20,
     "short_distance": 1
