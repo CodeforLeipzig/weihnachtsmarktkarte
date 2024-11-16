@@ -350,7 +350,10 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": null
+      "coordinates": [
+        12.403439964673026,
+        51.347792890042626
+      ]
     }
   },
   {
