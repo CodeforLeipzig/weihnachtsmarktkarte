@@ -1,13 +1,13 @@
-import { FC, useState, useEffect } from 'react'
+import { FC, useEffect, useState } from "react";
 
-import { format } from 'date-fns'
-import { DayPicker } from 'react-day-picker'
-import de from 'date-fns/locale/de'
-import 'react-day-picker/dist/style.css'
+import { format } from "date-fns";
+import { DayPicker } from "react-day-picker";
+import de from "date-fns/locale/de";
+import "react-day-picker/dist/style.css";
 
 export interface FilterDateType {
-  marketFilterDate: Date | boolean
-  setMarketFilterDate: (date: Date | boolean) => void
+  marketFilterDate: Date | boolean;
+  setMarketFilterDate: (date: Date | boolean) => void;
 }
 
 export const FilterDate: FC<FilterDateType> = ({
@@ -40,18 +40,18 @@ font-size: 16px
     color: #BDA33B;
   }
 
-`
-  const [defaultMonth, setDefaultMonth] = useState<Date>()
-  const [today, setToday] = useState<Date>()
-  const fromMonth = new Date(2023, 10)
-  const toDate = new Date(2024, 0, 7)
+`;
+  const [defaultMonth, setDefaultMonth] = useState<Date>();
+  const [today, setToday] = useState<Date>();
+  const fromMonth = new Date(2024, 10);
+  const toDate = new Date(2025, 0, 7);
 
   useEffect(() => {
-    const today = new Date()
-    const maxOrToday = today.getTime() > toDate.getTime() ? toDate : today
-    setToday(maxOrToday)
-    setDefaultMonth(new Date(maxOrToday.getFullYear(), maxOrToday.getMonth()))
-  }, [])
+    const today = new Date();
+    const maxOrToday = today.getTime() > toDate.getTime() ? toDate : today;
+    setToday(maxOrToday);
+    setDefaultMonth(new Date(maxOrToday.getFullYear(), maxOrToday.getMonth()));
+  }, []);
 
   return (
     <>
@@ -63,8 +63,8 @@ font-size: 16px
           // @ts-ignore
           onSelect={setMarketFilterDate}
           modifiersClassNames={{
-            selected: '!bg-gold hover:bg-gold !text-darkblue',
-            mouseover: '!bg-gold',
+            selected: "!bg-gold hover:bg-gold !text-darkblue",
+            mouseover: "!bg-gold",
           }}
           defaultMonth={defaultMonth}
           today={today}
@@ -75,5 +75,5 @@ font-size: 16px
         />
       </div>
     </>
-  )
-}
+  );
+};
