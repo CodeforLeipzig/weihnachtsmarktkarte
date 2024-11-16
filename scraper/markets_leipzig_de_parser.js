@@ -211,12 +211,55 @@ const findMissingDescriptions = () => {
     }
   }
 };
+
+const updateFromToDates = () => {
+  const existing = require("./markets_wmf.json");
+  const leipzigde = require("./markets_leipzig_de.json").markets;
+  for (market of leipzigde) {
+    const marketDate = market.details?.date;
+    const found = existing.filter((exist) =>
+      exist.strasse === market.details.location.street &&
+      exist.plz_ort ===
+        `${market.details.location.zipcode} ${market.details.location.city}`
+    );
+    if (found.length > 0) {
+      for (elem of found) {
+        if (
+          !elem.bis ||
+          (elem.bis.indexOf(".11.") > 0 && marketDate.indexOf(".12.") > 0) ||
+          (elem.bis.indexOf(".11.") > 0 && marketDate.indexOf(".11.") > 0 &&
+            elem.bis.localeCompare(marketDate) < 0) ||
+          (elem.bis.indexOf(".12.") > 0 && marketDate.indexOf(".12.") > 0 &&
+            elem.bis.localeCompare(marketDate) < 0)
+        ) {
+          elem.bis = marketDate.replace(".2024", ".24");
+        }
+        if (
+          !elem.von ||
+          (elem.von.indexOf(".12.") > 0 && marketDate.indexOf(".11.") > 0) ||
+          (elem.von.indexOf(".11.") > 0 && marketDate.indexOf(".11.") > 0 &&
+            elem.von.localeCompare(marketDate) > 0) ||
+          (elem.von.indexOf(".12.") > 0 && marketDate.indexOf(".12.") > 0 &&
+            elem.von.localeCompare(marketDate) > 0)
+        ) {
+          elem.von = marketDate.replace(".2024", ".24");
+        }
+      }
+    }
+  }
+  fs.writeFileSync(
+    "./markets_wmf.json",
+    JSON.stringify(existing, null, 2),
+    "utf-8",
+  );
+};
 /*
 getHtml(
-  'https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/weihnachten/weihnachtsmaerkte/'
-).then((content) => scrape(content))
+  "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/weihnachten/weihnachtsmaerkte/",
+).then((content) => scrape(content));
 */
 getUniqueLocations();
 updateDescription();
+updateFromToDates();
 
 findMissingDescriptions();
