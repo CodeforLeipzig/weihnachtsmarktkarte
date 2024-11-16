@@ -1,12 +1,12 @@
 export default function mapStyle() {
   return {
     version: 8,
-    name: 'weihnachtsmarktkarte',
+    name: "weihnachtsmarktkarte",
     metadata: {},
     sources: {
       osmBaseMap: {
-        type: 'raster',
-        tiles: ['https://tile.openstreetmap.org/{z}/{x}/{y}.png'],
+        type: "raster",
+        tiles: ["https://tile.openstreetmap.org/{z}/{x}/{y}.png"],
         tileSize: 256,
         attribution:
           "&copy; <a href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> contributors",
@@ -16,10 +16,10 @@ export default function mapStyle() {
     // "glyphs": "./data/{fontstack}/{range}.pbf",
     layers: [
       {
-        id: 'background',
-        type: 'background',
+        id: "background",
+        type: "background",
         paint: {
-          'background-color': '#2b2c4e',
+          "background-color": "#2b2c4e",
         },
       },
       // {
@@ -31,5 +31,5 @@ export default function mapStyle() {
       //   // }
       // },
     ],
-  }
+  };
 }

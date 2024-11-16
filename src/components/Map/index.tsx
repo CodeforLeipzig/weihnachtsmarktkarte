@@ -1,25 +1,25 @@
-import { FC, useEffect, useRef, useCallback, useMemo } from 'react'
+import { FC, useCallback, useEffect, useMemo, useRef } from "react";
 import Map, {
-  Source,
+  GeolocateControl,
   Layer,
   Marker,
-  GeolocateControl,
   Popup,
-} from 'react-map-gl/maplibre';
-import 'maplibre-gl/dist/maplibre-gl.css'
-import mapStyle from './mapStyle'
-import { layerStyles } from './layerStyles'
-import { useState } from 'react'
-import { useHasMobileSize } from '@lib/hooks/useHasMobileSize'
+  Source,
+} from "react-map-gl/maplibre";
+import "maplibre-gl/dist/maplibre-gl.css";
+import mapStyle from "./mapStyle";
+import { layerStyles } from "./layerStyles";
+import { useState } from "react";
+import { useHasMobileSize } from "@lib/hooks/useHasMobileSize";
 
 export interface MapComponentType {
-  mapData: any
-  marketsData: any
-  setMarketId: (time: string | null | number) => void
-  marketId: string | number | null
-  setMarketData: (time: any) => void
-  zoomToCenter?: number[]
-  mapZoom?: number
+  mapData: any;
+  marketsData: any;
+  setMarketId: (time: string | null | number) => void;
+  marketId: string | number | null;
+  setMarketData: (time: any) => void;
+  zoomToCenter?: number[];
+  mapZoom?: number;
 }
 
 export const MapComponent: FC<MapComponentType> = ({
@@ -31,20 +31,20 @@ export const MapComponent: FC<MapComponentType> = ({
   zoomToCenter,
   mapZoom,
 }) => {
-  const isMobile = useHasMobileSize()
-  const mapRef = useRef<mapboxgl.Map>()
+  const isMobile = useHasMobileSize();
+  const mapRef = useRef<mapboxgl.Map>();
   const startMapView = {
     latitude: 51.3399028,
     longitude: 12.3742236,
     zoom: mapZoom,
-  }
+  };
 
-  const [showMarker, setShowMarker] = useState<boolean>(true)
-  const [popupVisible, setPopupVisible] = useState<boolean>(false)
-  const [popupText, setPopupText] = useState<string>('')
-  const [popupCoo, setPopupCoo] = useState<number[]>([0, 0])
+  const [showMarker, setShowMarker] = useState<boolean>(true);
+  const [popupVisible, setPopupVisible] = useState<boolean>(false);
+  const [popupText, setPopupText] = useState<string>("");
+  const [popupCoo, setPopupCoo] = useState<number[]>([0, 0]);
 
-  const [markerPosition, setMarkerPosition] = useState<number[]>([0, 0])
+  const [markerPosition, setMarkerPosition] = useState<number[]>([0, 0]);
 
   useEffect(() => {
     if (mapRef.current) {
@@ -53,10 +53,10 @@ export const MapComponent: FC<MapComponentType> = ({
         // @ts-ignore
         mapRef.current.zoomTo(mapZoom, {
           duration: 200,
-        })
+        });
       }
     }
-  }, [mapZoom])
+  }, [mapZoom]);
 
   useEffect(() => {
     if (mapRef.current) {
@@ -67,64 +67,65 @@ export const MapComponent: FC<MapComponentType> = ({
         zoom: 7,
         // @ts-ignore
         padding: { left: isMobile ? 0 : 200 },
-      })
+      });
     }
-  }, [zoomToCenter])
+  }, [zoomToCenter]);
 
   useEffect(() => {
     if (marketId == null) {
-      setShowMarker(false)
+      setShowMarker(false);
     } else {
-      const queriedMarket = marketsData.filter((d: any) => d.id == marketId)[0]
-      setShowMarker(true)
-      setMarkerPosition([queriedMarket.lng, queriedMarket.lat])
+      const queriedMarket = marketsData.filter((d: any) => d.id == marketId)[0];
+      setShowMarker(true);
+      setMarkerPosition([queriedMarket.lng, queriedMarket.lat]);
     }
-  }, [marketId])
+  }, [marketId]);
 
   const onMarkerCLick = (feature: any): void => {
-    setMarketId(feature.id)
-    setMarketData(feature)
-  }
+    setMarketId(feature.id);
+    setMarketData(feature);
+  };
 
   const showPopupNow = (visible: boolean, data: any): void => {
-    setPopupVisible(visible)
+    setPopupVisible(visible);
     if (visible) {
-      setPopupText(data.shortname)
-      setPopupCoo([data.lat, data.lng])
+      setPopupText(data.shortname);
+      setPopupCoo([data.lat, data.lng]);
     }
-  }
+  };
   const onMapCLick = (e: any): void => {
-    if (e?.originalEvent?.originalTarget?.nodeName === 'CANVAS') {
-      setMarketId(null)
-      return
+    if (e?.originalEvent?.originalTarget?.nodeName === "CANVAS") {
+      setMarketId(null);
+      return;
     }
-  }
+  };
 
   const markers = useMemo(
     () =>
-      marketsData.filter((feature: any) => !feature.hideFeature).map((feature: any) => (
+      marketsData.filter((feature: any) => !feature.hideFeature).map((
+        feature: any,
+      ) => (
         <Marker
           longitude={feature.lng}
           latitude={feature.lat}
           anchor="center"
           onClick={() => onMarkerCLick(feature)}
           key={feature.id}
-          style={{ opacity: feature.inaktiv ? 0.5 : 1, cursor: 'pointer' }}
+          style={{ opacity: feature.inaktiv ? 0.5 : 1, cursor: "pointer" }}
         >
           <img
             onMouseEnter={() => showPopupNow(true, feature)}
             onMouseOut={() => showPopupNow(false, false)}
-            src={
-              feature.inaktiv ? './stern_inaktiv.png' : './stern_leuchtend.png'
-            }
-            className={'hover:scale-150 hover:animate-pulse'}
+            src={feature.inaktiv
+              ? "./stern_inaktiv.png"
+              : "./stern_leuchtend.png"}
+            className={"hover:scale-150 hover:animate-pulse"}
             width="20px"
           />
         </Marker>
       )),
-
-    [marketsData]
-  )
+    [marketsData],
+  );
 
   return (
     <div className="h-screen w-screen">
@@ -136,16 +137,19 @@ export const MapComponent: FC<MapComponentType> = ({
         // @ts-ignore
         ref={mapRef}
         maxBounds={[
-          12.000218, 51.144137, 12.682744, 51.524548
+          12.000218,
+          51.144137,
+          12.682744,
+          51.524548,
         ]}
         attributionControl={false}
-      // onLoad={onMapLoad}
+        // onLoad={onMapLoad}
       >
         <Source id="toilets-source" type="geojson" data={mapData.toilets}>
           {/* @ts-ignore */}
-          <Layer {...layerStyles['toilets-labels']} />
+          <Layer {...layerStyles["toilets-labels"]} />
           {/* @ts-ignore */}
-          <Layer {...layerStyles['toilets-circles']} />
+          <Layer {...layerStyles["toilets-circles"]} />
         </Source>
         <GeolocateControl
           positionOptions={{ enableHighAccuracy: true }}
@@ -154,9 +158,9 @@ export const MapComponent: FC<MapComponentType> = ({
           style={{}}
           onGeolocate={(posOptions: {
             coords: {
-              latitude: number
-              longitude: number
-            }
+              latitude: number;
+              longitude: number;
+            };
           }) => {
             // console.log(posOptions)
             // // const { latitude, longitude } = posOptions.coords
@@ -173,7 +177,7 @@ export const MapComponent: FC<MapComponentType> = ({
             longitude={popupCoo[1]}
             latitude={popupCoo[0]}
             closeButton={false}
-            anchor={'bottom'}
+            anchor={"bottom"}
           >
             {popupText}
           </Popup>
@@ -188,7 +192,7 @@ export const MapComponent: FC<MapComponentType> = ({
             <img
               src="./stern_ausgewaehlt.png"
               width="40px"
-            // style={{animation:'pulse 4s infinite'}}
+              // style={{animation:'pulse 4s infinite'}}
             />
           </Marker>
         )}
@@ -197,12 +201,12 @@ export const MapComponent: FC<MapComponentType> = ({
         <div className="fixed bottom-2 right-2 text-gray-500/60 text-xs">
           <a href="https://www.maptiler.com/copyright/" target="_blank">
             © MapTiler
-          </a>{' '}
+          </a>{" "}
           <a href="https://www.openstreetmap.org/copyright" target="_blank">
             © OpenStreetMap contributors
           </a>
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
