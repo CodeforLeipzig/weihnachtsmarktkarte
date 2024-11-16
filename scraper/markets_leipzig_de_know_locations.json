@@ -163,28 +163,34 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": null
+      "coordinates": [
+        12.329398002457262,
+        51.33195125
+      ]
     }
   },
   {
     "type": "feature",
     "properties": {
       "name": "Herr Kauzig",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231206",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/der-kauzige-wintermarkt-20231213",
       "street": "Jahnallee 52",
       "zipcode": "04177",
       "city": "Leipzig"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": null
+      "coordinates": [
+        12.3424501,
+        51.338934
+      ]
     }
   },
   {
     "type": "feature",
     "properties": {
       "name": "Mädler-Villa",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-5-20231208",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-5-20231215",
       "street": "Hans-Driesch-Straße 2",
       "zipcode": "04179",
       "city": "Leipzig"
@@ -235,14 +241,17 @@
     "type": "feature",
     "properties": {
       "name": "Feinkost",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20231209",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20231216",
       "street": "Karl-Liebknecht-Straße 36",
       "zipcode": "04275",
       "city": "Leipzig"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": null
+      "coordinates": [
+        12.372920115922552,
+        51.32638005
+      ]
     }
   },
   {
@@ -402,14 +411,17 @@
     "type": "feature",
     "properties": {
       "name": "Kees'scher Park",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-20231210",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-20231217",
       "street": "Lauersche Str. ",
       "zipcode": "04416",
       "city": "Markkleeberg,"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": null
+      "coordinates": [
+        12.35611786931463,
+        51.27981792051426
+      ]
     }
   },
   {
@@ -440,7 +452,10 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": null
+      "coordinates": [
+        12.3894607903441,
+        51.277715799999996
+      ]
     }
   },
   {
@@ -533,7 +548,10 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": null
+      "coordinates": [
+        12.3769892,
+        51.2803595
+      ]
     }
   },
   {
@@ -545,7 +563,10 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": null
+      "coordinates": [
+        12.220582363130251,
+        51.3019336
+      ]
     }
   },
   {
@@ -572,7 +593,10 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": null
+      "coordinates": [
+        12.388372089527502,
+        51.279430649999995
+      ]
     }
   }
 ]
