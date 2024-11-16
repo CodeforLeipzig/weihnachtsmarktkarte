@@ -1,84 +1,84 @@
 import {
-  Cross,
-  WindSpeedIcon,
-  PrecipitationIcon,
   ClearDayIcon,
-  RainyIcon,
-  CloudyIcon,
-  PartlyCloudyDayIcon,
-  WindyIcon,
-  ThunderstormIcon,
   ClearNightIcon,
-  PartlyCloudyNightIcon,
+  CloudyIcon,
+  Cross,
   FogyIcon,
-  SnowyIcon,
-  SleetyIcon,
   HailyIcon,
-} from '@components/Icons'
-import classNames from 'classnames'
-import { FC, ReactNode, useEffect, useState } from 'react'
-import { format } from 'date-fns'
-import { de } from 'date-fns/locale'
+  PartlyCloudyDayIcon,
+  PartlyCloudyNightIcon,
+  PrecipitationIcon,
+  RainyIcon,
+  SleetyIcon,
+  SnowyIcon,
+  ThunderstormIcon,
+  WindSpeedIcon,
+  WindyIcon,
+} from "@components/Icons";
+import classNames from "classnames";
+import { FC, ReactNode, useEffect, useState } from "react";
+import { format } from "date-fns";
+import { de } from "date-fns/locale";
 
 interface WeatherOptionPropType {
-  value: ReactNode
-  icon: ReactNode
+  value: ReactNode;
+  icon: ReactNode;
 }
 
 interface WeatherRowPropType {
-  weatherRecords: WeatherType[] // Assuming you have an array of WeatherType objects
-  hour: number
-  ICON_MAPPING: { [key: string]: React.ReactNode } // Assuming ICON_MAPPING is an object with string keys and ReactNode values
-  hourString: string
+  weatherRecords: WeatherType[]; // Assuming you have an array of WeatherType objects
+  hour: number;
+  ICON_MAPPING: { [key: string]: React.ReactNode }; // Assuming ICON_MAPPING is an object with string keys and ReactNode values
+  hourString: string;
 }
 
 interface WeatherType {
-  timestamp: string | null | undefined
-  temperature: number | null | undefined
-  precipitation: number | null | undefined
-  wind_speed: number | null | undefined
-  cloud_cover: number | null | undefined
-  pressure_msl: number | null | undefined
+  timestamp: string | null | undefined;
+  temperature: number | null | undefined;
+  precipitation: number | null | undefined;
+  wind_speed: number | null | undefined;
+  cloud_cover: number | null | undefined;
+  pressure_msl: number | null | undefined;
   icon:
-  | 'clear-day'
-  | 'rain'
-  | 'partly-cloudy-day'
-  | 'thunderstorm'
-  | 'snow'
-  | 'hail'
-  | 'clear-night'
-  | 'partly-cloudy-night'
-  | 'cloudy'
-  | 'sleet'
-  | 'fog'
-  | 'wind'
+    | "clear-day"
+    | "rain"
+    | "partly-cloudy-day"
+    | "thunderstorm"
+    | "snow"
+    | "hail"
+    | "clear-night"
+    | "partly-cloudy-night"
+    | "cloudy"
+    | "sleet"
+    | "fog"
+    | "wind";
 }
 
 interface SourceType {
-  station_name: string
+  station_name: string;
 }
 
 interface WeatherAPIResponseType {
-  weather: WeatherType[]
-  sources: SourceType[]
+  weather: WeatherType[];
+  sources: SourceType[];
 }
 const capitalizeWords = (str: string) => {
   return str
     .toLowerCase()
     .split(/\s+/)
     .map((word) => {
-      const parts = word.split('-')
+      const parts = word.split("-");
       return parts
         .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
-        .join('-')
+        .join("-");
     })
-    .join(' ')
-}
+    .join(" ");
+};
 
 const formatDate = (dateString: Date) => {
-  const formattedDate = format(dateString, 'd. MMMM yyyy', { locale: de })
-  return formattedDate
-}
+  const formattedDate = format(dateString, "d. MMMM yyyy", { locale: de });
+  return formattedDate;
+};
 
 export const WeatherOption: FC<WeatherOptionPropType> = ({ icon, value }) => {
   return (
@@ -88,8 +88,8 @@ export const WeatherOption: FC<WeatherOptionPropType> = ({ icon, value }) => {
         <p className="text-xs sm:text-sm text-gray-400 pl-2 w-20">{value}</p>
       </div>
     </div>
-  )
-}
+  );
+};
 
 export const WeatherRow: FC<WeatherRowPropType> = ({
   weatherRecords,
@@ -104,20 +104,20 @@ export const WeatherRow: FC<WeatherRowPropType> = ({
       </div>
       <div className="border-l border-lightblue/90 pl-3">
         {weatherRecords[hour] &&
-          typeof weatherRecords[hour].precipitation !== 'undefined' && (
-            <WeatherOption
-              icon={<PrecipitationIcon />}
-              value={`${weatherRecords[hour].precipitation} mm/h`}
-            />
-          )}
+          typeof weatherRecords[hour].precipitation !== "undefined" && (
+          <WeatherOption
+            icon={<PrecipitationIcon />}
+            value={`${weatherRecords[hour].precipitation} mm/h`}
+          />
+        )}
         {weatherRecords[hour] &&
-          typeof weatherRecords[hour].wind_speed !== 'undefined' && (
-            <WeatherOption
-              icon={<WindSpeedIcon />}
-              //@ts-ignore
-              value={`${Math.round(weatherRecords[hour].wind_speed)} km/h`}
-            />
-          )}
+          typeof weatherRecords[hour].wind_speed !== "undefined" && (
+          <WeatherOption
+            icon={<WindSpeedIcon />}
+            //@ts-ignore
+            value={`${Math.round(weatherRecords[hour].wind_speed)} km/h`}
+          />
+        )}
       </div>
       {weatherRecords[hour] && (
         <div className="my-auto">
@@ -131,75 +131,77 @@ export const WeatherRow: FC<WeatherRowPropType> = ({
         </div>
       )}
     </div>
-  )
-}
+  );
+};
 
 export const WeatherOverlay: FC<{
-  marketFilterDate: Date | boolean
-  setSidebarMenuOpen: (date: boolean) => void
+  marketFilterDate: Date | undefined;
+  setSidebarMenuOpen: (date: boolean) => void;
 }> = ({ marketFilterDate, setSidebarMenuOpen }) => {
-  const [isWeatherOpened, setIsWeatherOpened] = useState(false)
+  const [isWeatherOpened, setIsWeatherOpened] = useState(false);
   //const elRef = useClickOutside<HTMLDivElement>(() => setIsWeatherOpened(false))
 
   const [weatherRecords, setWeatherRecords] = useState<WeatherType[] | null>(
-    null
-  )
+    null,
+  );
   const [weatherStation, setWeatherStation] = useState<
-    SourceType['station_name'] | null
-  >(null)
+    SourceType["station_name"] | null
+  >(null);
 
   function openWindows() {
-    setIsWeatherOpened(!isWeatherOpened)
+    setIsWeatherOpened(!isWeatherOpened);
     if (!isWeatherOpened) {
-      setSidebarMenuOpen(true)
+      setSidebarMenuOpen(true);
     }
   }
 
-  const today = new Date()
+  const today = new Date();
 
-  let current = marketFilterDate instanceof Date ? marketFilterDate : today
+  let current = marketFilterDate instanceof Date ? marketFilterDate : today;
 
   // Umwandlung in Millisekunden
-  const todayTimestamp = today.getTime()
-  const currentTimestamp = current.getTime()
+  const todayTimestamp = today.getTime();
+  const currentTimestamp = current.getTime();
 
   // Differenz in Millisekunden berechnen
-  const timeDifference = currentTimestamp - todayTimestamp
+  const timeDifference = currentTimestamp - todayTimestamp;
 
   // Differenz in Tagen umrechnen
-  const daysDifference = Math.floor(timeDifference / (1000 * 60 * 60 * 24))
+  const daysDifference = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
 
-  let forecastCheck
+  let forecastCheck;
   // Überprüfen, ob das ausgewählte Datum mehr als 9 Tage in der Zukunft liegt
   if (daysDifference > 8) {
-    current = today
-    forecastCheck = false
+    current = today;
+    forecastCheck = false;
   } else {
-    forecastCheck = true
+    forecastCheck = true;
   }
 
-  const date = `${current.getDate()}.${current.getMonth() + 1
-    }.${current.getFullYear()}`
+  const date = `${current.getDate()}.${
+    current.getMonth() + 1
+  }.${current.getFullYear()}`;
 
   const monthWithLeadingZero = (current.getMonth() + 1)
     .toString()
-    .padStart(2, '0')
-  const dayWithLeadingZero = current.getDate().toString().padStart(2, '0')
-  const dateAPI = `${current.getFullYear()}-${monthWithLeadingZero}-${dayWithLeadingZero}`
+    .padStart(2, "0");
+  const dayWithLeadingZero = current.getDate().toString().padStart(2, "0");
+  const dateAPI =
+    `${current.getFullYear()}-${monthWithLeadingZero}-${dayWithLeadingZero}`;
 
-  const hour = today.getHours()
+  const hour = today.getHours();
 
   const dayCheck = (): boolean => {
     return (
       new Date(current).setHours(0, 0, 0, 0) ===
-      new Date(today).setHours(0, 0, 0, 0)
-    )
-  }
-  const isSameDay = dayCheck()
+        new Date(today).setHours(0, 0, 0, 0)
+    );
+  };
+  const isSameDay = dayCheck();
 
   const ICON_MAPPING = {
-    'clear-day': <ClearDayIcon />,
-    'partly-cloudy-day': <PartlyCloudyDayIcon />,
+    "clear-day": <ClearDayIcon />,
+    "partly-cloudy-day": <PartlyCloudyDayIcon />,
     rain: <RainyIcon />,
     wind: <WindyIcon />,
     thunderstorm: <ThunderstormIcon />,
@@ -208,23 +210,22 @@ export const WeatherOverlay: FC<{
     snow: <SnowyIcon />,
     sleet: <SleetyIcon />,
     hail: <HailyIcon />,
-    'clear-night': <ClearNightIcon />,
-    'partly-cloudy-night': <PartlyCloudyNightIcon />,
-  }
+    "clear-night": <ClearNightIcon />,
+    "partly-cloudy-night": <PartlyCloudyNightIcon />,
+  };
 
   useEffect(() => {
     const fetchWeather = async () => {
       try {
         const response = await fetch(
-          `https://api.brightsky.dev/weather?lat=51.3399&lon=12.3742&date=${dateAPI}`
-        )
-        const data: WeatherAPIResponseType = await response.json()
+          `https://api.brightsky.dev/weather?lat=51.3399&lon=12.3742&date=${dateAPI}`,
+        );
+        const data: WeatherAPIResponseType = await response.json();
 
-        const station = data.sources[0].station_name
-        const weatherData = data.weather
+        const station = data.sources[0].station_name;
+        const weatherData = data.weather;
         const weatherVariables = weatherData.map(
-          (hourlyData) =>
-          ({
+          (hourlyData) => ({
             timestamp: hourlyData.timestamp,
             temperature: hourlyData.temperature,
             precipitation: hourlyData.precipitation,
@@ -234,59 +235,59 @@ export const WeatherOverlay: FC<{
             icon: hourlyData.icon,
           } as unknown as Pick<
             WeatherType,
-            | 'timestamp'
-            | 'temperature'
-            | 'precipitation'
-            | 'wind_speed'
-            | 'cloud_cover'
-            | 'pressure_msl'
-            | 'icon'
-          >)
-        )
-        setWeatherRecords(weatherVariables)
-        setWeatherStation(station)
+            | "timestamp"
+            | "temperature"
+            | "precipitation"
+            | "wind_speed"
+            | "cloud_cover"
+            | "pressure_msl"
+            | "icon"
+          >),
+        );
+        setWeatherRecords(weatherVariables);
+        setWeatherStation(station);
       } catch (error) {
-        console.log('Error fetching weather data:', error)
+        console.log("Error fetching weather data:", error);
       }
-    }
+    };
     // Fetch data when dateAPI changes
-    fetchWeather()
-  }, [dateAPI]) // Add dateAPI as a dependency to useEffect
+    fetchWeather();
+  }, [dateAPI]); // Add dateAPI as a dependency to useEffect
 
   return (
     <span>
       {weatherRecords &&
         weatherRecords[hour] &&
         weatherRecords[hour].temperature && (
-          <button
-            onClick={() => openWindows()}
-            aria-label="Wettervorhersage"
-            className={classNames(
-              'rounded-full w-10 h-10 mt-16',
-              'fixed right-4 text-center py-2 z-10',
-              'bg-darkblue',
-              isWeatherOpened && 'bg-gold text-darkblue',
-              !isWeatherOpened && 'text-gold hover:bg-gold hover:text-darkblue'
-            )}
-          >
-            {' '}
-            <span className="font-bold">
-              {weatherRecords[hour].temperature?.toFixed()}
-            </span>
-            <span className="text-sm">°C</span>
-          </button>
-        )}
+        <button
+          onClick={() => openWindows()}
+          aria-label="Wettervorhersage"
+          className={classNames(
+            "rounded-full w-10 h-10 mt-16",
+            "fixed right-4 text-center py-2 z-10",
+            "bg-darkblue",
+            isWeatherOpened && "bg-gold text-darkblue",
+            !isWeatherOpened && "text-gold hover:bg-gold hover:text-darkblue",
+          )}
+        >
+          {" "}
+          <span className="font-bold">
+            {weatherRecords[hour].temperature?.toFixed()}
+          </span>
+          <span className="text-sm">°C</span>
+        </button>
+      )}
       {isWeatherOpened && weatherRecords && (
         <div
           className={classNames(
-            'right-4 top-4 sm:top-20 sm:right-20',
-            'rounded shadow-xl p-6 sm:p-8 w-96',
-            'fixed bg-darkblue flex flex-col z-20'
+            "right-4 top-4 sm:top-20 sm:right-20",
+            "rounded shadow-xl p-6 sm:p-8 w-96",
+            "fixed bg-darkblue flex flex-col z-20",
           )}
-          style={{ maxWidth: 'calc(100% - 32px)' }}
+          style={{ maxWidth: "calc(100% - 32px)" }}
         >
           <h3 className="font-bold text-lg text-lightblue/80 sm:text-xl pr-20 mb-2">
-            Wie wird das Wetter?{' '}
+            Wie wird das Wetter?{" "}
           </h3>
           <div className="flex mb-1 last-of-type:mb-0">
             <div className="pr-4 mb-2">
@@ -294,9 +295,11 @@ export const WeatherOverlay: FC<{
                 Stelle im Filtermenü den Tag ein, für den du das Wetter sehen
                 möchtest.
               </p>
-              {/* <p className="text-sm sm:hidden text-gold mb-2">
+              {
+                /* <p className="text-sm sm:hidden text-gold mb-2">
                 Stelle im Filtermenü einen Tag ein.
-              </p> */}
+              </p> */
+              }
               <p className="text-md sm:text-lg font-bold text-lightblue/80 sm:pt-2">
                 {`${formatDate(current)}`}
               </p>
@@ -317,7 +320,7 @@ export const WeatherOverlay: FC<{
                   weatherRecords={weatherRecords}
                   hour={hour}
                   ICON_MAPPING={ICON_MAPPING}
-                  hourString={'jetzt'}
+                  hourString={"jetzt"}
                 />
               </div>
               <div className="hidden xs:block">
@@ -325,7 +328,7 @@ export const WeatherOverlay: FC<{
                   weatherRecords={weatherRecords}
                   hour={hour}
                   ICON_MAPPING={ICON_MAPPING}
-                  hourString={'aktuell'}
+                  hourString={"aktuell"}
                 />
               </div>
             </>
@@ -337,31 +340,31 @@ export const WeatherOverlay: FC<{
             weatherRecords[17] &&
             weatherRecords[21] &&
             forecastCheck && (
-              <div>
-                <div className="hidden sm:block">
-                  <WeatherRow
-                    weatherRecords={weatherRecords}
-                    hour={13}
-                    ICON_MAPPING={ICON_MAPPING}
-                    hourString={'13 Uhr'}
-                  />
-                  <hr className="border-lightblue/80 mt-2 mb-2" />
-                </div>
+            <div>
+              <div className="hidden sm:block">
                 <WeatherRow
                   weatherRecords={weatherRecords}
-                  hour={17}
+                  hour={13}
                   ICON_MAPPING={ICON_MAPPING}
-                  hourString={'17 Uhr'}
+                  hourString={"13 Uhr"}
                 />
                 <hr className="border-lightblue/80 mt-2 mb-2" />
-                <WeatherRow
-                  weatherRecords={weatherRecords}
-                  hour={21}
-                  ICON_MAPPING={ICON_MAPPING}
-                  hourString={'21 Uhr'}
-                />
               </div>
-            )}
+              <WeatherRow
+                weatherRecords={weatherRecords}
+                hour={17}
+                ICON_MAPPING={ICON_MAPPING}
+                hourString={"17 Uhr"}
+              />
+              <hr className="border-lightblue/80 mt-2 mb-2" />
+              <WeatherRow
+                weatherRecords={weatherRecords}
+                hour={21}
+                ICON_MAPPING={ICON_MAPPING}
+                hourString={"21 Uhr"}
+              />
+            </div>
+          )}
           <hr className="border-lightblue/80 mt-2 hidden sm:block" />
           {weatherStation && (
             <p className="text-xs text-lightblue/80 mt-3 sm:mt-6">
@@ -377,5 +380,5 @@ export const WeatherOverlay: FC<{
         </div>
       )}
     </span>
-  )
-}
+  );
+};

@@ -1,53 +1,53 @@
-import type { NextPage } from 'next'
-import dynamic from 'next/dynamic'
+import type { NextPage } from "next";
+import dynamic from "next/dynamic";
 
-import { useState, useEffect, useMemo, useRef } from 'react'
+import { useEffect, useMemo, useRef, useState } from "react";
 // import { snowStorm } from '@lib/snowstorm'
 
-import { useRouter } from 'next/router'
-import { Head } from '@components/Head'
+import { useRouter } from "next/router";
+import { Head } from "@components/Head";
 
-import { MapComponent } from '@components/Map'
-import { SidebarWrapper } from '@components/Sidebar/SidebarWrapper'
-import { SidebarMarket } from '@components/Sidebar/SidebarMarket'
-import { SidebarContentInfo } from '@components/Sidebar/SidebarContentInfo'
-import { SidebarContentLayers } from '@components/Sidebar/SidebarContentLayers'
-import { SidebarContentFilter } from '@components/Sidebar/SidebarContentFilter'
+import { MapComponent } from "@components/Map";
+import { SidebarWrapper } from "@components/Sidebar/SidebarWrapper";
+import { SidebarMarket } from "@components/Sidebar/SidebarMarket";
+import { SidebarContentInfo } from "@components/Sidebar/SidebarContentInfo";
+import { SidebarContentLayers } from "@components/Sidebar/SidebarContentLayers";
+import { SidebarContentFilter } from "@components/Sidebar/SidebarContentFilter";
 
-import { Filter, Info, Search } from '@components/Icons'
-import { SidebarNav } from '@components/Sidebar/SidebarNav'
-import { MapNav } from '@components/MapNav'
+import { Filter, Info, Search } from "@components/Icons";
+import { SidebarNav } from "@components/Sidebar/SidebarNav";
+import { MapNav } from "@components/MapNav";
 
-import { SnowNav } from '@components/SnowNav'
-import { IntroModal } from '@components/IntroModal'
+import { SnowNav } from "@components/SnowNav";
+import { IntroModal } from "@components/IntroModal";
 
-import { WeatherOverlay } from '@components/WeatherOverlay'
+import { WeatherOverlay } from "@components/WeatherOverlay";
 
-import { getMapData } from '@lib/loadMapData'
-import { filterMarkets } from '@lib/filterMarkets'
+import { getMapData } from "@lib/loadMapData";
+import { filterMarkets } from "@lib/filterMarkets";
 
-import { AudioEntry } from '@components/MusicPlayer'
+import { AudioEntry } from "@components/MusicPlayer";
 
-import { InitialAudioContext } from '@lib/hooks/useAudio/InitialAudioContext'
+import { InitialAudioContext } from "@lib/hooks/useAudio/InitialAudioContext";
 
 const MusicPlayer = dynamic(
-  () => import('@components/MusicPlayer'),
-  { ssr: false }
-)
+  () => import("@components/MusicPlayer"),
+  { ssr: false },
+);
 
-const tracks: Array<AudioEntry> = require('@lib/audio.json');
+const tracks: Array<AudioEntry> = require("@lib/audio.json");
 
 export async function getStaticProps() {
-  const mapData = getMapData()
-  return mapData
+  const mapData = getMapData();
+  return mapData;
 }
 
 const navViews = [
   {
-    value: 'filter',
-    name: 'filter',
+    value: "filter",
+    name: "filter",
     icon: <Filter />,
-    mobileHeight: 'half',
+    mobileHeight: "half",
   },
   // {
   //   value: 'layers',
@@ -56,29 +56,31 @@ const navViews = [
   //   mobileHeight: 'half',
   // },
   {
-    value: 'info',
-    name: 'information',
+    value: "info",
+    name: "information",
     icon: <Info />,
-    mobileHeight: 'full',
+    mobileHeight: "full",
   },
-]
+];
 
 const MapSite: NextPage = (mapData: any) => {
-  const { pathname, query, replace, isReady } = useRouter()
-  let [modalOpen, setModalOpen] = useState(false)
-  const [marketId, setMarketId] = useState<string | number | null>(null)
-  const [marketData, setMarketData] = useState<any>()
-  const [marketFilterInternational, setMarketFilterInternational] =
-    useState<boolean>(false)
-  const [marketFilterAccessible, setMarketFilterAccessible] =
-    useState<boolean>(false)
-  const [marketFilterCosts, setMarketFilterCosts] = useState<boolean>(false)
-  const [marketFilterDate, setMarketFilterDate] = useState<Date | boolean>(
-    false
-  )
-  const [marketFilterTime, setMarketFilterTime] = useState<boolean>(false)
-  const [marketFilterAction, setMarketFilterAction] = useState<boolean>(false)
-  const [marketFilterTrain, setMarketFilterTrain] = useState<boolean>(false)
+  const { pathname, query, replace, isReady } = useRouter();
+  let [modalOpen, setModalOpen] = useState(false);
+  const [marketId, setMarketId] = useState<string | number | null>(null);
+  const [marketData, setMarketData] = useState<any>();
+  const [marketFilterInternational, setMarketFilterInternational] = useState<
+    boolean
+  >(false);
+  const [marketFilterAccessible, setMarketFilterAccessible] = useState<boolean>(
+    false,
+  );
+  const [marketFilterCosts, setMarketFilterCosts] = useState<boolean>(false);
+  const [marketFilterDate, setMarketFilterDate] = useState<Date | undefined>(
+    undefined,
+  );
+  const [marketFilterTime, setMarketFilterTime] = useState<boolean>(false);
+  const [marketFilterAction, setMarketFilterAction] = useState<boolean>(false);
+  const [marketFilterTrain, setMarketFilterTrain] = useState<boolean>(false);
   const [marketFilterFulltext, setMarketFilterFulltext] = useState<any>({
     searchInName: true,
     searchInDescription: true,
@@ -86,63 +88,63 @@ const MapSite: NextPage = (mapData: any) => {
     searchInDistrict: true,
     searchInCity: true,
     searchInOrganizer: true,
-  })
+  });
 
-  const [navView, setNavView] = useState<'filter' | 'info'>('filter')
-  const [sidebarMenuOpen, setSidebarMenuOpen] = useState<boolean>(false)
-  const [sidebarInfoOpen, setSidebarInfoOpen] = useState<boolean>(false)
-  const [mobileHeight, setMobileHeight] = useState<'half' | 'full'>('half')
+  const [navView, setNavView] = useState<"filter" | "info">("filter");
+  const [sidebarMenuOpen, setSidebarMenuOpen] = useState<boolean>(false);
+  const [sidebarInfoOpen, setSidebarInfoOpen] = useState<boolean>(false);
+  const [mobileHeight, setMobileHeight] = useState<"half" | "full">("half");
 
-  const [zoomToCenter, setZoomToCenter] = useState<number[]>([0, 0])
-  const [mapZoom, setMapZoom] = useState<number>(10)
+  const [zoomToCenter, setZoomToCenter] = useState<number[]>([0, 0]);
+  const [mapZoom, setMapZoom] = useState<number>(10);
 
-  const [marketsData, setMarketsData] = useState<any>(mapData.markets)
+  const [marketsData, setMarketsData] = useState<any>(mapData.markets);
 
   // when the query string is read check if we have an id
   useEffect(() => {
-    if (!isReady) return
-    const queryId = Number(query.id)
-    const allowedId = mapData.allowedIds.includes(Number(query.id))
+    if (!isReady) return;
+    const queryId = Number(query.id);
+    const allowedId = mapData.allowedIds.includes(Number(query.id));
     if (Boolean(query.id) && allowedId && queryId !== marketId) {
-      const queriedMarket = marketsData.filter((d: any) => d.id == queryId)[0]
+      const queriedMarket = marketsData.filter((d: any) => d.id == queryId)[0];
       // make 2X sure we have the data
       if (queriedMarket) {
-        setMarketId(queryId)
-        setMarketData(queriedMarket)
-        setModalOpen(false)
-        setZoomToCenter([queriedMarket.lng, queriedMarket.lat])
-        setMapZoom(11)
+        setMarketId(queryId);
+        setMarketData(queriedMarket);
+        setModalOpen(false);
+        setZoomToCenter([queriedMarket.lng, queriedMarket.lat]);
+        setMapZoom(11);
       }
     } else {
-      setModalOpen(true)
+      setModalOpen(true);
     }
-  }, [isReady])
+  }, [isReady]);
 
   // when the id changes -> open the sidebar and set the query
   useEffect(() => {
-    setSidebarInfoOpen(marketId === null ? false : true)
+    setSidebarInfoOpen(marketId === null ? false : true);
     if (isReady) {
       replace({ pathname, query: { id: marketId } }, undefined, {
         shallow: true,
-      })
+      });
     }
-  }, [marketId])
+  }, [marketId]);
 
   // load snow on first load
   useEffect(() => {
     setMarketFilterDate(new Date());
-    if (typeof window !== 'undefined') {
-      const script = document.createElement('script')
-      script.src = 'snowstorm.js'
-      script.async = true
-      document.body.appendChild(script)
+    if (typeof window !== "undefined") {
+      const script = document.createElement("script");
+      script.src = "snowstorm.js";
+      script.async = true;
+      document.body.appendChild(script);
       setTimeout(() => {
         // eslint-disable-next-line @typescript-eslint/ban-ts-comment
         // @ts-ignore
-        window.snowStorm.start()
-      }, 1000)
+        window.snowStorm.start();
+      }, 1000);
     }
-  }, [])
+  }, []);
 
   // when any filter is changed -> filter market data
   useEffect(() => {
@@ -156,10 +158,10 @@ const MapSite: NextPage = (mapData: any) => {
       marketFilterAction,
       marketFilterTrain,
       marketFilterTime,
-      marketFilterFulltext
-    )
+      marketFilterFulltext,
+    );
     // const newData 0
-    setMarketsData(JSON.parse(JSON.stringify(newData)))
+    setMarketsData(JSON.parse(JSON.stringify(newData)));
   }, [
     marketFilterInternational,
     marketFilterAccessible,
@@ -169,26 +171,26 @@ const MapSite: NextPage = (mapData: any) => {
     marketFilterTrain,
     marketFilterTime,
     marketFilterFulltext,
-  ])
+  ]);
 
   // when the sidebar is closed -> set markerId to null
   useEffect(() => {
     if (!sidebarInfoOpen) {
-      setMarketId(null)
+      setMarketId(null);
     }
-  }, [sidebarInfoOpen])
+  }, [sidebarInfoOpen]);
 
   // when the nav view changes
   // -> set the mobile height (it differs for some views)
   // and close the info sidebar
   useEffect(() => {
-    const navViewFiltered = navViews.filter((d) => d.value === navView)
+    const navViewFiltered = navViews.filter((d) => d.value === navView);
     // @ts-ignore
-    setMobileHeight(navViewFiltered[0].mobileHeight)
-    setSidebarInfoOpen(false)
-  }, [navView])
+    setMobileHeight(navViewFiltered[0].mobileHeight);
+    setSidebarInfoOpen(false);
+  }, [navView]);
 
-  const [showMapLayerToilets, setShowMapLayerToilets] = useState(true)
+  const [showMapLayerToilets, setShowMapLayerToilets] = useState(true);
 
   const firstRender = useRef(true);
 
@@ -196,10 +198,12 @@ const MapSite: NextPage = (mapData: any) => {
 
   useEffect(() => {
     if (firstRender.current) {
-      setInitial(true)
+      setInitial(true);
     }
     firstRender.current = false;
-    return () => { firstRender.current = true };
+    return () => {
+      firstRender.current = true;
+    };
   }, []);
 
   return (
@@ -208,7 +212,8 @@ const MapSite: NextPage = (mapData: any) => {
       <div
         id="snowId"
         className="w-full h-full absolute z-50 pointer-events-none overflow-hidden"
-      ></div>
+      >
+      </div>
       <InitialAudioContext.Provider value={{ initial, setInitial }}>
         <MusicPlayer tracks={tracks} />
       </InitialAudioContext.Provider>
@@ -226,7 +231,7 @@ const MapSite: NextPage = (mapData: any) => {
         closeSymbol="cross"
         mobileHeight={mobileHeight}
       >
-        {navView === 'filter' && (
+        {navView === "filter" && (
           <SidebarContentFilter
             marketFilterInternational={marketFilterInternational}
             setMarketFilterInternational={setMarketFilterInternational}
@@ -246,7 +251,7 @@ const MapSite: NextPage = (mapData: any) => {
             setMarketFilterFulltext={setMarketFilterFulltext}
           />
         )}
-        {navView === 'info' && <SidebarContentInfo />}
+        {navView === "info" && <SidebarContentInfo />}
       </SidebarWrapper>
       {/* market data information */}
       <SidebarWrapper
@@ -286,7 +291,7 @@ const MapSite: NextPage = (mapData: any) => {
       />
       <MapNav mapZoom={mapZoom} setMapZoom={setMapZoom} />
     </>
-  )
-}
+  );
+};
 
-export default MapSite
+export default MapSite;

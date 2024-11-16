@@ -14,8 +14,8 @@ export interface SidebarContentFilterType {
   setMarketFilterAccessible: (enabled: boolean) => void;
   marketFilterCosts: boolean;
   setMarketFilterCosts: (enabled: boolean) => void;
-  marketFilterDate: Date | boolean;
-  setMarketFilterDate: (date: Date | boolean) => void;
+  marketFilterDate: Date | undefined;
+  setMarketFilterDate: (date: Date | undefined) => void;
   marketFilterTime: boolean;
   setMarketFilterTime: (time: boolean) => void;
   marketFilterAction: boolean;
@@ -48,7 +48,7 @@ export const SidebarContentFilter: FC<SidebarContentFilterType> = ({
     setMarketFilterCosts(false);
     setMarketFilterInternational(false);
     setMarketFilterAccessible(false);
-    setMarketFilterDate(false);
+    setMarketFilterDate(undefined);
     setMarketFilterTime(false);
     setMarketFilterAction(false);
     setMarketFilterTrain(false);

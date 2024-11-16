@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  swcMinify: true,
+  //swcMinify: true,
   // distDir: 'build',
   // basePath: '/weihnachtsmarktkarte',
   // eslint: {
@@ -10,6 +10,6 @@ const nextConfig = {
   // typescript: {
   //   ignoreBuildErrors: true,
   // },
-}
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;

@@ -2,12 +2,12 @@ import { FC, useEffect, useState } from "react";
 
 import { format } from "date-fns";
 import { DayPicker } from "react-day-picker";
-import de from "date-fns/locale/de";
+import { de } from "date-fns/locale";
 import "react-day-picker/dist/style.css";
 
 export interface FilterDateType {
-  marketFilterDate: Date | boolean;
-  setMarketFilterDate: (date: Date | boolean) => void;
+  marketFilterDate: Date | undefined;
+  setMarketFilterDate: (date: Date | undefined) => void;
 }
 
 export const FilterDate: FC<FilterDateType> = ({
@@ -15,10 +15,11 @@ export const FilterDate: FC<FilterDateType> = ({
   setMarketFilterDate,
 }) => {
   const css = `
-  .rdp {
-    --rdp-cell-size: 30px;
-    --rdp-accent-color: #0000ff;
-    --rdp-background-color: #e7edff;
+  .rdp-root {
+    --rdp-day-height: 30px;
+    --rdp-day-width: 30px;
+    --rdp-accent-color: #BDA33B;
+    --rdp-background-color: inherit;
     /* Switch to dark colors for dark themes */
     --rdp-accent-color-dark: #3003e1;
     --rdp-background-color-dark: #180270;
@@ -30,16 +31,49 @@ export const FilterDate: FC<FilterDateType> = ({
   }
 
   .rdp-caption_label{
-font-size: 16px
-  }
-  .rdp-button:hover:not([disabled]):not(.rdp-day_selected) {
-    color: #091725;
+    font-size: 16px;
+    margin-left: 6px;
+    font-weight: normal;
   }
 
-  .rdp-day_today:not(.rdp-day_outside) {
+  .rdp-chevron {
+    fill: rgb(245 248 254 / 0.9)
+  }
+
+  .rdp-button_previous {
+    border-radius: 25px;
+  }
+
+  .rdp-button_next {
+    border-radius: 25px;
+  }
+
+  .rdp-button_previous:hover:not([disabled]):not(.rdp-selected) {
+    .rdp-chevron {
+      fill: darkblue
+    }
+    background-color: rgb(245 248 254 / 0.9);
+  }
+
+  .rdp-button_next:hover:not([disabled]):not(.rdp-selected) {
+    .rdp-chevron {
+      fill: darkblue
+    }
+    background-color: rgb(245 248 254 / 0.9);
+  }
+
+  .rdp-day {
+    border-radius: 25px;
+  }
+
+  .rdp-day_button:hover:not([disabled]):not(.rdp-selected) {
+    color: darkblue;
+    background-color: rgb(245 248 254 / 0.9);
+  }
+
+  .rdp-today:not(.rdp-outside) {
     color: #BDA33B;
   }
-
 `;
   const [defaultMonth, setDefaultMonth] = useState<Date>();
   const [today, setToday] = useState<Date>();
