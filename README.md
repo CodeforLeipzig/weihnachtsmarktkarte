@@ -8,7 +8,7 @@ marktes. As a further example this map makes the meaning of open data clear by
 exploring the city in a new way. We wish you a charming exploration of the
 Leipzig christmas markets and merry christmas.
 
-![Map](/public/social-image.jpg)
+![Map](/public/socialimage.jpg)
 
 ## Context
 
