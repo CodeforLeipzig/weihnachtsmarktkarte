@@ -253,11 +253,10 @@ const updateFromToDates = () => {
     "utf-8",
   );
 };
-/*
+
 getHtml(
   "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/weihnachten/weihnachtsmaerkte/",
 ).then((content) => scrape(content));
-*/
 getUniqueLocations();
 updateDescription();
 updateFromToDates();

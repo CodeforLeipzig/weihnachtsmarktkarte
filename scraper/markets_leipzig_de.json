@@ -56,10 +56,6 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
           },
           {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
-          },
-          {
             "date": "04.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241204"
           },
@@ -184,10 +180,6 @@
           {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "04.12.2024",
@@ -316,10 +308,6 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
           },
           {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
-          },
-          {
             "date": "04.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241204"
           },
@@ -444,10 +432,6 @@
           {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "04.12.2024",
@@ -595,10 +579,6 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
           },
           {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
-          },
-          {
             "date": "04.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241204"
           },
@@ -691,6 +671,132 @@
       }
     },
     {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241127",
+      "from": "27.11.2024",
+      "to": "10:00",
+      "location": "Paunsdorf Center",
+      "summary": "Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "27.11.2024",
+        "time": "10:00",
+        "location": {
+          "name": "Paunsdorf Center",
+          "street": "Paunsdorfer Allee 1",
+          "zipcode": "04329",
+          "city": "Leipzig"
+        },
+        "description": "",
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241127?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "21.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241121"
+          },
+          {
+            "date": "22.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241122"
+          },
+          {
+            "date": "23.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241123"
+          },
+          {
+            "date": "25.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241125"
+          },
+          {
+            "date": "26.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241126"
+          },
+          {
+            "date": "28.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241128"
+          },
+          {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241129"
+          },
+          {
+            "date": "30.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241130"
+          },
+          {
+            "date": "02.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
+          },
+          {
+            "date": "04.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241204"
+          },
+          {
+            "date": "05.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241205"
+          },
+          {
+            "date": "06.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241206"
+          },
+          {
+            "date": "07.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241207"
+          },
+          {
+            "date": "09.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241209"
+          },
+          {
+            "date": "10.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241210"
+          },
+          {
+            "date": "11.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241211"
+          },
+          {
+            "date": "12.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241212"
+          },
+          {
+            "date": "13.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241213"
+          },
+          {
+            "date": "14.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241214"
+          },
+          {
+            "date": "16.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241216"
+          },
+          {
+            "date": "17.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241217"
+          },
+          {
+            "date": "18.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241218"
+          },
+          {
+            "date": "19.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241220"
+          },
+          {
+            "date": "21.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241221"
+          },
+          {
+            "date": "23.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241223"
+          }
+        ]
+      }
+    },
+    {
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241127",
       "from": "27.11.2024",
       "to": "10:00",
@@ -764,136 +870,6 @@
           {
             "date": "22.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241222"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241127",
-      "from": "27.11.2024",
-      "to": "10:00",
-      "location": "Paunsdorf Center",
-      "summary": "Weihnachtsmarkt",
-      "description": "",
-      "details": {
-        "date": "27.11.2024",
-        "time": "10:00",
-        "location": {
-          "name": "Paunsdorf Center",
-          "street": "Paunsdorfer Allee 1",
-          "zipcode": "04329",
-          "city": "Leipzig"
-        },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241127?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "21.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241121"
-          },
-          {
-            "date": "22.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241122"
-          },
-          {
-            "date": "23.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241123"
-          },
-          {
-            "date": "25.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241125"
-          },
-          {
-            "date": "26.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241126"
-          },
-          {
-            "date": "28.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241128"
-          },
-          {
-            "date": "29.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241129"
-          },
-          {
-            "date": "30.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241130"
-          },
-          {
-            "date": "02.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
-          },
-          {
-            "date": "04.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241204"
-          },
-          {
-            "date": "05.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241205"
-          },
-          {
-            "date": "06.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241206"
-          },
-          {
-            "date": "07.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241207"
-          },
-          {
-            "date": "09.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241209"
-          },
-          {
-            "date": "10.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241210"
-          },
-          {
-            "date": "11.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241211"
-          },
-          {
-            "date": "12.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241212"
-          },
-          {
-            "date": "13.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241213"
-          },
-          {
-            "date": "14.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241214"
-          },
-          {
-            "date": "16.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241216"
-          },
-          {
-            "date": "17.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241217"
-          },
-          {
-            "date": "18.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241218"
-          },
-          {
-            "date": "19.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241219"
-          },
-          {
-            "date": "20.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241220"
-          },
-          {
-            "date": "21.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241221"
-          },
-          {
-            "date": "23.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241223"
           }
         ]
       }
@@ -1075,10 +1051,6 @@
           {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "04.12.2024",
@@ -1295,6 +1267,10 @@
         "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": [
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -1363,6 +1339,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
           },
           {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
+          },
+          {
             "date": "22.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241222"
           },
@@ -1397,6 +1377,132 @@
           {
             "date": "30.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241230"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241129",
+      "from": "29.11.2024",
+      "to": "10:00",
+      "location": "Paunsdorf Center",
+      "summary": "Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "29.11.2024",
+        "time": "10:00",
+        "location": {
+          "name": "Paunsdorf Center",
+          "street": "Paunsdorfer Allee 1",
+          "zipcode": "04329",
+          "city": "Leipzig"
+        },
+        "description": "",
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241129?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "21.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241121"
+          },
+          {
+            "date": "22.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241122"
+          },
+          {
+            "date": "23.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241123"
+          },
+          {
+            "date": "25.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241125"
+          },
+          {
+            "date": "26.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241126"
+          },
+          {
+            "date": "27.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241127"
+          },
+          {
+            "date": "28.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241128"
+          },
+          {
+            "date": "30.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241130"
+          },
+          {
+            "date": "02.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
+          },
+          {
+            "date": "04.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241204"
+          },
+          {
+            "date": "05.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241205"
+          },
+          {
+            "date": "06.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241206"
+          },
+          {
+            "date": "07.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241207"
+          },
+          {
+            "date": "09.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241209"
+          },
+          {
+            "date": "10.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241210"
+          },
+          {
+            "date": "11.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241211"
+          },
+          {
+            "date": "12.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241212"
+          },
+          {
+            "date": "13.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241213"
+          },
+          {
+            "date": "14.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241214"
+          },
+          {
+            "date": "16.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241216"
+          },
+          {
+            "date": "17.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241217"
+          },
+          {
+            "date": "18.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241218"
+          },
+          {
+            "date": "19.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241220"
+          },
+          {
+            "date": "21.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241221"
+          },
+          {
+            "date": "23.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241223"
           }
         ]
       }
@@ -1475,136 +1581,6 @@
           {
             "date": "22.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241222"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241129",
-      "from": "29.11.2024",
-      "to": "10:00",
-      "location": "Paunsdorf Center",
-      "summary": "Weihnachtsmarkt",
-      "description": "",
-      "details": {
-        "date": "29.11.2024",
-        "time": "10:00",
-        "location": {
-          "name": "Paunsdorf Center",
-          "street": "Paunsdorfer Allee 1",
-          "zipcode": "04329",
-          "city": "Leipzig"
-        },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241129?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "21.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241121"
-          },
-          {
-            "date": "22.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241122"
-          },
-          {
-            "date": "23.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241123"
-          },
-          {
-            "date": "25.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241125"
-          },
-          {
-            "date": "26.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241126"
-          },
-          {
-            "date": "27.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241127"
-          },
-          {
-            "date": "28.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241128"
-          },
-          {
-            "date": "30.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241130"
-          },
-          {
-            "date": "02.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
-          },
-          {
-            "date": "04.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241204"
-          },
-          {
-            "date": "05.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241205"
-          },
-          {
-            "date": "06.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241206"
-          },
-          {
-            "date": "07.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241207"
-          },
-          {
-            "date": "09.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241209"
-          },
-          {
-            "date": "10.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241210"
-          },
-          {
-            "date": "11.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241211"
-          },
-          {
-            "date": "12.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241212"
-          },
-          {
-            "date": "13.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241213"
-          },
-          {
-            "date": "14.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241214"
-          },
-          {
-            "date": "16.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241216"
-          },
-          {
-            "date": "17.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241217"
-          },
-          {
-            "date": "18.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241218"
-          },
-          {
-            "date": "19.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241219"
-          },
-          {
-            "date": "20.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241220"
-          },
-          {
-            "date": "21.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241221"
-          },
-          {
-            "date": "23.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241223"
           }
         ]
       }
@@ -1733,25 +1709,6 @@
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129",
-      "from": "29.11.2024",
-      "to": "15:00",
-      "location": "Felsenkeller",
-      "summary": "Weihnachtsmarkt",
-      "description": "",
-      "details": {
-        "date": "",
-        "time": "",
-        "location": {
-          "name": "",
-          "street": ""
-        },
-        "description": "",
-        "ical": "https://www.leipzig.deundefined",
-        "otherDates": []
-      }
-    },
-    {
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-20241129",
       "from": "29.11.2024",
       "to": "16:00",
@@ -1854,10 +1811,6 @@
           {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "04.12.2024",
@@ -2248,6 +2201,135 @@
       }
     },
     {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241201",
+      "from": "01.12.2024",
+      "to": "10:00",
+      "location": "Neustädter Markt",
+      "summary": "Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "01.12.2024",
+        "time": "10:00",
+        "location": {
+          "name": "Neustädter Markt",
+          "street": "Neustädter Markt",
+          "zipcode": "04315",
+          "city": "Leipzig"
+        },
+        "description": "",
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241201?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "27.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241127"
+          },
+          {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241129"
+          },
+          {
+            "date": "03.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241203"
+          },
+          {
+            "date": "05.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241205"
+          },
+          {
+            "date": "07.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241207"
+          },
+          {
+            "date": "08.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241208"
+          },
+          {
+            "date": "10.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241210"
+          },
+          {
+            "date": "12.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241212"
+          },
+          {
+            "date": "14.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241214"
+          },
+          {
+            "date": "15.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241215"
+          },
+          {
+            "date": "17.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241217"
+          },
+          {
+            "date": "19.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241219"
+          },
+          {
+            "date": "21.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241221"
+          },
+          {
+            "date": "22.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241222"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241201",
+      "from": "01.12.2024",
+      "to": "11:00",
+      "location": "Feinkost",
+      "summary": "Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "01.12.2024",
+        "time": "11:00",
+        "location": {
+          "name": "Feinkost",
+          "street": "Karl-Liebknecht-Straße 36",
+          "zipcode": "04107",
+          "city": "Leipzig",
+          "w3c": "http://www.feinkostgenossenschaft.de"
+        },
+        "description": "",
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241201?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "30.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241130"
+          },
+          {
+            "date": "07.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241207"
+          },
+          {
+            "date": "08.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241208"
+          },
+          {
+            "date": "14.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241214"
+          },
+          {
+            "date": "15.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241215"
+          },
+          {
+            "date": "21.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241221"
+          },
+          {
+            "date": "22.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241222"
+          }
+        ]
+      }
+    },
+    {
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-von-brot-kees-20241201",
       "from": "01.12.2024",
       "to": "11:00",
@@ -2330,6 +2412,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241202"
           },
@@ -2394,6 +2480,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
           },
           {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
+          },
+          {
             "date": "22.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241222"
           },
@@ -2428,57 +2518,6 @@
           {
             "date": "30.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241230"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241201",
-      "from": "01.12.2024",
-      "to": "11:00",
-      "location": "Feinkost",
-      "summary": "Weihnachtsmarkt",
-      "description": "",
-      "details": {
-        "date": "01.12.2024",
-        "time": "11:00",
-        "location": {
-          "name": "Feinkost",
-          "street": "Karl-Liebknecht-Straße 36",
-          "zipcode": "04107",
-          "city": "Leipzig",
-          "w3c": "http://www.feinkostgenossenschaft.de"
-        },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241201?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "30.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241130"
-          },
-          {
-            "date": "07.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241207"
-          },
-          {
-            "date": "08.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241208"
-          },
-          {
-            "date": "14.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241214"
-          },
-          {
-            "date": "15.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241215"
-          },
-          {
-            "date": "21.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241221"
-          },
-          {
-            "date": "22.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241222"
           }
         ]
       }
@@ -2651,6 +2690,27 @@
       }
     },
     {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-1",
+      "from": "01.12.2024",
+      "to": "14:00",
+      "location": "Gohliser Wannenbad",
+      "summary": "Adventsmarkt",
+      "description": "",
+      "details": {
+        "date": "01.12.2024",
+        "time": "14:00",
+        "location": {
+          "name": "Gohliser Wannenbad",
+          "street": "Georg-Schumann-Straße 116",
+          "zipcode": "04155",
+          "city": "Leipzig"
+        },
+        "description": "",
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/mittelalterlicher-weihnachtsmarkt-20241201",
       "from": "01.12.2024",
       "to": "14:00",
@@ -2727,27 +2787,6 @@
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-1",
-      "from": "01.12.2024",
-      "to": "14:00",
-      "location": "Gohliser Wannenbad",
-      "summary": "Adventsmarkt",
-      "description": "",
-      "details": {
-        "date": "01.12.2024",
-        "time": "14:00",
-        "location": {
-          "name": "Gohliser Wannenbad",
-          "street": "Georg-Schumann-Straße 116",
-          "zipcode": "04155",
-          "city": "Leipzig"
-        },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202",
       "from": "02.12.2024",
       "to": "10:00",
@@ -2801,10 +2840,6 @@
           {
             "date": "30.11.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241130"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "04.12.2024",
@@ -3025,6 +3060,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -3089,6 +3128,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
           },
           {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
+          },
+          {
             "date": "22.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241222"
           },
@@ -3125,6 +3168,25 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241230"
           }
         ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203",
+      "from": "03.12.2024",
+      "to": "10:00",
+      "location": "Paunsdorf Center",
+      "summary": "Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "",
+        "time": "",
+        "location": {
+          "name": "",
+          "street": ""
+        },
+        "description": "",
+        "ical": "https://www.leipzig.deundefined",
+        "otherDates": []
       }
     },
     {
@@ -3201,136 +3263,6 @@
           {
             "date": "22.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241222"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203",
-      "from": "03.12.2024",
-      "to": "10:00",
-      "location": "Paunsdorf Center",
-      "summary": "Weihnachtsmarkt",
-      "description": "",
-      "details": {
-        "date": "03.12.2024",
-        "time": "10:00",
-        "location": {
-          "name": "Paunsdorf Center",
-          "street": "Paunsdorfer Allee 1",
-          "zipcode": "04329",
-          "city": "Leipzig"
-        },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "21.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241121"
-          },
-          {
-            "date": "22.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241122"
-          },
-          {
-            "date": "23.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241123"
-          },
-          {
-            "date": "25.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241125"
-          },
-          {
-            "date": "26.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241126"
-          },
-          {
-            "date": "27.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241127"
-          },
-          {
-            "date": "28.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241128"
-          },
-          {
-            "date": "29.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241129"
-          },
-          {
-            "date": "30.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241130"
-          },
-          {
-            "date": "02.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "04.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241204"
-          },
-          {
-            "date": "05.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241205"
-          },
-          {
-            "date": "06.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241206"
-          },
-          {
-            "date": "07.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241207"
-          },
-          {
-            "date": "09.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241209"
-          },
-          {
-            "date": "10.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241210"
-          },
-          {
-            "date": "11.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241211"
-          },
-          {
-            "date": "12.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241212"
-          },
-          {
-            "date": "13.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241213"
-          },
-          {
-            "date": "14.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241214"
-          },
-          {
-            "date": "16.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241216"
-          },
-          {
-            "date": "17.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241217"
-          },
-          {
-            "date": "18.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241218"
-          },
-          {
-            "date": "19.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241219"
-          },
-          {
-            "date": "20.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241220"
-          },
-          {
-            "date": "21.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241221"
-          },
-          {
-            "date": "23.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241223"
           }
         ]
       }
@@ -3483,6 +3415,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -3547,6 +3483,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
           },
           {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
+          },
+          {
             "date": "22.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241222"
           },
@@ -3583,25 +3523,6 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241230"
           }
         ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241204",
-      "from": "04.12.2024",
-      "to": "10:00",
-      "location": "Neustädter Markt",
-      "summary": "Weihnachtsmarkt",
-      "description": "",
-      "details": {
-        "date": "",
-        "time": "",
-        "location": {
-          "name": "",
-          "street": ""
-        },
-        "description": "",
-        "ical": "https://www.leipzig.deundefined",
-        "otherDates": []
       }
     },
     {
@@ -3662,10 +3583,6 @@
           {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "05.12.2024",
@@ -3882,6 +3799,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -3944,6 +3865,10 @@
           {
             "date": "19.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
           },
           {
             "date": "22.12.2024",
@@ -4044,10 +3969,6 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
           },
           {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
-          },
-          {
             "date": "04.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241204"
           },
@@ -4110,6 +4031,84 @@
           {
             "date": "23.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241223"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241205",
+      "from": "05.12.2024",
+      "to": "10:00",
+      "location": "Neustädter Markt",
+      "summary": "Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "05.12.2024",
+        "time": "10:00",
+        "location": {
+          "name": "Neustädter Markt",
+          "street": "Neustädter Markt",
+          "zipcode": "04315",
+          "city": "Leipzig"
+        },
+        "description": "",
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241205?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "27.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241127"
+          },
+          {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241129"
+          },
+          {
+            "date": "01.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241201"
+          },
+          {
+            "date": "03.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241203"
+          },
+          {
+            "date": "07.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241207"
+          },
+          {
+            "date": "08.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241208"
+          },
+          {
+            "date": "10.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241210"
+          },
+          {
+            "date": "12.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241212"
+          },
+          {
+            "date": "14.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241214"
+          },
+          {
+            "date": "15.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241215"
+          },
+          {
+            "date": "17.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241217"
+          },
+          {
+            "date": "19.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241219"
+          },
+          {
+            "date": "21.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241221"
+          },
+          {
+            "date": "22.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241222"
           }
         ]
       }
@@ -4262,6 +4261,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -4326,6 +4329,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
           },
           {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
+          },
+          {
             "date": "22.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241222"
           },
@@ -4362,25 +4369,6 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241230"
           }
         ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241206",
-      "from": "06.12.2024",
-      "to": "10:00",
-      "location": "Neustädter Markt",
-      "summary": "Weihnachtsmarkt",
-      "description": "",
-      "details": {
-        "date": "",
-        "time": "",
-        "location": {
-          "name": "",
-          "street": ""
-        },
-        "description": "",
-        "ical": "https://www.leipzig.deundefined",
-        "otherDates": []
       }
     },
     {
@@ -4441,10 +4429,6 @@
           {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "04.12.2024",
@@ -4661,6 +4645,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -4723,6 +4711,10 @@
           {
             "date": "19.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
           },
           {
             "date": "22.12.2024",
@@ -4869,10 +4861,6 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
           },
           {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
-          },
-          {
             "date": "04.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241204"
           },
@@ -4935,6 +4923,84 @@
           {
             "date": "23.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241223"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241207",
+      "from": "07.12.2024",
+      "to": "10:00",
+      "location": "Neustädter Markt",
+      "summary": "Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "07.12.2024",
+        "time": "10:00",
+        "location": {
+          "name": "Neustädter Markt",
+          "street": "Neustädter Markt",
+          "zipcode": "04315",
+          "city": "Leipzig"
+        },
+        "description": "",
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241207?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "27.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241127"
+          },
+          {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241129"
+          },
+          {
+            "date": "01.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241201"
+          },
+          {
+            "date": "03.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241203"
+          },
+          {
+            "date": "05.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241205"
+          },
+          {
+            "date": "08.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241208"
+          },
+          {
+            "date": "10.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241210"
+          },
+          {
+            "date": "12.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241212"
+          },
+          {
+            "date": "14.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241214"
+          },
+          {
+            "date": "15.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241215"
+          },
+          {
+            "date": "17.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241217"
+          },
+          {
+            "date": "19.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241219"
+          },
+          {
+            "date": "21.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241221"
+          },
+          {
+            "date": "22.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241222"
           }
         ]
       }
@@ -5017,21 +5083,23 @@
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/viktorianischer-weihnachtsmarkt-1",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/viktorianischer-weihnachtsmarkt",
       "from": "07.12.2024",
       "to": "13:00",
       "location": "Seebühne am Biedermeierstrand",
       "summary": "Viktorianischer Weihnachtsmarkt",
       "description": "",
       "details": {
-        "date": "",
-        "time": "",
+        "date": "07.12.2024",
+        "time": "13:00",
         "location": {
-          "name": "",
-          "street": ""
+          "name": "Seebühne am Biedermeierstrand",
+          "street": "Zum Biedermeierstrand",
+          "zipcode": "04435",
+          "city": "Schkeuditz"
         },
         "description": "",
-        "ical": "https://www.leipzig.deundefined",
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/viktorianischer-weihnachtsmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
@@ -5082,6 +5150,32 @@
       }
     },
     {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-1-20241207",
+      "from": "07.12.2024",
+      "to": "14:00",
+      "location": "Hotel Philippus",
+      "summary": "Adventszauber",
+      "description": "",
+      "details": {
+        "date": "07.12.2024",
+        "time": "14:00",
+        "location": {
+          "name": "Hotel Philippus",
+          "street": "Aurelienstraße 54",
+          "zipcode": "04177",
+          "city": "Leipzig"
+        },
+        "description": "",
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-1-20241207?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "08.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-1-20241208"
+          }
+        ]
+      }
+    },
+    {
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-4",
       "from": "07.12.2024",
       "to": "14:00",
@@ -5121,32 +5215,6 @@
         "description": "",
         "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/alternativer-adventsmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-1-20241207",
-      "from": "07.12.2024",
-      "to": "14:00",
-      "location": "Hotel Philippus",
-      "summary": "Adventszauber",
-      "description": "",
-      "details": {
-        "date": "07.12.2024",
-        "time": "14:00",
-        "location": {
-          "name": "Hotel Philippus",
-          "street": "Aurelienstraße 54",
-          "zipcode": "04177",
-          "city": "Leipzig"
-        },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-1-20241207?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "08.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-1-20241208"
-          }
-        ]
       }
     },
     {
@@ -5370,6 +5438,57 @@
       }
     },
     {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241208",
+      "from": "08.12.2024",
+      "to": "11:00",
+      "location": "Feinkost",
+      "summary": "Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "08.12.2024",
+        "time": "11:00",
+        "location": {
+          "name": "Feinkost",
+          "street": "Karl-Liebknecht-Straße 36",
+          "zipcode": "04107",
+          "city": "Leipzig",
+          "w3c": "http://www.feinkostgenossenschaft.de"
+        },
+        "description": "",
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241208?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "30.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241130"
+          },
+          {
+            "date": "01.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241201"
+          },
+          {
+            "date": "07.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241207"
+          },
+          {
+            "date": "14.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241214"
+          },
+          {
+            "date": "15.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241215"
+          },
+          {
+            "date": "21.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241221"
+          },
+          {
+            "date": "22.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241222"
+          }
+        ]
+      }
+    },
+    {
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-von-brot-kees-20241208",
       "from": "08.12.2024",
       "to": "11:00",
@@ -5423,6 +5542,10 @@
           {
             "date": "28.11.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
+          },
+          {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
           },
           {
             "date": "01.12.2024",
@@ -5489,6 +5612,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
           },
           {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
+          },
+          {
             "date": "22.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241222"
           },
@@ -5523,57 +5650,6 @@
           {
             "date": "30.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241230"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241208",
-      "from": "08.12.2024",
-      "to": "11:00",
-      "location": "Feinkost",
-      "summary": "Weihnachtsmarkt",
-      "description": "",
-      "details": {
-        "date": "08.12.2024",
-        "time": "11:00",
-        "location": {
-          "name": "Feinkost",
-          "street": "Karl-Liebknecht-Straße 36",
-          "zipcode": "04107",
-          "city": "Leipzig",
-          "w3c": "http://www.feinkostgenossenschaft.de"
-        },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241208?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "30.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241130"
-          },
-          {
-            "date": "01.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241201"
-          },
-          {
-            "date": "07.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241207"
-          },
-          {
-            "date": "14.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241214"
-          },
-          {
-            "date": "15.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241215"
-          },
-          {
-            "date": "21.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241221"
-          },
-          {
-            "date": "22.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241222"
           }
         ]
       }
@@ -5793,6 +5869,32 @@
       }
     },
     {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-1-20241208",
+      "from": "08.12.2024",
+      "to": "14:00",
+      "location": "Hotel Philippus",
+      "summary": "Adventszauber",
+      "description": "",
+      "details": {
+        "date": "08.12.2024",
+        "time": "14:00",
+        "location": {
+          "name": "Hotel Philippus",
+          "street": "Aurelienstraße 54",
+          "zipcode": "04177",
+          "city": "Leipzig"
+        },
+        "description": "",
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-1-20241208?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "07.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-1-20241207"
+          }
+        ]
+      }
+    },
+    {
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/sellerhaeuser-adventslicht-1",
       "from": "08.12.2024",
       "to": "14:00",
@@ -5833,32 +5935,6 @@
         "description": "",
         "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsflohmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-1-20241208",
-      "from": "08.12.2024",
-      "to": "14:00",
-      "location": "Hotel Philippus",
-      "summary": "Adventszauber",
-      "description": "",
-      "details": {
-        "date": "08.12.2024",
-        "time": "14:00",
-        "location": {
-          "name": "Hotel Philippus",
-          "street": "Aurelienstraße 54",
-          "zipcode": "04177",
-          "city": "Leipzig"
-        },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-1-20241208?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "07.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-1-20241207"
-          }
-        ]
       }
     },
     {
@@ -5919,10 +5995,6 @@
           {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "04.12.2024",
@@ -6185,6 +6257,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -6249,6 +6325,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
           },
           {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
+          },
+          {
             "date": "22.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241222"
           },
@@ -6283,6 +6363,132 @@
           {
             "date": "30.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241230"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241210",
+      "from": "10.12.2024",
+      "to": "10:00",
+      "location": "Paunsdorf Center",
+      "summary": "Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "10.12.2024",
+        "time": "10:00",
+        "location": {
+          "name": "Paunsdorf Center",
+          "street": "Paunsdorfer Allee 1",
+          "zipcode": "04329",
+          "city": "Leipzig"
+        },
+        "description": "",
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241210?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "21.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241121"
+          },
+          {
+            "date": "22.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241122"
+          },
+          {
+            "date": "23.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241123"
+          },
+          {
+            "date": "25.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241125"
+          },
+          {
+            "date": "26.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241126"
+          },
+          {
+            "date": "27.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241127"
+          },
+          {
+            "date": "28.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241128"
+          },
+          {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241129"
+          },
+          {
+            "date": "30.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241130"
+          },
+          {
+            "date": "02.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
+          },
+          {
+            "date": "04.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241204"
+          },
+          {
+            "date": "05.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241205"
+          },
+          {
+            "date": "06.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241206"
+          },
+          {
+            "date": "07.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241207"
+          },
+          {
+            "date": "09.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241209"
+          },
+          {
+            "date": "11.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241211"
+          },
+          {
+            "date": "12.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241212"
+          },
+          {
+            "date": "13.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241213"
+          },
+          {
+            "date": "14.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241214"
+          },
+          {
+            "date": "16.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241216"
+          },
+          {
+            "date": "17.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241217"
+          },
+          {
+            "date": "18.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241218"
+          },
+          {
+            "date": "19.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241220"
+          },
+          {
+            "date": "21.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241221"
+          },
+          {
+            "date": "23.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241223"
           }
         ]
       }
@@ -6361,136 +6567,6 @@
           {
             "date": "22.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241222"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241210",
-      "from": "10.12.2024",
-      "to": "10:00",
-      "location": "Paunsdorf Center",
-      "summary": "Weihnachtsmarkt",
-      "description": "",
-      "details": {
-        "date": "10.12.2024",
-        "time": "10:00",
-        "location": {
-          "name": "Paunsdorf Center",
-          "street": "Paunsdorfer Allee 1",
-          "zipcode": "04329",
-          "city": "Leipzig"
-        },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241210?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "21.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241121"
-          },
-          {
-            "date": "22.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241122"
-          },
-          {
-            "date": "23.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241123"
-          },
-          {
-            "date": "25.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241125"
-          },
-          {
-            "date": "26.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241126"
-          },
-          {
-            "date": "27.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241127"
-          },
-          {
-            "date": "28.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241128"
-          },
-          {
-            "date": "29.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241129"
-          },
-          {
-            "date": "30.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241130"
-          },
-          {
-            "date": "02.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
-          },
-          {
-            "date": "04.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241204"
-          },
-          {
-            "date": "05.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241205"
-          },
-          {
-            "date": "06.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241206"
-          },
-          {
-            "date": "07.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241207"
-          },
-          {
-            "date": "09.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241209"
-          },
-          {
-            "date": "11.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241211"
-          },
-          {
-            "date": "12.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241212"
-          },
-          {
-            "date": "13.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241213"
-          },
-          {
-            "date": "14.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241214"
-          },
-          {
-            "date": "16.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241216"
-          },
-          {
-            "date": "17.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241217"
-          },
-          {
-            "date": "18.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241218"
-          },
-          {
-            "date": "19.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241219"
-          },
-          {
-            "date": "20.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241220"
-          },
-          {
-            "date": "21.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241221"
-          },
-          {
-            "date": "23.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241223"
           }
         ]
       }
@@ -6689,6 +6765,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -6751,6 +6831,10 @@
           {
             "date": "19.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
           },
           {
             "date": "22.12.2024",
@@ -6849,10 +6933,6 @@
           {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "04.12.2024",
@@ -7115,6 +7195,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -7177,6 +7261,10 @@
           {
             "date": "19.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
           },
           {
             "date": "22.12.2024",
@@ -7296,10 +7384,6 @@
           {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "04.12.2024",
@@ -7640,6 +7724,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -7702,6 +7790,10 @@
           {
             "date": "19.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
           },
           {
             "date": "22.12.2024",
@@ -7800,10 +7892,6 @@
           {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "04.12.2024",
@@ -8020,6 +8108,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -8082,6 +8174,10 @@
           {
             "date": "19.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
           },
           {
             "date": "22.12.2024",
@@ -8238,10 +8334,6 @@
           {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "04.12.2024",
@@ -8685,25 +8777,6 @@
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/christmas-garden-leipzig-1-20241214",
-      "from": "14.12.2024",
-      "to": "18:30",
-      "location": "Agra-Park",
-      "summary": "Christmas Garden Leipzig",
-      "description": "Eingänge: Mönchereiparkplatz und Raschwitzer Straße ...",
-      "details": {
-        "date": "",
-        "time": "",
-        "location": {
-          "name": "",
-          "street": ""
-        },
-        "description": "",
-        "ical": "https://www.leipzig.deundefined",
-        "otherDates": []
-      }
-    },
-    {
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241215",
       "from": "15.12.2024",
       "to": "10:00",
@@ -8782,6 +8855,57 @@
       }
     },
     {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241215",
+      "from": "15.12.2024",
+      "to": "11:00",
+      "location": "Feinkost",
+      "summary": "Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "15.12.2024",
+        "time": "11:00",
+        "location": {
+          "name": "Feinkost",
+          "street": "Karl-Liebknecht-Straße 36",
+          "zipcode": "04107",
+          "city": "Leipzig",
+          "w3c": "http://www.feinkostgenossenschaft.de"
+        },
+        "description": "",
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241215?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "30.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241130"
+          },
+          {
+            "date": "01.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241201"
+          },
+          {
+            "date": "07.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241207"
+          },
+          {
+            "date": "08.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241208"
+          },
+          {
+            "date": "14.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241214"
+          },
+          {
+            "date": "21.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241221"
+          },
+          {
+            "date": "22.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241222"
+          }
+        ]
+      }
+    },
+    {
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-von-brot-kees-20241215",
       "from": "15.12.2024",
       "to": "11:00",
@@ -8835,6 +8959,10 @@
           {
             "date": "28.11.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
+          },
+          {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
           },
           {
             "date": "01.12.2024",
@@ -8901,6 +9029,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
           },
           {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
+          },
+          {
             "date": "22.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241222"
           },
@@ -8940,52 +9072,29 @@
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241215",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241215",
       "from": "15.12.2024",
-      "to": "11:00",
-      "location": "Feinkost",
+      "to": "12:00",
+      "location": "Rathausplatz Markkleeberg",
       "summary": "Weihnachtsmarkt",
       "description": "",
       "details": {
         "date": "15.12.2024",
-        "time": "11:00",
+        "time": "12:00",
         "location": {
-          "name": "Feinkost",
-          "street": "Karl-Liebknecht-Straße 36",
-          "zipcode": "04107",
-          "city": "Leipzig",
-          "w3c": "http://www.feinkostgenossenschaft.de"
+          "name": "Rathausplatz Markkleeberg",
+          "street": "04416 Markkleeberg"
         },
         "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241215?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241215?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": [
           {
-            "date": "30.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241130"
-          },
-          {
-            "date": "01.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241201"
-          },
-          {
-            "date": "07.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241207"
-          },
-          {
-            "date": "08.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241208"
+            "date": "13.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241213"
           },
           {
             "date": "14.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241214"
-          },
-          {
-            "date": "21.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241221"
-          },
-          {
-            "date": "22.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241222"
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241214"
           }
         ]
       }
@@ -9114,34 +9223,6 @@
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241215",
-      "from": "15.12.2024",
-      "to": "12:00",
-      "location": "Rathausplatz Markkleeberg",
-      "summary": "Weihnachtsmarkt",
-      "description": "",
-      "details": {
-        "date": "15.12.2024",
-        "time": "12:00",
-        "location": {
-          "name": "Rathausplatz Markkleeberg",
-          "street": "04416 Markkleeberg"
-        },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241215?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "13.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241213"
-          },
-          {
-            "date": "14.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241214"
-          }
-        ]
-      }
-    },
-    {
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/hofadvent-20241215",
       "from": "15.12.2024",
       "to": "14:00",
@@ -9163,36 +9244,6 @@
           {
             "date": "14.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/hofadvent-20241214"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241215",
-      "from": "15.12.2024",
-      "to": "15:00",
-      "location": "Budde-Haus",
-      "summary": "Kulturweihnachtsmarkt unterm Ginkgobaum",
-      "description": "Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer,...",
-      "details": {
-        "date": "15.12.2024",
-        "time": "15:00",
-        "location": {
-          "name": "Budde-Haus",
-          "street": "Lützowstraße 19",
-          "zipcode": "04157",
-          "city": "Leipzig"
-        },
-        "description": "Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer, Weihnachtsbasteleien und viel Kultur Zum dritten Adventswochenende, vom 13. bis zum 15. Dezember, lädt das Budde-Haus wieder auf das Gelände zum Kulturweihnachtsmarkt. Mit allem was dazu gehört: Speis und Trank, Lagerfeuer, Weihnachtsbasteleien, Verkaufsständen und natürlich mit einem abwechslungsreichen Kulturprogramm. Programm nähere Infos folgen auf unserer Website unter www.budde-haus.de/veranstaltungen/ Eintritt: Zahl wie du dich Weihnachten fühlst! Von „Ostern fühle ich ja mehr“ (0,50 €) bis zu „Seit dem 27.12.2023 freue ich mich auf Weihnachten“ (3,00 €) Veranstaltungsort: Die Veranstaltung findet auf dem Außengelände des Budde-Hauses statt. Gastronomie: Der Biergarten ist geöffnet. Förderer: Das Budde-Haus wird unterstützt vom Kulturamt der Stadt Leipzig.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241215?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "13.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241213"
-          },
-          {
-            "date": "14.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241214"
           }
         ]
       }
@@ -9229,22 +9280,33 @@
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/christmas-garden-leipzig-1-20241215",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241215",
       "from": "15.12.2024",
-      "to": "18:30",
-      "location": "Agra-Park",
-      "summary": "Christmas Garden Leipzig",
-      "description": "Eingänge: Mönchereiparkplatz und Raschwitzer Straße ...",
+      "to": "15:00",
+      "location": "Budde-Haus",
+      "summary": "Kulturweihnachtsmarkt unterm Ginkgobaum",
+      "description": "Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer,...",
       "details": {
-        "date": "",
-        "time": "",
+        "date": "15.12.2024",
+        "time": "15:00",
         "location": {
-          "name": "",
-          "street": ""
+          "name": "Budde-Haus",
+          "street": "Lützowstraße 19",
+          "zipcode": "04157",
+          "city": "Leipzig"
         },
-        "description": "",
-        "ical": "https://www.leipzig.deundefined",
-        "otherDates": []
+        "description": "Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer, Weihnachtsbasteleien und viel Kultur Zum dritten Adventswochenende, vom 13. bis zum 15. Dezember, lädt das Budde-Haus wieder auf das Gelände zum Kulturweihnachtsmarkt. Mit allem was dazu gehört: Speis und Trank, Lagerfeuer, Weihnachtsbasteleien, Verkaufsständen und natürlich mit einem abwechslungsreichen Kulturprogramm. Programm nähere Infos folgen auf unserer Website unter www.budde-haus.de/veranstaltungen/ Eintritt: Zahl wie du dich Weihnachten fühlst! Von „Ostern fühle ich ja mehr“ (0,50 €) bis zu „Seit dem 27.12.2023 freue ich mich auf Weihnachten“ (3,00 €) Veranstaltungsort: Die Veranstaltung findet auf dem Außengelände des Budde-Hauses statt. Gastronomie: Der Biergarten ist geöffnet. Förderer: Das Budde-Haus wird unterstützt vom Kulturamt der Stadt Leipzig.",
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241215?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "13.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241213"
+          },
+          {
+            "date": "14.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241214"
+          }
+        ]
       }
     },
     {
@@ -9305,10 +9367,6 @@
           {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "04.12.2024",
@@ -9556,6 +9614,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -9620,6 +9682,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
           },
           {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
+          },
+          {
             "date": "22.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241222"
           },
@@ -9656,25 +9722,6 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241230"
           }
         ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/christmas-garden-leipzig-1-20241216",
-      "from": "16.12.2024",
-      "to": "18:30",
-      "location": "Agra-Park",
-      "summary": "Christmas Garden Leipzig",
-      "description": "Eingänge: Mönchereiparkplatz und Raschwitzer Straße ...",
-      "details": {
-        "date": "",
-        "time": "",
-        "location": {
-          "name": "",
-          "street": ""
-        },
-        "description": "",
-        "ical": "https://www.leipzig.deundefined",
-        "otherDates": []
       }
     },
     {
@@ -9735,10 +9782,6 @@
           {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "04.12.2024",
@@ -10086,6 +10129,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -10148,6 +10195,10 @@
           {
             "date": "19.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
           },
           {
             "date": "22.12.2024",
@@ -10246,10 +10297,6 @@
           {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "04.12.2024",
@@ -10466,6 +10513,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -10528,6 +10579,10 @@
           {
             "date": "19.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
           },
           {
             "date": "22.12.2024",
@@ -10626,10 +10681,6 @@
           {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "04.12.2024",
@@ -10924,6 +10975,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -10986,6 +11041,10 @@
           {
             "date": "18.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241218"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
           },
           {
             "date": "22.12.2024",
@@ -11084,10 +11143,6 @@
           {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "04.12.2024",
@@ -11280,25 +11335,6 @@
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220",
-      "from": "20.12.2024",
-      "to": "15:00",
-      "location": "Felsenkeller",
-      "summary": "Weihnachtsmarkt",
-      "description": "",
-      "details": {
-        "date": "",
-        "time": "",
-        "location": {
-          "name": "",
-          "street": ""
-        },
-        "description": "",
-        "ical": "https://www.leipzig.deundefined",
-        "otherDates": []
-      }
-    },
-    {
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241221",
       "from": "21.12.2024",
       "to": "10:00",
@@ -11356,10 +11392,6 @@
           {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "04.12.2024",
@@ -11807,6 +11839,57 @@
       }
     },
     {
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241222",
+      "from": "22.12.2024",
+      "to": "11:00",
+      "location": "Feinkost",
+      "summary": "Weihnachtsmarkt",
+      "description": "",
+      "details": {
+        "date": "22.12.2024",
+        "time": "11:00",
+        "location": {
+          "name": "Feinkost",
+          "street": "Karl-Liebknecht-Straße 36",
+          "zipcode": "04107",
+          "city": "Leipzig",
+          "w3c": "http://www.feinkostgenossenschaft.de"
+        },
+        "description": "",
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241222?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "30.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241130"
+          },
+          {
+            "date": "01.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241201"
+          },
+          {
+            "date": "07.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241207"
+          },
+          {
+            "date": "08.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241208"
+          },
+          {
+            "date": "14.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241214"
+          },
+          {
+            "date": "15.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241215"
+          },
+          {
+            "date": "21.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241221"
+          }
+        ]
+      }
+    },
+    {
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241222",
       "from": "22.12.2024",
       "to": "11:00",
@@ -11829,6 +11912,10 @@
           {
             "date": "28.11.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
+          },
+          {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
           },
           {
             "date": "01.12.2024",
@@ -11899,6 +11986,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
           },
           {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
+          },
+          {
             "date": "23.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241223"
           },
@@ -11934,52 +12025,27 @@
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241222",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/veganer-weihnachtsmarkt-1-20241222",
       "from": "22.12.2024",
-      "to": "11:00",
-      "location": "Feinkost",
-      "summary": "Weihnachtsmarkt",
+      "to": "12:00",
+      "location": "Philippuskirche",
+      "summary": "Veganer Weihnachtsmarkt",
       "description": "",
       "details": {
         "date": "22.12.2024",
-        "time": "11:00",
+        "time": "12:00",
         "location": {
-          "name": "Feinkost",
-          "street": "Karl-Liebknecht-Straße 36",
-          "zipcode": "04107",
-          "city": "Leipzig",
-          "w3c": "http://www.feinkostgenossenschaft.de"
+          "name": "Philippuskirche",
+          "street": "Aurelienstr. 54",
+          "zipcode": "04177",
+          "city": "Leipzig"
         },
         "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241222?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/veganer-weihnachtsmarkt-1-20241222?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": [
           {
-            "date": "30.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241130"
-          },
-          {
-            "date": "01.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241201"
-          },
-          {
-            "date": "07.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241207"
-          },
-          {
-            "date": "08.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241208"
-          },
-          {
-            "date": "14.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241214"
-          },
-          {
-            "date": "15.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241215"
-          },
-          {
             "date": "21.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241221"
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/veganer-weihnachtsmarkt-1-20241221"
           }
         ]
       }
@@ -12108,32 +12174,6 @@
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/veganer-weihnachtsmarkt-1-20241222",
-      "from": "22.12.2024",
-      "to": "12:00",
-      "location": "Philippuskirche",
-      "summary": "Veganer Weihnachtsmarkt",
-      "description": "",
-      "details": {
-        "date": "22.12.2024",
-        "time": "12:00",
-        "location": {
-          "name": "Philippuskirche",
-          "street": "Aurelienstr. 54",
-          "zipcode": "04177",
-          "city": "Leipzig"
-        },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/veganer-weihnachtsmarkt-1-20241222?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "21.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/veganer-weihnachtsmarkt-1-20241221"
-          }
-        ]
-      }
-    },
-    {
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241223",
       "from": "23.12.2024",
       "to": "10:00",
@@ -12191,10 +12231,6 @@
           {
             "date": "02.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241202"
-          },
-          {
-            "date": "03.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241203"
           },
           {
             "date": "04.12.2024",
@@ -12288,6 +12324,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -12354,6 +12394,10 @@
           {
             "date": "19.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
           },
           {
             "date": "22.12.2024",
@@ -12415,6 +12459,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -12481,6 +12529,10 @@
           {
             "date": "19.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
           },
           {
             "date": "22.12.2024",
@@ -12542,6 +12594,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -12608,6 +12664,10 @@
           {
             "date": "19.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
           },
           {
             "date": "22.12.2024",
@@ -12669,6 +12729,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -12735,6 +12799,10 @@
           {
             "date": "19.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
           },
           {
             "date": "22.12.2024",
@@ -12796,6 +12864,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -12862,6 +12934,10 @@
           {
             "date": "19.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
           },
           {
             "date": "22.12.2024",
@@ -12923,6 +12999,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -12989,6 +13069,10 @@
           {
             "date": "19.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
           },
           {
             "date": "22.12.2024",
@@ -13050,6 +13134,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -13116,6 +13204,10 @@
           {
             "date": "19.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
           },
           {
             "date": "22.12.2024",
@@ -13177,6 +13269,10 @@
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128"
           },
           {
+            "date": "29.11.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129"
+          },
+          {
             "date": "01.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241201"
           },
@@ -13243,6 +13339,10 @@
           {
             "date": "19.12.2024",
             "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241219"
+          },
+          {
+            "date": "20.12.2024",
+            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241220"
           },
           {
             "date": "22.12.2024",
