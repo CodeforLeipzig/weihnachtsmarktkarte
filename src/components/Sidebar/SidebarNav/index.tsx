@@ -1,17 +1,17 @@
-import { FC } from 'react'
-import classNames from 'classnames'
-import { useHasMobileSize } from '@lib/hooks/useHasMobileSize'
-import { Home } from '@components/Icons'
+import { FC } from "react";
+import classNames from "classnames";
+import { useHasMobileSize } from "@lib/hooks/useHasMobileSize";
+import { Home } from "@components/Icons";
 
 export interface SidebarNavType {
-  navViews: any
-  setNavView: (view: 'info' | 'filter') => void
-  navView?: 'info' | 'filter'
-  sidebarMenuOpen: boolean
-  setSidebarMenuOpen: (open: boolean) => void
-  setModalOpen: (open: boolean) => void
-  marketId: string | number | null
-  setMarketId: (time: string | null | number) => void
+  navViews: any;
+  setNavView: (view: "info" | "filter") => void;
+  navView?: "info" | "filter";
+  sidebarMenuOpen: boolean;
+  setSidebarMenuOpen: (open: boolean) => void;
+  setModalOpen: (open: boolean) => void;
+  marketId: string | number | null;
+  setMarketId: (time: string | null | number) => void;
 }
 
 export const SidebarNav: FC<SidebarNavType> = ({
@@ -24,23 +24,24 @@ export const SidebarNav: FC<SidebarNavType> = ({
   marketId,
   setMarketId,
 }) => {
-  const hasMobileSize = useHasMobileSize()
-  let navPositionClasses =
-    !sidebarMenuOpen || hasMobileSize ? 'left-[0px]' : 'left-sidebar'
+  const hasMobileSize = useHasMobileSize();
+  let navPositionClasses = !sidebarMenuOpen || hasMobileSize
+    ? "left-[0px]"
+    : "left-sidebar";
 
   if (marketId && !hasMobileSize) {
-    navPositionClasses = 'left-sidebar'
+    navPositionClasses = "left-sidebar";
   }
 
-  const padding = sidebarMenuOpen ? (hasMobileSize ? 'pl-4' : 'pl-0') : 'pl-4'
+  const padding = sidebarMenuOpen ? (hasMobileSize ? "pl-4" : "pl-0") : "pl-4";
   const navClasses =
-    'h-14 cursor-pointer list-none text-center grid place-items-center hover:bg-gold'
+    "h-14 cursor-pointer list-none text-center grid place-items-center hover:bg-gold";
   function onNavClick(listView: any) {
     if (!sidebarMenuOpen) {
-      setSidebarMenuOpen(true)
+      setSidebarMenuOpen(true);
     }
-    setNavView(listView.value)
-    setMarketId(null)
+    setNavView(listView.value);
+    setMarketId(null);
   }
   return (
     <>
@@ -49,13 +50,13 @@ export const SidebarNav: FC<SidebarNavType> = ({
           onClick={() => setModalOpen(true)}
           title="home"
           className={classNames(
-            'text-xs md:text-base mr-auto ml-auto w-fit cursor-pointer bg-darkblue font-bold hover:bg-gold rounded-2xl mb-4 px-4 py-2.5 group'
+            "text-xs md:text-base mr-auto ml-auto w-fit cursor-pointer bg-darkblue font-clanbold hover:bg-gold rounded-2xl mb-4 px-4 py-2.5 group",
           )}
         >
-          <span className={'text-gold group-hover:text-darkblue'}>
+          <span className={"text-gold group-hover:text-darkblue"}>
             Weihnachtsmarkt
           </span>
-          <span className={'text-lightblue'}>Finder</span>
+          <span className={"text-lightblue"}>Finder</span>
         </div>
       </div>
 
@@ -63,7 +64,7 @@ export const SidebarNav: FC<SidebarNavType> = ({
         className={classNames(
           navPositionClasses,
           padding,
-          'fixed top-0 p-4 transition-left ease-in-out duration-300 z-10 rounded overflow-hidden'
+          "fixed top-0 p-4 transition-left ease-in-out duration-300 z-10 rounded overflow-hidden",
         )}
       >
         <div className="w-14 flex flex-col list-none overflow-hidden shadow-lg text-gold ">
@@ -74,10 +75,10 @@ export const SidebarNav: FC<SidebarNavType> = ({
                 title={listView.name}
                 onClick={() => onNavClick(listView)}
                 className={classNames(
-                  'hover:text-darkblue',
+                  "hover:text-darkblue",
                   listView.value === navView && sidebarMenuOpen
-                    ? 'bg-gold text-darkblue'
-                    : 'bg-darkblue text-gold',
+                    ? "bg-gold text-darkblue"
+                    : "bg-darkblue text-gold",
                   navClasses,
                 )}
               >
@@ -88,5 +89,5 @@ export const SidebarNav: FC<SidebarNavType> = ({
         </div>
       </nav>
     </>
-  )
-}
+  );
+};

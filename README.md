@@ -26,6 +26,6 @@ This could have been a wonderful use case of open data ;)
 
 ## Other web sites related to x-mas markets Leipzig
 
-- [Leipzig leben - Weihnachtsmärkte 2023](https://www.leipzig-leben.de/weihnachtsmaerkte-leipzig-2023-alle-orte-termine/)
+- [Leipzig leben - Weihnachtsmärkte 2024](https://www.leipzig-leben.de/weihnachtsmaerkte-in-leipzig-2024-alle-orte-und-termine/)
 - [Overview of traders](https://www.leipzig.de/freizeit-kultur-und-tourismus/einkaufen-und-ausgehen/maerkte/leipziger-weihnachtsmarkt/haendler)
   with filter option in list or in 3D map (switch tab for that)

@@ -5,7 +5,7 @@ import { useRouter } from 'next/router'
 const siteUrl =
   process.env.URL ||
   (process.env.VERCEL_ENV === 'preview' && process.env.VERCEL_URL) ||
-  'http://localhost:3000'
+  'https://weihnachtsmaerkte.codeforleipzig.de'
 
 const faviconPath = '/favicon.ico'
 const faviconPNGPath = '/favicons/star.png'
@@ -38,7 +38,7 @@ export const Head: FC<Partial<HeadPropType>> = ({
 }) => {
   const { pathname } = useRouter()
   const longTitle = [pageTitle, siteTitle].join(' – ')
-  const formatedSocialImage = `${siteUrl}/social-image.jpg`
+  const formatedSocialImage = `${siteUrl}/socialimage.jpg`
 
   return (
     <NextHead>

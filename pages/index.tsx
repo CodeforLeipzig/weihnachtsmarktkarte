@@ -233,6 +233,11 @@ const MapSite: NextPage = (mapData: any) => {
       >
         {navView === "filter" && (
           <SidebarContentFilter
+            marketsData={marketsData}
+            setMarketId={setMarketId}
+            setMarketData={setMarketData}
+            setZoomToCenter={setZoomToCenter}
+            setMapZoom={setMapZoom}
             marketFilterInternational={marketFilterInternational}
             setMarketFilterInternational={setMarketFilterInternational}
             marketFilterAccessible={marketFilterAccessible}

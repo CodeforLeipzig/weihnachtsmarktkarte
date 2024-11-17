@@ -1,4 +1,4 @@
-import { FC } from "react";
+import { FC, useState } from "react";
 import classNames from "classnames";
 import ExpandablePanel from "@components/ExpandablePanel";
 import { SwitchWrapper } from "@components/SwitchWrapper";
@@ -8,6 +8,11 @@ import { SidebarBody } from "@components/Sidebar/SidebarBody";
 import { FullTextFilter, SearchCheckboxes } from "@components/SearchCheckbox";
 
 export interface SidebarContentFilterType {
+  marketsData: any;
+  setMarketId: (d: string | null | number) => void;
+  setMarketData: (d: any) => void;
+  setZoomToCenter: (d: any) => void;
+  setMapZoom: (d: any) => void;
   marketFilterInternational: boolean;
   setMarketFilterInternational: (enabled: boolean) => void;
   marketFilterAccessible: boolean;
@@ -27,6 +32,11 @@ export interface SidebarContentFilterType {
 }
 
 export const SidebarContentFilter: FC<SidebarContentFilterType> = ({
+  marketsData,
+  setMarketId,
+  setMarketData,
+  setZoomToCenter,
+  setMapZoom,
   marketFilterInternational,
   setMarketFilterInternational,
   marketFilterAccessible,
@@ -59,6 +69,20 @@ export const SidebarContentFilter: FC<SidebarContentFilterType> = ({
       searchInDistrict: true,
       searchInCity: true,
       searchInOrganizer: true,
+    });
+  }
+
+  function onMarketSelect(m: any) {
+    setMarketId(m.id);
+    setMarketData(m);
+    setZoomToCenter([m.lng, m.lat]);
+    setMapZoom(12);
+  }
+
+  function onMarketSearch(e: React.ChangeEvent<HTMLInputElement>) {
+    setMarketFilterFulltext({
+      ...marketFilterFulltext,
+      "filter": e.currentTarget.value,
     });
   }
 
@@ -136,11 +160,7 @@ export const SidebarContentFilter: FC<SidebarContentFilterType> = ({
                 style={{ background: "black" }}
                 value={(marketFilterFulltext && marketFilterFulltext.filter) ||
                   ""}
-                onChange={(event) =>
-                  setMarketFilterFulltext({
-                    ...marketFilterFulltext,
-                    "filter": event.currentTarget.value,
-                  })}
+                onInput={onMarketSearch}
               />
             </div>
             <div style={{ paddingBottom: "5px" }}>Suche in:</div>
@@ -148,6 +168,29 @@ export const SidebarContentFilter: FC<SidebarContentFilterType> = ({
               marketFilterFulltext={marketFilterFulltext}
               setMarketFilterFulltext={setMarketFilterFulltext}
             />
+          </ExpandablePanel>
+          <ExpandablePanel title={"Gefundene Märkte"} open={true}>
+            <ul>
+              {marketsData
+                .sort((a: any, b: any) =>
+                  a.shortname.localeCompare(b.shortname)
+                )
+                .filter((market: any) => !market.hideFeature && !market.inaktiv)
+                .map((market: any) => (
+                  <li key={market.id.toString()} className="px-4">
+                    <p
+                      className="pl-3 pr-8 py-2 hover:bg-gold hover:text-white text-sm  flex-1 cursor-pointer"
+                      title={market.shortname}
+                      onClick={() =>
+                        onMarketSelect(market)}
+                    >
+                      {" "}
+                      {market.shortname}
+                    </p>
+                    <hr className=" border-lightblue/70"></hr>
+                  </li>
+                ))}
+            </ul>
           </ExpandablePanel>
 
           <div className="mt-8"></div>

@@ -1,6 +1,6 @@
 import { FC } from 'react'
 import { Dialog } from '@headlessui/react'
-import { Cross } from '../Icons'
+import { Cross, UnderConstruction } from '../Icons'
 
 import { TsbLogo } from '@components/Logos/TsbLogo'
 import { OdisLogo } from '@components/Logos/OdisLogo'
@@ -10,6 +10,7 @@ export interface IntroModalType {
   setModalOpen: (date: boolean) => void
   setNavView: (date: 'info' | 'filter') => void
   setSidebarMenuOpen: (date: boolean) => void
+  underConstruction: boolean
 }
 
 export const IntroModal: FC<IntroModalType> = ({
@@ -17,6 +18,7 @@ export const IntroModal: FC<IntroModalType> = ({
   setModalOpen,
   setNavView,
   setSidebarMenuOpen,
+  underConstruction: boolean,
 }) => {
   function closeModal() {
     setModalOpen(false)
