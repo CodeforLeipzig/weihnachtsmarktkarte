@@ -12,7 +12,6 @@ import { SidebarWrapper } from "@components/Sidebar/SidebarWrapper";
 import { SidebarMarket } from "@components/Sidebar/SidebarMarket";
 import { SidebarContentInfo } from "@components/Sidebar/SidebarContentInfo";
 import { SidebarContentLayers } from "@components/Sidebar/SidebarContentLayers";
-import { SidebarContentFilter } from "@components/Sidebar/SidebarContentFilter";
 
 import { Filter, Info, Search } from "@components/Icons";
 import { SidebarNav } from "@components/Sidebar/SidebarNav";
@@ -29,6 +28,11 @@ import { filterMarkets } from "@lib/filterMarkets";
 import { AudioEntry } from "@components/MusicPlayer";
 
 import { InitialAudioContext } from "@lib/hooks/useAudio/InitialAudioContext";
+
+const SidebarContentFilter = dynamic(
+  () => import("@components/Sidebar/SidebarContentFilter"),
+  { ssr: false },
+);
 
 const MusicPlayer = dynamic(
   () => import("@components/MusicPlayer"),

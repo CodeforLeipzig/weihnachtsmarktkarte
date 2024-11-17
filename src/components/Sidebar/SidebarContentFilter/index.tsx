@@ -31,7 +31,7 @@ export interface SidebarContentFilterType {
   setMarketFilterFulltext: (data: FullTextFilter) => void;
 }
 
-export const SidebarContentFilter: FC<SidebarContentFilterType> = ({
+const SidebarContentFilter: FC<SidebarContentFilterType> = ({
   marketsData,
   setMarketId,
   setMarketData,
@@ -216,3 +216,5 @@ export const SidebarContentFilter: FC<SidebarContentFilterType> = ({
     </>
   );
 };
+
+export default SidebarContentFilter;
