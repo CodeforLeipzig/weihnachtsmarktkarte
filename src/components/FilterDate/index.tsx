@@ -10,7 +10,7 @@ export interface FilterDateType {
   setMarketFilterDate: (date: Date | undefined) => void;
 }
 
-export const FilterDate: FC<FilterDateType> = ({
+const FilterDate: FC<FilterDateType> = ({
   marketFilterDate,
   setMarketFilterDate,
 }) => {
@@ -75,16 +75,13 @@ export const FilterDate: FC<FilterDateType> = ({
     color: #BDA33B;
   }
 `;
-  const [defaultMonth, setDefaultMonth] = useState<Date>();
-  const [today, setToday] = useState<Date>();
   const fromMonth = new Date(2024, 10);
   const toDate = new Date(2025, 0, 7);
+  const now = new Date();
+  const today = now.getTime() > toDate.getTime() ? toDate : now;
+  const defaultMonth = new Date(today.getFullYear(), today.getMonth());
 
   useEffect(() => {
-    const today = new Date();
-    const maxOrToday = today.getTime() > toDate.getTime() ? toDate : today;
-    setToday(maxOrToday);
-    setDefaultMonth(new Date(maxOrToday.getFullYear(), maxOrToday.getMonth()));
   }, []);
 
   return (
@@ -111,3 +108,5 @@ export const FilterDate: FC<FilterDateType> = ({
     </>
   );
 };
+
+export default FilterDate;

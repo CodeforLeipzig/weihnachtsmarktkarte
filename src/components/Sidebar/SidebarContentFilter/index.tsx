@@ -1,11 +1,16 @@
 import { FC, useState } from "react";
+import dynamic from "next/dynamic";
 import classNames from "classnames";
 import ExpandablePanel from "@components/ExpandablePanel";
 import { SwitchWrapper } from "@components/SwitchWrapper";
-import { FilterDate } from "@components/FilterDate";
 import { SidebarHeader } from "@components/Sidebar/SidebarHeader";
 import { SidebarBody } from "@components/Sidebar/SidebarBody";
 import { FullTextFilter, SearchCheckboxes } from "@components/SearchCheckbox";
+
+const FilterDate = dynamic(
+  () => import("@components/FilterDate"),
+  { ssr: false },
+);
 
 export interface SidebarContentFilterType {
   marketsData: any;

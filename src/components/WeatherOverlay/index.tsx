@@ -1,25 +1,26 @@
 import {
-  Cross,
-  WindSpeedIcon,
-  PrecipitationIcon,
   ClearDayIcon,
-  RainyIcon,
-  CloudyIcon,
-  PartlyCloudyDayIcon,
-  WindyIcon,
-  ThunderstormIcon,
   ClearNightIcon,
-  PartlyCloudyNightIcon,
+  CloudyIcon,
+  Cross,
   FogyIcon,
-  SnowyIcon,
-  SleetyIcon,
   HailyIcon,
+  PartlyCloudyDayIcon,
+  PartlyCloudyNightIcon,
+  PrecipitationIcon,
+  RainyIcon,
+  SleetyIcon,
+  SnowyIcon,
   Thermometer,
-} from '@components/Icons'
-import classNames from 'classnames'
-import { FC, ReactNode, useEffect, useState } from 'react'
-import { format } from 'date-fns'
-import { de } from 'date-fns/locale'
+  ThunderstormIcon,
+  WindSpeedIcon,
+  WindyIcon,
+} from "@components/Icons";
+import classNames from "classnames";
+import { FC, ReactNode, useEffect, useState } from "react";
+import { format } from "date-fns";
+import { de } from "date-fns/locale";
+import { useHasMobileSize } from "@lib/hooks/useHasMobileSize";
 
 interface WeatherOptionPropType {
   value: ReactNode;
@@ -127,11 +128,11 @@ export const WeatherRow: FC<WeatherRowPropType> = ({
       )}
       {weatherRecords[hour] &&
         weatherRecords[hour].temperature !== undefined && (
-          <div className="my-auto text-xs sm:text-lg font-clanbold text-lightblue/90 ml-auto sm:mr-1 w-12 sm:w-14">
-            {/* @ts-ignore */}
-            {Math.round(weatherRecords[hour].temperature)} °C
-          </div>
-        )}
+        <div className="my-auto text-xs sm:text-lg font-clanbold text-lightblue/90 ml-auto sm:mr-1 w-12 sm:w-14">
+          {/* @ts-ignore */}
+          {Math.round(weatherRecords[hour].temperature)} °C
+        </div>
+      )}
     </div>
   );
 };
@@ -140,6 +141,7 @@ export const WeatherOverlay: FC<{
   marketFilterDate: Date | undefined;
   setSidebarMenuOpen: (date: boolean) => void;
 }> = ({ marketFilterDate, setSidebarMenuOpen }) => {
+  const isMobile = useHasMobileSize();
   const [isWeatherOpened, setIsWeatherOpened] = useState(false);
   //const elRef = useClickOutside<HTMLDivElement>(() => setIsWeatherOpened(false))
 
@@ -151,10 +153,12 @@ export const WeatherOverlay: FC<{
   >(null);
 
   function openWindows() {
-    setIsWeatherOpened(!isWeatherOpened);
-    if (!isWeatherOpened) {
-      setSidebarMenuOpen(true);
-    }
+    setIsWeatherOpened((current) => {
+      if (!current && isMobile) {
+        setSidebarMenuOpen(false);
+      }
+      return !current;
+    });
   }
 
   const today = new Date();
@@ -273,8 +277,8 @@ export const WeatherOverlay: FC<{
           )}
         >
           <span className="inline-block">
-              <Thermometer></Thermometer>
-            </span>
+            <Thermometer></Thermometer>
+          </span>
         </button>
       )}
       {isWeatherOpened && weatherRecords && (
@@ -340,31 +344,31 @@ export const WeatherOverlay: FC<{
             weatherRecords[17] &&
             weatherRecords[21] &&
             forecastCheck && (
-              <div>
-                <div className="hidden sm:block">
-                  <WeatherRow
-                    weatherRecords={weatherRecords}
-                    hour={13}
-                    ICON_MAPPING={ICON_MAPPING}
-                    hourString={'13 Uhr'}
-                  />
-                  <hr className="border-lightblue/80 mt-2 mb-2" />
-                </div>
+            <div>
+              <div className="hidden sm:block">
                 <WeatherRow
                   weatherRecords={weatherRecords}
-                  hour={17}
+                  hour={13}
                   ICON_MAPPING={ICON_MAPPING}
-                  hourString={'17 Uhr'}
+                  hourString={"13 Uhr"}
                 />
                 <hr className="border-lightblue/80 mt-2 mb-2" />
-                <WeatherRow
-                  weatherRecords={weatherRecords}
-                  hour={21}
-                  ICON_MAPPING={ICON_MAPPING}
-                  hourString={'21 Uhr'}
-                />
               </div>
-            )}
+              <WeatherRow
+                weatherRecords={weatherRecords}
+                hour={17}
+                ICON_MAPPING={ICON_MAPPING}
+                hourString={"17 Uhr"}
+              />
+              <hr className="border-lightblue/80 mt-2 mb-2" />
+              <WeatherRow
+                weatherRecords={weatherRecords}
+                hour={21}
+                ICON_MAPPING={ICON_MAPPING}
+                hourString={"21 Uhr"}
+              />
+            </div>
+          )}
           <hr className="border-lightblue/80 mt-2 hidden sm:block" />
           {weatherStation && (
             <p className="text-xs text-lightblue/80 mt-3 sm:mt-6">
@@ -374,7 +378,7 @@ export const WeatherOverlay: FC<{
           <button
             className="text-lightblue/80 top-0 right-0 mr-6 mt-6 absolute cursor-pointer z-20 border-lightblue border-2 hover:bg-gold hover:border-gold rounded-full p-0"
             onClick={() => setIsWeatherOpened(false)}
-			title="close"
+            title="close"
           >
             <Cross />
           </button>
