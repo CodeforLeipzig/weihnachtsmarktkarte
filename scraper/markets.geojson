@@ -3825,8 +3825,8 @@
     "email": null,
     "w3": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-7",
     "bemerkungen": null,
-    "lat": 51.347792890042626,
-    "lng": 12.403439964673026,
+    "lat": 51.34836578601309,
+    "lng": 12.402556406731406,
     "rss_titel": "Weihnachtsmarkt Mala",
     "immer-kostenlos": 1,
     "Mo": 0,
@@ -3854,8 +3854,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      12.403439964673026,
-      51.347792890042626
+      12.402556406731406,
+      51.34836578601309
     ]
   }
 },{
