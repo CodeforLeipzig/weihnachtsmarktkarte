@@ -19,8 +19,42 @@
   {
     "type": "feature",
     "properties": {
+      "name": "Landgasthof Walradus Hof",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-23-20241205",
+      "street": "Emil-Teich-Str. 4",
+      "zipcode": "04249",
+      "city": "Leipzig,"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.30584502441339,
+        51.279671
+      ]
+    }
+  },
+  {
+    "type": "feature",
+    "properties": {
+      "name": "Rahn Education",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-3-20241129",
+      "street": "Salomonstr. 10",
+      "zipcode": "04103",
+      "city": "Leipzig"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.389163696591197,
+        51.339624236200166
+      ]
+    }
+  },
+  {
+    "type": "feature",
+    "properties": {
       "name": "TV-Club",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsflohmarkt",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-16",
       "street": "Theresienstr. 2",
       "zipcode": "04105",
       "city": "Leipzig"
@@ -53,6 +87,23 @@
   {
     "type": "feature",
     "properties": {
+      "name": "Moritzbastei",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/dark-xmas-markt-1",
+      "street": "Kurt-Masur-Platz 1",
+      "zipcode": "04109",
+      "city": "Leipzig"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.379120977358145,
+        51.33732765
+      ]
+    }
+  },
+  {
+    "type": "feature",
+    "properties": {
       "name": "Marktplatz Innenstadt",
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/eroeffnung-weihnachtsmarkt-1",
       "street": "Markt",
@@ -70,9 +121,26 @@
   {
     "type": "feature",
     "properties": {
+      "name": "Kulturhaus Eutritzsch",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-24",
+      "street": "Thaerstraße 39",
+      "zipcode": "04129",
+      "city": "Leipzig"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.3913362,
+        51.3711927
+      ]
+    }
+  },
+  {
+    "type": "feature",
+    "properties": {
       "name": "Kulturhof Gohlis",
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-im-kulturhof-gohlis-2",
-      "street": "Eisenacher Straße 72",
+      "street": "Eisenacher Str. 72",
       "zipcode": "04155",
       "city": "Leipzig"
     },
@@ -106,7 +174,7 @@
     "properties": {
       "name": "Gohliser Schlösschen",
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20241127",
-      "street": "Menckestr. 23",
+      "street": "Menckestraße 23",
       "zipcode": "04155",
       "city": "Leipzig"
     },
@@ -155,8 +223,8 @@
   {
     "type": "feature",
     "properties": {
-      "name": "Hotel Philippus",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-1-20241207",
+      "name": "Philippus-Biergarten",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/gluehgarten-20241130",
       "street": "Aurelienstraße 54",
       "zipcode": "04177",
       "city": "Leipzig"
@@ -173,7 +241,7 @@
     "type": "feature",
     "properties": {
       "name": "Zum Wilden Heinz",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lametta-for-heinz-kiezweihnachtsmarkt-20241207",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lametta-for-heinz-kiezweihnachtsmarkt",
       "street": "Hähnelstr. 22",
       "zipcode": "04177",
       "city": "Leipzig"
@@ -189,26 +257,9 @@
   {
     "type": "feature",
     "properties": {
-      "name": "Mädler-Villa",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-4-20241215",
-      "street": "Hans-Driesch-Straße 2",
-      "zipcode": "04179",
-      "city": "Leipzig"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        12.323481086186211,
-        51.35023355
-      ]
-    }
-  },
-  {
-    "type": "feature",
-    "properties": {
       "name": "Robert-Koch-Park",
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-2",
-      "street": "Nikolai-Rumjanzew-Straße 100 (Zufahrt Schönauer Straße)",
+      "street": "Nikolai-Rumjanzew-Straße 100",
       "zipcode": "04207",
       "city": "Leipzig"
     },
@@ -224,7 +275,7 @@
     "type": "feature",
     "properties": {
       "name": "Felsenkeller",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241128",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3",
       "street": "Karl-Heine-Straße 32",
       "zipcode": "04229",
       "city": "Leipzig"
@@ -258,8 +309,8 @@
     "type": "feature",
     "properties": {
       "name": "Werk 2",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachten-am-kreuz-1-20241206",
-      "street": "Kochstr. 132",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kinder-ins-werk-mitmachweihnachtsmarkt-1",
+      "street": "Kochstraße 132",
       "zipcode": "04277",
       "city": "Leipzig"
     },
@@ -276,7 +327,7 @@
     "properties": {
       "name": "Dölitzer Wassermühle",
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt",
-      "street": "Vollhardtstr. 16",
+      "street": "Vollhardtstraße 16",
       "zipcode": "04279",
       "city": "Leipzig"
     },
@@ -308,6 +359,23 @@
   {
     "type": "feature",
     "properties": {
+      "name": "Zaubergarten Stötteritz",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-7",
+      "street": "Holzhäuser Str. 130",
+      "zipcode": "04299",
+      "city": "Leipzig"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.431421982877197,
+        51.31833510659044
+      ]
+    }
+  },
+  {
+    "type": "feature",
+    "properties": {
       "name": "Die Scheune",
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/stoetteritzer-adventsmarkt-2",
       "street": "Oberdorfstraße 15",
@@ -326,7 +394,7 @@
     "type": "feature",
     "properties": {
       "name": "Neustädter Markt",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241127",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5-20241126",
       "street": "Neustädter Markt",
       "zipcode": "04315",
       "city": "Leipzig"
@@ -394,7 +462,7 @@
     "type": "feature",
     "properties": {
       "name": "Paunsdorf Center",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2-20241121",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2",
       "street": "Paunsdorfer Allee 1",
       "zipcode": "04329",
       "city": "Leipzig"
@@ -410,15 +478,35 @@
   {
     "type": "feature",
     "properties": {
+      "name": "Imkerei Beer",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-8",
+      "street": "Bienenweg 14",
+      "zipcode": "04356",
+      "city": "Leipzig"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.451029922691248,
+        51.419213301086245
+      ]
+    }
+  },
+  {
+    "type": "feature",
+    "properties": {
       "name": "Kees'scher Park",
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-von-brot-kees-20241201",
-      "street": "Lauersche Str. ",
+      "street": "Lauersche Str.",
       "zipcode": "04416",
       "city": "Markkleeberg,"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": null
+      "coordinates": [
+        12.35611786931463,
+        51.27981792051426
+      ]
     }
   },
   {
@@ -458,6 +546,23 @@
   {
     "type": "feature",
     "properties": {
+      "name": "Seebühne am Biedermeierstrand",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/viktorianischer-weihnachtsmarkt",
+      "street": "Zum Biedermeierstrand",
+      "zipcode": "04435",
+      "city": "Schkeuditz"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.323037893857437,
+        51.43051905
+      ]
+    }
+  },
+  {
+    "type": "feature",
+    "properties": {
       "name": "Rittergutsschloss Taucha",
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/mittelalterlicher-weihnachtsmarkt-20241130",
       "street": "Haugwitzwinkel 1",
@@ -475,25 +580,16 @@
   {
     "type": "feature",
     "properties": {
-      "name": "",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3-20241129",
-      "street": ""
+      "name": "Zwenkauer See",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/zwenkauer-hafenweihnacht",
+      "street": "An der Mole 1"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": null
-    }
-  },
-  {
-    "type": "feature",
-    "properties": {
-      "name": "Park Miltitz",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-8",
-      "street": "04205 Leipzig"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": null
+      "coordinates": [
+        12.334048942485769,
+        51.23417845
+      ]
     }
   },
   {
@@ -501,55 +597,37 @@
     "properties": {
       "name": "Kleinzschocher",
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/advent-in-den-hoefen-kleinzschochers",
-      "street": "04229 Leipzig, Stadt"
+      "street": "Baumannstr. 16, Eythraer Str. 8, Windorfer Str. 44, 45 a und 55, Gießerstr. 75, Creuziger Str. 2, Luckaer Str. 16, Panitzstr. 2, Außengelände der Turnhalle Dieskaustraße 79, Pörstener Str. 9, Klarastr. 35"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": null
+      "coordinates": [
+        12.327702615219494,
+        51.3151051
+      ]
     }
   },
   {
     "type": "feature",
     "properties": {
-      "name": "Zuckelhausener Teich",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-9",
-      "street": "04288 Leipzig"
+      "name": "Park Miltitz",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-8",
+      "street": "Geschwister-Scholl-Str. 8a"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": null
+      "coordinates": [
+        12.256178495191364,
+        51.3218316
+      ]
     }
   },
   {
     "type": "feature",
     "properties": {
-      "name": "Rathausplatz Markkleeberg",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241213",
-      "street": "04416 Markkleeberg"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": null
-    }
-  },
-  {
-    "type": "feature",
-    "properties": {
-      "name": "Marktplatz Markranstädt",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-15",
-      "street": "04420 Markranstädt"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": null
-    }
-  },
-  {
-    "type": "feature",
-    "properties": {
-      "name": "Marktplatz Taucha",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-20241129",
-      "street": "04425 Taucha"
+      "name": "verschiedene Veranstaltungsorte",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/heute-kommt-der-weihnachtsmann-1",
+      "street": "Leipzig"
     },
     "geometry": {
       "type": "Point",
@@ -561,11 +639,89 @@
     "properties": {
       "name": "Leipziger Innenstadt",
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1",
-      "street": "Leipzig"
+      "street": "Markt"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": null
+      "coordinates": [
+        12.374693129488247,
+        51.340578550000004
+      ]
+    }
+  },
+  {
+    "type": "feature",
+    "properties": {
+      "name": "Marktplatz Liebertwolkwitz",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/hof-advent-20241214",
+      "street": "Markt 11"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.464161707847325,
+        51.2823255
+      ]
+    }
+  },
+  {
+    "type": "feature",
+    "properties": {
+      "name": "Marktplatz Markranstädt",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-15",
+      "street": "Marktplatz 1"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.220582363130251,
+        51.3019336
+      ]
+    }
+  },
+  {
+    "type": "feature",
+    "properties": {
+      "name": "Marktplatz Taucha",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-20241129",
+      "street": "Marktplatz Taucha"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.500227480821401,
+        51.38031935
+      ]
+    }
+  },
+  {
+    "type": "feature",
+    "properties": {
+      "name": "Rathausplatz Markkleeberg",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241213",
+      "street": "Rathausplatz"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.3769892,
+        51.2803595
+      ]
+    }
+  },
+  {
+    "type": "feature",
+    "properties": {
+      "name": "Zuckelhausener Teich",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-9",
+      "street": "Zuckelhausener Teich"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.452355509581167,
+        51.30342633572286
+      ]
     }
   }
 ]

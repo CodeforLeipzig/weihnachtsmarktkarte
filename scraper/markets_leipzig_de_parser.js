@@ -104,6 +104,32 @@ const scrape = async (content) => {
   });
 };
 
+const streetMappings = {
+  "Eisenacher Straße 72": "Eisenacher Str. 72",
+  "Menckestr. 23": "Menckestraße 23",
+  "Aurelienstr. 54": "Aurelienstraße 54",
+  "Nikolai-Rumjanzew-Straße 100 (Zufahrt Schönauer Straße)":
+    "Nikolai-Rumjanzew-Straße 100",
+  "Kochstr. 132": "Kochstraße 132",
+  "Vollhardtstr. 16": "Vollhardtstraße 16",
+  "Park Miltitz": "Geschwister-Scholl-Str. 8a",
+  "Kleinzschocher":
+    "Baumannstr. 16, Eythraer Str. 8, Windorfer Str. 44, 45 a und 55, Gießerstr. 75, Creuziger Str. 2, Luckaer Str. 16, Panitzstr. 2, Außengelände der Turnhalle Dieskaustraße 79, Pörstener Str. 9, Klarastr. 35",
+  "Zuckelhausener Teich": "Zuckelhausener Teich",
+  "Rathausplatz Markkleeberg": "Rathausplatz",
+  "Marktplatz Markranstädt": "Marktplatz 1",
+  "Marktplatz Taucha": "Marktplatz Taucha",
+  "Leipziger Innenstadt": "Markt",
+  "Lauersche Str. ": "Lauersche Str.",
+  "Zwenkauer See": "An der Mole 1",
+  "Marktplatz Liebertwolkwitz": "Markt 11",
+  "Thaerstr. 39": "Thaerstraße 39",
+};
+
+const resolveStreet = (street, name) => {
+  return streetMappings[street] || streetMappings[name] || street;
+};
+
 const getUniqueLocations = () => {
   const config = require("./markets_leipzig_de.json").markets;
   const knownLocations = require("./markets_wmf.json");
@@ -122,32 +148,18 @@ const getUniqueLocations = () => {
       return acc;
     }, {});
 
-  const streetMappings = {
-    "Eisenacher Straße 72": "Eisenacher Str. 72",
-    "Menckestr. 23": "Menckestraße 23",
-    "Aurelienstr. 54": "Aurelienstraße 54",
-    "Nikolai-Rumjanzew-Straße 100 (Zufahrt Schönauer Straße)":
-      "Nikolai-Rumjanzew-Straße 100",
-    "Kochstr. 132": "Kochstraße 132",
-    "Vollhardtstr. 16": "Vollhardtstraße 16",
-  };
-
-  const resolveStreet = (street) => {
-    return streetMappings[street] || street;
-  };
-
   const keyFun = (l) =>
     l.details.location.city +
     "__" +
     l.details.location.zipcode +
     "__" +
-    resolveStreet(l.details.location.street);
+    resolveStreet(l.details.location.street, l.details.location.name);
 
   const resolveKnownLocationCoords = (o) => {
     const found = knownLocations.filter(
       (l) =>
         /*l.w3 === o.url,*/ /*||*/ l.strasse ===
-          resolveStreet(o.details?.location.street),
+          resolveStreet(o.details?.location?.street, o.details?.location?.name),
     );
     const loc = found.length > 0 ? found[0] : null;
     return loc && [loc.lng, loc.lat];
@@ -158,9 +170,12 @@ const getUniqueLocations = () => {
     properties: {
       name: l.details.location.name,
       url: l.url,
-      street: l.details.location.street,
-      zipcode: l.details.location.zipcode,
-      city: l.details.location.city,
+      street: resolveStreet(
+        l.details?.location.street,
+        l.details.location.name,
+      ),
+      zipcode: l.details.location.zipcode || l.details.street?.split(" ")[0],
+      city: l.details.location.city || l.details.street?.split(" ")[1],
     },
     geometry: {
       type: "Point",
@@ -185,9 +200,15 @@ const updateDescription = () => {
   const existing = require("./markets_wmf.json");
   const leipzigde = require("./markets_leipzig_de.json").markets;
   for (market of leipzigde) {
-    const found = existing.filter((exist) => exist.w3 === market.url);
+    const found = existing.filter((exist) =>
+      exist.strasse == resolveStreet(
+        market.details?.location.street,
+        market.details.location.name,
+      )
+    );
     if (found.length > 0) {
       for (elem of found) {
+        elem.w3 = market.url;
         elem.rss_beschreibung = market.details?.description;
       }
     }
@@ -218,14 +239,15 @@ const updateFromToDates = () => {
   for (market of leipzigde) {
     const marketDate = market.details?.date;
     const found = existing.filter((exist) =>
-      exist.strasse === market.details.location.street &&
-      exist.plz_ort ===
-        `${market.details.location.zipcode} ${market.details.location.city}`
+      exist.strasse == resolveStreet(
+        market.details?.location.street,
+        market.details.location.name,
+      )
     );
     if (found.length > 0) {
       for (elem of found) {
         if (
-          !elem.bis ||
+          !elem.bis || (elem.bis.indexOf(".23") > 0) ||
           (elem.bis.indexOf(".11.") > 0 && marketDate.indexOf(".12.") > 0) ||
           (elem.bis.indexOf(".11.") > 0 && marketDate.indexOf(".11.") > 0 &&
             elem.bis.localeCompare(marketDate) < 0) ||
@@ -235,7 +257,7 @@ const updateFromToDates = () => {
           elem.bis = marketDate.replace(".2024", ".24");
         }
         if (
-          !elem.von ||
+          !elem.von || (elem.von.indexOf(".23") > 0) ||
           (elem.von.indexOf(".12.") > 0 && marketDate.indexOf(".11.") > 0) ||
           (elem.von.indexOf(".11.") > 0 && marketDate.indexOf(".11.") > 0 &&
             elem.von.localeCompare(marketDate) > 0) ||
