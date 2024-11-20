@@ -233,11 +233,31 @@ const findMissingDescriptions = () => {
   }
 };
 
+const parseDate = (str) => {
+  const segments = str.split(".");
+  const year = segments[2];
+  return new Date(
+    (year.length == 2) ? `20${year}` : year,
+    Number(segments[1]) - 1,
+    segments[0],
+  );
+};
+const formatDate = (dt) => {
+  const dayStr = ("0" + dt.getDate()).slice(-2);
+  const monthStr = ("0" + (dt.getMonth() + 1)).slice(-2);
+  const yearStr = ("" + dt.getYear()).slice(-2);
+  return `${dayStr}.${monthStr}.${yearStr}`;
+};
+
 const updateFromToDates = () => {
   const existing = require("./markets_wmf.json");
   const leipzigde = require("./markets_leipzig_de.json").markets;
   for (market of leipzigde) {
-    const marketDate = market.details?.date;
+    const splitted = market.details?.date?.split("-");
+    const marketFromDate = (splitted && splitted.length > 0) &&
+      parseDate(splitted[0].trim());
+    const marketToDate = (splitted && splitted.length > 1) &&
+      parseDate(splitted[1].trim());
     const found = existing.filter((exist) =>
       exist.strasse == resolveStreet(
         market.details?.location.street,
@@ -246,25 +266,13 @@ const updateFromToDates = () => {
     );
     if (found.length > 0) {
       for (elem of found) {
-        if (
-          !elem.bis || (elem.bis.indexOf(".23") > 0) ||
-          (elem.bis.indexOf(".11.") > 0 && marketDate.indexOf(".12.") > 0) ||
-          (elem.bis.indexOf(".11.") > 0 && marketDate.indexOf(".11.") > 0 &&
-            elem.bis.localeCompare(marketDate) < 0) ||
-          (elem.bis.indexOf(".12.") > 0 && marketDate.indexOf(".12.") > 0 &&
-            elem.bis.localeCompare(marketDate) < 0)
-        ) {
-          elem.bis = marketDate.replace(".2024", ".24");
+        const bis = elem.bis && parseDate(elem.bis);
+        if (!bis || bis < new Date(2024, 10, 1) || marketToDate > bis) {
+          elem.bis = formatDate(marketToDate);
         }
-        if (
-          !elem.von || (elem.von.indexOf(".23") > 0) ||
-          (elem.von.indexOf(".12.") > 0 && marketDate.indexOf(".11.") > 0) ||
-          (elem.von.indexOf(".11.") > 0 && marketDate.indexOf(".11.") > 0 &&
-            elem.von.localeCompare(marketDate) > 0) ||
-          (elem.von.indexOf(".12.") > 0 && marketDate.indexOf(".12.") > 0 &&
-            elem.von.localeCompare(marketDate) > 0)
-        ) {
-          elem.von = marketDate.replace(".2024", ".24");
+        const von = elem.von && parseDate(elem.von);
+        if (!von || von < new Date(2024, 10, 1) || marketFromDate < von) {
+          elem.von = formatDate(marketFromDate);
         }
       }
     }
@@ -276,11 +284,131 @@ const updateFromToDates = () => {
   );
 };
 
-getHtml(
+const updateWeekDays = () => {
+  const existing = require("./markets_wmf.json");
+  const leipzigde = require("./markets_leipzig_de.json").markets;
+  const weekDayNames = ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"];
+  const minDate = (dates) =>
+    dates && dates.length > 0 &&
+    dates.reduce((prev, curr) => prev.localeCompare(curr) > 0 ? curr : prev);
+  const maxDate = (dates) =>
+    (dates && dates.length > 0)
+      ? dates.reduce((prev, curr) => prev.localeCompare(curr) < 0 ? curr : prev)
+      : "23:59";
+  const mostFreqDates = (dates) => {
+    const map = dates.reduce(
+      (acc, e) => {
+        acc[e] = (acc[e] || 0) + 1;
+        return acc;
+      },
+      {},
+    );
+    const keys = Object.keys(map);
+    const maxOccurKey = keys && keys.length > 0 &&
+      keys.reduce((prev, curr) => map[prev] < map[curr] ? curr : prev);
+    const maxOccur = map[maxOccurKey];
+    console.log(`${keys}: ${maxOccur} - ${map}`);
+    return maxOccur && keys.filter((key) => map[key] === maxOccur);
+  };
+  const allDatesBetween = (startDateStr, endDateStr) => {
+    const dates = [];
+    const dateMove = parseDate(startDateStr);
+    const endDate = parseDate(endDateStr);
+    while (dateMove <= endDate) {
+      var strDate = formatDate(dateMove);
+      dates.push(strDate);
+      dateMove.setDate(dateMove.getDate() + 1);
+    }
+    return dates;
+  };
+  for (market of existing) {
+    const days = {};
+    const weekdaysList = {};
+    const weekdays = {};
+    const found = leipzigde.filter((exist) =>
+      market.strasse == resolveStreet(
+        exist.details?.location.street,
+        exist.details.location.name,
+      )
+    );
+    if (found.length > 0) {
+      for (elem of found) {
+        const marketDateRaw = elem.details?.date;
+        const date = parseDate(marketDateRaw);
+        const marketDate = formatDate(date);
+        const day = weekDayNames[date.getDay()];
+        const parts = elem.details?.time?.split(" - ");
+        days[marketDate] = {
+          "start": parts.length > 0 && parts[0],
+          "end": parts.length > 1 && parts[1],
+        };
+        const weekday = weekdaysList[day];
+        if (weekday) {
+          weekday.push(marketDate);
+        } else {
+          weekdaysList[day] = [marketDate];
+        }
+      }
+      const minStart = minDate(mostFreqDates(
+        Object.keys(days).map((day) => days[day].start).filter((day) => !!day),
+      ));
+      const maxEnd = maxDate(mostFreqDates(
+        Object.keys(days).map((day) => days[day].end).filter((day) => !!day),
+      ));
+      for (weekDayName of weekDayNames) {
+        const data = weekdaysList[weekDayName];
+        const reduced = data && {
+          start: minDate(
+            data.map((date) => days[date].start).filter((day) => !!day),
+          ),
+          end: maxDate(
+            data.map((date) => days[date].end).filter((day) => !!day),
+          ),
+        };
+        market[weekDayName] = (reduced && reduced.start)
+          ? `${reduced.start}-${reduced.end || "23:59"}`
+          : 0;
+      }
+      const fromToStr = (min, max) => `${min}-${max}`;
+      if (minStart) {
+        const globalOpenTime = fromToStr(minStart, maxEnd);
+        market["oeffnungszeiten"] = globalOpenTime;
+        const allDates = allDatesBetween(market.von, market.bis);
+        const closed = [];
+        const hours = [];
+        for (date of allDates) {
+          if (!days[date]) {
+            closed.push(date);
+          } else {
+            const dayData = days[date];
+            const dayOpenStr = fromToStr(dayData.start, dayData.end || "23:59");
+            if (dayOpenStr != globalOpenTime) {
+              hours.push(`${date}=${dayOpenStr}`);
+            }
+          }
+        }
+        market["closed-exc"] = closed.length > 0 ? closed.join(",") : 0;
+        market["hours-exc"] = hours.length > 0 ? hours.join(",") : 0;
+      }
+
+      // "closed-exc": "04.11.24,11.11.24,18.11.24,25.11.24,02.12.24,09.12.24,16.12.24,23.12.24,30.12.24,06.01.25,13.01.25",
+      // "closed-exc-readable": "montags",
+      // "hours-exc": "01.12.24=11:00-18:00"
+      // "hours-exc-readable": "sonntags nur bis 19 Uhr",
+    }
+  }
+  fs.writeFileSync(
+    "./markets_wmf.json",
+    JSON.stringify(existing, null, 2),
+    "utf-8",
+  );
+};
+
+/*getHtml(
   "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/weihnachten/weihnachtsmaerkte/",
-).then((content) => scrape(content));
+).then((content) => scrape(content));*/
 getUniqueLocations();
 updateDescription();
 updateFromToDates();
-
+updateWeekDays();
 findMissingDescriptions();
