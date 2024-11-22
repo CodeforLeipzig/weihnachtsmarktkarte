@@ -265,7 +265,8 @@ const registry = {
   MarketsWmf: () => {
     parseJson("./markets_wmf.json").then((data_unfiltered) => {
       const data = data_unfiltered.filter((entry) =>
-        !(entry.von.indexOf(".22") > 0 || entry.von.indexOf(".23") > 0)
+        !(entry.von.indexOf(".2022") > 0 || entry.von.indexOf(".22") > 0 ||
+          entry.von.indexOf(".2023") > 0 || entry.von.indexOf(".23") > 0)
       );
       const csvContent = jsonToCsv(data);
       fs.writeFile("markets.csv", csvContent, (err) => {
