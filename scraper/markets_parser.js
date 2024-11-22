@@ -263,7 +263,10 @@ const readToiletsInner = () => {
 const registry = {
   LeipzigLeben: () => parseLeipzigLeben(),
   MarketsWmf: () => {
-    parseJson("./markets_wmf.json").then((data) => {
+    parseJson("./markets_wmf.json").then((data_unfiltered) => {
+      const data = data_unfiltered.filter((entry) =>
+        !(entry.von.indexOf(".22") > 0 || entry.von.indexOf(".23") > 0)
+      );
       const csvContent = jsonToCsv(data);
       fs.writeFile("markets.csv", csvContent, (err) => {
         if (err) throw err;
