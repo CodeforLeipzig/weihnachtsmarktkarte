@@ -228,7 +228,7 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
           </p>
           <p className="text-sm">{marketData.train}</p>
           <p className="mt-2">
-            <a className="text-sm underline" target="_blank" href={getDepartureQueryUrl()}>Fahrplanauskunft</a>
+            <div className="text-sm underline cursor-pointer" onClick={() => window.open(getDepartureQueryUrl(), '_blank')}>Fahrplanauskunft</div>
           </p>
         </MarketInfo>
 
