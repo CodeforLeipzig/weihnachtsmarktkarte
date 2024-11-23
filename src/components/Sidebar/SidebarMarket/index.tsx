@@ -46,6 +46,12 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
     )
   }
 
+  const now = new Date();
+  const departureDate = `${now.getDate()}.${now.getMonth() + 1}.${now.getFullYear()}`;
+  const departureTime = `${now.getHours()}:${now.getMinutes()}`;
+  const journeyTarget = `${marketData.strasse}, ${marketData.plz_ort}`
+  const departureQueryUrl = encodeURI(`https://www.insa.de/fahrplanauskunft/insa-fahrplanauskunft?scrollTo=webapp&start=1&P=TP&journeyProducts=1023&Z=${journeyTarget}&time=${departureTime}&date=${departureDate}&timeSel=depart`);
+
   return (
     <>
       <SidebarHeader text={marketData.name} fontSize="text-lg" />
@@ -163,6 +169,9 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
             {marketData.strasse}, {marketData.plz_ort}
           </p>
           <p className="text-sm">{marketData.train}</p>
+          <p className="mt-2">
+            <a className="text-sm underline" target="_blank" href={departureQueryUrl}>Fahrplanauskunft</a>
+          </p>
         </MarketInfo>
 
         {marketData.bemerkungen !== '' && (
