@@ -17,10 +17,11 @@ import {
   WindyIcon,
 } from "@components/Icons";
 import classNames from "classnames";
-import { FC, ReactNode, useEffect, useState } from "react";
+import { FC, ReactNode, useContext, useEffect, useState } from "react";
 import { format } from "date-fns";
 import { de } from "date-fns/locale";
 import { useHasMobileSize } from "@lib/hooks/useHasMobileSize";
+import { SidebarContext, SidebarState, SidebarType } from "@components/Sidebar/SidebarNav/SidebarContext";
 
 interface WeatherOptionPropType {
   value: ReactNode;
@@ -42,18 +43,18 @@ interface WeatherType {
   cloud_cover: number | null | undefined;
   pressure_msl: number | null | undefined;
   icon:
-    | "clear-day"
-    | "rain"
-    | "partly-cloudy-day"
-    | "thunderstorm"
-    | "snow"
-    | "hail"
-    | "clear-night"
-    | "partly-cloudy-night"
-    | "cloudy"
-    | "sleet"
-    | "fog"
-    | "wind";
+  | "clear-day"
+  | "rain"
+  | "partly-cloudy-day"
+  | "thunderstorm"
+  | "snow"
+  | "hail"
+  | "clear-night"
+  | "partly-cloudy-night"
+  | "cloudy"
+  | "sleet"
+  | "fog"
+  | "wind";
 }
 
 interface SourceType {
@@ -107,19 +108,19 @@ export const WeatherRow: FC<WeatherRowPropType> = ({
       <div className="border-l border-lightblue/90 pl-3">
         {weatherRecords[hour] &&
           typeof weatherRecords[hour].precipitation !== "undefined" && (
-          <WeatherOption
-            icon={<PrecipitationIcon />}
-            value={`${weatherRecords[hour].precipitation} mm/h`}
-          />
-        )}
+            <WeatherOption
+              icon={<PrecipitationIcon />}
+              value={`${weatherRecords[hour].precipitation} mm/h`}
+            />
+          )}
         {weatherRecords[hour] &&
           typeof weatherRecords[hour].wind_speed !== "undefined" && (
-          <WeatherOption
-            icon={<WindSpeedIcon />}
-            //@ts-ignore
-            value={`${Math.round(weatherRecords[hour].wind_speed)} km/h`}
-          />
-        )}
+            <WeatherOption
+              icon={<WindSpeedIcon />}
+              //@ts-ignore
+              value={`${Math.round(weatherRecords[hour].wind_speed)} km/h`}
+            />
+          )}
       </div>
       {weatherRecords[hour] && (
         <div className="my-auto">
@@ -128,22 +129,20 @@ export const WeatherRow: FC<WeatherRowPropType> = ({
       )}
       {weatherRecords[hour] &&
         weatherRecords[hour].temperature !== undefined && (
-        <div className="my-auto text-xs sm:text-lg font-clanbold text-lightblue/90 ml-auto sm:mr-1 w-12 sm:w-14">
-          {/* @ts-ignore */}
-          {Math.round(weatherRecords[hour].temperature)} °C
-        </div>
-      )}
+          <div className="my-auto text-xs sm:text-lg font-clanbold text-lightblue/90 ml-auto sm:mr-1 w-12 sm:w-14">
+            {/* @ts-ignore */}
+            {Math.round(weatherRecords[hour].temperature)} °C
+          </div>
+        )}
     </div>
   );
 };
 
 export const WeatherOverlay: FC<{
   marketFilterDate: Date | undefined;
-  setSidebarMenuOpen: (date: boolean) => void;
-}> = ({ marketFilterDate, setSidebarMenuOpen }) => {
+}> = ({ marketFilterDate }) => {
+  const sidebarState: SidebarState | null = useContext(SidebarContext);
   const isMobile = useHasMobileSize();
-  const [isWeatherOpened, setIsWeatherOpened] = useState(false);
-  //const elRef = useClickOutside<HTMLDivElement>(() => setIsWeatherOpened(false))
 
   const [weatherRecords, setWeatherRecords] = useState<WeatherType[] | null>(
     null,
@@ -153,11 +152,15 @@ export const WeatherOverlay: FC<{
   >(null);
 
   function openWindows() {
-    setIsWeatherOpened((current) => {
-      if (!current && isMobile) {
-        setSidebarMenuOpen(false);
+    sidebarState?.setRightSidebarOpen(curr => {
+      if (curr == SidebarType.WEATHER) {
+        return SidebarType.NONE;
+      } else {
+        if (isMobile) {
+          sidebarState?.setSidebarMenuOpen(false);
+        }
+        return SidebarType.WEATHER;
       }
-      return !current;
     });
   }
 
@@ -184,10 +187,6 @@ export const WeatherOverlay: FC<{
     forecastCheck = true;
   }
 
-  const date = `${current.getDate()}.${
-    current.getMonth() + 1
-  }.${current.getFullYear()}`;
-
   const monthWithLeadingZero = (current.getMonth() + 1)
     .toString()
     .padStart(2, "0");
@@ -200,7 +199,7 @@ export const WeatherOverlay: FC<{
   const dayCheck = (): boolean => {
     return (
       new Date(current).setHours(0, 0, 0, 0) ===
-        new Date(today).setHours(0, 0, 0, 0)
+      new Date(today).setHours(0, 0, 0, 0)
     );
   };
   const isSameDay = dayCheck();
@@ -265,23 +264,23 @@ export const WeatherOverlay: FC<{
       {weatherRecords &&
         weatherRecords[hour] &&
         weatherRecords[hour].temperature && (
-        <button
-          onClick={() => openWindows()}
-          aria-label="Wettervorhersage"
-          className={classNames(
-            "rounded-full w-10 h-10 mt-16",
-            "fixed right-4 text-center py-2 z-10",
-            "bg-darkblue",
-            isWeatherOpened && "bg-gold text-darkblue",
-            !isWeatherOpened && "text-gold hover:bg-gold hover:text-darkblue",
-          )}
-        >
-          <span className="inline-block">
-            <Thermometer></Thermometer>
-          </span>
-        </button>
-      )}
-      {isWeatherOpened && weatherRecords && (
+          <button
+            onClick={() => openWindows()}
+            aria-label="Wettervorhersage"
+            className={classNames(
+              "rounded-full w-10 h-10 mt-16",
+              "fixed right-4 text-center py-2 z-10",
+              "bg-darkblue",
+              (sidebarState?.rightSidebarOpen == SidebarType.WEATHER) && "bg-gold text-darkblue",
+              (sidebarState?.rightSidebarOpen != SidebarType.WEATHER) && "text-gold hover:bg-gold hover:text-darkblue",
+            )}
+          >
+            <span className="inline-block">
+              <Thermometer></Thermometer>
+            </span>
+          </button>
+        )}
+      {(sidebarState?.rightSidebarOpen == SidebarType.WEATHER) && weatherRecords && (
         <div
           className={classNames(
             "right-4 top-4 sm:top-20 sm:right-20",
@@ -344,31 +343,31 @@ export const WeatherOverlay: FC<{
             weatherRecords[17] &&
             weatherRecords[21] &&
             forecastCheck && (
-            <div>
-              <div className="hidden sm:block">
+              <div>
+                <div className="hidden sm:block">
+                  <WeatherRow
+                    weatherRecords={weatherRecords}
+                    hour={13}
+                    ICON_MAPPING={ICON_MAPPING}
+                    hourString={"13 Uhr"}
+                  />
+                  <hr className="border-lightblue/80 mt-2 mb-2" />
+                </div>
                 <WeatherRow
                   weatherRecords={weatherRecords}
-                  hour={13}
+                  hour={17}
                   ICON_MAPPING={ICON_MAPPING}
-                  hourString={"13 Uhr"}
+                  hourString={"17 Uhr"}
                 />
                 <hr className="border-lightblue/80 mt-2 mb-2" />
+                <WeatherRow
+                  weatherRecords={weatherRecords}
+                  hour={21}
+                  ICON_MAPPING={ICON_MAPPING}
+                  hourString={"21 Uhr"}
+                />
               </div>
-              <WeatherRow
-                weatherRecords={weatherRecords}
-                hour={17}
-                ICON_MAPPING={ICON_MAPPING}
-                hourString={"17 Uhr"}
-              />
-              <hr className="border-lightblue/80 mt-2 mb-2" />
-              <WeatherRow
-                weatherRecords={weatherRecords}
-                hour={21}
-                ICON_MAPPING={ICON_MAPPING}
-                hourString={"21 Uhr"}
-              />
-            </div>
-          )}
+            )}
           <hr className="border-lightblue/80 mt-2 hidden sm:block" />
           {weatherStation && (
             <p className="text-xs text-lightblue/80 mt-3 sm:mt-6">
@@ -377,7 +376,7 @@ export const WeatherOverlay: FC<{
           )}
           <button
             className="text-lightblue/80 top-0 right-0 mr-6 mt-6 absolute cursor-pointer z-20 border-lightblue border-2 hover:bg-gold hover:border-gold rounded-full p-0"
-            onClick={() => setIsWeatherOpened(false)}
+            onClick={() => sidebarState?.setRightSidebarOpen(_ => SidebarType.NONE)}
             title="close"
           >
             <Cross />

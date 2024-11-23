@@ -1,7 +1,7 @@
 import type { NextPage } from "next";
 import dynamic from "next/dynamic";
 
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 // import { snowStorm } from '@lib/snowstorm'
 
 import { useRouter } from "next/router";
@@ -11,10 +11,9 @@ import { MapComponent } from "@components/Map";
 import { SidebarWrapper } from "@components/Sidebar/SidebarWrapper";
 import { SidebarMarket } from "@components/Sidebar/SidebarMarket";
 import { SidebarContentInfo } from "@components/Sidebar/SidebarContentInfo";
-import { SidebarContentLayers } from "@components/Sidebar/SidebarContentLayers";
 import { SidebarContentFilter } from "@components/Sidebar/SidebarContentFilter";
 
-import { Filter, Info, Search } from "@components/Icons";
+import { Filter, Info } from "@components/Icons";
 import { SidebarNav } from "@components/Sidebar/SidebarNav";
 import { MapNav } from "@components/MapNav";
 
@@ -29,8 +28,9 @@ import { filterMarkets } from "@lib/filterMarkets";
 import { AudioEntry } from "@components/MusicPlayer";
 
 import { InitialAudioContext } from "@lib/hooks/useAudio/InitialAudioContext";
+import { SidebarContext, SidebarType } from "@components/Sidebar/SidebarNav/SidebarContext";
 
-const MusicPlayer = dynamic(
+const MusicPlayerOverlay = dynamic(
   () => import("@components/MusicPlayer"),
   { ssr: false },
 );
@@ -49,12 +49,6 @@ const navViews = [
     icon: <Filter />,
     mobileHeight: "half",
   },
-  // {
-  //   value: 'layers',
-  //   name: 'Kartenlayers',
-  //   icon: <Layers color1={'black'} />,
-  //   mobileHeight: 'half',
-  // },
   {
     value: "info",
     name: "information",
@@ -92,6 +86,7 @@ const MapSite: NextPage = (mapData: any) => {
 
   const [navView, setNavView] = useState<"filter" | "info">("filter");
   const [sidebarMenuOpen, setSidebarMenuOpen] = useState<boolean>(false);
+  const [rightSidebarOpen, setRightSidebarOpen] = useState<SidebarType>(SidebarType.NONE);
   const [sidebarInfoOpen, setSidebarInfoOpen] = useState<boolean>(false);
   const [mobileHeight, setMobileHeight] = useState<"half" | "full">("half");
 
@@ -190,8 +185,6 @@ const MapSite: NextPage = (mapData: any) => {
     setSidebarInfoOpen(false);
   }, [navView]);
 
-  const [showMapLayerToilets, setShowMapLayerToilets] = useState(true);
-
   const firstRender = useRef(true);
 
   const [initial, setInitial] = useState(false);
@@ -217,9 +210,6 @@ const MapSite: NextPage = (mapData: any) => {
         className="w-full h-full absolute z-50 pointer-events-none overflow-hidden"
       >
       </div>
-      <InitialAudioContext.Provider value={{ initial, setInitial }}>
-        <MusicPlayer tracks={tracks} />
-      </InitialAudioContext.Provider>
       <IntroModal
         modalOpen={modalOpen}
         setModalOpen={setModalOpen}
@@ -284,10 +274,12 @@ const MapSite: NextPage = (mapData: any) => {
         setMarketId={setMarketId}
       />
       <SnowNav></SnowNav>
-      <WeatherOverlay
-        marketFilterDate={marketFilterDate}
-        setSidebarMenuOpen={setSidebarMenuOpen}
-      />
+      <SidebarContext.Provider value={{ setSidebarMenuOpen, rightSidebarOpen, setRightSidebarOpen }}>
+        <WeatherOverlay marketFilterDate={marketFilterDate} />
+        <InitialAudioContext.Provider value={{ initial, setInitial }}>
+          <MusicPlayerOverlay tracks={tracks} />
+        </InitialAudioContext.Provider>
+      </SidebarContext.Provider>
 
       <MapComponent
         mapData={mapData}
