@@ -158,7 +158,7 @@ const getUniqueLocations = () => {
     const found = knownLocations.filter(
       (l) =>
         /*l.w3 === o.url,*/ /*||*/ l.strasse ===
-          resolveStreet(o.details?.location?.street, o.details?.location?.name),
+        resolveStreet(o.details?.location?.street, o.details?.location?.name),
     );
     const loc = found.length > 0 ? found[0] : null;
     return loc && [loc.lng, loc.lat];
@@ -323,7 +323,6 @@ const updateWeekDays = () => {
   for (market of existing) {
     const days = {};
     const weekdaysList = {};
-    const weekdays = {};
     const found = leipzigde.filter((exist) =>
       market.strasse == resolveStreet(
         exist.details?.location.street,

@@ -1,5 +1,4 @@
 import { FC, ReactNode } from 'react'
-import classNames from 'classnames'
 import { useCopyToClipboard } from '@lib/hooks/useCopyToClipboard'
 
 import { SidebarHeader } from '@components/Sidebar/SidebarHeader'
@@ -14,6 +13,7 @@ import {
   Calendar,
   Copy,
 } from '@components/Icons/'
+import ical, { ICalCalendarMethod } from 'ical-generator';
 
 export interface SidebarMarketType {
   marketData: any
@@ -52,6 +52,67 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
   const journeyTarget = `${marketData.strasse}, ${marketData.plz_ort}`
   const departureQueryUrl = encodeURI(`https://www.insa.de/fahrplanauskunft/insa-fahrplanauskunft?scrollTo=webapp&start=1&P=TP&journeyProducts=1023&Z=${journeyTarget}&time=${departureTime}&date=${departureDate}&timeSel=depart`);
 
+  const calendar = ical({ name: 'my first iCal' });
+  calendar.method(ICalCalendarMethod.REQUEST);
+
+  const parseDate = (str: string) => {
+    const segments = str.split(".");
+    const year = Number(segments[2]);
+    return new Date(
+      (year < 100) ? Number(`20${year}`) : year,
+      Number(segments[1]) - 1,
+      Number(segments[0]),
+    );
+  };
+
+  const formatDate = (dt: Date) => {
+    const dayStr = ("0" + dt.getDate()).slice(-2);
+    const monthStr = ("0" + (dt.getMonth() + 1)).slice(-2);
+    const yearStr = ("" + dt.getFullYear()).slice(-2);
+    return `${dayStr}.${monthStr}.${yearStr}`;
+  };
+
+  const allDatesBetween = (startDateStr: string, endDateStr: string): Date[] => {
+    const dates = [];
+    const dateMove = parseDate(startDateStr);
+    const endDate = parseDate(endDateStr);
+    while (dateMove <= endDate) {
+      dates.push(new Date(dateMove));
+      dateMove.setDate(dateMove.getDate() + 1);
+    }
+    return dates;
+  };
+
+
+  const allDates = allDatesBetween(marketData.von, marketData.bis || marketData.von);
+  const weekDayNames = ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"];
+  for (let date of allDates) {
+    const day = weekDayNames[date.getDay()];
+    const weekday = marketData[day];
+    if (!weekday) break;
+    const startDate = parseDate(marketData.von);
+    const opening = marketData[day].split("-");
+    if (opening.length < 2) break;
+    const start = opening[0];
+    const startTime = start.split(":");
+    if (startTime.length < 2) break;
+    startDate.setHours(startTime[0]);
+    startDate.setMinutes(startTime[1]);
+    const endDate = new Date(startDate);
+    const end = opening[1];
+    const endTime = end.split(":");
+    if (endTime.length < 2) break;
+    endDate.setHours(endTime[0]);
+    endDate.setMinutes(endTime[1]);
+    calendar.createEvent({
+      start: startDate,
+      end: endDate,
+      summary: marketData.name,
+      description: marketData.description,
+      location: journeyTarget,
+      url: marketData.w3
+    });
+  }
   return (
     <>
       <SidebarHeader text={marketData.name} fontSize="text-lg" />
@@ -154,6 +215,10 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
           {marketData['hours-exc-readable'] && (
             <TimeExeption hoursExc={marketData['hours-exc-readable']} />
           )}
+
+          {calendar.events.length > 0 && <p className="mt-2">
+            <a title={`Kalendereintrag ${marketData.name}`} download="event.ics" className="text-sm underline" target="_blank" href={`data:text/calendar,${calendar.toString()}`}>Termin exportieren</a>
+          </p>}
         </MarketInfo>
 
         <MarketInfo title="Eintritt" icon={<Euro />}>
