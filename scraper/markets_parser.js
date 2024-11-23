@@ -187,8 +187,8 @@ const readInnerGeojson = () => {
           shortname: atts.firma,
           strasse: atts.standort,
           plz_ort: "04109 Leipzig",
-          von: "28.11.23",
-          bis: "23.12.23",
+          von: "26.11.24",
+          bis: "23.12.24",
           veranstalter: atts.firma,
           oeffnungszeiten: "10:00-21:00",
           email: null,
@@ -200,18 +200,16 @@ const readInnerGeojson = () => {
           rss_titel: atts.firma,
           barrierefrei: null,
           "immer-kostenlos": 1,
-          Mo: "10:00-21:00",
-          Di: "10:00-21:00",
-          Mi: "10:00-21:00",
-          Do: "10:00-21:00",
-          Fr: "10:00-22:00",
-          Sa: "10:00-22:00",
-          So: "10:00-21:00",
+          "Mo": "11:00-21:00",
+          "Di": "11:00-21:00",
+          "Mi": "11:00-21:00",
+          "Do": "11:00-21:00",
+          "Fr": "11:00-22:00",
+          "Sa": "11:00-22:00",
+          "So": "11:00-21:00",
           "closed-exc": 0,
-          "closed-exc-readable": null,
-          "hours-exc":
-            "01.12.23=10:00-22:00,02.12.23=10:00-22:00,08.12.23=10:00-22:00,09.12.23=10:00-22:00,15.12.23=10:00-22:00,16.12.23=10:00-22:00,22.12.23=10:00-22:00",
-          "hours-exc-readable": "freitags und samstags bis 22 Uhr",
+          "hours-exc": "29.11.24=10:00-22:00,30.11.24=10:00-22:00,06.12.24=10:00-22:00,08.12.24=10:00-22:00,13.12.24=10:00-22:00,14.12.24=10:00-22:00,20.12.24=10:00-22:00,21.12.24=10:00-22:00",
+          "hours-exc-readable": null,
           ignore: 0,
           merged: null,
           international: 0,
@@ -292,8 +290,8 @@ const registry = {
       fs.writeFile(
         "output_inner.json",
         "[" +
-          sorted.map((entry) => JSON.stringify(entry, null, 2)).join(",") +
-          "]",
+        sorted.map((entry) => JSON.stringify(entry, null, 2)).join(",") +
+        "]",
         (err) => {
           if (err) throw err;
         },
