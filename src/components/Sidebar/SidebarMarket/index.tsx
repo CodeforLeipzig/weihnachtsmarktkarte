@@ -90,22 +90,21 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
     const day = weekDayNames[date.getDay()];
     const weekday = marketData[day];
     if (!weekday) break;
-    const startDate = parseDate(marketData.von);
     const opening = marketData[day].split("-");
     if (opening.length < 2) break;
     const start = opening[0];
     const startTime = start.split(":");
     if (startTime.length < 2) break;
-    startDate.setHours(startTime[0]);
-    startDate.setMinutes(startTime[1]);
-    const endDate = new Date(startDate);
+    date.setHours(startTime[0]);
+    date.setMinutes(startTime[1]);
+    const endDate = new Date(date);
     const end = opening[1];
     const endTime = end.split(":");
     if (endTime.length < 2) break;
     endDate.setHours(endTime[0]);
     endDate.setMinutes(endTime[1]);
     calendar.createEvent({
-      start: startDate,
+      start: date,
       end: endDate,
       summary: marketData.name,
       description: marketData.description,
