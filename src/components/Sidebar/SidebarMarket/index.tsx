@@ -1,60 +1,64 @@
-import { FC, ReactNode } from 'react'
-import { useCopyToClipboard } from '@lib/hooks/useCopyToClipboard'
+import { FC, ReactNode } from "react";
+import { useCopyToClipboard } from "@lib/hooks/useCopyToClipboard";
 
-import { SidebarHeader } from '@components/Sidebar/SidebarHeader'
-import { SidebarBody } from '@components/Sidebar/SidebarBody'
-import { MarketInfo } from '@components/MarketInfo'
+import { SidebarHeader } from "@components/Sidebar/SidebarHeader";
+import { SidebarBody } from "@components/Sidebar/SidebarBody";
+import { MarketInfo } from "@components/MarketInfo";
 import {
-  GeoMarker,
-  Euro,
+  Calendar,
   Clock,
+  Copy,
+  Euro,
+  GeoMarker,
   Globe,
   Info,
-  Calendar,
-  Copy,
-} from '@components/Icons/'
-import ical, { ICalCalendarMethod } from 'ical-generator';
+} from "@components/Icons/";
+import ical, { ICalCalendarMethod } from "ical-generator";
 
 export interface SidebarMarketType {
-  marketData: any
+  marketData: any;
 }
 
 export interface TimeExeptionType {
-  hoursExc: string
+  hoursExc: string;
 }
 
 export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
-  const days = ['Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa', 'So']
+  const days = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"];
   const daysHelper = {
-    Mo: 'Montag',
-    Di: 'Dienstag',
-    Mi: 'Mittwoch',
-    Do: 'Donnerstag',
-    Fr: 'Freitag',
-    Sa: 'Samstag',
-    So: 'Sonntag',
-  }
+    Mo: "Montag",
+    Di: "Dienstag",
+    Mi: "Mittwoch",
+    Do: "Donnerstag",
+    Fr: "Freitag",
+    Sa: "Samstag",
+    So: "Sonntag",
+  };
 
-  const { copyToClipboard, hasCopied } = useCopyToClipboard()
-  const hasImage = marketData.image
+  const { copyToClipboard, hasCopied } = useCopyToClipboard();
+  const hasImage = marketData.image;
 
   const TimeExeption: FC<TimeExeptionType> = ({ hoursExc }) => {
     return (
       <div className="text-sm italic pt-2 text-gray-500">
         <p>* Ausnahmen: {hoursExc}</p>
       </div>
-    )
-  }
+    );
+  };
 
   const getDepartureQueryUrl = () => {
     const now = new Date();
-    const departureDate = `${now.getDate()}.${now.getMonth() + 1}.${now.getFullYear()}`;
+    const departureDate = `${now.getDate()}.${
+      now.getMonth() + 1
+    }.${now.getFullYear()}`;
     const departureTime = `${now.getHours()}:${now.getMinutes()}`;
     const journeyTarget = `${marketData.strasse}, ${marketData.plz_ort}`;
-    return encodeURI(`https://www.insa.de/fahrplanauskunft/insa-fahrplanauskunft?scrollTo=webapp&start=1&P=TP&journeyProducts=1023&Z=${journeyTarget}&time=${departureTime}&date=${departureDate}&timeSel=depart`);
-  }
+    return encodeURI(
+      `https://www.insa.de/fahrplanauskunft/insa-fahrplanauskunft?scrollTo=webapp&start=1&P=TP&journeyProducts=1023&Z=${journeyTarget}&time=${departureTime}&date=${departureDate}&timeSel=depart`,
+    );
+  };
 
-  const calendar = ical({ name: 'my first iCal' });
+  const calendar = ical({ name: "my first iCal" });
   calendar.method(ICalCalendarMethod.REQUEST);
 
   const parseDate = (str: string) => {
@@ -67,7 +71,10 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
     );
   };
 
-  const allDatesBetween = (startDateStr: string, endDateStr: string): Date[] => {
+  const allDatesBetween = (
+    startDateStr: string,
+    endDateStr: string,
+  ): Date[] => {
     const dates = [];
     const dateMove = parseDate(startDateStr);
     const endDate = parseDate(endDateStr);
@@ -78,7 +85,10 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
     return dates;
   };
 
-  const allDates = allDatesBetween(marketData.von, marketData.bis || marketData.von);
+  const allDates = allDatesBetween(
+    marketData.von,
+    marketData.bis || marketData.von,
+  );
   const weekDayNames = ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"];
   for (let date of allDates) {
     const day = weekDayNames[date.getDay()];
@@ -103,7 +113,7 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
       summary: marketData.name,
       description: marketData.description,
       location: `${marketData.strasse}, ${marketData.plz_ort}`,
-      url: marketData.w3
+      url: marketData.w3,
     });
   }
   return (
@@ -112,18 +122,20 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
       <SidebarBody>
         <img
           className="bg-darkblue w-full h-[200px]"
-          src={
-            marketData.image === ''
-              ? './images/placeholder.png'
-              : './images/' + marketData.image
-          }
+          src={marketData.image === ""
+            ? "./images/placeholder.png"
+            : "./images/" + marketData.image}
           alt=""
         />
 
         <p className="text-xs text-gray-500 mt-1">
-          {marketData.urheberschaft
-            ? marketData.urheberschaft
-            : 'freestocks.org, CC BY-SA 4.0 via Wikimedia Commons'}
+          <div
+            dangerouslySetInnerHTML={{
+              __html: marketData.urheberschaft
+                ? marketData.urheberschaft
+                : "freestocks.org, CC BY-SA 4.0 via Wikimedia Commons",
+            }}
+          />
         </p>
         <div className="mb-2"></div>
 
@@ -136,30 +148,28 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
               <div className="text-xs mr-4 mt-1 flex float-left">
                 Markt-Link kopieren
               </div>
-            )}{' '}
-            {hasCopied && (
+            )} {hasCopied && (
               <div className="text-xs mr-4 mt-1 flex float-left">
                 Markt-Link kopiert!
               </div>
-            )}{' '}
-            <Copy />
+            )} <Copy />
           </div>
         </div>
 
-        {marketData['rss_beschreibung']?.length > 0 && (
+        {marketData["rss_beschreibung"]?.length > 0 && (
           <MarketInfo title="Beschreibung" icon={<Info />}>
-            <p className="text-sm">{marketData['rss_beschreibung']}</p>
+            <p className="text-sm">{marketData["rss_beschreibung"]}</p>
           </MarketInfo>
         )}
 
-        {marketData['veranstalter']?.length > 0 && (
+        {marketData["veranstalter"]?.length > 0 && (
           <MarketInfo title="Veranstalter" icon={<Info />}>
-            <p className="text-sm">{marketData['veranstalter']}</p>
+            <p className="text-sm">{marketData["veranstalter"]}</p>
           </MarketInfo>
         )}
 
         <MarketInfo
-          title={marketData['closed-exc'] !== '0' ? 'Datum *' : 'Datum'}
+          title={marketData["closed-exc"] !== "0" ? "Datum *" : "Datum"}
           icon={<Calendar />}
         >
           <p className="text-sm pb-2">
@@ -171,54 +181,63 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
             )}
           </p>
 
-          {marketData['closed-exc'] !== '0' && (
+          {marketData["closed-exc"] !== "0" && (
             <p className="text-sm italic pt-0 text-gray-500">
-              * geschlossen: {marketData['closed-exc-readable']
-                || (!!marketData['closed-exc'] ?
-                  marketData['closed-exc'].split(",").map(
-                    (c: string) => c.substring(0, 6)
-                  ) : "").join(", ")}
+              * geschlossen: {marketData["closed-exc-readable"] ||
+                (!!marketData["closed-exc"]
+                  ? marketData["closed-exc"].split(",").map(
+                    (c: string) => c.substring(0, 6),
+                  )
+                  : "").join(", ")}
             </p>
           )}
         </MarketInfo>
 
         <MarketInfo
-          title={
-            marketData['hours-exc'] !== '0'
-              ? 'Öffnungszeiten *'
-              : 'Öffnungszeiten'
-          }
+          title={marketData["hours-exc"] !== "0"
+            ? "Öffnungszeiten *"
+            : "Öffnungszeiten"}
           icon={<Clock />}
         >
           <ul className="columns-2 text-sm gap-0">
             <li className="font-bold pb-2">Wochentag</li>
             {days.map((day: string, i: number) => (
-              <li key={'day' + i}>
+              <li key={"day" + i}>
                 {daysHelper[day as keyof typeof daysHelper]}
               </li>
             ))}
-            <li className="font-bold pb-2"> Uhrzeit</li>
+            <li className="font-bold pb-2">Uhrzeit</li>
             {days.map((day: string, i: number) => (
-              <li key={'time' + i}>
-                {marketData[day] === '0' ? '-' : marketData[day]}
+              <li key={"time" + i}>
+                {marketData[day] === "0" ? "-" : marketData[day]}
               </li>
             ))}
           </ul>
 
-          {marketData['hours-exc-readable'] && (
-            <TimeExeption hoursExc={marketData['hours-exc-readable']} />
+          {marketData["hours-exc-readable"] && (
+            <TimeExeption hoursExc={marketData["hours-exc-readable"]} />
           )}
 
-          {calendar.events.length > 0 && <p className="mt-2">
-            <a title={`Kalendereintrag ${marketData.name}`} download="event.ics" className="text-sm underline" target="_blank" href={`data:text/calendar,${calendar.toString()}`}>Termin exportieren</a>
-          </p>}
+          {calendar.events.length > 0 && (
+            <p className="mt-2">
+              <a
+                title={`Kalendereintrag ${marketData.name}`}
+                download="event.ics"
+                className="text-sm underline"
+                target="_blank"
+                href={`data:text/calendar,${calendar.toString()}`}
+              >
+                Termin exportieren
+              </a>
+            </p>
+          )}
         </MarketInfo>
 
         <MarketInfo title="Eintritt" icon={<Euro />}>
           <p className="text-sm">
-            {marketData['immer-kostenlos'] === '1'
-              ? 'Kostenlos'
-              : '(Teilweise) Kostenpflichtig'}
+            {marketData["immer-kostenlos"] === "1"
+              ? "Kostenlos"
+              : "(Teilweise) Kostenpflichtig"}
           </p>
         </MarketInfo>
 
@@ -228,11 +247,16 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
           </p>
           <p className="text-sm">{marketData.train}</p>
           <p className="mt-2">
-            <div className="text-sm underline cursor-pointer" onClick={() => window.open(getDepartureQueryUrl(), '_blank')}>Fahrplanauskunft</div>
+            <div
+              className="text-sm underline cursor-pointer"
+              onClick={() => window.open(getDepartureQueryUrl(), "_blank")}
+            >
+              Fahrplanauskunft
+            </div>
           </p>
         </MarketInfo>
 
-        {marketData.bemerkungen !== '' && (
+        {marketData.bemerkungen !== "" && (
           <MarketInfo title="Informationen" icon={<Info />}>
             <p className="text-sm">
               <div
@@ -242,7 +266,7 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
           </MarketInfo>
         )}
 
-        {marketData.w3 !== '' && (
+        {marketData.w3 !== "" && (
           <MarketInfo title="Webseite" icon={<Globe />}>
             <a
               className="text-sm underline"
@@ -250,10 +274,7 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
               target="_blank"
             >
               {(() => {
-                const link = marketData.w3
-                  .replace('www.', '')
-                  .replace('https://', '')
-                  .replace('http://', '');
+                const link = new URL(marketData.w3).hostname;
                 return link.length < 60 ? link : link.substring(0, 60) + "...";
               })()}
             </a>
@@ -263,5 +284,5 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
         <div className="mb-10"></div>
       </SidebarBody>
     </>
-  )
-}
+  );
+};
