@@ -1,13 +1,22 @@
-import React, { useState, useEffect, useMemo, FC, SetStateAction, Dispatch, useContext } from 'react'
-import {
-  Cross,
-  Music,
-} from "@components/Icons";
+import React, {
+  Dispatch,
+  FC,
+  SetStateAction,
+  useContext,
+  useEffect,
+  useMemo,
+  useState,
+} from "react";
+import { Cross, Music } from "@components/Icons";
 import classNames from "classnames";
-import { FaPlay, FaPause, FaBackward, FaForward } from 'react-icons/fa'
-import useAudio from '@lib/hooks/useAudio'
+import { FaBackward, FaForward, FaPause, FaPlay } from "react-icons/fa";
+import useAudio from "@lib/hooks/useAudio";
 import { useHasMobileSize } from "@lib/hooks/useHasMobileSize";
-import { SidebarContext, SidebarState, SidebarType } from '@components/Sidebar/SidebarNav/SidebarContext';
+import {
+  SidebarContext,
+  SidebarState,
+  SidebarType,
+} from "@components/Sidebar/SidebarNav/SidebarContext";
 
 export interface AudioEntry {
   author: NameAndUrl;
@@ -25,7 +34,7 @@ export interface Music extends NameAndUrl {
 }
 
 interface MusicPlayerProps {
-  tracks: Array<AudioEntry>
+  tracks: Array<AudioEntry>;
 }
 
 const MusicPlayerOverlay: FC<MusicPlayerProps> = ({
@@ -34,38 +43,44 @@ const MusicPlayerOverlay: FC<MusicPlayerProps> = ({
   const sidebarState: SidebarState | null = useContext(SidebarContext);
   const max = tracks.length;
   const [current, setCurrent] = useState(0);
-  const next = () => setCurrent((curr) => {
-    if (curr + 1 >= max) {
-      return 0;
-    } else {
-      return curr + 1;
-    }
-  });
-  const prev = () => setCurrent((curr) => {
-    if (curr == 0) {
-      return max - 1;
-    } else {
-      return curr - 1;
-    }
-  });
+  const next = () =>
+    setCurrent((curr) => {
+      if (curr + 1 >= max) {
+        return 0;
+      } else {
+        return curr + 1;
+      }
+    });
+  const prev = () =>
+    setCurrent((curr) => {
+      if (curr == 0) {
+        return max - 1;
+      } else {
+        return curr - 1;
+      }
+    });
   const handleSongEnd = () => next();
   const [track, setTrack] = useState<AudioEntry>(tracks[0]);
-  const { playing, toggle, updateAudio } = useAudio(track, handleSongEnd)
+  const { playing, toggle, updateAudio } = useAudio(track, handleSongEnd);
 
-  const link = (entry: NameAndUrl) => (<a href={entry.url} target="_blank" rel="noopener noreferrer">{entry.name}</a>)
+  const link = (entry: NameAndUrl) => (
+    <a href={entry.url} target="_blank" rel="noopener noreferrer">
+      {entry.name}
+    </a>
+  );
 
   const attribution = (track: AudioEntry) => {
-    const music = link(track.music)
-    const author = link(track.author)
-    const website = link(track.website)
+    const music = link(track.music);
+    const author = link(track.author);
+    const website = link(track.website);
     return (
       <div>
         <div className="text-xl">{music}</div>
         <div className="text-sm">Urheber: {author}</div>
         <div className="text-sm">Quelle: {website}</div>
       </div>
-    )
-  }
+    );
+  };
 
   useEffect(() => {
     setTrack(tracks[current]);
@@ -78,7 +93,7 @@ const MusicPlayerOverlay: FC<MusicPlayerProps> = ({
   const isMobile = useHasMobileSize();
 
   function openWindows() {
-    sidebarState?.setRightSidebarOpen(curr => {
+    sidebarState?.setRightSidebarOpen((curr) => {
       if (curr == SidebarType.MUSIC) {
         return SidebarType.NONE;
       } else {
@@ -92,9 +107,7 @@ const MusicPlayerOverlay: FC<MusicPlayerProps> = ({
 
   return (
     <nav
-      className={
-        'fixed bottom-0 p-4 ease-in-out duration-300 z-10 right-0 top-8 h-min nav-small-height-music'
-      }
+      className={"fixed bottom-0 p-4 ease-in-out duration-300 z-10 right-0 top-8 h-min nav-small-height-music"}
     >
       <button
         onClick={() => openWindows()}
@@ -103,8 +116,10 @@ const MusicPlayerOverlay: FC<MusicPlayerProps> = ({
           "rounded-full w-10 h-10 mt-16",
           "fixed right-4 text-center py-2 z-10",
           "bg-darkblue",
-          (sidebarState?.rightSidebarOpen == SidebarType.MUSIC) && "bg-gold text-darkblue",
-          (sidebarState?.rightSidebarOpen != SidebarType.MUSIC) && "text-gold hover:bg-gold hover:text-darkblue",
+          (sidebarState?.rightSidebarOpen == SidebarType.MUSIC) &&
+            "bg-gold text-darkblue",
+          (sidebarState?.rightSidebarOpen != SidebarType.MUSIC) &&
+            "text-gold hover:bg-gold hover:text-darkblue",
         )}
       >
         <span className="inline-block">
@@ -122,26 +137,34 @@ const MusicPlayerOverlay: FC<MusicPlayerProps> = ({
         >
           <div
             style={{
-              marginBottom: '1px',
-              fontStyle: 'bold',
-              color: 'gold'
-            }}>
+              marginBottom: "1px",
+              fontStyle: "bold",
+              color: "gold",
+            }}
+          >
             <span>{attribution(track)}</span>
-            <div style={{ marginTop: '20px', float: 'left' }}>
-              <button onClick={prev} style={{ paddingLeft: '20px' }}>
+            <div style={{ marginTop: "20px", float: "left" }}>
+              <button onClick={prev} style={{ paddingLeft: "20px" }}>
                 <FaBackward />
               </button>
-              <button onClick={toggle} style={{ paddingLeft: '20px' }}>
+              <button onClick={toggle} style={{ paddingLeft: "20px" }}>
                 {playing ? <FaPause /> : <FaPlay />}
               </button>
-              <button onClick={next} style={{ paddingLeft: '20px' }}>
+              <button onClick={next} style={{ paddingLeft: "20px" }}>
                 <FaForward />
               </button>
             </div>
           </div>
+          <div className="ml-1 mt-2">
+            <img
+              alt="Jukebox from the 1950s"
+              src="images/fifties_jukebox.png"
+            />
+          </div>
           <button
             className="text-lightblue/80 top-0 right-0 mr-6 mt-6 absolute cursor-pointer z-20 border-lightblue border-2 hover:bg-gold hover:border-gold rounded-full p-0"
-            onClick={() => sidebarState?.setRightSidebarOpen(_ => SidebarType.NONE)}
+            onClick={() =>
+              sidebarState?.setRightSidebarOpen((_) => SidebarType.NONE)}
             title="close"
           >
             <Cross />
@@ -150,6 +173,6 @@ const MusicPlayerOverlay: FC<MusicPlayerProps> = ({
       )}
     </nav>
   );
-}
+};
 
 export default MusicPlayerOverlay;
