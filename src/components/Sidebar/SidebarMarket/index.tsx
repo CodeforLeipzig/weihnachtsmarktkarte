@@ -46,11 +46,13 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
     )
   }
 
-  const now = new Date();
-  const departureDate = `${now.getDate()}.${now.getMonth() + 1}.${now.getFullYear()}`;
-  const departureTime = `${now.getHours()}:${now.getMinutes()}`;
-  const journeyTarget = `${marketData.strasse}, ${marketData.plz_ort}`
-  const departureQueryUrl = encodeURI(`https://www.insa.de/fahrplanauskunft/insa-fahrplanauskunft?scrollTo=webapp&start=1&P=TP&journeyProducts=1023&Z=${journeyTarget}&time=${departureTime}&date=${departureDate}&timeSel=depart`);
+  const getDepartureQueryUrl = () => {
+    const now = new Date();
+    const departureDate = `${now.getDate()}.${now.getMonth() + 1}.${now.getFullYear()}`;
+    const departureTime = `${now.getHours()}:${now.getMinutes()}`;
+    const journeyTarget = `${marketData.strasse}, ${marketData.plz_ort}`;
+    return encodeURI(`https://www.insa.de/fahrplanauskunft/insa-fahrplanauskunft?scrollTo=webapp&start=1&P=TP&journeyProducts=1023&Z=${journeyTarget}&time=${departureTime}&date=${departureDate}&timeSel=depart`);
+  }
 
   const calendar = ical({ name: 'my first iCal' });
   calendar.method(ICalCalendarMethod.REQUEST);
@@ -65,13 +67,6 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
     );
   };
 
-  const formatDate = (dt: Date) => {
-    const dayStr = ("0" + dt.getDate()).slice(-2);
-    const monthStr = ("0" + (dt.getMonth() + 1)).slice(-2);
-    const yearStr = ("" + dt.getFullYear()).slice(-2);
-    return `${dayStr}.${monthStr}.${yearStr}`;
-  };
-
   const allDatesBetween = (startDateStr: string, endDateStr: string): Date[] => {
     const dates = [];
     const dateMove = parseDate(startDateStr);
@@ -82,7 +77,6 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
     }
     return dates;
   };
-
 
   const allDates = allDatesBetween(marketData.von, marketData.bis || marketData.von);
   const weekDayNames = ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"];
@@ -108,7 +102,7 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
       end: endDate,
       summary: marketData.name,
       description: marketData.description,
-      location: journeyTarget,
+      location: `${marketData.strasse}, ${marketData.plz_ort}`,
       url: marketData.w3
     });
   }
@@ -234,7 +228,7 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
           </p>
           <p className="text-sm">{marketData.train}</p>
           <p className="mt-2">
-            <a className="text-sm underline" target="_blank" href={departureQueryUrl}>Fahrplanauskunft</a>
+            <a className="text-sm underline" target="_blank" href={getDepartureQueryUrl()}>Fahrplanauskunft</a>
           </p>
         </MarketInfo>
 
