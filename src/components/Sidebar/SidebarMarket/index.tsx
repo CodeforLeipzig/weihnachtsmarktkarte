@@ -48,9 +48,8 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
 
   const getDepartureQueryUrl = () => {
     const now = new Date();
-    const departureDate = `${now.getDate()}.${
-      now.getMonth() + 1
-    }.${now.getFullYear()}`;
+    const departureDate = `${now.getDate()}.${now.getMonth() + 1
+      }.${now.getFullYear()}`;
     const departureTime = `${now.getHours()}:${now.getMinutes()}`;
     const journeyTarget = `${marketData.strasse}, ${marketData.plz_ort}`;
     return encodeURI(
@@ -194,7 +193,7 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
         </MarketInfo>
 
         <MarketInfo
-          title={marketData["hours-exc"] !== "0"
+          title={marketData["hours-exc-readable"] !== "0"
             ? "Öffnungszeiten *"
             : "Öffnungszeiten"}
           icon={<Clock />}

@@ -9,7 +9,7 @@ export function getMapData() {
   const xmarketsPathCSV = path.join(process.cwd(), 'public/markets.csv')
   const xmarketsCSV = fs.readFileSync(xmarketsPathCSV, 'utf-8')
   var data = Papa.parse(xmarketsCSV, { header: true }).data.filter(
-    (d) => d.lat && d.lng && d.ignore === '0'
+    (d) => d.lat && d.lng && d.ignore !== '1'
   )
   const allowedIds = []
   data.forEach((element, i) => {
