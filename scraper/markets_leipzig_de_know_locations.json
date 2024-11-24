@@ -497,7 +497,7 @@
     "properties": {
       "name": "Kees'scher Park",
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-von-brot-kees-20241201",
-      "street": "Lauersche Str.",
+      "street": "Kees'scher Park 1",
       "zipcode": "04416",
       "city": "Markkleeberg,"
     },
@@ -597,7 +597,7 @@
     "properties": {
       "name": "Kleinzschocher",
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/advent-in-den-hoefen-kleinzschochers",
-      "street": "Baumannstr. 16, Eythraer Str. 8, Windorfer Str. 44, 45 a und 55, Gießerstr. 75, Creuziger Str. 2, Luckaer Str. 16, Panitzstr. 2, Außengelände der Turnhalle Dieskaustraße 79, Pörstener Str. 9, Klarastr. 35"
+      "street": "Windorfer Straße 49"
     },
     "geometry": {
       "type": "Point",
@@ -714,7 +714,7 @@
     "properties": {
       "name": "Zuckelhausener Teich",
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-9",
-      "street": "Zuckelhausener Teich"
+      "street": "Zuckelhausener Ring 17"
     },
     "geometry": {
       "type": "Point",
