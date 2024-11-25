@@ -72,11 +72,11 @@
     "oeffnungszeiten": "14:00-23:59",
     "email": null,
     "w3": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-15",
-    "bemerkungen": null,
+    "bemerkungen": "<a class='text-sm underline' target='blank' href='https://www.markranstaedt.de/de/veranstaltungsbeschreibung/event/22409,9/16-markranstaedter-weihnachtsmarkt-07-12-2024.html'>Offizielle Seite</a>",
     "lat": 51.3019336,
     "lng": 12.220582363130251,
     "rss_titel": "15. Markranstädter Weihnachtsmarkt",
-    "rss_beschreibung": "Bühnenprogramm14:00 Uhr Adventsmusik mit Andacht in der St. Laurentiuskirche14:30 Uhr Eröffnung durch die Bürgermeisterin und den Posaunenchor14:45 Uhr Auftritt KiTa Spatzenhaus Altranstädt15:10 Uhr Auftritt der Grundschule Markranstädt15:30 Uhr: Auftritt der KiTa Forscherinsel Seebenisch15:45 Uhr Auftritt der KiTa Waldknuffel Markranstädt16:00 Uhr Auftritt des Kultur- und Faschingsverein Seebenisch e.V.16:30 Uhr Der Weihnachtsmann kommt! Begrüßung auf der Bühne und anschließend Sprechstunde im Bürgerrathaus16:45 Uhr Auftritt des Markranstädter Carneval Club e.V.17:15 Uhr Auftritt des Chors von der Oberschule Markranstädt18:00 Uhr Siegerehrung des „Besten Stollenbäckers 2024“ von Markranstädt18:30 Uhr Auftritt der Markranstädter Stammtischler20:15 Uhr THNC -Schülerband von Markranstädthttps://www.markranstaedt.de/de/veranstaltungsbeschreibung/event/22409,9/16-markranstaedter-weihnachtsmarkt-07-12-2024.html",
+    "rss_beschreibung": "Bühnenprogramm: 14:00 Uhr Adventsmusik mit Andacht in der St. Laurentiuskirche, 14:30 Uhr Eröffnung durch die Bürgermeisterin und den Posaunenchor, 14:45 Uhr Auftritt KiTa Spatzenhaus Altranstädt, 15:10 Uhr Auftritt der Grundschule Markranstädt, 15:30 Uhr: Auftritt der KiTa Forscherinsel Seebenisch, 15:45 Uhr Auftritt der KiTa Waldknuffel Markranstädt, 16:00 Uhr Auftritt des Kultur- und Faschingsverein Seebenisch e.V., 16:30 Uhr Der Weihnachtsmann kommt! Begrüßung auf der Bühne und anschließend Sprechstunde im Bürgerrathaus, 16:45 Uhr Auftritt des Markranstädter Carneval Club e.V., 17:15 Uhr Auftritt des Chors von der Oberschule Markranstädt, 18:00 Uhr Siegerehrung des „Besten Stollenbäckers 2024“ von Markranstädt, 18:30 Uhr Auftritt der Markranstädter Stammtischler, 20:15 Uhr THNC -Schülerband von Markranstädt",
     "barrierefrei": "unbekannt",
     "immer-kostenlos": 1,
     "Mo": 0,
@@ -795,11 +795,11 @@
     "oeffnungszeiten": "14:00-23:59",
     "email": null,
     "w3": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/stoetteritzer-adventsmarkt-2",
-    "bemerkungen": null,
+    "bemerkungen": "<a class='text-sm underline' target='blank' href='https://gutshof-stoetteritz.de/aktuelles/events/adventsmarkt-auf-dem-gutshof-stoetteritz'>Offizielle Seite</a>",
     "lat": 51.321633649999995,
     "lng": 12.42410554555071,
     "rss_titel": "Stötteritzer Adventsmarkt",
-    "rss_beschreibung": "https://gutshof-stoetteritz.de/aktuelles/events/adventsmarkt-auf-dem-gutshof-stoetteritz",
+    "rss_beschreibung": "",
     "immer-kostenlos": 1,
     "barrierefrei": "unbekannt",
     "Mo": 0,
@@ -1160,7 +1160,7 @@
     "train": "S4 oder Straßenbahn 1 oder 3 bis 'Leipzig, Rathaus Schönefeld'",
     "train_distance": 262,
     "short_distance": 1,
-    "rss_beschreibung": "Bühnenprogramm14:00 Uhr Adventsmusik mit Andacht in der St. Laurentiuskirche14:30 Uhr Eröffnung durch die Bürgermeisterin und den Posaunenchor14:45 Uhr Auftritt KiTa Spatzenhaus Altranstädt15:10 Uhr Auftritt der Grundschule Markranstädt15:30 Uhr: Auftritt der KiTa Forscherinsel Seebenisch15:45 Uhr Auftritt der KiTa Waldknuffel Markranstädt16:00 Uhr Auftritt des Kultur- und Faschingsverein Seebenisch e.V.16:30 Uhr Der Weihnachtsmann kommt! Begrüßung auf der Bühne und anschließend Sprechstunde im Bürgerrathaus16:45 Uhr Auftritt des Markranstädter Carneval Club e.V.17:15 Uhr Auftritt des Chors von der Oberschule Markranstädt18:00 Uhr Siegerehrung des „Besten Stollenbäckers 2024“ von Markranstädt18:30 Uhr Auftritt der Markranstädter Stammtischler20:15 Uhr THNC -Schülerband von Markranstädthttps://www.markranstaedt.de/de/veranstaltungsbeschreibung/event/22409,9/16-markranstaedter-weihnachtsmarkt-07-12-2024.html"
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -1335,7 +1335,7 @@
     "lat": 51.3218316,
     "lng": 12.256178495191364,
     "rss_titel": "Weihnachtsmarkt im Miltitzer Park",
-    "rss_beschreibung": "Nachhaltigkeit: Eigene Tasse mitbringenwww.heimatverein-miltitz.de",
+    "rss_beschreibung": "Nachhaltigkeit: Eigene Tasse mitbringen",
     "immer-kostenlos": 1,
     "barrierefrei": "unbekannt",
     "Mo": 0,
@@ -1571,7 +1571,7 @@
     "oeffnungszeiten": "undefined-23:59",
     "email": "pr[at]bc-gmbh.de",
     "w3": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3",
-    "bemerkungen": "<a class='text-sm underline' target='blank' href='https://www.suendenfrei.tv/weihnachtsmaerkte/leipzig/'>Offizielle Seite</a>",
+    "bemerkungen": "<a class='text-sm underline' target='blank' href='https://www.felsenkeller-leipzig.com/programm/'>Offizielle Seite</a>",
     "lat": 51.3328217,
     "lng": 12.338524469058852,
     "rss_titel": "Felsenkeller Weihnachtsmarkt",
@@ -1596,7 +1596,7 @@
     "train": "Straßenbahn 14 bis 'Leipzig, Felsenkeller'",
     "train_distance": 33,
     "short_distance": 1,
-    "rss_beschreibung": "Der Biergarten des Felsenkellers verwandelt sich in einen mittelalterlich- romantischen Weihnachtsmarkt. Neben vielseitigen Leckerei- und Getränkeangeboten wird Schmied Martin vor Ort sein und Glücks- Hufeisen oder Sargnägel mit Hilfe der Gäste schmieden. Ein paar Stände bieten handgefertigte Waren an und gemütliche, hölzerne Sitzecken laden zum Verweilen ein. Eine „Laterna Magica“ zeigt stündlich Grimmsche Märchen für kleine Leute und hoch oben in den alten Kastanien leuchten gelbe Sterne. Auf einer kleinen Bühne werden vor allem an den Wochenenden Musik- und Gaukeleiprogramme aufgeführt. Schon am ersten Adventswochenende wird „Feuer-Reiner“ zeigen, warum er diesen seltsamen Namen trägt.Täglich geöffnet von 15:00 bis 21:30 Uhr Samstag 11- 21:30 Uhr Sonntag 11- 20:00 UhrNicht geöffnet während der Weihnachtsfeiertage (24.- 26.12.)https://www.felsenkeller-leipzig.com/programm/"
+    "rss_beschreibung": "Der Biergarten des Felsenkellers verwandelt sich in einen mittelalterlich- romantischen Weihnachtsmarkt. Neben vielseitigen Leckerei- und Getränkeangeboten wird Schmied Martin vor Ort sein und Glücks- Hufeisen oder Sargnägel mit Hilfe der Gäste schmieden. Ein paar Stände bieten handgefertigte Waren an und gemütliche, hölzerne Sitzecken laden zum Verweilen ein. Eine „Laterna Magica“ zeigt stündlich Grimmsche Märchen für kleine Leute und hoch oben in den alten Kastanien leuchten gelbe Sterne. Auf einer kleinen Bühne werden vor allem an den Wochenenden Musik- und Gaukeleiprogramme aufgeführt. Schon am ersten Adventswochenende wird „Feuer-Reiner“ zeigen, warum er diesen seltsamen Namen trägt.Täglich geöffnet von 15:00 bis 21:30 Uhr Samstag 11- 21:30 Uhr Sonntag 11- 20:00 UhrNicht geöffnet während der Weihnachtsfeiertage (24.- 26.12.)"
   },
   "geometry": {
     "type": "Point",
@@ -1645,7 +1645,7 @@
     "train": "S1, S2, S3, S4, S5, S5X und S6 bis 'Leipzig, Markt'",
     "train_distance": 72,
     "short_distance": 1,
-    "rss_beschreibung": "Nach einem Jahr der Vorbereitung öffnen sich vom 26. November bis 23. Dezember 2023 wieder die Tore des Leipziger Weihnachtsmarktes. Bei der feierlichen Eröffnung am 26. November um 17 Uhr wird durch Oberbürgermeister Burkhard Jung der Baum zum Leuchten gebracht.17:00 Uhr Posaunenblasen Bühne Marktplatz17:05 Uhr Festliche Eröffnung des Weihnachtsmarktes durch Oberbürgermeister Burkhard Jung, Tanzstudio T.A.B.U. und Jugend- & Blasorchester Leipzig19:00 Uhr Posaunenblasen vom Balkon Altes Rathaus mit den Leipziger RatspfeifernAm 26.11.2024 öffnet der Weihnachtsmarkt bereits ab 14 Uhr seine Pfortenwww.leipzig.de/weihnachtsmarkt"
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -1718,7 +1718,7 @@
     "oeffnungszeiten": "13:00-23:59",
     "email": "info@biedermeierstrand.de",
     "w3": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/viktorianischer-weihnachtsmarkt",
-    "bemerkungen": "<a class='text-sm underline' target='blank' href='https://biedermeierstrand.de'>Offizielle Seite</a>",
+    "bemerkungen": "<a class='text-sm underline' target='blank' href='https://biedermeierstrand.de/a-victorian-christmas-07-12-2024-ab-13-uhr/'>Offizielle Seite</a>",
     "lat": 51.43051905,
     "lng": 12.323037893857437,
     "rss_titel": "Viktorianischer Weihnachtsmarkt",
@@ -1742,7 +1742,7 @@
     "train": "Rufbus 217 bis 'Hayna (Schkeuditz), Biedermeierstrand'",
     "train_distance": 0,
     "short_distance": 1,
-    "rss_beschreibung": "Weihnachten, wie wir es heute als Familienfest kennen, wurde praktisch im Biedermeier erfunden. Erfindungen wie der Adventskranz, die Christbaumkugel oder der Schokoladenweihnachtsmann wurden damals gemacht. Natürlich darf somit ein historisch inspirierter Weihnachtsmarkt am Biedermeierstrand nicht fehlen. An Marktständen, die in liebevoller Handarbeit angefertigte Accessoires, Kleidung, Bio-Produkte, Schmuck oder Weihnachtsdekoration von Kleinstbetrieben und Privatpersonen der Region anbieten, kann geschlemmt, geschaut und Weihnachtseinkäufe erledigt werden. Untermalt wird das Ambiente von weihnachtlicher Chormusik und der vielleicht größten Weihnachtspyramide der Region. Kulinarische Köstlichkeiten von Glühwein bis Weihnachtseis verwöhnen dabei den Gaumen der Gäste.https://biedermeierstrand.de/a-victorian-christmas-07-12-2024-ab-13-uhr/"
+    "rss_beschreibung": "Weihnachten, wie wir es heute als Familienfest kennen, wurde praktisch im Biedermeier erfunden. Erfindungen wie der Adventskranz, die Christbaumkugel oder der Schokoladenweihnachtsmann wurden damals gemacht. Natürlich darf somit ein historisch inspirierter Weihnachtsmarkt am Biedermeierstrand nicht fehlen. An Marktständen, die in liebevoller Handarbeit angefertigte Accessoires, Kleidung, Bio-Produkte, Schmuck oder Weihnachtsdekoration von Kleinstbetrieben und Privatpersonen der Region anbieten, kann geschlemmt, geschaut und Weihnachtseinkäufe erledigt werden. Untermalt wird das Ambiente von weihnachtlicher Chormusik und der vielleicht größten Weihnachtspyramide der Region. Kulinarische Köstlichkeiten von Glühwein bis Weihnachtseis verwöhnen dabei den Gaumen der Gäste."
   },
   "geometry": {
     "type": "Point",
@@ -1790,7 +1790,7 @@
     "train": "Straßenbahn 15 bis 'Leipzig, Ostplatz'",
     "train_distance": 453,
     "short_distance": 0,
-    "rss_beschreibung": "Der Heimatverein, die Freiwillige Feuerwehr und die Kirchgemeinde Holzhausen laden am 14. Dezember 2024 ab 14:00 Uhr zum vorweihnachtlichen Nachmittag an den Höfen um den Zuckelhausener Teich, im Heimatverein und in der Zuckelhäuser Kirche ein. Weihnachtliches Flair mit viel Lichterglanz und vielen Überraschungen für Groß und Klein kann der Besucher erwarten. Auch die gastronomische Versorgung kommt nicht zu kurz. https://www.holzhausen-sachsen.de/veranstaltungen/weihnachtsmarkt/index.htm"
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -2206,7 +2206,7 @@
     "oeffnungszeiten": "10:00-22:00",
     "email": null,
     "w3": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2",
-    "bemerkungen": null,
+    "bemerkungen": "<a class='text-sm underline' target='blank' href='https://www.westfield.com/germany/paunsdorfcenter/news-detail/weihnachtszauber-im-p~d~c~d~'>Offizielle Seite</a>",
     "lat": 51.34860449999999,
     "lng": 12.477865158631062,
     "rss_titel": "Winterdorf Paunsdorf",
@@ -2231,7 +2231,7 @@
     "train": "Straßenbahn 7 bis 'Permoserstr.'",
     "train_distance": 280,
     "short_distance": 1,
-    "rss_beschreibung": "Der Weihnachtszauber im P.C. ist wieder da und versüßt uns die Vorweihnachtszeit mit tollen, weihnachtlichen Attraktionen, leckeren Köstlichkeiten und vielen weiteren wundervollen Highlights.Montag bis Samstag: 10-22 Uhr und Sonntag  11-19 Uhr25.12. und 26.12. 11-20 UhrHeiligabend und Silvester: Geschlossen https://www.westfield.com/germany/paunsdorfcenter/news-detail/weihnachtszauber-im-p~d~c~d~"
+    "rss_beschreibung": "Der Weihnachtszauber im P.C. ist wieder da und versüßt uns die Vorweihnachtszeit mit tollen, weihnachtlichen Attraktionen, leckeren Köstlichkeiten und vielen weiteren wundervollen Highlights.Montag bis Samstag: 10-22 Uhr und Sonntag  11-19 Uhr25.12. und 26.12. 11-20 UhrHeiligabend und Silvester: Geschlossen"
   },
   "geometry": {
     "type": "Point",
@@ -2863,8 +2863,8 @@
     "merged": null,
     "international": 0,
     "action": 0,
-    "image": null,
-    "urheberschaft": null,
+    "image": "drei_der_muenze.jpg",
+    "urheberschaft": "Jörg Reichert, CC BY-SA 4.0",
     "train": "Straßenbahn 10 oder 11 bis 'Münzgasse'",
     "train_distance": 256,
     "short_distance": 1,
@@ -2966,7 +2966,7 @@
     "train": "Straßenbahn 4, 7, 12 oder 15 bis 'Augustusplatz'",
     "train_distance": 659,
     "short_distance": 0,
-    "rss_beschreibung": "Vom 4. bis 21. Dezember 2023 verwandelt sich der Innenhof der städtischen Musikschule Leipzig \"Johann Sebastian Bach\" unter der Woche wieder zu einem kleinen Adventsmarkt. An jedem Werktag können sich Musikliebhaberinnen und Weihnachtsfreunde von 17 bis 17:30 Uhr Kurzkonzerte von verschiedensten Musikensembles kostenfrei anhören.Bei Glühwein und Gebäck lädt die Konzertreihe „Adventsmusik“ in gemütlicher Atmosphäre dazu ein, dem Trubel der Innenstadt für einen Moment zu entfliehen und sich auf die Festtage einzustimmen. Das Programm ist gewohnt vielfältig – von klassischen Bläserklängen über jazzig-rockigen Sound bis hin zu bekannten Weihnachtsliedern zum Mitsingen bieten die Ensembles der Musikschule Leipzig an jedem Wochentag vorweihnachtlichen Hörgenuss.wochentags ab 17 UhrKonzerte: 17 bis 17:30 UhrEintritt frei"
+    "rss_beschreibung": "Vom 2. bis 19. Dezember 2024 verwandelt sich der Innenhof der städtischen Musikschule Leipzig \"Johann Sebastian Bach\" unter der Woche wieder zu einem kleinen Adventsmarkt. An jedem Werktag können sich Musikliebhaberinnen und Weihnachtsfreunde von 17 bis 17:30 Uhr Kurzkonzerte von verschiedensten Musikensembles kostenfrei anhören.Bei Glühwein und Gebäck lädt die Konzertreihe „Adventsmusik“ in gemütlicher Atmosphäre dazu ein, dem Trubel der Innenstadt für einen Moment zu entfliehen und sich auf die Festtage einzustimmen. Das Programm ist gewohnt vielfältig – von klassischen Bläserklängen über jazzig-rockigen Sound bis hin zu bekannten Weihnachtsliedern zum Mitsingen bieten die Ensembles der Musikschule Leipzig an jedem Wochentag vorweihnachtlichen Hörgenuss.wochentags ab 17 Uhr, Konzerte: 17 bis 17:30 Uhr, Eintritt frei"
   },
   "geometry": {
     "type": "Point",
@@ -3108,8 +3108,8 @@
     "merged": null,
     "international": 0,
     "action": 0,
-    "image": null,
-    "urheberschaft": null,
+    "image": "finnisches_dorf.jpg",
+    "urheberschaft": "Jörg Reichert, CC BY-SA 4.0",
     "train": "4, 7, 12 oder 15 bis 'Augustusplatz'",
     "train_distance": 20,
     "short_distance": 1,
@@ -3157,8 +3157,8 @@
     "merged": null,
     "international": 0,
     "action": 0,
-    "image": null,
-    "urheberschaft": null,
+    "image": "suedtiroler_dorf.jpg",
+    "urheberschaft": "Jörg Reichert, CC BY-SA 4.0",
     "train": "4, 7, 12 oder 15 bis 'Augustusplatz'",
     "train_distance": 20,
     "short_distance": 1,
@@ -3288,7 +3288,7 @@
     "lat": 51.3306286,
     "lng": 12.3218131,
     "rss_titel": "Tropical Weihnachtsfeier",
-    "rss_beschreibung": "Vom 2. Dezember bis zum 07. Januar können Sie bei einem warmen Glühwein unser winterliches Refugium besuchen, inmitten eines tropischen Dschungels speisen, zwischen prächtigen Installationen, Lichtskulpturen, fesselnden Shows und einzigartigen Krippen aus aller Welt flanieren.",
+    "rss_beschreibung": "Vom 26. November bis zum 13. Dezember können Sie bei einem warmen Glühwein unser winterliches Refugium besuchen, inmitten eines tropischen Dschungels speisen, zwischen prächtigen Installationen, Lichtskulpturen, fesselnden Shows und einzigartigen Krippen aus aller Welt flanieren.",
     "immer-kostenlos": 0,
     "barrierefrei": "unbekannt",
     "Mo": 0,
@@ -3458,7 +3458,7 @@
     "train": "Straßenbahn 1, 3 oder 8 bis 'Einertstraße'",
     "train_distance": 473,
     "short_distance": 1,
-    "rss_beschreibung": "Food & Drinks, Crafts, Arts, Music"
+    "rss_beschreibung": ""
   },
   "geometry": {
     "type": "Point",
@@ -3551,8 +3551,8 @@
     "merged": null,
     "international": 0,
     "action": 0,
-    "image": null,
-    "urheberschaft": null,
+    "image": "rahn_education.jpg",
+    "urheberschaft": "Jörg Reichert, CC BY-SA 4.0",
     "train": "Straßenbahn 4, 7, 15 bis 'Johannisplatz'",
     "train_distance": 314,
     "short_distance": 1,
