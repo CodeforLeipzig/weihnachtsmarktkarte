@@ -26,7 +26,7 @@ The data collected and curated in this project has been also released as [open d
 
 ## App stores
 - [Web](wo-ist-weihnachtsmarkt.codeforleipzig.de/)
-- [Apple App Store](https://apps.apple.com/de/app/wtf-is-wm/id6738749984)
+- [Apple App Store](https://apps.apple.com/de/app/wtf-is-wm/id6738749984) (WTF is WM = Where the fuck is Weihnachtsmarkt)
 - [Android Google Play Store](https://play.google.com/store/apps/details?id=com.sannsie.woistweihnachtsmarktinleipzig)
 
 ## Other web sites related to x-mas markets Leipzig
