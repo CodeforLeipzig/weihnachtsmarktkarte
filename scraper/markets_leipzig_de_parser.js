@@ -402,9 +402,9 @@ const updateWeekDays = () => {
   );
 };
 
-/*getHtml(
+getHtml(
   "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/weihnachten/weihnachtsmaerkte/",
-).then((content) => scrape(content));*/
+).then((content) => scrape(content));
 getUniqueLocations();
 updateDescription();
 updateFromToDates();

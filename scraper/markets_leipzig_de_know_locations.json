@@ -595,21 +595,6 @@
   {
     "type": "feature",
     "properties": {
-      "name": "Kleinzschocher",
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/advent-in-den-hoefen-kleinzschochers",
-      "street": "Windorfer Straße 49"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        12.327702615219494,
-        51.3151051
-      ]
-    }
-  },
-  {
-    "type": "feature",
-    "properties": {
       "name": "Park Miltitz",
       "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-8",
       "street": "Geschwister-Scholl-Str. 8a"
@@ -706,6 +691,21 @@
       "coordinates": [
         12.3769892,
         51.2803595
+      ]
+    }
+  },
+  {
+    "type": "feature",
+    "properties": {
+      "name": "Kleinzschocher",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/advent-in-den-hoefen-kleinzschochers",
+      "street": "Windorfer Straße 49"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.327702615219494,
+        51.3151051
       ]
     }
   },
