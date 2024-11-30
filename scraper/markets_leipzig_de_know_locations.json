@@ -723,5 +723,65 @@
         51.30342633572286
       ]
     }
+  },
+  {
+    "type": "feature",
+    "properties": {
+      "name": "Substanz Glühweinmarkt",
+      "url": "https://www.instagram.com/substanz_leipzig/reel/DCUiBLUOVsv/",
+      "street": "Täubchenweg 67"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.402854637262266,
+        51.336215019639724
+      ]
+    }
+  },
+  {
+    "type": "feature",
+    "properties": {
+      "name": "Weihnachtsmarkt Konsumzentrale Adventsvergnügen",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-22",
+      "street": "Industriestraße 85-95"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.330081847899066,
+        51.328018402829514
+      ]
+    }
+  },
+  {
+    "type": "feature",
+    "properties": {
+      "name": "LVZ-Budenzauber",
+      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241214",
+      "street": "Peterssteinweg 19"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.374111504195497,
+        51.33212853398723
+      ]
+    }
+  },
+  {
+    "type": "feature",
+    "properties": {
+      "name": "HGB-Wintermarkt",
+      "url": "https://www.instagram.com/p/DCrBa7Poz1E/",
+      "street": "Wächterstraße 11"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.367862729319143,
+        51.33338583266172
+      ]
+    }
   }
 ]

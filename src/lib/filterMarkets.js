@@ -44,8 +44,12 @@ function openOnDate(date, d) {
         isExeption = false
         return
       }
-      if (toDate(e.trim()).toISOString() === date.toISOString()) {
-        isExeption = true
+      try {
+        if (toDate(e.trim()).toISOString() === date.toISOString()) {
+          isExeption = true
+        }
+      } catch (e) {
+        console.log(`${e.trim} not valid closed-exc for ${d['name']}`)
       }
     })
     if (isExeption) {
@@ -57,8 +61,12 @@ function openOnDate(date, d) {
     let open = false
     d['hours-exc'].split(',').forEach((dt) => {
       const dateAndTime = dt.trim().split('=')
-      if (toDate(dateAndTime[0]).toISOString() === date.toISOString()) {
-        open = true
+      try {
+        if (toDate(dateAndTime[0]).toISOString() === date.toISOString()) {
+          open = true
+        }
+      } catch (e) {
+        console.log(`${dateAndTime} not valid hours-exc for ${d['name']}`)
       }
     })
     if (open) {
