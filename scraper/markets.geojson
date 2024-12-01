@@ -4297,7 +4297,7 @@
     "w3": "https://www.muetterzentrum-leipzig.de/veranstaltungen/list/page/4/?tribe_venues%5B0%5D=4722",
     "bemerkungen": "<a class='text-sm underline' target='blank' href='https://www.muetterzentrum-leipzig.de/veranstaltung/weihnachtsfeier-thekla/2024-12-12/'>Offizielle Seite</a>",
     "lat": 51.37630569508019,
-    "lng": 112.43360952186765,
+    "lng": 12.433609521867652,
     "rss_titel": "Weihnachtsmärktchen & Adventsfeier",
     "rss_beschreibung": "Bald schon ist Weihnachtszeit, fröhliche Zeit Nun ist der Weihnachtsmann gar nicht mehr weit! In zwölf Tagen ist Heiligabend...",
     "immer-kostenlos": 1,
@@ -4324,7 +4324,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      112.43360952186765,
+      12.433609521867652,
       51.37630569508019
     ]
   }
