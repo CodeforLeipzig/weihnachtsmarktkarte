@@ -1,0 +1,315 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Haus S 16
+X-WR-CALNAME:Haus S 16
+BEGIN:VEVENT
+UID:1075e7b9-7d77-4093-bcc0-5213a173a822
+SEQUENCE:0
+DTSTAMP:20241201T165441Z
+DTSTART:20241126T100000Z
+DTEND:20241126T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:e6ff804a-e50d-4204-bf73-e4c41f057348
+SEQUENCE:1
+DTSTAMP:20241201T165441Z
+DTSTART:20241127T100000Z
+DTEND:20241127T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:c07947ea-6dbf-44aa-acef-5b14fc6d6d43
+SEQUENCE:2
+DTSTAMP:20241201T165441Z
+DTSTART:20241128T100000Z
+DTEND:20241128T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:53bf68c7-f251-46de-86e7-a170bee30e75
+SEQUENCE:3
+DTSTAMP:20241201T165441Z
+DTSTART:20241129T100000Z
+DTEND:20241129T210000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:24371ef0-e5ff-46cd-a9f9-86353c90f3e3
+SEQUENCE:4
+DTSTAMP:20241201T165441Z
+DTSTART:20241130T100000Z
+DTEND:20241130T210000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:54c21159-06bd-4d9b-a359-9aaaec173699
+SEQUENCE:5
+DTSTAMP:20241201T165441Z
+DTSTART:20241201T100000Z
+DTEND:20241201T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:c11008f6-81f5-455f-904e-8c5729a5bd1c
+SEQUENCE:6
+DTSTAMP:20241201T165441Z
+DTSTART:20241202T100000Z
+DTEND:20241202T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:f28dca74-ab3b-4c2c-8520-2058aa9e40be
+SEQUENCE:7
+DTSTAMP:20241201T165441Z
+DTSTART:20241203T100000Z
+DTEND:20241203T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:a19bb941-2347-435c-ad58-e0f25432c6d3
+SEQUENCE:8
+DTSTAMP:20241201T165441Z
+DTSTART:20241204T100000Z
+DTEND:20241204T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:460c7a41-3f28-46fc-b368-ae36df279a22
+SEQUENCE:9
+DTSTAMP:20241201T165441Z
+DTSTART:20241205T100000Z
+DTEND:20241205T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:dc828bf9-2848-49ca-9e0b-66abac3dc3fc
+SEQUENCE:10
+DTSTAMP:20241201T165441Z
+DTSTART:20241206T100000Z
+DTEND:20241206T210000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:4f40c782-f856-4c2e-ac09-9d1f2a797e9a
+SEQUENCE:11
+DTSTAMP:20241201T165441Z
+DTSTART:20241207T100000Z
+DTEND:20241207T210000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:edc3e8ff-6944-4022-bfd6-eeba609c7351
+SEQUENCE:12
+DTSTAMP:20241201T165441Z
+DTSTART:20241208T100000Z
+DTEND:20241208T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:05f7c1bb-e542-430d-9f47-ff189e486aba
+SEQUENCE:13
+DTSTAMP:20241201T165441Z
+DTSTART:20241209T100000Z
+DTEND:20241209T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:033cfb4b-59bf-4838-9488-841dd67b66a2
+SEQUENCE:14
+DTSTAMP:20241201T165441Z
+DTSTART:20241210T100000Z
+DTEND:20241210T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:691c58ec-46b9-4e31-84e8-dcd98d98170f
+SEQUENCE:15
+DTSTAMP:20241201T165441Z
+DTSTART:20241211T100000Z
+DTEND:20241211T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:76202533-06c7-42f1-b574-36432a398a75
+SEQUENCE:16
+DTSTAMP:20241201T165441Z
+DTSTART:20241212T100000Z
+DTEND:20241212T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:676ec2a9-9357-48d8-b298-68ec37b5b29e
+SEQUENCE:17
+DTSTAMP:20241201T165441Z
+DTSTART:20241213T100000Z
+DTEND:20241213T210000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:823ef59e-d478-4f88-9bdb-3d1c3f889b40
+SEQUENCE:18
+DTSTAMP:20241201T165441Z
+DTSTART:20241214T100000Z
+DTEND:20241214T210000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:2bf0e252-fb1b-489d-a8c1-de803878e384
+SEQUENCE:19
+DTSTAMP:20241201T165441Z
+DTSTART:20241215T100000Z
+DTEND:20241215T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:27b85cb4-fd61-4d05-9316-01f8e2b6d5e6
+SEQUENCE:20
+DTSTAMP:20241201T165441Z
+DTSTART:20241216T100000Z
+DTEND:20241216T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:503410e6-e459-42de-9532-4f66e66f1286
+SEQUENCE:21
+DTSTAMP:20241201T165441Z
+DTSTART:20241217T100000Z
+DTEND:20241217T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:a1bfc80d-e9ae-454c-8e23-df05ac18b096
+SEQUENCE:22
+DTSTAMP:20241201T165441Z
+DTSTART:20241218T100000Z
+DTEND:20241218T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:fb2edd15-c933-43e6-9d04-fc9c83e5edba
+SEQUENCE:23
+DTSTAMP:20241201T165441Z
+DTSTART:20241219T100000Z
+DTEND:20241219T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:6b85614c-1fec-4b02-bfaf-ec0bee2694ce
+SEQUENCE:24
+DTSTAMP:20241201T165441Z
+DTSTART:20241220T100000Z
+DTEND:20241220T210000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:d65f740f-ba43-44c1-8747-8a0535add925
+SEQUENCE:25
+DTSTAMP:20241201T165441Z
+DTSTART:20241221T100000Z
+DTEND:20241221T210000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:e3a66ccb-c780-48da-8843-4ed454e69f59
+SEQUENCE:26
+DTSTAMP:20241201T165441Z
+DTSTART:20241222T100000Z
+DTEND:20241222T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:3398ba78-566b-4d38-8867-85a903e96302
+SEQUENCE:27
+DTSTAMP:20241201T165441Z
+DTSTART:20241223T100000Z
+DTEND:20241223T200000Z
+SUMMARY:Haus S 16
+LOCATION:Salzgäßchen\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Heilandskirche in Plagwitz
+X-WR-CALNAME:Heilandskirche in Plagwitz
+BEGIN:VEVENT
+UID:fb35d387-843e-4323-8af3-6e2d0db840f7
+SEQUENCE:0
+DTSTAMP:20241201T165350Z
+DTSTART:20241207T130000Z
+DTEND:20241207T170000Z
+SUMMARY:Heilandskirche in Plagwitz
+LOCATION:Weißenfelser Straße 16\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/alternativer-adventsmarkt
+END:VEVENT
+END:VCALENDAR

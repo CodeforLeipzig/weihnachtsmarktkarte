@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Adventsmarkt im Kulturhof Gohlis
+X-WR-CALNAME:Adventsmarkt im Kulturhof Gohlis
+BEGIN:VEVENT
+UID:35779499-31b3-4e98-a1e5-786ef0f4eca1
+SEQUENCE:0
+DTSTAMP:20241201T165350Z
+DTSTART:20241130T120000Z
+DTEND:20241130T190000Z
+SUMMARY:Adventsmarkt im Kulturhof Gohlis
+LOCATION:Eisenacher Str. 72\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/adventsmarkt-3-20241130
+END:VEVENT
+BEGIN:VEVENT
+UID:1231d6c4-7d93-44df-a067-7bb1db8c84dc
+SEQUENCE:1
+DTSTAMP:20241201T165350Z
+DTSTART:20241201T100000Z
+DTEND:20241201T170000Z
+SUMMARY:Adventsmarkt im Kulturhof Gohlis
+LOCATION:Eisenacher Str. 72\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/adventsmarkt-3-20241130
+END:VEVENT
+END:VCALENDAR

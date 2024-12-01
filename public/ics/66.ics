@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Adventsmusik der Musikschule Leipzig
+X-WR-CALNAME:Adventsmusik der Musikschule Leipzig
+BEGIN:VEVENT
+UID:085ae06c-c8fb-4d0e-b964-97571e025f74
+SEQUENCE:0
+DTSTAMP:20241201T165351Z
+DTSTART:20241202T160000Z
+DTEND:20241202T225900Z
+SUMMARY:Adventsmusik der Musikschule Leipzig
+LOCATION:Petersstraße 43\, 04109 Leipzig
+URL;VALUE=URI:https://www.musikschule-leipzig.de/veranstaltung/adventsmusi
+ k-im-musikschulhof/
+END:VEVENT
+BEGIN:VEVENT
+UID:e3a2290c-cffa-4f32-a248-46ca36df16e2
+SEQUENCE:1
+DTSTAMP:20241201T165351Z
+DTSTART:20241203T160000Z
+DTEND:20241203T225900Z
+SUMMARY:Adventsmusik der Musikschule Leipzig
+LOCATION:Petersstraße 43\, 04109 Leipzig
+URL;VALUE=URI:https://www.musikschule-leipzig.de/veranstaltung/adventsmusi
+ k-im-musikschulhof/
+END:VEVENT
+BEGIN:VEVENT
+UID:6fd8a0e6-5f94-47bd-8c5b-4b5383df7014
+SEQUENCE:2
+DTSTAMP:20241201T165351Z
+DTSTART:20241204T160000Z
+DTEND:20241204T225900Z
+SUMMARY:Adventsmusik der Musikschule Leipzig
+LOCATION:Petersstraße 43\, 04109 Leipzig
+URL;VALUE=URI:https://www.musikschule-leipzig.de/veranstaltung/adventsmusi
+ k-im-musikschulhof/
+END:VEVENT
+BEGIN:VEVENT
+UID:c3386d04-6c9a-41ef-af1b-48bc6e58a33b
+SEQUENCE:3
+DTSTAMP:20241201T165351Z
+DTSTART:20241205T160000Z
+DTEND:20241205T225900Z
+SUMMARY:Adventsmusik der Musikschule Leipzig
+LOCATION:Petersstraße 43\, 04109 Leipzig
+URL;VALUE=URI:https://www.musikschule-leipzig.de/veranstaltung/adventsmusi
+ k-im-musikschulhof/
+END:VEVENT
+BEGIN:VEVENT
+UID:ebf2bf80-923d-4d36-a97e-eb37460d4a36
+SEQUENCE:4
+DTSTAMP:20241201T165351Z
+DTSTART:20241206T160000Z
+DTEND:20241206T225900Z
+SUMMARY:Adventsmusik der Musikschule Leipzig
+LOCATION:Petersstraße 43\, 04109 Leipzig
+URL;VALUE=URI:https://www.musikschule-leipzig.de/veranstaltung/adventsmusi
+ k-im-musikschulhof/
+END:VEVENT
+END:VCALENDAR

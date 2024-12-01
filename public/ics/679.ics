@@ -1,0 +1,315 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Haus M 10/11
+X-WR-CALNAME:Haus M 10/11
+BEGIN:VEVENT
+UID:873ee2cb-065f-4dd8-9309-529ac2488a84
+SEQUENCE:0
+DTSTAMP:20241201T165424Z
+DTSTART:20241126T100000Z
+DTEND:20241126T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:824944ef-b4f9-4dcd-b1ad-e17686c610bf
+SEQUENCE:1
+DTSTAMP:20241201T165424Z
+DTSTART:20241127T100000Z
+DTEND:20241127T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:98a322b7-c9da-4bd5-bbcc-cc7e36c9ccc0
+SEQUENCE:2
+DTSTAMP:20241201T165424Z
+DTSTART:20241128T100000Z
+DTEND:20241128T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:22a59b00-5d88-4eda-9de2-d0a1e5ff30f7
+SEQUENCE:3
+DTSTAMP:20241201T165424Z
+DTSTART:20241129T100000Z
+DTEND:20241129T210000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:976f5186-d178-4003-802f-8c4001756939
+SEQUENCE:4
+DTSTAMP:20241201T165424Z
+DTSTART:20241130T100000Z
+DTEND:20241130T210000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:e9830464-5782-40fc-8ab0-aad3aff4b3f6
+SEQUENCE:5
+DTSTAMP:20241201T165424Z
+DTSTART:20241201T100000Z
+DTEND:20241201T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:b269fdd1-615a-4861-97f7-6d46d32786e1
+SEQUENCE:6
+DTSTAMP:20241201T165424Z
+DTSTART:20241202T100000Z
+DTEND:20241202T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:24b14814-d921-434b-85f7-c190a4c53540
+SEQUENCE:7
+DTSTAMP:20241201T165424Z
+DTSTART:20241203T100000Z
+DTEND:20241203T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:0c325366-7c17-42aa-bc67-57b41464f5ed
+SEQUENCE:8
+DTSTAMP:20241201T165424Z
+DTSTART:20241204T100000Z
+DTEND:20241204T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:6ed64887-45f5-4585-9713-9c9ecf786171
+SEQUENCE:9
+DTSTAMP:20241201T165424Z
+DTSTART:20241205T100000Z
+DTEND:20241205T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:80859be3-8894-4eb5-b96e-f6ef689efc94
+SEQUENCE:10
+DTSTAMP:20241201T165424Z
+DTSTART:20241206T100000Z
+DTEND:20241206T210000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:1e4ec1c3-560e-40cb-b171-685967883b87
+SEQUENCE:11
+DTSTAMP:20241201T165424Z
+DTSTART:20241207T100000Z
+DTEND:20241207T210000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:db914382-201c-4b70-87ad-91d3d671d702
+SEQUENCE:12
+DTSTAMP:20241201T165424Z
+DTSTART:20241208T100000Z
+DTEND:20241208T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:eea12d6b-3555-430e-a9f1-5ef020ec340f
+SEQUENCE:13
+DTSTAMP:20241201T165424Z
+DTSTART:20241209T100000Z
+DTEND:20241209T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:41dd2cd7-eb01-4af0-902c-5949b17a0a3a
+SEQUENCE:14
+DTSTAMP:20241201T165424Z
+DTSTART:20241210T100000Z
+DTEND:20241210T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:a5af6f39-cc93-418c-8e4f-d5c630c5419e
+SEQUENCE:15
+DTSTAMP:20241201T165424Z
+DTSTART:20241211T100000Z
+DTEND:20241211T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:07b71daf-5564-42a8-89eb-9cb3245a1feb
+SEQUENCE:16
+DTSTAMP:20241201T165424Z
+DTSTART:20241212T100000Z
+DTEND:20241212T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:bf9cb968-4c9f-43ae-983b-62a954b40a08
+SEQUENCE:17
+DTSTAMP:20241201T165424Z
+DTSTART:20241213T100000Z
+DTEND:20241213T210000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc46609-b88b-46ff-bbe0-5fcb393356d4
+SEQUENCE:18
+DTSTAMP:20241201T165424Z
+DTSTART:20241214T100000Z
+DTEND:20241214T210000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:f37e579b-f334-4ebd-957b-80b78e0a67b0
+SEQUENCE:19
+DTSTAMP:20241201T165424Z
+DTSTART:20241215T100000Z
+DTEND:20241215T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:deb35803-1942-4bfc-8a69-b17b5fe839a3
+SEQUENCE:20
+DTSTAMP:20241201T165424Z
+DTSTART:20241216T100000Z
+DTEND:20241216T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:7eab0caa-7001-4bd5-8371-9f89f36b174b
+SEQUENCE:21
+DTSTAMP:20241201T165424Z
+DTSTART:20241217T100000Z
+DTEND:20241217T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:c30b2821-ae62-425a-ae97-93c0b8c29fc1
+SEQUENCE:22
+DTSTAMP:20241201T165424Z
+DTSTART:20241218T100000Z
+DTEND:20241218T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:2eb4c43a-6766-49a1-a1ea-997c22c48a62
+SEQUENCE:23
+DTSTAMP:20241201T165424Z
+DTSTART:20241219T100000Z
+DTEND:20241219T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:bfcd308e-a96b-4c8c-972d-f48448d99d43
+SEQUENCE:24
+DTSTAMP:20241201T165424Z
+DTSTART:20241220T100000Z
+DTEND:20241220T210000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:fea4fe88-7223-4577-a3bb-b11b660c7de7
+SEQUENCE:25
+DTSTAMP:20241201T165424Z
+DTSTART:20241221T100000Z
+DTEND:20241221T210000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:ca77b0d1-97e1-4651-b5a1-c6ad9cc37a64
+SEQUENCE:26
+DTSTAMP:20241201T165424Z
+DTSTART:20241222T100000Z
+DTEND:20241222T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:7c21cb7a-c375-4d29-a9a1-ad739a7bae0a
+SEQUENCE:27
+DTSTAMP:20241201T165424Z
+DTSTART:20241223T100000Z
+DTEND:20241223T200000Z
+SUMMARY:Haus M 10/11
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+END:VCALENDAR

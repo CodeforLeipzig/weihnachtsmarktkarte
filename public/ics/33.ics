@@ -1,0 +1,370 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Felsenkeller Weihnachtsmarkt
+X-WR-CALNAME:Felsenkeller Weihnachtsmarkt
+BEGIN:VEVENT
+UID:def92fa2-e139-4b60-b31d-d58224959a8f
+SEQUENCE:0
+DTSTAMP:20241201T165351Z
+DTSTART:20241128T140000Z
+DTEND:20241128T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:aaeff2b4-7723-4b2e-887f-4645ce9a3104
+SEQUENCE:1
+DTSTAMP:20241201T165351Z
+DTSTART:20241129T140000Z
+DTEND:20241129T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:abd643b4-a2a0-42eb-9973-7644f7b392b2
+SEQUENCE:2
+DTSTAMP:20241201T165351Z
+DTSTART:20241130T100000Z
+DTEND:20241130T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:7ba9e8a2-3689-47aa-a243-2bd20dc5d85f
+SEQUENCE:3
+DTSTAMP:20241201T165351Z
+DTSTART:20241201T100000Z
+DTEND:20241201T190000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:df51ac6a-5d81-4bdb-b2d4-44c64653fc02
+SEQUENCE:4
+DTSTAMP:20241201T165351Z
+DTSTART:20241202T140000Z
+DTEND:20241202T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:a0e0e5ec-9a92-4792-8d43-32331452626d
+SEQUENCE:5
+DTSTAMP:20241201T165351Z
+DTSTART:20241203T140000Z
+DTEND:20241203T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:35f04e08-1768-4478-b437-e401d8921da5
+SEQUENCE:6
+DTSTAMP:20241201T165351Z
+DTSTART:20241204T140000Z
+DTEND:20241204T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:09f4dbae-1efe-4f21-a3ae-2573556e2e12
+SEQUENCE:7
+DTSTAMP:20241201T165351Z
+DTSTART:20241205T140000Z
+DTEND:20241205T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:0e3509f5-0d30-4c21-aa80-736496ddf362
+SEQUENCE:8
+DTSTAMP:20241201T165351Z
+DTSTART:20241206T140000Z
+DTEND:20241206T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:0fbfd69c-f299-41f7-a79e-d5b129dd1cfd
+SEQUENCE:9
+DTSTAMP:20241201T165351Z
+DTSTART:20241207T100000Z
+DTEND:20241207T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:1e7e01ae-8b38-4c5b-a7b5-e3b7bd5400f7
+SEQUENCE:10
+DTSTAMP:20241201T165351Z
+DTSTART:20241208T100000Z
+DTEND:20241208T190000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:5d5883db-2d71-43ab-b2cd-c5b77089b4ac
+SEQUENCE:11
+DTSTAMP:20241201T165351Z
+DTSTART:20241209T140000Z
+DTEND:20241209T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:948b4a1e-62f3-4a17-ba70-1695e7d92b6d
+SEQUENCE:12
+DTSTAMP:20241201T165351Z
+DTSTART:20241210T140000Z
+DTEND:20241210T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:a2c95c10-c014-4590-b3e6-8aef64d34f66
+SEQUENCE:13
+DTSTAMP:20241201T165351Z
+DTSTART:20241211T140000Z
+DTEND:20241211T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:9f1a4cf4-465d-48b7-a050-d89009068fc5
+SEQUENCE:14
+DTSTAMP:20241201T165351Z
+DTSTART:20241212T140000Z
+DTEND:20241212T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:51646bfc-69d9-48ef-a57a-e146d0eb1e3a
+SEQUENCE:15
+DTSTAMP:20241201T165351Z
+DTSTART:20241213T140000Z
+DTEND:20241213T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:dc4d21d3-88ab-46a4-bbc3-e528ba84d35f
+SEQUENCE:16
+DTSTAMP:20241201T165351Z
+DTSTART:20241214T100000Z
+DTEND:20241214T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:16bf1b34-4ecd-4a99-9503-4854d8987158
+SEQUENCE:17
+DTSTAMP:20241201T165351Z
+DTSTART:20241215T100000Z
+DTEND:20241215T190000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:3892cf96-c08f-4f5c-b9c7-f2f40c468195
+SEQUENCE:18
+DTSTAMP:20241201T165351Z
+DTSTART:20241216T140000Z
+DTEND:20241216T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:280b4f71-58ba-4013-b403-2fa37db196f6
+SEQUENCE:19
+DTSTAMP:20241201T165351Z
+DTSTART:20241217T140000Z
+DTEND:20241217T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc8c052-902d-4dc1-bfae-7f22edaf9b4b
+SEQUENCE:20
+DTSTAMP:20241201T165351Z
+DTSTART:20241218T140000Z
+DTEND:20241218T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:4aa0babd-f1be-4666-b7a1-e6657ca1c5c1
+SEQUENCE:21
+DTSTAMP:20241201T165351Z
+DTSTART:20241219T140000Z
+DTEND:20241219T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:2fea1e91-970a-4338-ad3e-78b6845a1e9f
+SEQUENCE:22
+DTSTAMP:20241201T165351Z
+DTSTART:20241220T140000Z
+DTEND:20241220T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:da1ce512-6017-4baa-85d1-bf37a8bda868
+SEQUENCE:23
+DTSTAMP:20241201T165351Z
+DTSTART:20241221T100000Z
+DTEND:20241221T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:5910115b-1425-48af-b6f4-012974c01ffd
+SEQUENCE:24
+DTSTAMP:20241201T165351Z
+DTSTART:20241222T100000Z
+DTEND:20241222T190000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:32e3217c-3904-4e9e-84e9-778513ebb2b3
+SEQUENCE:25
+DTSTAMP:20241201T165351Z
+DTSTART:20241223T140000Z
+DTEND:20241223T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:9de5ccd7-467b-4d6a-b3f4-d1cb4e66790e
+SEQUENCE:26
+DTSTAMP:20241201T165351Z
+DTSTART:20241224T140000Z
+DTEND:20241224T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:f8320d51-70c9-4f1e-9c5c-e0ab1bc7a657
+SEQUENCE:27
+DTSTAMP:20241201T165351Z
+DTSTART:20241225T140000Z
+DTEND:20241225T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:4f067022-935e-4f01-8969-61ebcdfc4cdf
+SEQUENCE:28
+DTSTAMP:20241201T165351Z
+DTSTART:20241226T140000Z
+DTEND:20241226T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:9e2295ad-9839-4299-b023-9d5b5f233424
+SEQUENCE:29
+DTSTAMP:20241201T165351Z
+DTSTART:20241227T140000Z
+DTEND:20241227T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:8bee22f7-b449-41ad-84b6-b0112443cd7f
+SEQUENCE:30
+DTSTAMP:20241201T165351Z
+DTSTART:20241228T100000Z
+DTEND:20241228T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:00c07cc7-515d-4c06-91f5-59c194b6270b
+SEQUENCE:31
+DTSTAMP:20241201T165351Z
+DTSTART:20241229T100000Z
+DTEND:20241229T190000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:b275181c-e731-4fff-a0dc-c8381563ac9c
+SEQUENCE:32
+DTSTAMP:20241201T165351Z
+DTSTART:20241230T140000Z
+DTEND:20241230T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-3
+END:VEVENT
+END:VCALENDAR

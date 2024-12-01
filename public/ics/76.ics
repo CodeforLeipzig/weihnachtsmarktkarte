@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Sellerhäuser Adventslicht
+X-WR-CALNAME:Sellerhäuser Adventslicht
+BEGIN:VEVENT
+UID:8d6fb90f-bdee-441f-a168-8b6adc4b187e
+SEQUENCE:0
+DTSTAMP:20241201T165352Z
+DTSTART:20241208T130000Z
+DTEND:20241208T160000Z
+SUMMARY:Sellerhäuser Adventslicht
+LOCATION:Wurzner Straße 160\, 04318 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/sellerhaeuser-adventslicht-1
+END:VEVENT
+END:VCALENDAR

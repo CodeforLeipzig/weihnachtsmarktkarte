@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:LVZ-Budenzauber
+X-WR-CALNAME:LVZ-Budenzauber
+BEGIN:VEVENT
+UID:2b35b755-9f22-4954-98aa-37575f10a957
+SEQUENCE:0
+DTSTAMP:20241201T165353Z
+DTSTART:20241214T120000Z
+DTEND:20241214T190000Z
+SUMMARY:LVZ-Budenzauber
+LOCATION:Peterssteinweg 19\, 04107 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/lvz-budenzauber-20241217
+END:VEVENT
+BEGIN:VEVENT
+UID:49c6f965-b303-49f0-8090-8682ce30dc4d
+SEQUENCE:1
+DTSTAMP:20241201T165353Z
+DTSTART:20241215T120000Z
+DTEND:20241215T190000Z
+SUMMARY:LVZ-Budenzauber
+LOCATION:Peterssteinweg 19\, 04107 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/lvz-budenzauber-20241217
+END:VEVENT
+BEGIN:VEVENT
+UID:3351c898-48af-4dea-bb76-df3153591bb0
+SEQUENCE:2
+DTSTAMP:20241201T165353Z
+DTSTART:20241216T140000Z
+DTEND:20241216T190000Z
+SUMMARY:LVZ-Budenzauber
+LOCATION:Peterssteinweg 19\, 04107 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/lvz-budenzauber-20241217
+END:VEVENT
+BEGIN:VEVENT
+UID:3ada0bc9-084f-48d9-9fc1-2d9721b961b7
+SEQUENCE:3
+DTSTAMP:20241201T165353Z
+DTSTART:20241217T140000Z
+DTEND:20241217T190000Z
+SUMMARY:LVZ-Budenzauber
+LOCATION:Peterssteinweg 19\, 04107 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/lvz-budenzauber-20241217
+END:VEVENT
+END:VCALENDAR

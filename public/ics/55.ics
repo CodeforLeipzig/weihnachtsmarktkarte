@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:TV-Club Weihnachtsmarkt
+X-WR-CALNAME:TV-Club Weihnachtsmarkt
+BEGIN:VEVENT
+UID:c910f91c-30bc-4f5e-b1d7-9c9e4177d3d9
+SEQUENCE:0
+DTSTAMP:20241201T165351Z
+DTSTART:20241208T130000Z
+DTEND:20241208T190000Z
+SUMMARY:TV-Club Weihnachtsmarkt
+LOCATION:Theresienstr. 2\, 04105 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-16
+END:VEVENT
+END:VCALENDAR

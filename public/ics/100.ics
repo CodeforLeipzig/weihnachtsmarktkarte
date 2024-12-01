@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:biocity Leipzig
+X-WR-CALNAME:biocity Leipzig
+BEGIN:VEVENT
+UID:6be1b970-465c-4b5d-955a-2da2f4e3c47f
+SEQUENCE:0
+DTSTAMP:20241201T165353Z
+DTSTART:20241203T110000Z
+DTEND:20241203T143000Z
+SUMMARY:biocity Leipzig
+LOCATION:Deutscher Platz 5\, 04103 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-im-foyer-der-bio-ci
+ ty
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Adventsmarkt Kees'scher Park
+X-WR-CALNAME:Adventsmarkt Kees'scher Park
+BEGIN:VEVENT
+UID:e4f461fc-cf1a-4d2a-954e-998d2417a866
+SEQUENCE:0
+DTSTAMP:20241201T165350Z
+DTSTART:20241201T100000Z
+DTEND:20241201T170000Z
+SUMMARY:Adventsmarkt Kees'scher Park
+LOCATION:Kees'scher Park 1\, 04416 Markkleeberg
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/adventsmarkt-von-brot-kees
+END:VEVENT
+END:VCALENDAR

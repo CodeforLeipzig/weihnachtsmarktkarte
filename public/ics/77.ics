@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Chemischer Weihnachtsmarkt
+X-WR-CALNAME:Chemischer Weihnachtsmarkt
+BEGIN:VEVENT
+UID:0681ae67-5f0f-46d2-a16a-2197729ac335
+SEQUENCE:0
+DTSTAMP:20241201T165352Z
+DTSTART:20241207T120000Z
+DTEND:20241207T200000Z
+SUMMARY:Chemischer Weihnachtsmarkt
+LOCATION:Am Sportpark 2\, 04179 Leipzig
+URL;VALUE=URI:https://www.regioactive.de/markt/chemischer-weihnachtsmarkt-
+ 2024-leipzig-leutzsch-alfred-kunze-sportpark-2024-12-07-wpYmxh8gbj
+END:VEVENT
+END:VCALENDAR

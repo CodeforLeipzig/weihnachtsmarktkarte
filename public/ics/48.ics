@@ -1,0 +1,403 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Winterdorf Paunsdorf
+X-WR-CALNAME:Winterdorf Paunsdorf
+BEGIN:VEVENT
+UID:304b8a4a-5218-4711-bc93-e87958255e5c
+SEQUENCE:0
+DTSTAMP:20241201T165351Z
+DTSTART:20241121T090000Z
+DTEND:20241121T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ea14a0ea-854d-4585-a114-bcf9dc3cccf8
+SEQUENCE:1
+DTSTAMP:20241201T165351Z
+DTSTART:20241122T090000Z
+DTEND:20241122T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:e6bdf591-2c69-4caa-afd2-9a96b7d766a4
+SEQUENCE:2
+DTSTAMP:20241201T165351Z
+DTSTART:20241123T090000Z
+DTEND:20241123T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:a895d97f-d420-4e5b-b692-6dd5745554c3
+SEQUENCE:3
+DTSTAMP:20241201T165351Z
+DTSTART:20241124T100000Z
+DTEND:20241124T180000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:a6cbbc83-7c0d-4a85-9eda-00ebb570b50e
+SEQUENCE:4
+DTSTAMP:20241201T165351Z
+DTSTART:20241125T090000Z
+DTEND:20241125T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:a43843e8-e191-49d8-ac80-3a88cb23e9ce
+SEQUENCE:5
+DTSTAMP:20241201T165351Z
+DTSTART:20241126T090000Z
+DTEND:20241126T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:220848c1-6cea-42bd-a01f-c11d821b2421
+SEQUENCE:6
+DTSTAMP:20241201T165351Z
+DTSTART:20241127T090000Z
+DTEND:20241127T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:952d1562-8b5a-4f4d-99b3-c5f4a6d416c5
+SEQUENCE:7
+DTSTAMP:20241201T165351Z
+DTSTART:20241128T090000Z
+DTEND:20241128T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:7c55ccfc-a892-4be8-9d5d-7ee83e465832
+SEQUENCE:8
+DTSTAMP:20241201T165351Z
+DTSTART:20241129T090000Z
+DTEND:20241129T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:c5ac20c8-148b-4e8f-9031-e3e86298cada
+SEQUENCE:9
+DTSTAMP:20241201T165351Z
+DTSTART:20241130T090000Z
+DTEND:20241130T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:69c75f39-cde0-463d-afa7-6b290cba0636
+SEQUENCE:10
+DTSTAMP:20241201T165351Z
+DTSTART:20241201T100000Z
+DTEND:20241201T180000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:b59a470c-b36c-4972-9e76-f3b3b9edc4e2
+SEQUENCE:11
+DTSTAMP:20241201T165351Z
+DTSTART:20241202T090000Z
+DTEND:20241202T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ab343438-ed40-49ca-ba7e-9fba23e27333
+SEQUENCE:12
+DTSTAMP:20241201T165351Z
+DTSTART:20241203T090000Z
+DTEND:20241203T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:54d82136-ab2a-49e6-9529-b3b74cd4e0ce
+SEQUENCE:13
+DTSTAMP:20241201T165351Z
+DTSTART:20241204T090000Z
+DTEND:20241204T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:9c2bf46d-a84c-459e-81e6-dc93bb808e86
+SEQUENCE:14
+DTSTAMP:20241201T165351Z
+DTSTART:20241205T090000Z
+DTEND:20241205T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:463638c1-2969-4142-aeae-e03ec8e83895
+SEQUENCE:15
+DTSTAMP:20241201T165351Z
+DTSTART:20241206T090000Z
+DTEND:20241206T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:4f8b25de-1af2-4664-a347-862bdb54d650
+SEQUENCE:16
+DTSTAMP:20241201T165351Z
+DTSTART:20241207T090000Z
+DTEND:20241207T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb59e7f-09db-43e0-bbf9-47fd8b8a1c6e
+SEQUENCE:17
+DTSTAMP:20241201T165351Z
+DTSTART:20241208T100000Z
+DTEND:20241208T180000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:af97528b-bd46-48da-8224-07c3a1278eef
+SEQUENCE:18
+DTSTAMP:20241201T165351Z
+DTSTART:20241209T090000Z
+DTEND:20241209T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:88897d92-21ec-45ca-9011-3e94ddf0b1f0
+SEQUENCE:19
+DTSTAMP:20241201T165351Z
+DTSTART:20241210T090000Z
+DTEND:20241210T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:e70321ae-8a47-4bab-a9c7-bd3da997180a
+SEQUENCE:20
+DTSTAMP:20241201T165351Z
+DTSTART:20241211T090000Z
+DTEND:20241211T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:c4ee9812-5c95-417f-b474-5ca2f9dd2b75
+SEQUENCE:21
+DTSTAMP:20241201T165351Z
+DTSTART:20241212T090000Z
+DTEND:20241212T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:e53ba186-c1c7-4ec4-9133-7d622c186ee4
+SEQUENCE:22
+DTSTAMP:20241201T165351Z
+DTSTART:20241213T090000Z
+DTEND:20241213T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:e9b40a0d-2f79-44f6-97db-028ff006c9c0
+SEQUENCE:23
+DTSTAMP:20241201T165351Z
+DTSTART:20241214T090000Z
+DTEND:20241214T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:188f807c-0589-42ff-8e54-42d34457a631
+SEQUENCE:24
+DTSTAMP:20241201T165351Z
+DTSTART:20241215T100000Z
+DTEND:20241215T180000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:affa5470-9a7b-434b-bb30-6d2f4484501a
+SEQUENCE:25
+DTSTAMP:20241201T165351Z
+DTSTART:20241216T090000Z
+DTEND:20241216T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:9d1fcfe4-d00c-401e-a8f7-21734e1c8ae7
+SEQUENCE:26
+DTSTAMP:20241201T165351Z
+DTSTART:20241217T090000Z
+DTEND:20241217T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:f1d1340b-ff23-4205-9cd1-a5201a21219f
+SEQUENCE:27
+DTSTAMP:20241201T165351Z
+DTSTART:20241218T090000Z
+DTEND:20241218T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:48130c76-df97-440c-b8c4-8ac3f4152b70
+SEQUENCE:28
+DTSTAMP:20241201T165351Z
+DTSTART:20241219T090000Z
+DTEND:20241219T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ba284044-cc3f-4a46-a4b5-1fbcaa4e50c8
+SEQUENCE:29
+DTSTAMP:20241201T165351Z
+DTSTART:20241220T090000Z
+DTEND:20241220T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:70e2b7f6-15ee-4424-8a40-910097e15c81
+SEQUENCE:30
+DTSTAMP:20241201T165351Z
+DTSTART:20241221T090000Z
+DTEND:20241221T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:c4d93fb3-e750-4636-91d8-d323bbb7a29b
+SEQUENCE:31
+DTSTAMP:20241201T165351Z
+DTSTART:20241222T100000Z
+DTEND:20241222T180000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:665471bb-92f4-4a7c-b066-cddecdc93602
+SEQUENCE:32
+DTSTAMP:20241201T165351Z
+DTSTART:20241223T090000Z
+DTEND:20241223T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:762a8de2-29b4-4386-aee3-eb9ad1556fa9
+SEQUENCE:33
+DTSTAMP:20241201T165351Z
+DTSTART:20241224T090000Z
+DTEND:20241224T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:b79455fb-07e8-4aac-84bb-e8501307ef68
+SEQUENCE:34
+DTSTAMP:20241201T165351Z
+DTSTART:20241225T090000Z
+DTEND:20241225T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:096ea60d-c367-4e6f-9929-c147c4286d84
+SEQUENCE:35
+DTSTAMP:20241201T165351Z
+DTSTART:20241226T090000Z
+DTEND:20241226T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-2
+END:VEVENT
+END:VCALENDAR

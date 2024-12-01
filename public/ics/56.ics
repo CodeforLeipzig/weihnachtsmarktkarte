@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Kulturhaus Weihnachtsmarkt
+X-WR-CALNAME:Kulturhaus Weihnachtsmarkt
+BEGIN:VEVENT
+UID:35916658-5614-4bab-ab6e-2eae11356e7e
+SEQUENCE:0
+DTSTAMP:20241201T165351Z
+DTSTART:20241203T130000Z
+DTEND:20241203T180000Z
+SUMMARY:Kulturhaus Weihnachtsmarkt
+LOCATION:Thaerstraße 39\, 04129 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-24
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Veganer Weihnachtsmarkt Pittlerwerke
+X-WR-CALNAME:Veganer Weihnachtsmarkt Pittlerwerke
+BEGIN:VEVENT
+UID:4d99c6e8-8f65-40ac-90d5-40f5426c7745
+SEQUENCE:0
+DTSTAMP:20241201T165352Z
+DTSTART:20241214T110000Z
+DTEND:20241214T200000Z
+SUMMARY:Veganer Weihnachtsmarkt Pittlerwerke
+LOCATION:Polyphonstr. 8\, 04159 Leipzig
+URL;VALUE=URI:https://pittlerwerke.org/events/2024/11/6/46870602-Veganer-W
+ eihnachtsmarkt/
+END:VEVENT
+BEGIN:VEVENT
+UID:51ef6620-7b1e-423a-bf1e-3b9a210754c7
+SEQUENCE:1
+DTSTAMP:20241201T165352Z
+DTSTART:20241215T110000Z
+DTEND:20241215T190000Z
+SUMMARY:Veganer Weihnachtsmarkt Pittlerwerke
+LOCATION:Polyphonstr. 8\, 04159 Leipzig
+URL;VALUE=URI:https://pittlerwerke.org/events/2024/11/6/46870602-Veganer-W
+ eihnachtsmarkt/
+END:VEVENT
+END:VCALENDAR

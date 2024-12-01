@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Adventsmarkt in Oststraße 181b
+X-WR-CALNAME:Adventsmarkt in Oststraße 181b
+BEGIN:VEVENT
+UID:d87010b8-4b5d-4cfc-82b8-be91a618940f
+SEQUENCE:0
+DTSTAMP:20241201T165352Z
+DTSTART:20241207T140000Z
+DTEND:20241207T190000Z
+SUMMARY:Adventsmarkt in Oststraße 181b
+LOCATION:Oststraße 181b\, 04299 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/adventsmarkt-7
+END:VEVENT
+END:VCALENDAR

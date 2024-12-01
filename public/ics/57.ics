@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Blau Weiße Weihnacht
+X-WR-CALNAME:Blau Weiße Weihnacht
+BEGIN:VEVENT
+UID:87223cbf-4608-481e-8e29-45c26f8ca28e
+SEQUENCE:0
+DTSTAMP:20241201T165351Z
+DTSTART:20241211T163000Z
+DTEND:20241211T210000Z
+SUMMARY:Blau Weiße Weihnacht
+LOCATION:Schwedenstr. 23c\, 04420 Markranstädt
+URL;VALUE=URI:https://www.blau-weiss-leipzig.de/weihnachtssingen
+END:VEVENT
+END:VCALENDAR

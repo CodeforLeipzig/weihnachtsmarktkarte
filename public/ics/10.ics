@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Hof-Advent
+X-WR-CALNAME:Hof-Advent
+BEGIN:VEVENT
+UID:1cc25ef5-d3d4-4bf8-a005-49cb61153d68
+SEQUENCE:0
+DTSTAMP:20241201T165350Z
+DTSTART:20241214T130000Z
+DTEND:20241214T190000Z
+SUMMARY:Hof-Advent
+LOCATION:Markt 11\, 04288 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/hof-advent
+END:VEVENT
+BEGIN:VEVENT
+UID:7221e192-f1ac-4819-b78a-fa9a60685600
+SEQUENCE:1
+DTSTAMP:20241201T165350Z
+DTSTART:20241215T130000Z
+DTEND:20241215T170000Z
+SUMMARY:Hof-Advent
+LOCATION:Markt 11\, 04288 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/hof-advent
+END:VEVENT
+END:VCALENDAR

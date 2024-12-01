@@ -1,0 +1,315 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Haus G 06
+X-WR-CALNAME:Haus G 06
+BEGIN:VEVENT
+UID:419abbc1-bc15-435b-b272-258fcad4ae68
+SEQUENCE:0
+DTSTAMP:20241201T165401Z
+DTSTART:20241126T100000Z
+DTEND:20241126T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:f2a06b74-66fc-486e-843b-a620ae7c24bc
+SEQUENCE:1
+DTSTAMP:20241201T165401Z
+DTSTART:20241127T100000Z
+DTEND:20241127T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:ff9315f3-a85c-4863-a2ac-9f6eb172c61f
+SEQUENCE:2
+DTSTAMP:20241201T165401Z
+DTSTART:20241128T100000Z
+DTEND:20241128T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:2af35b56-12e9-445c-a330-da8942926189
+SEQUENCE:3
+DTSTAMP:20241201T165401Z
+DTSTART:20241129T100000Z
+DTEND:20241129T210000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:f3c8ca65-112e-4778-8e35-a779f9e529c1
+SEQUENCE:4
+DTSTAMP:20241201T165401Z
+DTSTART:20241130T100000Z
+DTEND:20241130T210000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:5cf5fb63-7cc1-4d85-8cbb-f9ef4310c6fe
+SEQUENCE:5
+DTSTAMP:20241201T165401Z
+DTSTART:20241201T100000Z
+DTEND:20241201T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:1e0e0139-404a-4912-b02b-986c39906856
+SEQUENCE:6
+DTSTAMP:20241201T165401Z
+DTSTART:20241202T100000Z
+DTEND:20241202T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:4e905acb-8a1e-41d1-91a8-81e7c21d86c9
+SEQUENCE:7
+DTSTAMP:20241201T165401Z
+DTSTART:20241203T100000Z
+DTEND:20241203T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:ec678c4b-99f9-4738-a9ec-48be9291a2ec
+SEQUENCE:8
+DTSTAMP:20241201T165401Z
+DTSTART:20241204T100000Z
+DTEND:20241204T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc3a9f8-83e5-43cb-8155-8afb5879161d
+SEQUENCE:9
+DTSTAMP:20241201T165401Z
+DTSTART:20241205T100000Z
+DTEND:20241205T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:3eadb56a-66a2-446d-bdc8-377ce7dd2ca1
+SEQUENCE:10
+DTSTAMP:20241201T165401Z
+DTSTART:20241206T100000Z
+DTEND:20241206T210000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:bde3c99d-ecdb-4819-a41f-49ab538375d4
+SEQUENCE:11
+DTSTAMP:20241201T165401Z
+DTSTART:20241207T100000Z
+DTEND:20241207T210000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:1fbc5688-8f02-4af3-ada1-63fb03e32eb9
+SEQUENCE:12
+DTSTAMP:20241201T165401Z
+DTSTART:20241208T100000Z
+DTEND:20241208T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:46f65276-647d-4a4d-89b8-280375c973e0
+SEQUENCE:13
+DTSTAMP:20241201T165401Z
+DTSTART:20241209T100000Z
+DTEND:20241209T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:db4bbd8b-f4a8-4f85-abd3-ebd5886672c2
+SEQUENCE:14
+DTSTAMP:20241201T165401Z
+DTSTART:20241210T100000Z
+DTEND:20241210T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:17bd53c8-831f-4cbb-9c61-d5efa183efe6
+SEQUENCE:15
+DTSTAMP:20241201T165401Z
+DTSTART:20241211T100000Z
+DTEND:20241211T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:e4338ee7-9937-4484-8f3a-b455b9e7b620
+SEQUENCE:16
+DTSTAMP:20241201T165401Z
+DTSTART:20241212T100000Z
+DTEND:20241212T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:7ef4a148-19ae-493c-b3e0-4b97dc0a3c50
+SEQUENCE:17
+DTSTAMP:20241201T165401Z
+DTSTART:20241213T100000Z
+DTEND:20241213T210000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:0932470c-0515-4d3d-88f8-7fbeb4a37cb7
+SEQUENCE:18
+DTSTAMP:20241201T165401Z
+DTSTART:20241214T100000Z
+DTEND:20241214T210000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:fe082ced-8874-4b4b-af8c-5196e9d00d56
+SEQUENCE:19
+DTSTAMP:20241201T165401Z
+DTSTART:20241215T100000Z
+DTEND:20241215T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:5e306d91-12fa-47de-a118-a4f855152096
+SEQUENCE:20
+DTSTAMP:20241201T165401Z
+DTSTART:20241216T100000Z
+DTEND:20241216T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:ad4c4b86-3c77-4af7-ae1c-bb954dfb5ed8
+SEQUENCE:21
+DTSTAMP:20241201T165401Z
+DTSTART:20241217T100000Z
+DTEND:20241217T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:bed0b49f-30ac-44bc-b979-148059ae102e
+SEQUENCE:22
+DTSTAMP:20241201T165401Z
+DTSTART:20241218T100000Z
+DTEND:20241218T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:7b0cf5b0-10d6-4e99-af15-7b69f161d8a1
+SEQUENCE:23
+DTSTAMP:20241201T165401Z
+DTSTART:20241219T100000Z
+DTEND:20241219T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:12515de9-dc9b-403d-8ce9-4efe37767ad9
+SEQUENCE:24
+DTSTAMP:20241201T165401Z
+DTSTART:20241220T100000Z
+DTEND:20241220T210000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:f6c47df3-3770-4226-95ed-a6c2a8d930db
+SEQUENCE:25
+DTSTAMP:20241201T165401Z
+DTSTART:20241221T100000Z
+DTEND:20241221T210000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:d1d94fa2-c70b-48c4-90c3-58c22df64087
+SEQUENCE:26
+DTSTAMP:20241201T165401Z
+DTSTART:20241222T100000Z
+DTEND:20241222T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:356f22e8-729f-46d9-9265-a3284b67a0dd
+SEQUENCE:27
+DTSTAMP:20241201T165401Z
+DTSTART:20241223T100000Z
+DTEND:20241223T200000Z
+SUMMARY:Haus G 06
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+END:VCALENDAR

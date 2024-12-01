@@ -1,0 +1,319 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Weihnachtsduft und Lichterglanz
+X-WR-CALNAME:Weihnachtsduft und Lichterglanz
+BEGIN:VEVENT
+UID:fa8803aa-56c2-42e8-94df-4143bd4cdde7
+SEQUENCE:0
+DTSTAMP:20241201T165350Z
+DTSTART:20241127T140000Z
+DTEND:20241127T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:b563533d-c480-405d-af8c-2727d073d0a2
+SEQUENCE:1
+DTSTAMP:20241201T165350Z
+DTSTART:20241128T140000Z
+DTEND:20241128T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:152088e8-473f-437e-9782-d091ed947edd
+SEQUENCE:2
+DTSTAMP:20241201T165350Z
+DTSTART:20241129T140000Z
+DTEND:20241129T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:3d7fe8e2-4c38-4dae-85cf-f8e8561230d3
+SEQUENCE:3
+DTSTAMP:20241201T165350Z
+DTSTART:20241130T140000Z
+DTEND:20241130T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:a4e6bc04-f570-4c98-b935-d36ece10cd48
+SEQUENCE:4
+DTSTAMP:20241201T165350Z
+DTSTART:20241201T110000Z
+DTEND:20241201T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:52725bea-1684-4ecf-ab69-be393fd21e72
+SEQUENCE:5
+DTSTAMP:20241201T165350Z
+DTSTART:20241202T140000Z
+DTEND:20241202T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:c1b31566-4dff-4ba0-8101-27d298758230
+SEQUENCE:6
+DTSTAMP:20241201T165350Z
+DTSTART:20241203T140000Z
+DTEND:20241203T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:158535fa-35d9-42ed-a6c3-0d1c6f982720
+SEQUENCE:7
+DTSTAMP:20241201T165350Z
+DTSTART:20241204T140000Z
+DTEND:20241204T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:29716693-9ae5-4277-989d-7191cf823898
+SEQUENCE:8
+DTSTAMP:20241201T165350Z
+DTSTART:20241205T140000Z
+DTEND:20241205T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:d9da9441-9e79-4198-9d5d-7e5adfd75e14
+SEQUENCE:9
+DTSTAMP:20241201T165350Z
+DTSTART:20241206T140000Z
+DTEND:20241206T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:a03e7245-ebce-40cc-9e46-74d67b0c5cc1
+SEQUENCE:10
+DTSTAMP:20241201T165350Z
+DTSTART:20241207T140000Z
+DTEND:20241207T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:c33d400e-9063-4681-883e-6b81ac664920
+SEQUENCE:11
+DTSTAMP:20241201T165350Z
+DTSTART:20241208T110000Z
+DTEND:20241208T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:9f12bfab-1c4d-4609-956e-c9cf27b42f67
+SEQUENCE:12
+DTSTAMP:20241201T165350Z
+DTSTART:20241209T140000Z
+DTEND:20241209T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:03221d86-186f-4a7f-b7ac-720ce170f80f
+SEQUENCE:13
+DTSTAMP:20241201T165350Z
+DTSTART:20241210T140000Z
+DTEND:20241210T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:ba03b37c-f462-49a3-93da-ad7810a318f8
+SEQUENCE:14
+DTSTAMP:20241201T165350Z
+DTSTART:20241211T140000Z
+DTEND:20241211T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:28e91512-63aa-453b-b75e-a95de873523c
+SEQUENCE:15
+DTSTAMP:20241201T165350Z
+DTSTART:20241212T140000Z
+DTEND:20241212T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:08a87620-ee84-45da-a540-97c9c478a25c
+SEQUENCE:16
+DTSTAMP:20241201T165350Z
+DTSTART:20241213T140000Z
+DTEND:20241213T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:84669900-b8bf-460d-8c47-e747dc47ca72
+SEQUENCE:17
+DTSTAMP:20241201T165350Z
+DTSTART:20241214T140000Z
+DTEND:20241214T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:61479cee-5127-43fb-85e9-e838896667bb
+SEQUENCE:18
+DTSTAMP:20241201T165350Z
+DTSTART:20241215T110000Z
+DTEND:20241215T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:b2ffb15c-0f9f-4899-ac4a-0db5c2bb9694
+SEQUENCE:19
+DTSTAMP:20241201T165350Z
+DTSTART:20241216T140000Z
+DTEND:20241216T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:7d2a2fac-bbad-4d68-bac1-860dc58c515e
+SEQUENCE:20
+DTSTAMP:20241201T165350Z
+DTSTART:20241217T140000Z
+DTEND:20241217T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:2bc52928-7fbd-48d0-a38e-688a7cda534b
+SEQUENCE:21
+DTSTAMP:20241201T165350Z
+DTSTART:20241218T140000Z
+DTEND:20241218T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:7e0b912f-95ef-47a0-b8cc-53f5a3caa929
+SEQUENCE:22
+DTSTAMP:20241201T165351Z
+DTSTART:20241219T140000Z
+DTEND:20241219T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:7d96c723-4e66-4864-a346-0a008016d9bd
+SEQUENCE:23
+DTSTAMP:20241201T165351Z
+DTSTART:20241220T140000Z
+DTEND:20241220T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:6059980e-e22e-4544-b3e5-728902f290f1
+SEQUENCE:24
+DTSTAMP:20241201T165351Z
+DTSTART:20241221T140000Z
+DTEND:20241221T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+BEGIN:VEVENT
+UID:003c71a2-33db-4539-a4d1-86da58be2d30
+SEQUENCE:25
+DTSTAMP:20241201T165351Z
+DTSTART:20241222T110000Z
+DTEND:20241222T180000Z
+SUMMARY:Weihnachtsduft und Lichterglanz
+LOCATION:Menckestraße 23\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-2
+ 0241218
+END:VEVENT
+END:VCALENDAR

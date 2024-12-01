@@ -1,0 +1,315 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Haus N 04
+X-WR-CALNAME:Haus N 04
+BEGIN:VEVENT
+UID:33d46ffe-9507-4884-8b21-1c86dd68eca0
+SEQUENCE:0
+DTSTAMP:20241201T165428Z
+DTSTART:20241126T100000Z
+DTEND:20241126T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:0d381080-fa7f-4eac-9ba5-9d285034f07a
+SEQUENCE:1
+DTSTAMP:20241201T165428Z
+DTSTART:20241127T100000Z
+DTEND:20241127T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:55f25e9e-6f75-44b9-bca1-460450a358a2
+SEQUENCE:2
+DTSTAMP:20241201T165428Z
+DTSTART:20241128T100000Z
+DTEND:20241128T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:adcd7d25-4220-4499-97ef-b134cd3cd619
+SEQUENCE:3
+DTSTAMP:20241201T165428Z
+DTSTART:20241129T100000Z
+DTEND:20241129T210000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:8a8e8252-7c17-4120-a9a6-388d19de3bd4
+SEQUENCE:4
+DTSTAMP:20241201T165428Z
+DTSTART:20241130T100000Z
+DTEND:20241130T210000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:fd161753-3b2f-4bd3-9cd3-9b76ddb98cb5
+SEQUENCE:5
+DTSTAMP:20241201T165428Z
+DTSTART:20241201T100000Z
+DTEND:20241201T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:b3bc710b-84ec-46c8-8c3d-99b4ac5848a4
+SEQUENCE:6
+DTSTAMP:20241201T165428Z
+DTSTART:20241202T100000Z
+DTEND:20241202T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:1cab6eba-496d-4258-be0e-f6081068b27f
+SEQUENCE:7
+DTSTAMP:20241201T165428Z
+DTSTART:20241203T100000Z
+DTEND:20241203T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:6a799dc3-1996-4158-9c00-7de3758df9b4
+SEQUENCE:8
+DTSTAMP:20241201T165428Z
+DTSTART:20241204T100000Z
+DTEND:20241204T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:4a9f6cc4-62d1-40b9-8b53-9b7a0a2d4d32
+SEQUENCE:9
+DTSTAMP:20241201T165428Z
+DTSTART:20241205T100000Z
+DTEND:20241205T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:c3f710da-4ad3-41d4-b940-8c213fb8034c
+SEQUENCE:10
+DTSTAMP:20241201T165428Z
+DTSTART:20241206T100000Z
+DTEND:20241206T210000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:41acab10-cac8-4fdc-90c2-b3fb9abea423
+SEQUENCE:11
+DTSTAMP:20241201T165428Z
+DTSTART:20241207T100000Z
+DTEND:20241207T210000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:bf24b7c7-9c93-4f51-bdf0-3ad2cd767d43
+SEQUENCE:12
+DTSTAMP:20241201T165428Z
+DTSTART:20241208T100000Z
+DTEND:20241208T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:f793bbd8-9a24-4bc4-9079-f3659ec9ebe8
+SEQUENCE:13
+DTSTAMP:20241201T165428Z
+DTSTART:20241209T100000Z
+DTEND:20241209T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:a6d0a621-040f-476c-a814-bd6517ce3668
+SEQUENCE:14
+DTSTAMP:20241201T165428Z
+DTSTART:20241210T100000Z
+DTEND:20241210T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:c7d51f04-69ac-4e87-90aa-3d48358e5332
+SEQUENCE:15
+DTSTAMP:20241201T165428Z
+DTSTART:20241211T100000Z
+DTEND:20241211T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:4942e9f8-9148-4d54-8c7a-6348a68beddc
+SEQUENCE:16
+DTSTAMP:20241201T165428Z
+DTSTART:20241212T100000Z
+DTEND:20241212T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:2850c56d-f163-4afd-af94-36969d068bd2
+SEQUENCE:17
+DTSTAMP:20241201T165428Z
+DTSTART:20241213T100000Z
+DTEND:20241213T210000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:ebfc57fa-90c2-4a88-b786-a28da0329907
+SEQUENCE:18
+DTSTAMP:20241201T165428Z
+DTSTART:20241214T100000Z
+DTEND:20241214T210000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:e4139596-deae-4d02-b469-66362e8f2fc1
+SEQUENCE:19
+DTSTAMP:20241201T165428Z
+DTSTART:20241215T100000Z
+DTEND:20241215T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:9b28a1f2-7edd-4d6b-89e2-9570867c3dd5
+SEQUENCE:20
+DTSTAMP:20241201T165428Z
+DTSTART:20241216T100000Z
+DTEND:20241216T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:4cd10b05-e570-4e97-8209-45ed8adf46fe
+SEQUENCE:21
+DTSTAMP:20241201T165428Z
+DTSTART:20241217T100000Z
+DTEND:20241217T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:92c58bb3-9ccd-4e64-a9da-b3964ffb309e
+SEQUENCE:22
+DTSTAMP:20241201T165428Z
+DTSTART:20241218T100000Z
+DTEND:20241218T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:00911e37-c4ec-4339-9884-018362b686f6
+SEQUENCE:23
+DTSTAMP:20241201T165428Z
+DTSTART:20241219T100000Z
+DTEND:20241219T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:3e951727-6f1b-467c-883d-a51d89f79e4a
+SEQUENCE:24
+DTSTAMP:20241201T165428Z
+DTSTART:20241220T100000Z
+DTEND:20241220T210000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:d4e3d373-4855-4f55-a3fb-24f1b7559b75
+SEQUENCE:25
+DTSTAMP:20241201T165428Z
+DTSTART:20241221T100000Z
+DTEND:20241221T210000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:3cfe6d74-6e95-4566-b836-5e1598669f8e
+SEQUENCE:26
+DTSTAMP:20241201T165428Z
+DTSTART:20241222T100000Z
+DTEND:20241222T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:a1e74a2a-f43f-4862-b826-b50c50579ec6
+SEQUENCE:27
+DTSTAMP:20241201T165428Z
+DTSTART:20241223T100000Z
+DTEND:20241223T200000Z
+SUMMARY:Haus N 04
+LOCATION:Nikolaikirchhof\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+END:VCALENDAR

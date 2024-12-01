@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:OH-Supermarkt
+X-WR-CALNAME:OH-Supermarkt
+BEGIN:VEVENT
+UID:13f07cb8-88c4-41ec-b280-ab03eca7daee
+SEQUENCE:0
+DTSTAMP:20241201T165352Z
+DTSTART:20241215T100000Z
+DTEND:20241215T170000Z
+SUMMARY:OH-Supermarkt
+LOCATION:Markranstädter Straße 8\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-14
+END:VEVENT
+END:VCALENDAR

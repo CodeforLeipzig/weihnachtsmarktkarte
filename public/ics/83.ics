@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Adventsmarkt Altscherbitz
+X-WR-CALNAME:Adventsmarkt Altscherbitz
+BEGIN:VEVENT
+UID:c14aca6d-c976-41da-9954-efe0e1570f8e
+SEQUENCE:0
+DTSTAMP:20241201T165352Z
+DTSTART:20241130T130000Z
+DTEND:20241130T225900Z
+SUMMARY:Adventsmarkt Altscherbitz
+LOCATION:Koeppestraße 17\, 04435 Altscherbitz
+URL;VALUE=URI:https://www.skh-altscherbitz.sachsen.de/ueber-uns/veranstalt
+ ungen/
+END:VEVENT
+END:VCALENDAR

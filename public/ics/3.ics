@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Weihnachtsmarkt am Zuckelhausener Teich
+X-WR-CALNAME:Weihnachtsmarkt am Zuckelhausener Teich
+BEGIN:VEVENT
+UID:16acacb1-efca-4ba5-9269-e144b873e107
+SEQUENCE:0
+DTSTAMP:20241201T165350Z
+DTSTART:20241214T130000Z
+DTEND:20241214T225900Z
+SUMMARY:Weihnachtsmarkt am Zuckelhausener Teich
+LOCATION:Zuckelhausener Ring 17 \, 04288 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-9
+END:VEVENT
+END:VCALENDAR

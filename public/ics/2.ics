@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:16. Markranstädter Weihnachtsmarkt
+X-WR-CALNAME:16. Markranstädter Weihnachtsmarkt
+BEGIN:VEVENT
+UID:54943213-8c89-4868-ab92-cf48d3379677
+SEQUENCE:0
+DTSTAMP:20241201T165350Z
+DTSTART:20241207T130000Z
+DTEND:20241207T200000Z
+SUMMARY:16. Markranstädter Weihnachtsmarkt
+LOCATION:Marktplatz 1\, 04420 Markranstädt
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/weihnachtsmarkt-15
+END:VEVENT
+END:VCALENDAR

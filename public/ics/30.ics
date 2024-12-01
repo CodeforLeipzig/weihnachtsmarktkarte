@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Wichtelmarkt
+X-WR-CALNAME:Wichtelmarkt
+BEGIN:VEVENT
+UID:8ba2e42f-f0b7-4235-a2d5-c81e631fde82
+SEQUENCE:0
+DTSTAMP:20241201T165351Z
+DTSTART:20241130T140000Z
+DTEND:20241130T200000Z
+SUMMARY:Wichtelmarkt
+LOCATION:Im Rittergut 1\, 04463 Großpösna
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/9-grosspoesnaer-wichtelmarkt
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Weihnachtsmärktchen & Adventsfeier
+X-WR-CALNAME:Weihnachtsmärktchen & Adventsfeier
+BEGIN:VEVENT
+UID:6b25da84-3f54-4ab6-873e-4d82a3f22763
+SEQUENCE:0
+DTSTAMP:20241201T165353Z
+DTSTART:20241212T140000Z
+DTEND:20241212T170000Z
+SUMMARY:Weihnachtsmärktchen & Adventsfeier
+LOCATION:Klingenthaler Str. 14\, 04349 Leipzig
+URL;VALUE=URI:https://www.muetterzentrum-leipzig.de/veranstaltungen/list/p
+ age/4/?tribe_venues%5B0%5D=4722
+END:VEVENT
+END:VCALENDAR

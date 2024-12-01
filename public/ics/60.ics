@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Adventsmarkt Gnadenkirche
+X-WR-CALNAME:Adventsmarkt Gnadenkirche
+BEGIN:VEVENT
+UID:dc06c98d-14bc-4f6c-a4ab-81c2902da791
+SEQUENCE:0
+DTSTAMP:20241201T165351Z
+DTSTART:20241201T110000Z
+DTEND:20241201T225900Z
+SUMMARY:Adventsmarkt Gnadenkirche
+LOCATION:Opferweg\, 04159 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/adventsmarkt-auf-dem-wahrener-kirch
+ berg-am-1-dezember
+END:VEVENT
+END:VCALENDAR
