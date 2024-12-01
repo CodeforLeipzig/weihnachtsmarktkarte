@@ -165,6 +165,71 @@ const groupToJson = ({ id, grouped }) => {
   return json;
 };
 
+const resolveImage = (name) => {
+  const credits = "Jörg Reichert, CC BY-SA 4.0";
+  if (name.startsWith("Haus A ")) {
+    return {
+      image: "maerchenwald.jpg",
+      urheberschaft: credits
+    };
+  } else if (name.startsWith("Haus F ")) {
+    return {
+      image: "finnisches_dorf.jpg",
+      urheberschaft: credits
+    };
+  } else if (name.startsWith("Haus G ")) {
+    return {
+      image: "leipziger_weihnachtsmarkt.jpg",
+      urheberschaft: credits
+    };
+  } else if (name.startsWith("Haus M ")) {
+    return {
+      image: "markt_leipzig.jpg",
+      urheberschaft: credits
+    };
+  } else if (name.startsWith("Haus N ")) {
+    return {
+      image: "feuerzangenbowle.jpg",
+      urheberschaft: credits
+    };
+  } else if (name.startsWith("Haus NM ")) {
+    return {
+      image: "mittelaltermarkt.jpg",
+      urheberschaft: credits
+    };
+  } else if (name.startsWith("Haus P ")) {
+    return {
+      image: null,
+      urheberschaft: null
+    };
+  } else if (name.startsWith("Haus R ")) {
+    return {
+      image: null,
+      urheberschaft: null
+    };
+  } else if (name.startsWith("Haus S ")) {
+    return {
+      image: null,
+      urheberschaft: null
+    };
+  } else if (name.startsWith("Haus SchwD ")) {
+    return {
+      image: "schweizer02.jpg",
+      urheberschaft: credits
+    };
+  } else if (name.startsWith("Haus StD ") || name.startsWith("Haus Anbau")) {
+    return {
+      image: "suedtiroler_dorf.jpg",
+      urheberschaft: credits
+    };
+  } else {
+    return {
+      image: null,
+      urheberschaft: null
+    };
+  }
+};
+
 const readInnerGeojson = () => {
   return readFileAsPromise("./markets_inner.geojson")
     .then((data) => {
@@ -177,10 +242,14 @@ const readInnerGeojson = () => {
         const lat = coords[1];
         const lng = coords[0];
         const atts = entry.properties;
+        if (atts.hausnummer.startsWith("Musikschule")) {
+          // already handled by leipzigde parser
+          continue;
+        }
         const train = "Augustusplatz".localeCompare(atts.standort) == 0
           ? "Straßenbahn 4, 7, 12, 14, 15 (oder 8, 10, 11, 14 auf Ostseite)"
           : 'S1, S2, S3, S4, S5, S5X und S6 bis "Leipzig, Markt"';
-        markets.push({
+        const market = {
           id: index,
           bezirk: "Zentrum",
           name: "Haus " + atts.hausnummer,
@@ -221,6 +290,10 @@ const readInnerGeojson = () => {
           train_distance: 72,
           short_distance: 1,
           rss_beschreibung: atts.angebot,
+        };
+        markets.push({
+          ...market,
+          ...resolveImage(market.name)
         });
         index++;
       }
