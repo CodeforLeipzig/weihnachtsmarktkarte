@@ -46,8 +46,9 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
 
   const getDepartureQueryUrl = () => {
     const now = new Date();
-    const departureDate = `${now.getDate()}.${now.getMonth() + 1
-      }.${now.getFullYear()}`;
+    const departureDate = `${now.getDate()}.${
+      now.getMonth() + 1
+    }.${now.getFullYear()}`;
     const departureTime = `${now.getHours()}:${now.getMinutes()}`;
     const journeyTarget = `${marketData.strasse}, ${marketData.plz_ort}`;
     return encodeURI(
@@ -194,7 +195,7 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
           </p>
         </MarketInfo>
 
-        {marketData.bemerkungen !== "" && (
+        {marketData.bemerkungen && marketData.bemerkungen !== "" && (
           <MarketInfo title="Informationen" icon={<Info />}>
             <p className="text-sm">
               <div
@@ -204,16 +205,33 @@ export const SidebarMarket: FC<SidebarMarketType> = ({ marketData }) => {
           </MarketInfo>
         )}
 
-        {marketData.w3 !== "" && (
+        {marketData.w3 && marketData.w3 !== "" && (
           <MarketInfo title="Webseite" icon={<Globe />}>
             <a
               className="text-sm underline"
-              href={marketData.w3}
+              href={!marketData.w3.startsWith("http")
+                ? `https://${
+                  marketData.w3.replace(
+                    "www.ukraninisches-kunsthandwerk.de",
+                    "ukrainisches-kunsthandwerk.de",
+                  )
+                }`
+                : marketData.w3}
               target="_blank"
             >
               {(() => {
-                const link = new URL(marketData.w3).hostname;
-                return link.length < 60 ? link : link.substring(0, 60) + "...";
+                try {
+                  const link = new URL(
+                    !marketData.w3.startsWith("http")
+                      ? `https://${marketData.w3}`
+                      : marketData.w3,
+                  ).hostname;
+                  return link.length < 60
+                    ? link
+                    : link.substring(0, 60) + "...";
+                } catch (e) {
+                  return marketData.w3;
+                }
               })()}
             </a>
           </MarketInfo>

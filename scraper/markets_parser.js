@@ -170,62 +170,62 @@ const resolveImage = (name) => {
   if (name.startsWith("Haus A ")) {
     return {
       image: "maerchenwald.jpg",
-      urheberschaft: credits
+      urheberschaft: credits,
     };
   } else if (name.startsWith("Haus F ")) {
     return {
       image: "finnisches_dorf.jpg",
-      urheberschaft: credits
+      urheberschaft: credits,
     };
   } else if (name.startsWith("Haus G ")) {
     return {
       image: "leipziger_weihnachtsmarkt.jpg",
-      urheberschaft: credits
+      urheberschaft: credits,
     };
   } else if (name.startsWith("Haus M ")) {
     return {
       image: "markt_leipzig.jpg",
-      urheberschaft: credits
+      urheberschaft: credits,
     };
   } else if (name.startsWith("Haus N ")) {
     return {
       image: "feuerzangenbowle.jpg",
-      urheberschaft: credits
+      urheberschaft: credits,
     };
   } else if (name.startsWith("Haus NM ")) {
     return {
       image: "mittelaltermarkt.jpg",
-      urheberschaft: credits
+      urheberschaft: credits,
     };
   } else if (name.startsWith("Haus P ")) {
     return {
-      image: null,
-      urheberschaft: null
+      image: "petersstrasse.jpg",
+      urheberschaft: credits,
     };
   } else if (name.startsWith("Haus R ")) {
     return {
-      image: null,
-      urheberschaft: null
+      image: "reichsstrasse.jpg",
+      urheberschaft: credits,
     };
   } else if (name.startsWith("Haus S ")) {
     return {
-      image: null,
-      urheberschaft: null
+      image: "salzgaesschen.jpg",
+      urheberschaft: credits,
     };
   } else if (name.startsWith("Haus SchwD ")) {
     return {
-      image: "schweizer02.jpg",
-      urheberschaft: credits
+      image: "schweizer03.jpg",
+      urheberschaft: credits,
     };
   } else if (name.startsWith("Haus StD ") || name.startsWith("Haus Anbau")) {
     return {
       image: "suedtiroler_dorf.jpg",
-      urheberschaft: credits
+      urheberschaft: credits,
     };
   } else {
     return {
       image: null,
-      urheberschaft: null
+      urheberschaft: null,
     };
   }
 };
@@ -278,7 +278,8 @@ const readInnerGeojson = () => {
           "So": "11:00-21:00",
           "closed-exc": 0,
           "closed-exc-readable": null,
-          "hours-exc": "29.11.24=10:00-22:00,30.11.24=10:00-22:00,06.12.24=10:00-22:00,08.12.24=10:00-22:00,13.12.24=10:00-22:00,14.12.24=10:00-22:00,20.12.24=10:00-22:00,21.12.24=10:00-22:00",
+          "hours-exc":
+            "29.11.24=10:00-22:00,30.11.24=10:00-22:00,06.12.24=10:00-22:00,08.12.24=10:00-22:00,13.12.24=10:00-22:00,14.12.24=10:00-22:00,20.12.24=10:00-22:00,21.12.24=10:00-22:00",
           "hours-exc-readable": null,
           ignore: 0,
           merged: null,
@@ -293,7 +294,7 @@ const readInnerGeojson = () => {
         };
         markets.push({
           ...market,
-          ...resolveImage(market.name)
+          ...resolveImage(market.name),
         });
         index++;
       }
@@ -364,8 +365,8 @@ const registry = {
       fs.writeFile(
         "output_inner.json",
         "[" +
-        sorted.map((entry) => JSON.stringify(entry, null, 2)).join(",") +
-        "]",
+          sorted.map((entry) => JSON.stringify(entry, null, 2)).join(",") +
+          "]",
         (err) => {
           if (err) throw err;
         },
