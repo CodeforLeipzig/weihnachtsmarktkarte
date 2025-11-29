@@ -32,7 +32,7 @@ export const MapComponent: FC<MapComponentType> = ({
   mapZoom,
 }) => {
   const isMobile = useHasMobileSize();
-  const mapRef = useRef<mapboxgl.Map>();
+  const mapRef = useRef<mapboxgl.Map>(null);
   const startMapView = {
     latitude: 51.3399028,
     longitude: 12.3742236,
