@@ -1,6 +1,153 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  /* Font families */
+  --font-sans: 'Clan Medium',
+        'ui-sans-serif',
+        'system-ui',
+        '-apple-system',
+        'BlinkMacSystemFont',
+        'Segoe UI',
+        'Roboto',
+        'Helvetica Neue',
+        'Arial',
+        'Noto Sans',
+        'sans-serif',
+        'Apple Color Emoji',
+        'Segoe UI Emoji',
+        'Segoe UI Symbol',
+        'Noto Color Emoji';
+  --font-bold: 'Clan Bold',
+        'ui-sans-serif',
+        'system-ui',
+        '-apple-system',
+        'BlinkMacSystemFont',
+        'Segoe UI',
+        'Roboto',
+        'Helvetica Neue',
+        'Arial',
+        'Noto Sans',
+        'sans-serif',
+        'Apple Color Emoji',
+        'Segoe UI Emoji',
+        'Segoe UI Symbol',
+        'Noto Color Emoji';
+  --font-clanbold: 'Clan Bold',
+        'ui-sans-serif',
+        'system-ui',
+        '-apple-system',
+        'BlinkMacSystemFont',
+        'Segoe UI',
+        'Roboto',
+        'Helvetica Neue',
+        'Arial',
+        'Noto Sans',
+        'sans-serif',
+        'Apple Color Emoji',
+        'Segoe UI Emoji',
+        'Segoe UI Symbol',
+        'Noto Color Emoji';
+
+  /* Colors */
+  --color-transparent: transparent;
+  --color-current: currentColor;
+  --color-lightblue: #F5F8FE;
+  --color-gold: #BDA33B;
+  --color-darkgold: #A79034;
+  --color-darkblue: #091725;
+  --color-primary-700: #1D4ED8;
+  --color-primary: #2563EB;
+  --color-gray-100: #EDEDED;
+  --color-gray-200: #E0E0E0;
+  --color-gray-300: #C7C7C7;
+  --color-gray-400: #ADADAD;
+  --color-gray-500: #949494;
+  --color-gray-lightgray: #9fb1c6;
+  /* Primary color */
+  --color-primary-600: #BDA33B;
+  --color-primary-700: #BDA33B;
+  --color-primary: #BDA33B;
+  /* Secondary color */
+  --color-secondary: #FACC15;
+
+  /* Ring offset */
+  --ring-offset-color: #ffffff;
+}
+
+@layer utilities {
+  /* Example media queries for your custom screens */
+  @media (min-width: 360px) {
+    .screen-xs\:block { display: block; }
+    /* Add other utilities using .screen-xs\:YOURCLASS */
+  }
+  @media (min-width: 640px) {
+    .screen-sm\:block { display: block; }
+  }
+  @media (min-width: 768px) {
+    .screen-md\:block { display: block; }
+  }
+  @media (min-width: 1024px) {
+    .screen-lg\:block { display: block; }
+  }
+  @media (min-width: 1280px) {
+    .screen-xl\:block { display: block; }
+  }
+  @media (min-width: 1536px) {
+    .screen-2xl\:block { display: block; }
+  }
+
+  /* Custom min-width utilities */
+.min-w-xs { min-width: 20rem; }
+.min-w-sm { min-width: 24rem; }
+.min-w-md { min-width: 28rem; }
+.min-w-lg { min-width: 32rem; }
+.min-w-xl { min-width: 36rem; }
+
+/* Custom width utility for sidebar */
+.w-sidebar { width: 360px; }
+
+/* Custom spacing utilities for sidebar (margin, padding, gap, etc.) */
+.p-sidebar    { padding: 360px; }
+.pt-sidebar   { padding-top: 360px; }
+.pr-sidebar   { padding-right: 360px; }
+.pb-sidebar   { padding-bottom: 360px; }
+.pl-sidebar   { padding-left: 360px; }
+.px-sidebar   { padding-left: 360px; padding-right: 360px; }
+.py-sidebar   { padding-top: 360px;  padding-bottom: 360px; }
+
+.m-sidebar    { margin: 360px; }
+.mt-sidebar   { margin-top: 360px; }
+.mr-sidebar   { margin-right: 360px; }
+.mb-sidebar   { margin-bottom: 360px; }
+.ml-sidebar   { margin-left: 360px; }
+.mx-sidebar   { margin-left: 360px; margin-right: 360px; }
+.my-sidebar   { margin-top: 360px; margin-bottom: 360px; }
+
+.gap-sidebar  { gap: 360px; }
+}
+
+@layer base {
+  html {
+    font-family: 'Inter', sans-serif;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-gray-50 text-gray-900 antialiased;
+  }
+
+  .maplibregl-popup-content  {
+      @apply !bg-gold text-darkblue font-bold rounded-lg text-base
+  }
+
+  .maplibregl-popup-tip{
+      border-top-color: #BDA33B !important
+  }
+
+  a {
+    @apply text-primary-600 hover:text-primary-700 transition-colors duration-150;
+  }
+}
 
 html,
 body {
