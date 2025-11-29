@@ -268,11 +268,11 @@ const updateFromToDates = () => {
     if (found.length > 0) {
       for (elem of found) {
         const bis = elem.bis && parseDate(elem.bis);
-        if (!bis || bis < new Date(2024, 10, 1) || marketToDate > bis) {
+        if (!bis || bis < new Date(2025, 10, 1) || marketToDate > bis) {
           elem.bis = formatDate(marketToDate);
         }
         const von = elem.von && parseDate(elem.von);
-        if (!von || von < new Date(2024, 10, 1) || marketFromDate < von) {
+        if (!von || von < new Date(2025, 10, 1) || marketFromDate < von) {
           elem.von = formatDate(marketFromDate);
         }
       }
