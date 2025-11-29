@@ -22,14 +22,14 @@ jobs:
           if [ -s git_diff.txt ]; then echo "HAS_CHANGES=TRUE" >> "$GITHUB_OUTPUT"; fi
       - name: UploadWeihnachtsmaerkte
         if: ${{ steps.ScrapeMarkets.outputs.HAS_CHANGES }}
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: weihnachts_maerkte_leipzigde.json
           path: markets_leipzig_de.json
           retention-days: 1
       - name: UploadDiff
         if: ${{ steps.ScrapeMarkets.outputs.HAS_CHANGES }}
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: git_diff.txt
           path: git.diff
