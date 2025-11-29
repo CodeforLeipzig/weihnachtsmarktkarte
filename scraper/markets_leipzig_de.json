@@ -1,504 +1,326 @@
 {
   "markets": [
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2",
-      "from": "22.11.2024",
-      "to": "26.12.2024",
-      "location": "Paunsdorf Center",
-      "summary": "Weihnachtszauber im P. C.",
-      "description": "Der Weihnachtszauber im P.C. ist wieder da und versüßt uns die...",
-      "details": {
-        "date": "22.11.2024 -  26.12.2024",
-        "time": "",
-        "location": {
-          "name": "Paunsdorf Center",
-          "street": "Paunsdorfer Allee 1",
-          "zipcode": "04329",
-          "city": "Leipzig"
-        },
-        "description": "Der Weihnachtszauber im P.C. ist wieder da und versüßt uns die Vorweihnachtszeit mit tollen, weihnachtlichen Attraktionen, leckeren Köstlichkeiten und vielen weiteren wundervollen Highlights.Montag bis Samstag: 10-22 Uhr und Sonntag  11-19 Uhr25.12. und 26.12. 11-20 UhrHeiligabend und Silvester: Geschlossen https://www.westfield.com/germany/paunsdorfcenter/news-detail/weihnachtszauber-im-p~d~c~d~",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-2?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1",
-      "from": "26.11.2024",
-      "to": "23.12.2024",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/leipziger-weihnachtsmarkt-2023-1-1",
+      "from": "25.11.2025",
+      "to": "23.12.2025",
       "location": "Leipziger Innenstadt",
-      "summary": "Leipziger Weihnachtsmarkt 2024",
-      "description": "Die Tradition des Leipziger Weihnachtsmarktes reicht bis in das Jahr...",
+      "summary": "Leipziger Weihnachtsmarkt 2025",
       "details": {
-        "date": "26.11.2024 -  23.12.2024",
-        "time": "",
+        "name": "Leipziger Weihnachtsmarkt 2025",
+        "date": "25.11.2025",
+        "time": "23.12.2025",
         "location": {
           "name": "Leipziger Innenstadt",
           "street": "Leipzig"
         },
         "description": "Die Tradition des Leipziger Weihnachtsmarktes reicht bis in das Jahr 1458 zurück, womit er der zweitälteste in Deutschland ist. Aufgrund seines einzigartigen kulturellen und kulinarischen Angebotes in der fußgängerfreundlichen, illuminierten Innenstadt hat er sich einen legendären Ruf erworben. Umrahmt wird das weihnachtliche Warenangebot von Höhepunkten wie den Orgelmusiken und Aufführungen des Weihnachtsoratoriums von Johann Sebastian Bach in den Leipziger Kirchen, den Turmbläserauftritten auf dem Turm des Alten Rathauses, der Weihnachtsshow des Krystallpalast Varietés und nicht zuletzt dem Märchenwald und der Weihnachtsmannsprechstunde.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/leipziger-weihnachtsmarkt-2023-1-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20241127",
-      "from": "27.11.2024",
-      "to": "01.12.2024",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20251126",
+      "from": "26.11.2025",
+      "to": "30.11.2025",
       "location": "Gohliser Schlösschen",
       "summary": "Weihnachtsduft und Lichterglanz",
-      "description": "Vom 27.11. – 22.12.2024 Glanz und Fröhlichkeit des Advent in der...",
       "details": {
-        "date": "27.11.2024 -  01.12.2024",
-        "time": "",
+        "name": "Weihnachtsduft und Lichterglanz",
+        "date": "26.11.2025",
+        "time": "30.11.2025",
         "location": {
-          "name": "Gohliser Schlösschen",
+          "name": "",
           "street": "Menckestraße 23",
           "zipcode": "04155",
-          "city": "Leipzig",
-          "w3c": "http://www.gohliserschloesschen.de"
+          "city": "Leipzig"
         },
-        "description": "Vom 27.11. – 22.12.2024 Glanz und Fröhlichkeit des Advent in der besinnlichen Atmosphäre des Gohliser Schlösschens. Verweilen bei festlicher Stimmung und zu weihnachtlicher Musik im Barockgarten mit selbstgebackenen süßen und herzhaften Waffeln, gebrannten Mandeln und „hausgeglühtem“ Glühwein, Punsch und heißen Säften. Abgerundet wird das Angebot durch ein abwechslungsreiches Kulturprogramm – Chormusik, Instrumentalisten, gemeinsames Adventsliedersingen, Turmbläser, Weihnachtsgeschichten und vieles mehr.„Weihnachtsduft und Lichterglanz“ ist kein klassischer Weihnachtsmarkt! Das Gohliser Schlösschen bietet eine Alternative zu den klassischen Weihnachtsmärkten. Ganz bewusst verzichtet wird auf Marktbuden und Verkaufsstände und geboten wird ein stimmungsvoller und besinnlicher Ort für Kunst, Kultur, Gespräche und geselliges Miteinander.27.11. – 22.12.2024Mittwoch – Samstag 15:00 – 19:00 Uhr Sonntag 12:00 – 18:00 Uhrhttps://gohliserschloesschen.de/events/weihnachtsduft-2024/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20241127?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Vom 26.11. – 21.12.2025 Glanz und Fröhlichkeit des Advent in der besinnlichen Atmosphäre des Gohliser Schlösschens. Verweilen bei festlicher Stimmung und zu weihnachtlicher Musik im Barockgarten mit elbstgebackenen süßen und herzhaften Waffeln, gebrannten Mandeln und „hausgeglühtem“ Glühwein, Punsch und heißen Säften. Abgerundet wird das Angebot durch ein abwechslungsreiches Kulturprogramm – Chormusik, Instrumentalisten, gemeinsames Adventsliedersingen, Turmbläser, Weihnachtsgeschichten und vieles mehr.„Weihnachtsduft und Lichterglanz“ ist kein klassischer Weihnachtsmarkt! Das Gohliser Schlösschen bietet eine Alternative zu den klassischen Weihnachtsmärkten. Ganz bewusst verzichtet wird auf Marktbuden und Verkaufsstände und geboten wird ein stimmungsvoller und besinnlicher Ort für Kunst, Kultur, Gespräche und geselliges Miteinander. https://gohliserschloesschen.de/weihnachtsduft/",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20251126?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": [
           {
-            "date": "04.12.2024 -  08.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20241204"
+            "date": "03.12.2025-07.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20251203-1"
           },
           {
-            "date": "11.12.2024 -  15.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20241211"
+            "date": "10.12.2025-14.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20251210-2"
           },
           {
-            "date": "18.12.2024 -  22.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20241218"
+            "date": "17.12.2025-21.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20251217-3"
           }
         ]
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3",
-      "from": "28.11.2024",
-      "to": "30.12.2024",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/felsenkeller-weihnachtsmarkt-2025",
+      "from": "27.11.2025",
+      "to": "30.12.2025",
       "location": "Felsenkeller",
-      "summary": "Felsenkeller Weihnachtsmarkt 2024",
-      "description": "Der Biergarten des Felsenkellers verwandelt sich in einen...",
+      "summary": "Felsenkeller Weihnachtsmarkt 2025",
       "details": {
-        "date": "28.11.2024 -  30.12.2024",
-        "time": "",
+        "name": "Felsenkeller Weihnachtsmarkt 2025",
+        "date": "27.11.2025",
+        "time": "30.12.2025",
         "location": {
-          "name": "Felsenkeller",
+          "name": "",
           "street": "Karl-Heine-Straße 32",
           "zipcode": "04229",
-          "city": "Leipzig",
-          "w3c": "https://www.felsenkeller-leipzig.com/"
+          "city": "Leipzig"
         },
-        "description": "Der Biergarten des Felsenkellers verwandelt sich in einen mittelalterlich- romantischen Weihnachtsmarkt. Neben vielseitigen Leckerei- und Getränkeangeboten wird Schmied Martin vor Ort sein und Glücks- Hufeisen oder Sargnägel mit Hilfe der Gäste schmieden. Ein paar Stände bieten handgefertigte Waren an und gemütliche, hölzerne Sitzecken laden zum Verweilen ein. Eine „Laterna Magica“ zeigt stündlich Grimmsche Märchen für kleine Leute und hoch oben in den alten Kastanien leuchten gelbe Sterne. Auf einer kleinen Bühne werden vor allem an den Wochenenden Musik- und Gaukeleiprogramme aufgeführt. Schon am ersten Adventswochenende wird „Feuer-Reiner“ zeigen, warum er diesen seltsamen Namen trägt.Täglich geöffnet von 15:00 bis 21:30 Uhr Samstag 11- 21:30 Uhr Sonntag 11- 20:00 UhrNicht geöffnet während der Weihnachtsfeiertage (24.- 26.12.)https://www.felsenkeller-leipzig.com/programm/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-3?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Der Biergarten des Felsenkellers verwandelt sich in einen mittelalterlich- romantischen Weihnachtsmarkt. Neben vielseitigen Leckerei- und Getränkeangeboten wird Schmied Martin vor Ort sein und Glücks- Hufeisen oder Sargnägel mit Hilfe der Gäste schmieden. Ein paar Stände bieten handgefertigte Waren an und gemütliche, hölzerne Sitzecken laden zum Verweilen ein. Eine „Laterna Magica“ zeigt stündlich Grimmsche Märchen für kleine Leute und hoch oben in den alten Kastanien leuchten gelbe Sterne. Auf einer kleinen Bühne werden vor allem an den Wochenenden Musik- und Gaukeleiprogramme aufgeführt. Schon am ersten Adventswochenende wird „Feuer-Reiner“ zeigen, warum er diesen seltsamen Namen trägt.Eintritt freiMontag – Freitag: 15:00 – 21:30 UhrSamstag 11:00 – 21:30 UhrSonntag 11:00 – 20:00 UhrNicht geöffnet während der Weihnachtsfeiertage (24.- 26. 12.2025)",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/felsenkeller-weihnachtsmarkt-2025?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lametta-for-heinz-kiezweihnachtsmarkt",
-      "from": "29.11.2024",
-      "to": "01.12.2024",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lametta-for-heinz-kiezweihnachtsmarkt-1",
+      "from": "28.11.2025",
+      "to": "29.11.2025",
       "location": "Zum Wilden Heinz",
       "summary": "Lametta for Heinz - Kiezweihnachtsmarkt",
-      "description": "Lametta for Heinz präsentiert ein Wochenende lang viele schöne Stände...",
       "details": {
-        "date": "29.11.2024 -  01.12.2024",
-        "time": "",
+        "name": "Lametta for Heinz - Kiezweihnachtsmarkt",
+        "date": "28.11.2025",
+        "time": "29.11.2025",
         "location": {
           "name": "Zum Wilden Heinz",
           "street": "Hähnelstr. 22",
           "zipcode": "04177",
           "city": "Leipzig"
         },
-        "description": "Lametta for Heinz präsentiert ein Wochenende lang viele schöne Stände mit regionalen, handgefertigten, gebastelten und verrückten Dingen. Freitag von 16-20 Uhr, Samstag und Sonntag von 14-20 Uhr",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lametta-for-heinz-kiezweihnachtsmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Lametta for Heinz präsentiert ein Wochenende lang viele schöne Stände mit regionaler Kunst und Handwerk.Freitag 28.11.2025: 16-20 UhrSamstag 29.11.2025: 14-20 Uhr",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lametta-for-heinz-kiezweihnachtsmarkt-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-22",
-      "from": "29.11.2024",
-      "to": "01.12.2024",
-      "location": "Konsumzentrale Leipzig",
-      "summary": "Weihnachtsmarkt K.Adventsvergnügen",
-      "description": "Weihnachtsmarkt in der Konsumzentrale. 25 Meter Tubing-Rutschbahn,...",
-      "details": {
-        "date": "29.11.2024 -  01.12.2024",
-        "time": "",
-        "location": {
-          "name": "Konsumzentrale Leipzig",
-          "street": "Industriestraße 85-95",
-          "zipcode": "04229",
-          "city": "Leipzig"
-        },
-        "description": "Weihnachtsmarkt in der Konsumzentrale. 25 Meter Tubing-Rutschbahn, Eisenbahn, Glühwein, leckeres Essen, Märchenfilme und Popcorn Freitag, 29.11.2024, von 14–22 Uhr Samstag, 30.11.2024 von 14–22 Uhr Sonntag, 01.12.2024 von 14–19 Uhrhttps://www.konsumzentrale.com/adventsvergnuegen/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-22?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt",
-      "from": "29.11.2024",
-      "to": "01.12.2024",
-      "location": "Marktplatz Taucha",
-      "summary": "Weihnachtsmarkt",
-      "description": "Weihnachtsmarkt auf dem Marktplatz Taucha mit leckeren weihnachtlichen...",
-      "details": {
-        "date": "29.11.2024 -  01.12.2024",
-        "time": "",
-        "location": {
-          "name": "Marktplatz Taucha",
-          "street": "04425 Taucha"
-        },
-        "description": "Weihnachtsmarkt auf dem Marktplatz Taucha mit leckeren weihnachtlichen Köstlichkeiten und Getränken. Weihnachtlich-musikalisches Programm von Vereinen und Künstlern an allen drei Tagen. https://www.taucha.de/themen/tauchaer-weihnachtsmaerkte/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/heute-kommt-der-weihnachtsmann-1",
-      "from": "30.11.2024",
-      "location": "verschiedene Veranstaltungsorte",
-      "summary": "Heute kommt der Weihnachtsmann",
-      "description": "Nicht fehlen im Programm des Leipziger Weihnachtsmarktes darf der...",
-      "details": {
-        "date": "30.11.2024",
-        "time": "",
-        "location": {
-          "name": "verschiedene Veranstaltungsorte",
-          "street": "Leipzig"
-        },
-        "description": "Nicht fehlen im Programm des Leipziger Weihnachtsmarktes darf der Besuch des Weihnachtsmannes. Am 30. November 2024, gegen 11 Uhr, fährt er mit einer historischen Dampflok im Leipziger Hauptbahnhof auf Gleis 6 ein.10:00 Uhr Konzert des Bergmannblasorchesters Kurbad Schlema e.V. Hauptbahnhof Concert by the BBO Kurbad Schlema e.V. 11:00 Uhr Ankunft des Weihnachtsmannes Hauptbahnhof, Gleis 611:00 - 11:30 Uhr Der Weihnachtsmann begrüßt die Kinder Hauptbahnhof im Anschluss11:30 Uhr Fahrt mit der Kutsche zum Markt11:00 – 11:30 Uhr Warten auf den Weihnachtsmann Bühne Marktplatz11:30 Uhr Posaunenblasen vom Balkon Altes Rathaus12:00 Uhr Ankunft des Weihnachtsmannes auf dem Marktplatz12:30 – 15:00 Uhr Musikprogramm Bühne Marktplatz16:00 – 16:00 Uhr Weihnachtsmann-Sprechstunde Bühne Marktplatz17:30 – 18:30 Uhr Daniela Bensch singt Weihnachtslieder, Bühne Marktplatzwww.leipzig.de/weihnachtsmarkt",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/heute-kommt-der-weihnachtsmann-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241130",
-      "from": "30.11.2024",
-      "to": "01.12.2024",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251129",
+      "from": "29.11.2025",
+      "to": "30.11.2025",
       "location": "Feinkost",
-      "summary": "Advent, Advent, ein Lichtlein brennt … Weihnachtsmarkt auf der Feinkost 2024",
-      "description": "Der Weihnachtsmarkt auf der Feinkost begeistert auch dieses Jahr wieder...",
+      "summary": "Lichterglanz im Advent – Der Weihnachtsmarkt auf der Feinkost 2025",
       "details": {
-        "date": "30.11.2024 -  01.12.2024",
-        "time": "",
+        "name": "Lichterglanz im Advent – Der Weihnachtsmarkt auf der Feinkost 2025",
+        "date": "29.11.2025",
+        "time": "30.11.2025",
         "location": {
-          "name": "Feinkost",
+          "name": "",
           "street": "Karl-Liebknecht-Straße 36",
           "zipcode": "04107",
-          "city": "Leipzig",
-          "w3c": "http://www.feinkostgenossenschaft.de"
+          "city": "Leipzig"
         },
-        "description": "Der Weihnachtsmarkt auf der Feinkost begeistert auch dieses Jahr wieder mit seiner besonderen Atmosphäre und einer wunderbaren Auswahl an schönen und einzigartigen Produkten. Ob Porzellan, Keramik und Schmuck, Gestricktes und Gehäkeltes, künstlerische Grafiken oder Zeichnungen – zahlreiche Handwerker*innen und Künstler*innen bieten ihre kreativen Unikate an. Wer etwas Außergewöhnliches für Weihnachten sucht, wird hier sicherlich fündig werden.Nach dem Rundgang kann man sich mit afrikanischem Essen aus Gambia und köstlichen Crêpes stärken. Oder man macht es sich am Grill gemütlich und genießt einen Glühwein oder heißen Saft – unter den funkelnden Weihnachtslichtern der Feinkost.Öffnungszeiten: Samstag 11 bis 20 Uhr; Sonntag 11 bis 18 Uhrwww.feinkostgenossenschaft.de",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241130?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Der Weihnachtsmarkt auf der Feinkost begeistert jedes Jahr wieder mit seiner besonderen Atmosphäre und einer wunderbaren Auswahl an schönen und einzigartigen Produkten. Ob Porzellan, Keramik und Schmuck, Gestricktes und Gehäkeltes, künstlerische Grafiken oder Zeichnungen – zahlreiche Kunsthandwerker/-innen und Händler/-innen bieten ihre kreativen Unikate an. Wer etwas Außergewöhnliches für Weihnachten sucht, wird bei uns sicherlich fündig werden.Nach dem Rundgang kann man sich mit burmesischem Essen, koreanischem Corn Dog, leckeren Crêpes sowie veganen und vegetarischen Köstlichkeiten stärken. Oder man macht es sich am Grill gemütlich und genießt unter den funkelnden Weihnachtslichtern der Feinkost einen Glühwein oder heißen Saft.Samstag: 11 – 20 Uhr Sonntag: 11 – 18 Uhrhttps://feinkostgenossenschaft.de",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251129?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": [
           {
-            "date": "07.12.2024 -  08.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241207"
+            "date": "06.12.2025-07.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251206-1"
           },
           {
-            "date": "14.12.2024 -  15.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241214"
+            "date": "13.12.2025-14.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251213-2"
           },
           {
-            "date": "21.12.2024 -  22.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241221"
+            "date": "20.12.2025-21.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251220-3"
           }
         ]
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-boehlitz-ehrenberg-1",
-      "from": "30.11.2024",
-      "location": "Sportplatz TSV Böhlitz-Ehrenberg e.V.",
-      "summary": "Weihnachtsmarkt Böhlitz-Ehrenberg",
-      "description": "Verschiedene Verkaufsstände, Bastelstraße, Ponyreiten (16 Uhr),...",
-      "details": {
-        "date": "30.11.2024",
-        "time": "",
-        "location": {
-          "name": "Sportplatz TSV Böhlitz-Ehrenberg e.V.",
-          "street": "Ludwig-Jahn-Str. 12c",
-          "zipcode": "04178",
-          "city": "Leipzig"
-        },
-        "description": "Verschiedene Verkaufsstände, Bastelstraße, Ponyreiten (16 Uhr), Märchenstunde und mehr. Eintritt freiab 14 Uhrhttps://www.bgbe.de/weihnachtsmarkt",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-boehlitz-ehrenberg-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-im-kulturhof-gohlis-2",
-      "from": "30.11.2024",
-      "to": "01.12.2024",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-im-kulturhof-gohlis",
+      "from": "29.11.2025",
+      "to": "30.11.2025",
       "location": "Kulturhof Gohlis",
       "summary": "Adventsmarkt im Kulturhof Gohlis",
-      "description": "Auch in diesem Jahr nehmen wieder rund 20 Aussteller/-innen am ...",
       "details": {
-        "date": "30.11.2024 -  01.12.2024",
-        "time": "",
+        "name": "Adventsmarkt im Kulturhof Gohlis",
+        "date": "29.11.2025",
+        "time": "30.11.2025",
         "location": {
           "name": "Kulturhof Gohlis",
           "street": "Eisenacher Straße 72",
           "zipcode": "04155",
           "city": "Leipzig"
         },
-        "description": "Auch in diesem Jahr nehmen wieder rund 20 Aussteller/-innen am  Adventsmarkt im Kulturhof Gohlis teil: Stände mit Keramik und Porzellan, feinem, erlesenem Schmuck, Modeaccessoires, Naturkosmetik, Feinkost, wunderschöner Papeterie, Filzkunst, allerlei Wohnaccessoires und vielem mehr bieten den Besucherinnen und Besuchern eine besondere Auswahl an Geschenkideen. Unsere Aussteller sind Designer/-innen, Kunsthandwerker/-innen und Manufakturen aus Leipzig und Umgebung. Der Markt findet im Kulturhof Gohlis - im schönen Ambiente des Werkcafé und den Räumlichkeiten der Musikschule Neue Musik Leipzig - statt. Stimmen Sie sich bei uns entspannt auf den Advent ein und genießen Sie unsere speziellen hausgemachten Angebote an diesem Wochenende, garniert mit punktuellen musikalischen Glanzpunkten. Samstag, 30.11.2024: 13 bis 20 UhrSonntag, 01.12.2024: 11 bis 18 Uhr",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-im-kulturhof-gohlis-2?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Knapp 30 Ausstellerinnen und Aussteller nehmen am 1. Adventswochenende wieder am diesjährigen Markt bei uns im Kulturhof Gohlis teil.Stände mit Modeaccessoires, Keramik und Porzellan, feiner, erlesener Schmuck, Feinkost, Naturkosmetik, wunderschöne Papeterie, Filzkunst, allerlei Wohnaccessoires und vieles mehr bieten den Besuchern eine wunderbare Auswahl an Geschenkideen. Alle Aussteller sind Designer/-innen, Kunsthandwerker/-innen und Manufakturen aus Leipzig und Umgebung.Erstmalig öffnet ein weiteres Gebäude im Kulturhof Gohlis, in dem sich Bildende Künstler/-innen präsentieren. Es gibt Workshops für die Kleineren und gemeinsames Singen…Für die kulinarischen Genüsse sorgt das Werkcafé mit den liebevoll hausgemachten Köstlichkeiten. Der Eintritt ist frei!Samstag: 13 bis 20 UhrSonntag: 11 bis 18 Uhrhttps://kulturhof-gohlis.de/",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-im-kulturhof-gohlis?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lichterfest-und-weihnachtsmarkt",
-      "from": "30.11.2024",
-      "to": "01.12.2024",
-      "location": "Apostelkirche",
-      "summary": "Lichterfest vor der Apostelkirche",
-      "description": "Beim Lichterfest wird es wie immer weihnachtliche Naschereien nebst...",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnartsmarkt",
+      "from": "29.11.2025",
+      "location": "Makerspace",
+      "summary": "WeihnARTsmarkt",
       "details": {
-        "date": "30.11.2024 -  01.12.2024",
-        "time": "",
+        "name": "WeihnARTsmarkt",
+        "date": "29.11.2025",
+        "time": "11:00",
         "location": {
-          "name": "Apostelkirche",
-          "street": "Huttenstraße 14",
-          "zipcode": "04249",
-          "city": "Leipzig",
-          "w3c": "http://www.apostelkirche-leipzig.de"
+          "name": "",
+          "street": "Lindenthaler Straße 61-65",
+          "zipcode": "04157",
+          "city": "Leipzig"
         },
-        "description": "Beim Lichterfest wird es wie immer weihnachtliche Naschereien nebst Bratwurst und Steaks geben. Der Original-Lichterfest-Glühwein vom Winzer wird natürlich ebenfalls zu haben sein und wer noch ein kleines Weihnachtsgeschenk benötigt, kann fündig werden. Außerdem wird es möglich sein, die Kirche zu besichtigen und am Samstag findet gegen 16:30 Uhr ein kleines Konzert statt. Der Erlös wird vollumfänglich gespendet und geht zum einen an den Mehrgenerationenhof in Lindennaundorf und zum anderen an unsere beiden Kirchgemeinden zur Unterstützung der Kirchenmusik und dringender Renovierungsarbeiten. 30. November und 1. Dezember 2024, jeweils ab 13:00 Uhrhttps://apostelkirche-leipzig.de",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lichterfest-und-weihnachtsmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "In Leipzig-Gohlis laden Makerspace und Kunsttanker zum Rundgang ein. Ateliers und Werkstätten sind geöffnet und zeigen ihre Arbeiten und Projekte.",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnartsmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-3-20241130",
-      "from": "30.11.2024",
-      "to": "01.12.2024",
-      "location": "Kulturhof Gohlis",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-2-20251129",
+      "from": "29.11.2025",
+      "location": "Art Kapella",
       "summary": "Adventsmarkt",
-      "description": "Über 20 Aussteller/-innen nehmen wieder am diesjährigen Adventsmarkt im...",
       "details": {
-        "date": "30.11.2024 -  01.12.2024",
-        "time": "",
-        "location": {
-          "name": "Kulturhof Gohlis",
-          "street": "Eisenacher Str. 72",
-          "zipcode": "04155",
-          "city": "Leipzig",
-          "w3c": "http://www.kulturhof-gohlis.de"
-        },
-        "description": "Über 20 Aussteller/-innen nehmen wieder am diesjährigen Adventsmarkt im Kulturhof Gohlis teil: Stände mit Modeaccessoires, Keramik und Porzellan, feiner, erlesener Schmuck, Feinkost, Naturkosmetik, wunderschöne Papeterie, Filzkunst, allerlei Wohnaccessoires und vieles mehr bieten den Besucher/-innen eine wunderbare Auswahl an Geschenkideen.Alle Aussteller sind Designer/-innen, Kunsthandwerker/-innen und Manufakturen aus Leipzig und Umgebung. Der Markt findet im Kulturhof Gohlis – im schönen Ambiente des Werkcafé und den Räumlichkeiten der Musikschule Neue Musik Leipzig – statt. Musikalische Beiträge stimmen auf den Advent ein. Für die kulinarischen Genüsse sorgt das Werkcafé mit den liebevoll hausgemachten Köstlichkeiten.Der Eintritt ist frei!",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-3-20241130?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-2-20241130",
-      "from": "30.11.2024",
-      "to": "12:00",
-      "location": "Rahn Education",
-      "summary": "Adventszauber",
-      "description": "",
-      "details": {
-        "date": "30.11.2024",
+        "name": "Adventsmarkt",
+        "date": "29.11.2025",
         "time": "12:00",
         "location": {
-          "name": "Rahn Education",
-          "street": "Salomonstr. 10",
-          "zipcode": "04103",
-          "city": "Leipzig"
+          "name": "",
+          "street": "Teichstraße 7",
+          "zipcode": "04435",
+          "city": "Schkeuditz"
         },
         "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-2-20241130?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-rueckmarsdorf",
-      "from": "30.11.2024",
-      "to": "14:00",
-      "location": "Pfarramt Rückmarsdorf",
-      "summary": "Adventsmarkt - Rückmarsdorf",
-      "description": "Auch in diesem Jahr wollen wird der Advent mit einem kleinen...",
-      "details": {
-        "date": "30.11.2024",
-        "time": "14:00",
-        "location": {
-          "name": "Pfarramt Rückmarsdorf",
-          "street": "Alte Dorfstraße 2",
-          "zipcode": "04178",
-          "city": "Leipzig"
-        },
-        "description": "Auch in diesem Jahr wollen wird der Advent mit einem kleinen Adventsmarkt im Pfarrhof Rückmarsdorf begrüßt. 14:00 Uhr eröffnet der Markt mit einer Vernissage von selbst gestalteten Kunstwerken der Schüler und Schülerinnen der Rückmarsdorfer Grundschule.Um 19:00 Uhr wird der Nachmittag einen musikalischen Ausklang in der Kirche finden.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-rueckmarsdorf?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/gluehgarten",
-      "from": "30.11.2024",
-      "to": "14:00",
-      "location": "Philippus-Biergarten",
-      "summary": "Glühgarten",
-      "description": "An den Adventssamstagen und -sonntagen im Dezember öffnen wir unseren...",
-      "details": {
-        "date": "30.11.2024",
-        "time": "14:00",
-        "location": {
-          "name": "Philippus-Biergarten",
-          "street": "Aurelienstraße 54",
-          "zipcode": "04177",
-          "city": "Leipzig"
-        },
-        "description": "An den Adventssamstagen und -sonntagen im Dezember öffnen wir unseren Philippus-Biergarten als winterlichen Glühgarten. An der Feuerschale können Ihr Euch wärmen und an unserem Weihnachtshäuschen mit wärmenden Getränken und leckeren Speisen versorgen.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/gluehgarten?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/mittelalterlicher-weihnachtsmarkt-20241130",
-      "from": "30.11.2024",
-      "to": "14:00",
-      "location": "Rittergutsschloss Taucha",
-      "summary": "Mittelalterlicher Weihnachtsmarkt Rittergutsschloss Taucha",
-      "description": "",
-      "details": {
-        "date": "30.11.2024",
-        "time": "14:00 - 20:00",
-        "location": {
-          "name": "Rittergutsschloss Taucha",
-          "street": "Haugwitzwinkel 1",
-          "zipcode": "04425",
-          "city": "Taucha",
-          "w3c": "http://www.schlossverein-taucha.de"
-        },
-        "description": "https://schlossverein-taucha.de/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/mittelalterlicher-weihnachtsmarkt-20241130?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-2-20251129?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": [
           {
-            "date": "01.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/mittelalterlicher-weihnachtsmarkt-20241201"
+            "date": "30.11.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-2-20251130-1"
           }
         ]
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-8",
-      "from": "30.11.2024",
-      "to": "15:00",
-      "location": "Park Miltitz",
-      "summary": "Weihnachtsmarkt im Miltitzer Park",
-      "description": "Deftiges aus der Regien Naschereien, Getränke kleine Verkaufsstände...",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-boehlitz-ehrenberg-2",
+      "from": "29.11.2025",
+      "location": "Freiwillige Feuerwehr Böhlitz-Ehrenberg",
+      "summary": "Weihnachtsmarkt Böhlitz-Ehrenberg",
       "details": {
-        "date": "30.11.2024",
-        "time": "15:00",
+        "name": "Weihnachtsmarkt Böhlitz-Ehrenberg",
+        "date": "29.11.2025",
+        "time": "14:00",
         "location": {
-          "name": "Park Miltitz",
-          "street": "04205 Leipzig"
+          "name": "Freiwillige Feuerwehr Böhlitz-Ehrenberg",
+          "street": "Schönauer Landstraße 2A",
+          "zipcode": "04178",
+          "city": "Leipzig"
         },
-        "description": "Nachhaltigkeit: Eigene Tasse mitbringenwww.heimatverein-miltitz.de",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-8?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Verschiedene Verkaufsstände, Bastelstraße, Ponyreiten, Märchenstunde, Besuch des Weihnachtsmannes und mehr. Eintritt freihttps://www.bgbe.de/weihnachtsmarkt",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-boehlitz-ehrenberg-2?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtlicher-kunst-und-designmarkt",
-      "from": "30.11.2024",
-      "to": "15:00",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/hp7-weihnachts-kunst-designmarkt-kunst-gewerbehof-hp7",
+      "from": "29.11.2025",
       "location": "Kunst- und Gewerbehof HP7",
-      "summary": "Weihnachtlicher Kunst- und Designmarkt",
-      "description": "weihnachtlicher Kunst- und Designmarkt mit Schmuck, Porzellan/Keramik,...",
+      "summary": "HP7 Weihnachts-, Kunst- & Designmarkt – Kunst- & Gewerbehof HP7",
       "details": {
-        "date": "30.11.2024",
-        "time": "15:00 - 21:00",
+        "name": "HP7 Weihnachts-, Kunst- & Designmarkt – Kunst- & Gewerbehof HP7",
+        "date": "29.11.2025",
+        "time": "14:00",
         "location": {
           "name": "Kunst- und Gewerbehof HP7",
           "street": "Hans-Poeche-Straße 7",
           "zipcode": "04103",
           "city": "Leipzig"
         },
-        "description": "weihnachtlicher Kunst- und Designmarkt mit Schmuck, Porzellan/Keramik, Grafik, Textil- und Produktdesign in den Innenräumen. Dazu Lesungen und Musik, sowie finnischer Glühwein und warme Speisen am Feuer im Innenhof des historischen Gebäude.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtlicher-kunst-und-designmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Weihnachtlicher Kunst- und Designmarkt mit Schmuck, Porzellan/Keramik, Grafik, Textil- und Produktdesign in den Innenräumen. Dazu Lesungen sowie Glühwein und warme Speisen am Feuer im Innenhof des historischen Gebäude.www.hp-sieben.de",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/hp7-weihnachts-kunst-designmarkt-kunst-gewerbehof-hp7?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-5",
-      "from": "30.11.2024",
-      "to": "15:00",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-10",
+      "from": "29.11.2025",
+      "location": "Park Miltitz",
+      "summary": "Weihnachtsmarkt im Miltitzer Park",
+      "details": {
+        "name": "Weihnachtsmarkt im Miltitzer Park",
+        "date": "29.11.2025",
+        "time": "15:00",
+        "location": {
+          "name": "Park Miltitz",
+          "street": "04205 Leipzig"
+        },
+        "description": "15 Uhr weihnachtliche EröffnungNachhaltigkeit: Eigene Tasse mitbringenhttps://www.heimatverein-miltitz.de/",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-10?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-1",
+      "from": "29.11.2025",
       "location": "Versöhnungskirche",
       "summary": "Adventsmarkt",
-      "description": "Am 30. November 2024 lädt die Versöhnungskirchgemeinde Leipzig-Gohlis...",
       "details": {
-        "date": "30.11.2024",
-        "time": "15:00 - 17:00",
+        "name": "Adventsmarkt",
+        "date": "29.11.2025",
+        "time": "15:00",
         "location": {
           "name": "Versöhnungskirche",
           "street": "Franz-Mehring-Straße 44",
           "zipcode": "04157",
           "city": "Leipzig"
         },
-        "description": "Am 30. November 2024 lädt die Versöhnungskirchgemeinde Leipzig-Gohlis zum Adventsmarkt in und um die Kirche ein. Es wird wie gewohnt einzelne Stände und Angebote geben, darunter das alljährliche Kränzebasteln, Kaffee und Kuchen, Bratwurst und Glühwein sowie den Kartenvorverkauf für das Weihnachtsoratorium am 3. Advent (15. Dezember 2024). https://www.versoehnungs-gemeinde.de/aktuelles/adventsmarkt-und-weihnachtsliedersingen",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-5?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Am 29. November 2025 lädt die Versöhnungskirchgemeinde Leipzig-Gohlis zum Adventsmarkt in und um die Kirche ein.",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-11",
-      "from": "01.12.2024",
-      "to": "11:00",
-      "location": "Schloss Schönefeld",
-      "summary": "Weihnachtsmarkt am Schloss Schönefeld",
-      "description": "Bühnenprogramm ab 14 Uhr Eintritt kostenlos. Parkplätze sehr begrenz,...",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/advent-im-park",
+      "from": "30.11.2025",
+      "location": "Kees'scher Park",
+      "summary": "Advent im Park",
       "details": {
-        "date": "01.12.2024",
-        "time": "11:00 - 18:00",
+        "name": "Advent im Park",
+        "date": "30.11.2025",
+        "time": "11:00",
+        "location": {
+          "name": "",
+          "street": "Lauersche Str. ",
+          "zipcode": "04416",
+          "city": "Markkleeberg,"
+        },
+        "description": "Adventsmarkt von Brot & Kees mit weihnachtlicher Musik und verschiedenen Ständen und Händlern. https://www.brotundkees.de/advent-im-park/",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/advent-im-park?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-2025-am-schloss-schoenefeld",
+      "from": "30.11.2025",
+      "location": "Schloss Schönefeld",
+      "summary": "Weihnachtsmarkt 2025 am Schloss Schönefeld",
+      "details": {
+        "name": "Weihnachtsmarkt 2025 am Schloss Schönefeld",
+        "date": "30.11.2025",
+        "time": "11:00",
         "location": {
           "name": "Schloss Schönefeld",
           "street": "Zeumerstraße 1",
           "zipcode": "04347",
           "city": "Leipzig"
         },
-        "description": "Bühnenprogramm ab 14 UhrEintritt kostenlos. Parkplätze sehr begrenz, bitte mit öffentlichen Verkehrsmitteln anreisen.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-11?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Besucherinnen und Besucher erwartet ein stimmungsvoller Adventstag mit zahlreichen Ständen regionaler Händler/-innen, die handgemachte, fair gehandelte und regionale Produkte anbieten.Vor dem Schloss sorgen kulinarische Leckereien, Glühwein und weihnachtliche Musik für eine festliche Atmosphäre. Besonders beliebt ist der Bereich hinter dem Schloss, der sich ganz den Kindern widmet. Dort gibt es Bastel- und Kreativangebote, Ponyreiten und eine Weihnachtsmannsprechstunde. Auch im Schloss werden kreative Mitmachaktionen wie z.B. Töpfern und Steine schleifen sowie eine Märchenstunde angeboten.https://verein.schloss-schoenefeld.de/",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-2025-am-schloss-schoenefeld?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-von-brot-kees",
-      "from": "01.12.2024",
-      "to": "11:00",
-      "location": "Kees'scher Park",
-      "summary": "Advent im Park",
-      "description": "Adventsmarkt von Brot & Kees mit weihnachtlicher Musik und...",
-      "details": {
-        "date": "01.12.2024",
-        "time": "11:00 - 18:00",
-        "location": {
-          "name": "Kees'scher Park",
-          "street": "Lauersche Str. ",
-          "zipcode": "04416",
-          "city": "Markkleeberg,",
-          "w3c": "http://www.keesscher-park.de"
-        },
-        "description": "Adventsmarkt von Brot & Kees mit weihnachtlicher Musik und verschiedenen Ständen und Händlern. https://www.brotundkees.de/veranstaltungen/adventsmarkt/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-von-brot-kees?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-auf-dem-wahrener-kirchberg-am-1-dezember",
-      "from": "01.12.2024",
-      "to": "12:00",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-in-wahren",
+      "from": "30.11.2025",
       "location": "Gnadenkirche Leipzig-Wahren",
-      "summary": "Adventsmarkt auf dem Wahrener Kirchberg",
-      "description": "Wie jedes Jahr findet am ersten Advent, dem 1.12., der beliebte...",
+      "summary": "Adventsmarkt in Wahren",
       "details": {
-        "date": "01.12.2024",
+        "name": "Adventsmarkt in Wahren",
+        "date": "30.11.2025",
         "time": "12:00",
         "location": {
           "name": "Gnadenkirche Leipzig-Wahren",
@@ -506,588 +328,690 @@
           "zipcode": "04159",
           "city": "Leipzig"
         },
-        "description": "Wie jedes Jahr findet am ersten Advent, dem 1.12., der beliebte Adventsmarkt auf dem Wahrener Kirchberg statt. Um 12:00 Uhr, direkt nach dem Familiengottesdienst, der um 11:00 Uhr beginnt, geht es los. Die Organisation übernimmt wieder der Förderverein Gemeindeaufbau der Ev.-Luth. Gnadenkirche Leipzig-Wahren e.V., unterstützt von vielen fleißigen Helfern aus der Gemeinde. Es sind alle herzlich eingeladen: Gemeindeglieder, Nachbarn, Freunde und jeder, der Lust auf einen kleinen, gemütlichen Adventsmarkt hat. Für das leibliche Wohl wird bestens gesorgt sein. Eine besinnliche Stimmung schaffen Adventsmusik, ein leuchtender Weihnachtsbaum und unsere große Feuerschale. Die Kinder dürfen sich auf Basteleien freuen, während die Erwachsenen die Verkaufsstände erkunden können. Merken Sie sich das Datum und erzählen Sie es weiter! Wir freuen uns auf Sie!P.S.: Bitte melden Sie sich, wenn Sie gut erhaltene weihnachtliche und winterliche Dekoartikel auf Ihrem Dachboden oder wo auch immer finden, unter foerderverein-wahren@sophien-leipzig.de oder 0341-4611850. Vielen herzlichen Dank! Peggy Langhärig.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-auf-dem-wahrener-kirchberg-am-1-dezember?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Adventsmarkt auf dem Kirchberg in Wahren. Spinnradvorführung und Handarbeitsschau im Gartenhaus -herzhafte Speisen, Glühwein & Kinderpunsch -Adventsgestecke, Honigprodukte, selbstgemachte Plätzchen & Marmelade, Weihnachtströdel usw. -Kaffee, Kuchen & Stolle Veranstalter: Förderverein Gemeindeaufbau der Ev.-Luth. Gnadenkirche Leipzig-Wahren e.V. in Zusammenarbeit mit der Evangelisch- Lutherischen Sophienkirchgemeinde In alter Tradition laden wir wieder nach dem Familiengottesdienst um 11 Uhr zum Adventsmarkt auf dem Wahrener Kirchberg ein. Erzählt es weiter und lasst uns gemeinsam die Adventszeit einläuten. Hinweis: Für unsere Umwelt bitten wir, eigene Trinkbecher mitzubringen. Bei Weihnachtsbaum und Feuerschale erwarten euch: 16 - 16:45 Uhr Adventsliedersingen in der Kirche 13 - 16 Uhr Kinderbasteln im Gartenhaus offene Kirche mit Turmführungen.",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-in-wahren?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt",
-      "from": "01.12.2024",
-      "to": "13:00",
-      "location": "Dölitzer Wassermühle",
-      "summary": "Idyllischer Adventsmarkt in der Dölitzer Wassermühle",
-      "description": "Am ersten Advent lädt die Dölitzer Wassermühle zum Adventsmarkt in die...",
-      "details": {
-        "date": "01.12.2024",
-        "time": "13:00 - 18:00",
-        "location": {
-          "name": "Dölitzer Wassermühle",
-          "street": "Vollhardtstraße 16",
-          "zipcode": "04279",
-          "city": "Leipzig"
-        },
-        "description": "Am ersten Advent lädt die Dölitzer Wassermühle zum Adventsmarkt in die Vollhardtstraße 16 in Leipzig ein. Fernab der großen Weihnachtsmärkte gibt es eine heimelige und lauschige Atmosphäre auf dem Mühlenhof. „Süße Dinge und schöne Gaben“ stehen im Mittelpunkt des Marktes. Neben Marktständen von regionalen Kunsthandwerkern dreht sich die Mühlenpyramide. Selbst Genähtes und Gestricktes, Kunstkalender, Keramik, Holzspielzeug und regionaler Honig sind ideale individuelle Weihnachtsgeschenke. Für Kinder und Familien ist die Weihnachtsbackstube geöffnet und es können Plätzchen im Lehmbackofen gebacken werden. Die traditionelle Handwerksbäckerei Kleinert verkostet unterschiedliche Stollensorten. Fürs kulinarische Wohl ist gesorgt, Eichsfelder Bratwurst, Suppe aus der Feldküche und selbst zubereiteter Glühwein laden zum Verweilen ein.https://doelitzer-wassermuehle.de/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-1",
-      "from": "01.12.2024",
-      "to": "14:00",
-      "location": "Gohliser Wannenbad",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-2-20251130-1",
+      "from": "30.11.2025",
+      "location": "Art Kapella",
       "summary": "Adventsmarkt",
-      "description": "Versteckt im Hinterhof der Georg-Schumann-Straße 116 lädt der...",
       "details": {
-        "date": "01.12.2024",
-        "time": "14:00 - 18:00",
+        "name": "Adventsmarkt",
+        "date": "30.11.2025",
+        "time": "12:00",
+        "location": {
+          "name": "",
+          "street": "Teichstraße 7",
+          "zipcode": "04435",
+          "city": "Schkeuditz"
+        },
+        "description": "",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-2-20251130-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "29.11.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-2-20251129"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-im-hinterhof",
+      "from": "30.11.2025",
+      "location": "Gohliser Wannenbad",
+      "summary": "Weihnachtsmarkt im Hinterhof",
+      "details": {
+        "name": "Weihnachtsmarkt im Hinterhof",
+        "date": "30.11.2025",
+        "time": "14:00",
         "location": {
           "name": "Gohliser Wannenbad",
           "street": "Georg-Schumann-Straße 116",
           "zipcode": "04155",
           "city": "Leipzig"
         },
-        "description": "Versteckt im Hinterhof der Georg-Schumann-Straße 116 lädt der Weihnachtsmarkt zum Entdecken schönster Weihnachtsgeschenke und gemütlichem Beisammensein an der Feuerschale mit wärmenden Getränken.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Nach Weihnachtgeschenken stöbern, Aufwärmen mit Punsch an der Feuerschale, unterm Weihnachtsbaum weihnachtlichen und unweihnachtlichen Liedern lauschen - das und mehr erwartet Besucherinnen und Besucher am 1. Advent im Wannenbad.",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-im-hinterhof?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/stoetteritzer-adventsmarkt-2",
-      "from": "01.12.2024",
-      "to": "14:00",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/stoetteritzer-adventsmarkt",
+      "from": "30.11.2025",
       "location": "Gutshof Stötteritz",
-      "summary": "Adventsmarkt auf dem Gutshof Stötteritz",
-      "description": "",
+      "summary": "Stötteritzer Adventsmarkt",
       "details": {
-        "date": "01.12.2024",
-        "time": "14:00 - 19:00",
+        "name": "Stötteritzer Adventsmarkt",
+        "date": "30.11.2025",
+        "time": "14:00",
         "location": {
           "name": "Gutshof Stötteritz",
           "street": "Oberdorfstraße 15",
           "zipcode": "04299",
           "city": "Leipzig"
         },
-        "description": "https://gutshof-stoetteritz.de/aktuelles/events/adventsmarkt-auf-dem-gutshof-stoetteritz",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/stoetteritzer-adventsmarkt-2?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Adventsauftakt auf dem Gutshof Stötteritz. Kulinarisches Angebot und Stände mit Kunsthandwerk. Verweilen Sie am festlich geschmückten Tannenbaum und lauschen Sie weihnachtlichen Klängen. 16:00 Uhr: inklusives Theater „aHnungslos“ spielt “Frau Holle”https://www.gutshof-stoetteritz.de/",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/stoetteritzer-adventsmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-1",
-      "from": "01.12.2024",
-      "to": "14:00",
-      "location": "Robert-Koch-Park",
-      "summary": "Adventszauber",
-      "description": "",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251130",
+      "from": "30.11.2025",
+      "location": "Philippus-Biergarten",
+      "summary": "Glühgarten",
       "details": {
-        "date": "01.12.2024",
+        "name": "Glühgarten",
+        "date": "30.11.2025",
         "time": "14:00",
         "location": {
-          "name": "Robert-Koch-Park",
-          "street": "Nikolai-Rumjanzew-Straße 100 (Zufahrt Schönauer Straße)",
-          "zipcode": "04207",
+          "name": "Philippus-Biergarten",
+          "street": "Aurelienstraße 54",
+          "zipcode": "04177",
           "city": "Leipzig"
         },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5",
-      "from": "01.12.2024",
-      "to": "14:00",
-      "location": "Neustädter Markt",
-      "summary": "Adventsfest",
-      "description": "1. Advent (1. Dezember) auf dem Neustädter Markt und in der...",
-      "details": {
-        "date": "01.12.2024",
-        "time": "14:00",
-        "location": {
-          "name": "Neustädter Markt",
-          "street": "Neustädter Markt",
-          "zipcode": "04315",
-          "city": "Leipzig"
-        },
-        "description": "1. Advent (1. Dezember) auf dem Neustädter Markt und in der Heilig-Kreuz-Kirche mit Verkaufsständen für allerlei Ding. Es laden ein: Bürgerverein Neustädter Markt e.V., Kirchgemeinde St. Nikolai und weitere Akteure des Stadtteiles Neustadt-Neuschönefeld.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-5?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-im-haus-hof-der-muehlstrasse-14",
-      "from": "01.12.2024",
-      "to": "14:00",
-      "location": "Mühlstraße 14",
-      "summary": "Weihnachtsmarkt im Haus- & Hof der Mühlstraße 14",
-      "description": "Am 1. Advent findet der kleine, feine Weihnachtsmarkt im gesamten Haus...",
-      "details": {
-        "date": "01.12.2024",
-        "time": "14:00 - 19:00",
-        "location": {
-          "name": "Mühlstraße 14",
-          "street": "Mühlstraße 14 ",
-          "zipcode": "04317",
-          "city": "Leipzig",
-          "w3c": "http://www.muehlstrasse.de"
-        },
-        "description": "Am 1. Advent findet der kleine, feine Weihnachtsmarkt im gesamten Haus und Hof der Mühlstraße 14 statt. Es warten Stände mit handgemachtem, fair gehandelten und regionalen Produkten auf die Besucherinnen und Besucher.In der Wichtelwerkstatt gibt es Weihnachtsbasteleien und es können Geschenke selber hergestellt werden. Zudem gibt es Wärmendes wie Feuertonne, Knüppelkuchen, Glühwein & Kinderpunsch, heiße Waffeln, Kaffee & Kuchen oder warme Speisen vom Grill. Außerdem: weihnachtliches Singen, Geschenke angeln, Weihnachtspost: Briefe an den Weihnachtsmann und natürlich der Besuch vom Weihnachtsmann.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-im-haus-hof-der-muehlstrasse-14?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/mittelalterlicher-weihnachtsmarkt-20241201",
-      "from": "01.12.2024",
-      "to": "14:00",
-      "location": "Rittergutsschloss Taucha",
-      "summary": "Mittelalterlicher Weihnachtsmarkt Rittergutsschloss Taucha",
-      "description": "",
-      "details": {
-        "date": "01.12.2024",
-        "time": "14:00 - 18:00",
-        "location": {
-          "name": "Rittergutsschloss Taucha",
-          "street": "Haugwitzwinkel 1",
-          "zipcode": "04425",
-          "city": "Taucha",
-          "w3c": "http://www.schlossverein-taucha.de"
-        },
-        "description": "https://schlossverein-taucha.de/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/mittelalterlicher-weihnachtsmarkt-20241201?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Der Philippus-Biergarten öffnet als winterlicher Glühgarten. An der Feuerschale kann man sich wärmen und am Weihnachtshäuschen mit wärmenden Getränken und leckeren Speisen versorgen.",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251130?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": [
           {
-            "date": "30.11.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/mittelalterlicher-weihnachtsmarkt-20241130"
+            "date": "13.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251213-1"
+          },
+          {
+            "date": "14.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251214-2"
+          },
+          {
+            "date": "20.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251220-3"
           }
         ]
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kinder-ins-werk-mitmachweihnachtsmarkt-1",
-      "from": "01.12.2024",
-      "to": "15:00",
-      "location": "",
-      "summary": "Kinder ins Werk: Mitmachweihnachtsmarkt",
-      "description": "Mit unserem Mitmach-Weihnachtsmarkt wollen wir dem vorweihnachtlichen...",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-in-der-doelitzer-wassermuehle",
+      "from": "30.11.2025",
+      "location": "Dölitzer Wassermühle",
+      "summary": "Adventsmarkt in der Dölitzer Wassermühle",
       "details": {
-        "date": "01.12.2024",
-        "time": "15:00 - 19:00",
+        "name": "Adventsmarkt in der Dölitzer Wassermühle",
+        "date": "30.11.2025",
+        "time": "14:00",
         "location": {
-          "name": "",
-          "street": ""
+          "name": "Dölitzer Wassermühle",
+          "street": "Vollhardtstraße 16",
+          "zipcode": "04279",
+          "city": "Leipzig"
         },
-        "description": "Mit unserem Mitmach-Weihnachtsmarkt wollen wir dem vorweihnachtlichen Wahnsinn und dem Geschenke-Kaufrausch entfliehen. Wir gestalten für Euch einen gemütlichen Kreativ-Nachmittag in der Halle D. Kommt vorbei, genießt ein wenig die weihnachtliche Stimmung und vielleicht habt Ihr Lust, auch noch ein paar kleine Geschenke zu basteln. Es erwarten Euch verschiedene Kreativaktionen für unterschiedliche Altersgruppen, ein Wunschbaum für alle Wünsche, die man nicht kaufen kann und um 18 Uhr zeigen wir Euch unser kleines feines Weihnachtsstück vom Weihnachtsmann, der vom Himmel fiel.Für alle sind die Kreativangebote im Eintrittspreis enthalten, sowie ein leckerer Kinderpunsch und knusprige Weihnachtsplätzchen. Wir freuen uns auf Euch und ein paar besinnliche Stunden! Mit dabei sind unter anderem: Machtlos e.V. mit Weihnachtsbuttons Stadtteilzentrum Lößnig mit Schmuck und Deko aus Naturmaterialien Freiwilligenagentur mit der Aktion Brieffreunde 15 – 18 Uhr: Kreativstände und Wunschbaum 18 Uhr: Weihnachtsstück „Vom Weihnachtsmann, der vom Himmel fiel“.https://www.werk-2.de/programm/2024-12-01_kinder_ins_werk_mitmachweihnachtsmarkt",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kinder-ins-werk-mitmachweihnachtsmarkt-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Süße Dinge und schöne Gaben gibt es am 1. Advent in der Dölitzer Wassermühle. Kinderbackstube, Glühwein und Chorgesang läuten die Vorweihnachtszeit ein.",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-in-der-doelitzer-wassermuehle?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-19",
-      "from": "01.12.2024",
-      "to": "15:00",
-      "location": "Freiwillige Feuerwehr Markranstädt",
-      "summary": "Weihnachtsmarkt Freiwillige Feuerwehr Makranstädt",
-      "description": "",
-      "details": {
-        "date": "01.12.2024",
-        "time": "15:00",
-        "location": {
-          "name": "Freiwillige Feuerwehr Markranstädt",
-          "street": "Zum Rittergut 65",
-          "zipcode": "04420",
-          "city": "Markranstädt"
-        },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-19?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-im-foyer-der-bio-city",
-      "from": "03.12.2024",
-      "to": "12:00",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-in-der-bio-city",
+      "from": "02.12.2025",
       "location": "biocity Leipzig",
-      "summary": "Weihnachtsmarkt im Foyer der Bio City",
-      "description": "mit Selbstgemachtem, Leckereien und vielem mehr 15:00...",
+      "summary": "Weihnachtsmarkt in der Bio City",
       "details": {
-        "date": "03.12.2024",
-        "time": "12:00 - 15:30",
+        "name": "Weihnachtsmarkt in der Bio City",
+        "date": "02.12.2025",
+        "time": "12:00",
         "location": {
           "name": "biocity Leipzig",
           "street": "Deutscher Platz 5",
           "zipcode": "04103",
           "city": "Leipzig"
         },
-        "description": "mit Selbstgemachtem, Leckereien und vielem mehr15:00 Uhr gemeinsames Adventssingen mit dem Chor ChorAlleWeihnachtliche Spendenaktion zugunsten des Vereins TiMMi ToHelp e.V.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-im-foyer-der-bio-city?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "mit Selbstgemachtem, Leckereien und vielem mehr im Foyer der Bio CityWeihnachtliche Spendeaktion zugunsten des Vereins Minilöwen",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-in-der-bio-city?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-24",
-      "from": "03.12.2024",
-      "to": "14:00",
-      "location": "Kulturhaus Eutritzsch",
-      "summary": "Kulturhaus Weihnachtsmarkt",
-      "description": "Am 1. Advent lädt das Kulturhaus Eutritzsch zum Weihnachtsmarkt ein!...",
-      "details": {
-        "date": "03.12.2024",
-        "time": "14:00 - 19:00",
-        "location": {
-          "name": "Kulturhaus Eutritzsch",
-          "street": "Thaerstr. 39",
-          "zipcode": "04129",
-          "city": "Leipzig",
-          "w3c": "http://www.kulturhauseutritzsch.de"
-        },
-        "description": "Am 1. Advent lädt das Kulturhaus Eutritzsch zum Weihnachtsmarkt ein! Mit kleinem Feuerchen, gut Gegrillten, Kräppelchen und Flohmarkt lockt das fröhliche Beisammensein. Das Ganze wird von DJ Wolfi mit besinnlicher Weihnachtsmusik untermalt. Freier Eintritt.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-24?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20241204",
-      "from": "04.12.2024",
-      "to": "08.12.2024",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20251203-1",
+      "from": "03.12.2025",
+      "to": "07.12.2025",
       "location": "Gohliser Schlösschen",
       "summary": "Weihnachtsduft und Lichterglanz",
-      "description": "Vom 27.11. – 22.12.2024 Glanz und Fröhlichkeit des Advent in der...",
       "details": {
-        "date": "04.12.2024 -  08.12.2024",
-        "time": "",
+        "name": "Weihnachtsduft und Lichterglanz",
+        "date": "03.12.2025",
+        "time": "07.12.2025",
         "location": {
-          "name": "Gohliser Schlösschen",
+          "name": "",
           "street": "Menckestraße 23",
           "zipcode": "04155",
-          "city": "Leipzig",
-          "w3c": "http://www.gohliserschloesschen.de"
+          "city": "Leipzig"
         },
-        "description": "Vom 27.11. – 22.12.2024 Glanz und Fröhlichkeit des Advent in der besinnlichen Atmosphäre des Gohliser Schlösschens. Verweilen bei festlicher Stimmung und zu weihnachtlicher Musik im Barockgarten mit selbstgebackenen süßen und herzhaften Waffeln, gebrannten Mandeln und „hausgeglühtem“ Glühwein, Punsch und heißen Säften. Abgerundet wird das Angebot durch ein abwechslungsreiches Kulturprogramm – Chormusik, Instrumentalisten, gemeinsames Adventsliedersingen, Turmbläser, Weihnachtsgeschichten und vieles mehr.„Weihnachtsduft und Lichterglanz“ ist kein klassischer Weihnachtsmarkt! Das Gohliser Schlösschen bietet eine Alternative zu den klassischen Weihnachtsmärkten. Ganz bewusst verzichtet wird auf Marktbuden und Verkaufsstände und geboten wird ein stimmungsvoller und besinnlicher Ort für Kunst, Kultur, Gespräche und geselliges Miteinander.27.11. – 22.12.2024Mittwoch – Samstag 15:00 – 19:00 Uhr Sonntag 12:00 – 18:00 Uhrhttps://gohliserschloesschen.de/events/weihnachtsduft-2024/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20241204?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Vom 26.11. – 21.12.2025 Glanz und Fröhlichkeit des Advent in der besinnlichen Atmosphäre des Gohliser Schlösschens. Verweilen bei festlicher Stimmung und zu weihnachtlicher Musik im Barockgarten mit elbstgebackenen süßen und herzhaften Waffeln, gebrannten Mandeln und „hausgeglühtem“ Glühwein, Punsch und heißen Säften. Abgerundet wird das Angebot durch ein abwechslungsreiches Kulturprogramm – Chormusik, Instrumentalisten, gemeinsames Adventsliedersingen, Turmbläser, Weihnachtsgeschichten und vieles mehr.„Weihnachtsduft und Lichterglanz“ ist kein klassischer Weihnachtsmarkt! Das Gohliser Schlösschen bietet eine Alternative zu den klassischen Weihnachtsmärkten. Ganz bewusst verzichtet wird auf Marktbuden und Verkaufsstände und geboten wird ein stimmungsvoller und besinnlicher Ort für Kunst, Kultur, Gespräche und geselliges Miteinander. https://gohliserschloesschen.de/weihnachtsduft/",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20251203-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": [
           {
-            "date": "11.12.2024 -  15.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20241211"
+            "date": "10.12.2025-14.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20251210-2"
           },
           {
-            "date": "18.12.2024 -  22.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20241218"
+            "date": "17.12.2025-21.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20251217-3"
           }
         ]
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-23-20241205",
-      "from": "05.12.2024",
-      "to": "08.12.2024",
-      "location": "Landgasthof Walradus Hof",
-      "summary": "Weihnachtsmarkt",
-      "description": "Weihnachtsmarkt im Walradus Hof.",
-      "details": {
-        "date": "05.12.2024 -  08.12.2024",
-        "time": "",
-        "location": {
-          "name": "Landgasthof Walradus Hof",
-          "street": "Emil-Teich-Str. 4",
-          "zipcode": "04249",
-          "city": "Leipzig,"
-        },
-        "description": "Weihnachtsmarkt im Walradus Hof.  Donnerstag bis Freitag ab 17:00 Uhr Samstag und Sonntag ab 14:00 Uhr",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-23-20241205?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "12.12.2024 -  15.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-23-20241212"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachten-am-kreuz-1",
-      "from": "06.12.2024",
-      "to": "12.12.2024",
-      "location": "Werk 2",
-      "summary": "Weihnachten am Kreuz",
-      "description": "Das gesamte Gelände vom Werk 2 wird zum wundervollen Connewitzer...",
-      "details": {
-        "date": "06.12.2024 -  12.12.2024",
-        "time": "",
-        "location": {
-          "name": "Werk 2",
-          "street": "Kochstraße 132",
-          "zipcode": "04277",
-          "city": "Leipzig",
-          "w3c": "http://www.werk-2.de"
-        },
-        "description": "Das gesamte Gelände vom Werk 2 wird zum wundervollen Connewitzer Weihnachtsmarkt. Vom 6.12. bis zum 15.12. präsentieren euch wieder zahlreiche Händler/-innen ihre handgemachten, kreativen, leckeren und duftenden Produkte. Neben vielen Ständen und einer gemütlichen Atmosphäre warten viele Mitmachangebote und Veranstaltungen.Eintritt freihttps://www.werk-2.de",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachten-am-kreuz-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-2",
-      "from": "07.12.2024",
-      "to": "08.12.2024",
-      "location": "Torhaus Markkleeberg",
-      "summary": "Adventsmarkt",
-      "description": "Weihnachtsmarkt im Torhaus Markkleeberg mit Verkaufsständen,...",
-      "details": {
-        "date": "07.12.2024 -  08.12.2024",
-        "time": "",
-        "location": {
-          "name": "Torhaus Markkleeberg",
-          "street": "Kirchstraße 40",
-          "zipcode": "04416",
-          "city": "Markkleeberg",
-          "w3c": "http://www.torhaus-markkleeberg.de"
-        },
-        "description": "Weihnachtsmarkt im Torhaus Markkleeberg mit Verkaufsständen, Kinderkarussell, Besuch vom Weihnachtsmann und mehr in der historischen Kulisse des Schlosshofes. 14 bis 18 Uhrhttps://torhaus-markkleeberg.de",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-2?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241207",
-      "from": "07.12.2024",
-      "to": "08.12.2024",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251206-1",
+      "from": "06.12.2025",
+      "to": "07.12.2025",
       "location": "Feinkost",
-      "summary": "Advent, Advent, ein Lichtlein brennt … Weihnachtsmarkt auf der Feinkost 2024",
-      "description": "Der Weihnachtsmarkt auf der Feinkost begeistert auch dieses Jahr wieder...",
+      "summary": "Lichterglanz im Advent – Der Weihnachtsmarkt auf der Feinkost 2025",
       "details": {
-        "date": "07.12.2024 -  08.12.2024",
-        "time": "",
+        "name": "Lichterglanz im Advent – Der Weihnachtsmarkt auf der Feinkost 2025",
+        "date": "06.12.2025",
+        "time": "07.12.2025",
         "location": {
-          "name": "Feinkost",
+          "name": "",
           "street": "Karl-Liebknecht-Straße 36",
           "zipcode": "04107",
-          "city": "Leipzig",
-          "w3c": "http://www.feinkostgenossenschaft.de"
+          "city": "Leipzig"
         },
-        "description": "Der Weihnachtsmarkt auf der Feinkost begeistert auch dieses Jahr wieder mit seiner besonderen Atmosphäre und einer wunderbaren Auswahl an schönen und einzigartigen Produkten. Ob Porzellan, Keramik und Schmuck, Gestricktes und Gehäkeltes, künstlerische Grafiken oder Zeichnungen – zahlreiche Handwerker*innen und Künstler*innen bieten ihre kreativen Unikate an. Wer etwas Außergewöhnliches für Weihnachten sucht, wird hier sicherlich fündig werden.Nach dem Rundgang kann man sich mit afrikanischem Essen aus Gambia und köstlichen Crêpes stärken. Oder man macht es sich am Grill gemütlich und genießt einen Glühwein oder heißen Saft – unter den funkelnden Weihnachtslichtern der Feinkost.Öffnungszeiten: Samstag 11 bis 20 Uhr; Sonntag 11 bis 18 Uhrwww.feinkostgenossenschaft.de",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241207?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Der Weihnachtsmarkt auf der Feinkost begeistert jedes Jahr wieder mit seiner besonderen Atmosphäre und einer wunderbaren Auswahl an schönen und einzigartigen Produkten. Ob Porzellan, Keramik und Schmuck, Gestricktes und Gehäkeltes, künstlerische Grafiken oder Zeichnungen – zahlreiche Kunsthandwerker/-innen und Händler/-innen bieten ihre kreativen Unikate an. Wer etwas Außergewöhnliches für Weihnachten sucht, wird bei uns sicherlich fündig werden.Nach dem Rundgang kann man sich mit burmesischem Essen, koreanischem Corn Dog, leckeren Crêpes sowie veganen und vegetarischen Köstlichkeiten stärken. Oder man macht es sich am Grill gemütlich und genießt unter den funkelnden Weihnachtslichtern der Feinkost einen Glühwein oder heißen Saft.Samstag: 11 – 20 Uhr Sonntag: 11 – 18 Uhrhttps://feinkostgenossenschaft.de",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251206-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": [
           {
-            "date": "30.11.2024 -  01.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241130"
+            "date": "29.11.2025-30.11.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251129"
           },
           {
-            "date": "14.12.2024 -  15.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241214"
+            "date": "13.12.2025-14.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251213-2"
           },
           {
-            "date": "21.12.2024 -  22.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241221"
+            "date": "20.12.2025-21.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251220-3"
           }
         ]
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/viktorianischer-weihnachtsmarkt",
-      "from": "07.12.2024",
-      "to": "13:00",
-      "location": "Seebühne am Biedermeierstrand",
-      "summary": "Viktorianischer Weihnachtsmarkt",
-      "description": "Weihnachten, wie wir es heute als Familienfest kennen, wurde praktisch...",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/10-veganer-weihnachtsmarkt-1",
+      "from": "06.12.2025",
+      "to": "07.12.2025",
+      "location": "Philippus-Ensemble",
+      "summary": "10. Veganer Weihnachtsmarkt",
       "details": {
-        "date": "07.12.2024",
-        "time": "13:00",
+        "name": "10. Veganer Weihnachtsmarkt",
+        "date": "06.12.2025",
+        "time": "07.12.2025",
         "location": {
-          "name": "Seebühne am Biedermeierstrand",
-          "street": "Zum Biedermeierstrand",
-          "zipcode": "04435",
-          "city": "Schkeuditz"
-        },
-        "description": "Weihnachten, wie wir es heute als Familienfest kennen, wurde praktisch im Biedermeier erfunden. Erfindungen wie der Adventskranz, die Christbaumkugel oder der Schokoladenweihnachtsmann wurden damals gemacht. Natürlich darf somit ein historisch inspirierter Weihnachtsmarkt am Biedermeierstrand nicht fehlen. An Marktständen, die in liebevoller Handarbeit angefertigte Accessoires, Kleidung, Bio-Produkte, Schmuck oder Weihnachtsdekoration von Kleinstbetrieben und Privatpersonen der Region anbieten, kann geschlemmt, geschaut und Weihnachtseinkäufe erledigt werden. Untermalt wird das Ambiente von weihnachtlicher Chormusik und der vielleicht größten Weihnachtspyramide der Region. Kulinarische Köstlichkeiten von Glühwein bis Weihnachtseis verwöhnen dabei den Gaumen der Gäste.https://biedermeierstrand.de/a-victorian-christmas-07-12-2024-ab-13-uhr/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/viktorianischer-weihnachtsmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-15",
-      "from": "07.12.2024",
-      "to": "14:00",
-      "location": "Marktplatz Markranstädt",
-      "summary": "Weihnachtsmarkt",
-      "description": "Bühnenprogramm 14:00 Uhr Adventsmusik mit Andacht in der St....",
-      "details": {
-        "date": "07.12.2024",
-        "time": "14:00",
-        "location": {
-          "name": "Marktplatz Markranstädt",
-          "street": "04420 Markranstädt"
-        },
-        "description": "Bühnenprogramm14:00 Uhr Adventsmusik mit Andacht in der St. Laurentiuskirche14:30 Uhr Eröffnung durch die Bürgermeisterin und den Posaunenchor14:45 Uhr Auftritt KiTa Spatzenhaus Altranstädt15:10 Uhr Auftritt der Grundschule Markranstädt15:30 Uhr: Auftritt der KiTa Forscherinsel Seebenisch15:45 Uhr Auftritt der KiTa Waldknuffel Markranstädt16:00 Uhr Auftritt des Kultur- und Faschingsverein Seebenisch e.V.16:30 Uhr Der Weihnachtsmann kommt! Begrüßung auf der Bühne und anschließend Sprechstunde im Bürgerrathaus16:45 Uhr Auftritt des Markranstädter Carneval Club e.V.17:15 Uhr Auftritt des Chors von der Oberschule Markranstädt18:00 Uhr Siegerehrung des „Besten Stollenbäckers 2024“ von Markranstädt18:30 Uhr Auftritt der Markranstädter Stammtischler20:15 Uhr THNC -Schülerband von Markranstädthttps://www.markranstaedt.de/de/veranstaltungsbeschreibung/event/22409,9/16-markranstaedter-weihnachtsmarkt-07-12-2024.html",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-15?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-20241207",
-      "from": "07.12.2024",
-      "to": "14:00",
-      "location": "Hotel Philippus",
-      "summary": "Adventszauber",
-      "description": "",
-      "details": {
-        "date": "07.12.2024",
-        "time": "14:00",
-        "location": {
-          "name": "Hotel Philippus",
+          "name": "Philippus-Ensemble",
           "street": "Aurelienstraße 54",
           "zipcode": "04177",
           "city": "Leipzig"
         },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-20241207?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "08.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-20241208"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/alternativer-adventsmarkt",
-      "from": "07.12.2024",
-      "to": "14:00",
-      "location": "Heilandskirche in Plagwitz",
-      "summary": "Alternativer Adventsmarkt",
-      "description": "Künstlerische oder kulinarische Verkaufsstände, Café mit...",
-      "details": {
-        "date": "07.12.2024",
-        "time": "14:00 - 18:00",
-        "location": {
-          "name": "Heilandskirche in Plagwitz",
-          "street": "Weißenfelser Straße 16",
-          "zipcode": "04229",
-          "city": "Leipzig"
-        },
-        "description": "Künstlerische oder kulinarische Verkaufsstände, Café mit selbstgemachtem Kuchen, Live-Musik und für Kinder: Basteln und Puppenspiel.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/alternativer-adventsmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Bereits zum dritten Mal findet der vegane Weihnachtsmarkt auf dem Gelände in und um Philippus statt. Schon in den letzten Jahren spürte man die Begeisterung der Gäste und das große Interesse an nachhaltigen Themen und die Freude am Ausprobieren. So hat das Team von Philippus beschlossen, den Markt dieses Jahr auszudehnen und eine größere Fläche zu bespielen. So können mehr als 50 Stände „Das Fest der Liebe“ – ganz ohne Tierleid feiern.  In schönem Ambiente laden die Veranstalter dazu ein, vegane Handwerks- und Kunststände zu besuchen, sowie bei herzhaften und süßen Köstlichkeiten, miteinander ins Gespräch zu kommen und gemeinsam eine gute Zeit zu verbringen. Sowohl am Samstag als auch am Sonntag gibt es neben Musik von den Turntables im Garten auch tolle Musiker/-innen zu Gast, die in die Philippuskirche einladen – mal weihnachtlich-besinnlich – mal auch etwas mit mehr „Bums“.Der Vegane Weihnachtsmarkt versteht sich als kulturelle Veranstaltung zur Förderung des Tierrechtsgedankens und des Veganismus’. Alle Stände betreiben keinen gewerblichen Handel mit tierischen Produkten und unterstützen keine Art der Tierausbeutung. Obendrauf finden Tierrechts-Vereine und Organisationen eine kostenfreie Plattform, um ihre Arbeit vorzustellen.Der Eintritt ist frei. 12 bis 20 Uhrhttps://veganer-markt-leipzig.de/",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/10-veganer-weihnachtsmarkt-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-7",
-      "from": "07.12.2024",
-      "to": "15:00",
-      "location": "Zaubergarten Stötteritz",
-      "summary": "Adventsmarkt",
-      "description": "Zaubergarten-Adventsmarkt mit Kesselgulasch, Glühwein, Kinderpunsch,...",
-      "details": {
-        "date": "07.12.2024",
-        "time": "15:00 - 20:00",
-        "location": {
-          "name": "Zaubergarten Stötteritz",
-          "street": "Holzhäuser Str. 130",
-          "zipcode": "04299",
-          "city": "Leipzig"
-        },
-        "description": "Zaubergarten-Adventsmarkt mit Kesselgulasch, Glühwein, Kinderpunsch, Chili sin Carne, Feuerzauber und Handgemachtes aus der Region.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-7?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-21",
-      "from": "08.12.2024",
-      "to": "12:00",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-im-stadtgut-moelkau",
+      "from": "06.12.2025",
+      "to": "07.12.2025",
       "location": "Stadtgut Mölkau",
       "summary": "Weihnachtsmarkt im Stadtgut Mölkau",
-      "description": "Schmuck, Kerzen, Filzbilder, Kleidung, Glühwein, Flammlachs, gebrannte...",
       "details": {
-        "date": "08.12.2024",
-        "time": "12:00",
+        "name": "Weihnachtsmarkt im Stadtgut Mölkau",
+        "date": "06.12.2025",
+        "time": "07.12.2025",
         "location": {
           "name": "Stadtgut Mölkau",
           "street": "Kelbestraße 3",
           "zipcode": "04316",
           "city": "Leipzig"
         },
-        "description": "Schmuck, Kerzen, Filzbilder, Kleidung, Glühwein, Flammlachs, gebrannte Mandeln, Imker, Grill.Märchenstunde im  Herrenhaus, mit Märchenklassikern und warmen Getränken für Groß und Klein.https://www.stadtgut-moelkau.de/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-21?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Am 6. und 7. Dezember verwandelt sich das Stadtgut Mölkau in einen fröhlichen Weihnachtsmarkt. Am Samstag gibt es ein besonderes musikalisches Geschenk: Die Partheplautzer kommen vorbei und bringen weihnachtliche Klänge mit, die den Advent wie einen kleinen Zauberspruch eröffnen. Ein großer Doppeldeckerbus wartet darauf, dass Kinder darin ihre eigenen Weihnachtskekse backen. Der süße Duft hüpft schon an der Tür entlang und lädt alle ein, Teigkünstler zu werden. Zum Naschen gibt es alles, was den Bauch fröhlich macht: knuspriges Schmalzgebäck, warmes Langos, leckere Ente und für die Erwachsenen duftenden Glühwein. Dazu kommen viele bunte Kinderaktionen, die den ganzen Markt in ein kleines Winterabenteuer verwandeln.jeweils ab 12 Uhrhttps://www.stadtgut-moelkau.de/",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-im-stadtgut-moelkau?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/zwenkauer-hafenweihnacht",
-      "from": "08.12.2024",
-      "to": "13:30",
-      "location": "Zwenkauer See",
-      "summary": "Zwenkauer Hafenweihnacht",
-      "description": "",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/viktorianischer-weihnachtsmarkt-1",
+      "from": "06.12.2025",
+      "location": "Biedermeierstrand Hayna",
+      "summary": "Viktorianischer Weihnachtsmarkt",
       "details": {
-        "date": "08.12.2024",
+        "name": "Viktorianischer Weihnachtsmarkt",
+        "date": "06.12.2025",
+        "time": "13:00",
+        "location": {
+          "name": "Biedermeierstrand Hayna",
+          "street": "Zur Schafhöhe ",
+          "zipcode": "04435",
+          "city": "Schkeuditz"
+        },
+        "description": "Weihnachten, wie wir es heute als Familienfest kennen, wurde praktisch im Biedermeier erfunden. Erfindungen wie der Adventskranz, die Christbaumkugel oder der Schokoladenweihnachtsmann wurden damals gemacht. Natürlich darf somit ein historisch inspirierter Weihnachtsmarkt am Biedermeierstrand nicht fehlen. An Marktständen, die in liebevoller Handarbeit angefertigte Accessoires, Kleidung, Bio-Produkte, Schmuck oder Weihnachtsdekoration von Kleinstbetrieben und Privatpersonen der Region anbieten, kann geschlemmt, geschaut und Weihnachtseinkäufe erledigt werden. Untermalt wird das Ambiente von weihnachtlicher Chormusik und der vielleicht größten Weihnachtspyramide der Region. Kulinarische Köstlichkeiten von Glühwein bis Weihnachtseis verwöhnen dabei den Gaumen der Gäste.https://biedermeierstrand.de/",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/viktorianischer-weihnachtsmarkt-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-im-schlosshof-am-torhaus-markkleeberg",
+      "from": "06.12.2025",
+      "location": "Torhaus Markkleeberg",
+      "summary": "Weihnachtsmarkt im Schlosshof am Torhaus Markkleeberg",
+      "details": {
+        "name": "Weihnachtsmarkt im Schlosshof am Torhaus Markkleeberg",
+        "date": "06.12.2025",
+        "time": "14:00",
+        "location": {
+          "name": "",
+          "street": "Kirchstraße 40",
+          "zipcode": "04416",
+          "city": "Markkleeberg"
+        },
+        "description": "Weihnachtsmarkt im Torhaus Markkleeberg mit Verkaufsständen, vielfältigen Verkaufsständen, Weihnachtsmusik und mehr in der historischen Kulisse des Schlosshofes. https://torhaus-markkleeberg.de",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-im-schlosshof-am-torhaus-markkleeberg?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-in-der-friedenskirche",
+      "from": "06.12.2025",
+      "location": "Friedenskirche Gohlis",
+      "summary": "Adventsmarkt in der Friedenskirche",
+      "details": {
+        "name": "Adventsmarkt in der Friedenskirche",
+        "date": "06.12.2025",
+        "time": "14:00",
+        "location": {
+          "name": "",
+          "street": "Kirchplatz 9",
+          "zipcode": "04155",
+          "city": "Leipzig"
+        },
+        "description": "Seit vielen Jahren ist der Adventsmarkt in der Friedenskirche ein fester Punkt im vorweihnachtlichen Trubel. Auch dieses Jahr wird es in der Friedenskirche wieder einen Adventsmarkt mit vielen verschiedenen Angeboten geben. Herzliche Einladung! Glühwein und Gebäck gibt es natürlich auch.",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-in-der-friedenskirche?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtlich-winterlicher-floh-und-pflanzenmarkt-1",
+      "from": "07.12.2025",
+      "location": "TV-Club",
+      "summary": "Weihnachtlich-winterlicher Floh- und Pflanzenmarkt",
+      "details": {
+        "name": "Weihnachtlich-winterlicher Floh- und Pflanzenmarkt",
+        "date": "07.12.2025",
+        "time": "11:00",
+        "location": {
+          "name": "",
+          "street": "Theresienstraße 2",
+          "zipcode": "04105",
+          "city": "Leipzig"
+        },
+        "description": "Die Lichter funkeln, der Glühwein duftet – die perfekte Zeit, um gemütlich zu stöbern, zu tauschen und kleine Schätze als Geschenk zu entdecken! Floh- und Pflanzenmarkt am 07. Dezember 2025 im TV-Club Leipzig.https://www.tv-club-leipzig.de/",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtlich-winterlicher-floh-und-pflanzenmarkt-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/hafenweihnacht-am-zwenkauer-see",
+      "from": "07.12.2025",
+      "location": "Hafen Zwenkauer See",
+      "summary": "Hafenweihnacht am Zwenkauer See",
+      "details": {
+        "name": "Hafenweihnacht am Zwenkauer See",
+        "date": "07.12.2025",
         "time": "13:30",
         "location": {
-          "name": "Zwenkauer See",
-          "street": ""
+          "name": "Hafen Zwenkauer See",
+          "street": "An der Mole",
+          "zipcode": "04442",
+          "city": "Zwenckau"
         },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/zwenkauer-hafenweihnacht?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Weihnachtsmarkt am Revierhafen Z1 in Zwenkau. Stimmungsvoller Benefizweihnachtsmarkt mit Glühwein, Kräppelchen, Weihnachtsbratwurst, Weihnachtspizza, Langos und vielem mehr.Lokaler Vereine sorgen mit ihren Darbietungen für eine wunderbare adventliche Atmosphäre.Mit den Erlösen des Weihnachtsmarktes werden Zwenkauer Vereine sowie der Verein Haus Steinstraße e. V. in Leipzig unterstützt.",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/hafenweihnacht-am-zwenkauer-see?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/sellerhaeuser-adventslicht-1",
-      "from": "08.12.2024",
-      "to": "14:00",
-      "location": "Emmauskirche Sellerhausen",
-      "summary": "Sellerhäuser Adventslicht",
-      "description": "",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-evangelisches-schulzentrum-leipzig",
+      "from": "09.12.2025",
+      "location": "Evangelisches Schulzentrum Leipzig",
+      "summary": "Adventsmarkt Evangelisches Schulzentrum Leipzig",
       "details": {
-        "date": "08.12.2024",
-        "time": "14:00",
+        "name": "Adventsmarkt Evangelisches Schulzentrum Leipzig",
+        "date": "09.12.2025",
+        "time": "15:00",
         "location": {
-          "name": "Emmauskirche Sellerhausen",
-          "street": "Wurzner Straße 160",
-          "zipcode": "04318",
+          "name": "Evangelisches Schulzentrum Leipzig",
+          "street": "Schletterstraße 7",
+          "zipcode": "04107",
           "city": "Leipzig"
         },
         "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/sellerhaeuser-adventslicht-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-evangelisches-schulzentrum-leipzig?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-20241208",
-      "from": "08.12.2024",
-      "to": "14:00",
-      "location": "Hotel Philippus",
-      "summary": "Adventszauber",
-      "description": "",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachten-am-kreuz-3",
+      "from": "10.12.2025",
+      "to": "21.12.2025",
+      "location": "Werk 2",
+      "summary": "Weihnachten am Kreuz",
       "details": {
-        "date": "08.12.2024",
-        "time": "14:00",
+        "name": "Weihnachten am Kreuz",
+        "date": "10.12.2025",
+        "time": "21.12.2025",
         "location": {
-          "name": "Hotel Philippus",
-          "street": "Aurelienstraße 54",
-          "zipcode": "04177",
+          "name": "",
+          "street": "Kochstraße 132",
+          "zipcode": "04277",
           "city": "Leipzig"
         },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-20241208?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Das gesamte Gelände vom Werk 2 wird zum wundervollen Connewitzer Weihnachtsmarkt. Vom 10.12. – 21.12.2025 präsentieren wieder zahlreiche Händler/-innen ihre handgemachten, kreativen, leckeren und duftenden Produkte. Neben vielen Ständen und einer gemütlichen Atmosphäre warten viele Mitmachangebote und Veranstaltungen.Mittwoch 10.12.2025: 16–21 Uhr",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachten-am-kreuz-3?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20251210-2",
+      "from": "10.12.2025",
+      "to": "14.12.2025",
+      "location": "Gohliser Schlösschen",
+      "summary": "Weihnachtsduft und Lichterglanz",
+      "details": {
+        "name": "Weihnachtsduft und Lichterglanz",
+        "date": "10.12.2025",
+        "time": "14.12.2025",
+        "location": {
+          "name": "",
+          "street": "Menckestraße 23",
+          "zipcode": "04155",
+          "city": "Leipzig"
+        },
+        "description": "Vom 26.11. – 21.12.2025 Glanz und Fröhlichkeit des Advent in der besinnlichen Atmosphäre des Gohliser Schlösschens. Verweilen bei festlicher Stimmung und zu weihnachtlicher Musik im Barockgarten mit elbstgebackenen süßen und herzhaften Waffeln, gebrannten Mandeln und „hausgeglühtem“ Glühwein, Punsch und heißen Säften. Abgerundet wird das Angebot durch ein abwechslungsreiches Kulturprogramm – Chormusik, Instrumentalisten, gemeinsames Adventsliedersingen, Turmbläser, Weihnachtsgeschichten und vieles mehr.„Weihnachtsduft und Lichterglanz“ ist kein klassischer Weihnachtsmarkt! Das Gohliser Schlösschen bietet eine Alternative zu den klassischen Weihnachtsmärkten. Ganz bewusst verzichtet wird auf Marktbuden und Verkaufsstände und geboten wird ein stimmungsvoller und besinnlicher Ort für Kunst, Kultur, Gespräche und geselliges Miteinander. https://gohliserschloesschen.de/weihnachtsduft/",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20251210-2?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": [
           {
-            "date": "07.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventszauber-20241207"
+            "date": "03.12.2025-07.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20251203-1"
+          },
+          {
+            "date": "17.12.2025-21.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20251217-3"
           }
         ]
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-an-der-schlosskirche",
-      "from": "08.12.2024",
-      "to": "14:00",
-      "location": "Schlosskirche Lützschena",
-      "summary": "Adventsmarkt an der Schlosskirche",
-      "description": "Auch in diesem Jahr laden wir, der Ortsausschuss Lützschena, wieder...",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachten-am-kreuz-1",
+      "from": "10.12.2025",
+      "location": "Soziokulturelles Zentrum Frauenkultur",
+      "summary": "Weihnachten am Kreuz",
       "details": {
-        "date": "08.12.2024",
+        "name": "Weihnachten am Kreuz",
+        "date": "10.12.2025",
+        "time": "16:00",
+        "location": {
+          "name": "",
+          "street": "Windscheidstraße 51",
+          "zipcode": "04277",
+          "city": "Leipzig"
+        },
+        "description": "ERÖFFNUNG WEIHNACHTSMARKT",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachten-am-kreuz-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/advent-unterm-ginkgobaum-kulturweihnachtsmarkt-2",
+      "from": "12.12.2025",
+      "to": "14.12.2025",
+      "location": "Budde-Haus",
+      "summary": "Advent unterm Ginkgobaum - Kulturweihnachtsmarkt",
+      "details": {
+        "name": "Advent unterm Ginkgobaum - Kulturweihnachtsmarkt",
+        "date": "12.12.2025",
+        "time": "14.12.2025",
+        "location": {
+          "name": "Budde-Haus",
+          "street": "Lützowstraße 19",
+          "zipcode": "04157",
+          "city": "Leipzig"
+        },
+        "description": "Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer, Weihnachtsbasteleien und viel Kultur.Märchen und Geschichten am Lagerfeuer, weihnachtliche Leckereien und Basteleien, Verkaufsstände und musikalische Geschenke von Klezmer bis zu frisch gewaschenen Popsongs – am dritten Adventswochenende bietet das Budde-Haus wieder abwechslungsreiche Einstimmungen auf das Weihnachtsfest. Vom 12. bis zum 14. Dezember 2025, täglich ab 15:00 Uhr, auf dem gesamten Außengelände. Und als Highlight kann die weltweit größte Weihnachtskarte mit gestaltet und versendet werden.12. und 13. Dezember 2025: 15:00 bis 20:0014. Dezember 2025 : 15 bis 18 Uhrhttps://www.budde-haus.de/",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/advent-unterm-ginkgobaum-kulturweihnachtsmarkt-2?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-rund-ums-eis",
+      "from": "12.12.2025",
+      "to": "14.12.2025",
+      "location": "Rathausplatz Markkleeberg",
+      "summary": "Weihnachtsmarkt rund ums Eis",
+      "details": {
+        "name": "Weihnachtsmarkt rund ums Eis",
+        "date": "12.12.2025",
+        "time": "14.12.2025",
+        "location": {
+          "name": "Rathausplatz Markkleeberg",
+          "street": "04416 Markkleeberg"
+        },
+        "description": "Weihnachtsmarkt auf dem Rathausplatz Markkleeberg mit verschienden Programmpunkten von Kinderdisco bis Paartanz und der Weihnachtsmann kommt natürlich vorbei.https://weihnachtsmarkt-rund-ums-eis.jimdosite.com/",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-rund-ums-eis?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251213-2",
+      "from": "13.12.2025",
+      "to": "14.12.2025",
+      "location": "Feinkost",
+      "summary": "Lichterglanz im Advent – Der Weihnachtsmarkt auf der Feinkost 2025",
+      "details": {
+        "name": "Lichterglanz im Advent – Der Weihnachtsmarkt auf der Feinkost 2025",
+        "date": "13.12.2025",
+        "time": "14.12.2025",
+        "location": {
+          "name": "",
+          "street": "Karl-Liebknecht-Straße 36",
+          "zipcode": "04107",
+          "city": "Leipzig"
+        },
+        "description": "Der Weihnachtsmarkt auf der Feinkost begeistert jedes Jahr wieder mit seiner besonderen Atmosphäre und einer wunderbaren Auswahl an schönen und einzigartigen Produkten. Ob Porzellan, Keramik und Schmuck, Gestricktes und Gehäkeltes, künstlerische Grafiken oder Zeichnungen – zahlreiche Kunsthandwerker/-innen und Händler/-innen bieten ihre kreativen Unikate an. Wer etwas Außergewöhnliches für Weihnachten sucht, wird bei uns sicherlich fündig werden.Nach dem Rundgang kann man sich mit burmesischem Essen, koreanischem Corn Dog, leckeren Crêpes sowie veganen und vegetarischen Köstlichkeiten stärken. Oder man macht es sich am Grill gemütlich und genießt unter den funkelnden Weihnachtslichtern der Feinkost einen Glühwein oder heißen Saft.Samstag: 11 – 20 Uhr Sonntag: 11 – 18 Uhrhttps://feinkostgenossenschaft.de",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251213-2?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "29.11.2025-30.11.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251129"
+          },
+          {
+            "date": "06.12.2025-07.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251206-1"
+          },
+          {
+            "date": "20.12.2025-21.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251220-3"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/1-leipziger-wasser-weihnachtsmarkt",
+      "from": "13.12.2025",
+      "location": "Bootsverleih Klingerweg",
+      "summary": "1. Leipziger Wasser-Weihnachtsmarkt",
+      "details": {
+        "name": "1. Leipziger Wasser-Weihnachtsmarkt",
+        "date": "13.12.2025",
+        "time": "10:00",
+        "location": {
+          "name": "Bootsverleih Klingerweg",
+          "street": "Klingerweg 2",
+          "zipcode": "04229",
+          "city": "Leipzig"
+        },
+        "description": "Der erste Leipziger Weihnachtsmarkt an und auf dem Wasser - mit Live-Musik, Drachenbootfahrt zum Weihnachtsmann, Geschichtenerzähler, Glühweinfahrten im erleuchteten Motorboot, Bastelpavillon uvm.",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/1-leipziger-wasser-weihnachtsmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/advent-in-den-hoefen-kleinzschochers-1",
+      "from": "13.12.2025",
+      "location": "Kleinzschocher",
+      "summary": "Advent in den Höfen Kleinzschochers",
+      "details": {
+        "name": "Advent in den Höfen Kleinzschochers",
+        "date": "13.12.2025",
+        "time": "14:00",
+        "location": {
+          "name": "Kleinzschocher",
+          "street": "04229 Leipzig, Stadt"
+        },
+        "description": "Bereits zum 7. Mal veranstalten Einwohner/-innen und Akteure aus dem Stadtteil mit Unterstützung der Bürgerinitiative Kleinzschocher den Advent in den Höfen am Samstag vor dem 3. Advent in verschiedenen Höfen und Räumlichkeiten Kleinzschochers. Neben den Örtlichkeiten selbst gibt es Vieles aus liebevoller Hand zu entdecken – sei es leckeres Weihnachtsgebäck, (weihnachtliche) Raritäten aus privaten Haushalten und natürlich selbstgemachten Glühwein (mit und ohne Alkohol). Das Papiertheater \"Zscho\" lässt mit einer Weihnachtsgeschichte Kinderherzen höher schlagen. Mancherorts wird zum Basteln, Filme gucken oder am wärmenden Feuer zum Stockbrot eingeladen.In vorweihnachtlicher Atmosphäre trifft sich hier nicht nur die Nachbarschaft. Auch Gäste aus nah und fern sind herzlich willkommen. Zum Ausklang des Abends gibt es eine spektakuläre Feuershow für Groß und Klein vor der Taborkirche von Ilja Molle und abschließend ein Konzert in der Taborkirche mit der Bigband der Musikschule Leipzig. Weihnachten kann kommen!14 Uhr - 17:30 Uhr (mit einigen Ausnahmen, siehe Programm)www.biklz.de",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/advent-in-den-hoefen-kleinzschochers-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-holzhausen",
+      "from": "13.12.2025",
+      "location": "Zuckelhausener Teich",
+      "summary": "Weihnachtsmarkt Holzhausen",
+      "details": {
+        "name": "Weihnachtsmarkt Holzhausen",
+        "date": "13.12.2025",
+        "time": "14:00",
+        "location": {
+          "name": "Zuckelhausener Teich",
+          "street": "04288 Leipzig"
+        },
+        "description": "Der Heimatverein, die Freiwillige Feuerwehr und die Kirchgemeinde Holzhausen laden am 13. Dezember 2025 ab 14:00 Uhr zum vorweihnachtlichen Nachmittag an den Höfen um den Zuckelhausener Teich, im Heimatverein und in der Zuckelhäuser Kirche ein. Weihnachtliches Flair mit viel Lichterglanz und vielen Überraschungen für Groß und Klein kann der Besucher erwarten. Auch die gastronomische Versorgung kommt nicht zu kurz.https://www.holzhausen-sachsen.de/veranstaltungen/weihnachtsmarkt/index.htm",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-holzhausen?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251213-1",
+      "from": "13.12.2025",
+      "location": "Philippus-Biergarten",
+      "summary": "Glühgarten",
+      "details": {
+        "name": "Glühgarten",
+        "date": "13.12.2025",
+        "time": "14:24",
+        "location": {
+          "name": "Philippus-Biergarten",
+          "street": "Aurelienstraße 54",
+          "zipcode": "04177",
+          "city": "Leipzig"
+        },
+        "description": "Der Philippus-Biergarten öffnet als winterlicher Glühgarten. An der Feuerschale kann man sich wärmen und am Weihnachtshäuschen mit wärmenden Getränken und leckeren Speisen versorgen.",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251213-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "30.11.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251130"
+          },
+          {
+            "date": "14.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251214-2"
+          },
+          {
+            "date": "20.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251220-3"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-plagwitzer-markthalle",
+      "from": "14.12.2025",
+      "location": "Markthalle Plagwitz",
+      "summary": "Weihnachtsmarkt Plagwitzer Markthalle",
+      "details": {
+        "name": "Weihnachtsmarkt Plagwitzer Markthalle",
+        "date": "14.12.2025",
+        "time": "10:00",
+        "location": {
+          "name": "Markthalle Plagwitz",
+          "street": "Markranstädter Straße 8",
+          "zipcode": "04229",
+          "city": "Leipzig"
+        },
+        "description": "Familienfreundlicher Weihnachtsmarkt in der Plagwitzer Markthalle, organisiert von coriole Keramik und Filde Keramik. Unter anderem mit Keramik, Illustration, Schmuck und Kunsthandwerk, sowie regionalen Lebensmitteln, Kuchen, Glühwein, Lagerfeuer, Tannenbaumverkauf und vielen Essensständen.https://plagwitzer-markthalle.de/",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsmarkt-plagwitzer-markthalle?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/dark-xmas-markt",
+      "from": "14.12.2025",
+      "location": "Moritzbastei",
+      "summary": "Dark Xmas Markt",
+      "details": {
+        "name": "Dark Xmas Markt",
+        "date": "14.12.2025",
+        "time": "13:00",
+        "location": {
+          "name": "",
+          "street": "Kurt-Masur-Platz 1",
+          "zipcode": "04109",
+          "city": "Leipzig"
+        },
+        "description": "Der Leipzig Dark Markt freut sich wieder einen Weihnachtsmarkt zu veranstalten. Einen Tag lang könnt kann die Handwerkskunst der Szene bewundert werden. Der Dark-Xmas-Markt bietet einen schaurig schönen schwarzen Adventssonntag.",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/dark-xmas-markt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": []
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251214-2",
+      "from": "14.12.2025",
+      "location": "Philippus-Biergarten",
+      "summary": "Glühgarten",
+      "details": {
+        "name": "Glühgarten",
+        "date": "14.12.2025",
+        "time": "14:00",
+        "location": {
+          "name": "Philippus-Biergarten",
+          "street": "Aurelienstraße 54",
+          "zipcode": "04177",
+          "city": "Leipzig"
+        },
+        "description": "Der Philippus-Biergarten öffnet als winterlicher Glühgarten. An der Feuerschale kann man sich wärmen und am Weihnachtshäuschen mit wärmenden Getränken und leckeren Speisen versorgen.",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251214-2?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "30.11.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251130"
+          },
+          {
+            "date": "13.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251213-1"
+          },
+          {
+            "date": "20.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251220-3"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-an-der-schlosskirche-1",
+      "from": "14.12.2025",
+      "location": "Schlosskirche Lützschena",
+      "summary": "Adventsmarkt an der Schloßkirche",
+      "details": {
+        "name": "Adventsmarkt an der Schloßkirche",
+        "date": "14.12.2025",
         "time": "14:00",
         "location": {
           "name": "Schlosskirche Lützschena",
@@ -1095,785 +1019,106 @@
           "zipcode": "04159",
           "city": "Leipzig"
         },
-        "description": "Auch in diesem Jahr laden wir, der Ortsausschuss Lützschena, wieder herzlich zum Adventsmarkt in Lützschena ein.Wir beginnen diesmal schon am zweiten Advent, dem 8.12.2024, um 14:00 Uhr mit einem Familiengottesdienst in der Schlosskirche. Danach sind alle herzlich zu Glühwein und kleinen Leckereien, die es vor der Schlosskirche geben wird, eingeladen. Am Feuer wollen wir einander treffen und ins Quatschen kommen. Vielleicht wird es weitere kleine Angebote an dem einen oder anderen Stand geben.https://sophien-leipzig.de/news/adventsmarkt-an-der-schlosskirche/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-an-der-schlosskirche?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "mit Adventsgottesdienst, danach Stände rund um die Kirche, 16.300 Uhr Konzert mit der Fiddle Folk Family „Weihnachten in Irland“",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/adventsmarkt-an-der-schlosskirche-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": []
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-16",
-      "from": "08.12.2024",
-      "to": "14:00",
-      "location": "TV-Club",
-      "summary": "Weihnachts(floh-)markt",
-      "description": "Weihnachtlich angehauchter (Floh-)Markt auf dem TV-Club Gelände. ...",
-      "details": {
-        "date": "08.12.2024",
-        "time": "14:00 - 20:00",
-        "location": {
-          "name": "TV-Club",
-          "street": "Theresienstr. 2",
-          "zipcode": "04105",
-          "city": "Leipzig",
-          "w3c": "http://www.tv-club-leipzig.de"
-        },
-        "description": "Weihnachtlich angehauchter (Floh-)Markt auf dem TV-Club Gelände.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-16?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20241211",
-      "from": "11.12.2024",
-      "to": "15.12.2024",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20251217-3",
+      "from": "17.12.2025",
+      "to": "21.12.2025",
       "location": "Gohliser Schlösschen",
       "summary": "Weihnachtsduft und Lichterglanz",
-      "description": "Vom 27.11. – 22.12.2024 Glanz und Fröhlichkeit des Advent in der...",
       "details": {
-        "date": "11.12.2024 -  15.12.2024",
-        "time": "",
+        "name": "Weihnachtsduft und Lichterglanz",
+        "date": "17.12.2025",
+        "time": "21.12.2025",
         "location": {
-          "name": "Gohliser Schlösschen",
+          "name": "",
           "street": "Menckestraße 23",
           "zipcode": "04155",
-          "city": "Leipzig",
-          "w3c": "http://www.gohliserschloesschen.de"
-        },
-        "description": "Vom 27.11. – 22.12.2024 Glanz und Fröhlichkeit des Advent in der besinnlichen Atmosphäre des Gohliser Schlösschens. Verweilen bei festlicher Stimmung und zu weihnachtlicher Musik im Barockgarten mit selbstgebackenen süßen und herzhaften Waffeln, gebrannten Mandeln und „hausgeglühtem“ Glühwein, Punsch und heißen Säften. Abgerundet wird das Angebot durch ein abwechslungsreiches Kulturprogramm – Chormusik, Instrumentalisten, gemeinsames Adventsliedersingen, Turmbläser, Weihnachtsgeschichten und vieles mehr.„Weihnachtsduft und Lichterglanz“ ist kein klassischer Weihnachtsmarkt! Das Gohliser Schlösschen bietet eine Alternative zu den klassischen Weihnachtsmärkten. Ganz bewusst verzichtet wird auf Marktbuden und Verkaufsstände und geboten wird ein stimmungsvoller und besinnlicher Ort für Kunst, Kultur, Gespräche und geselliges Miteinander.27.11. – 22.12.2024Mittwoch – Samstag 15:00 – 19:00 Uhr Sonntag 12:00 – 18:00 Uhrhttps://gohliserschloesschen.de/events/weihnachtsduft-2024/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20241211?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "04.12.2024 -  08.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20241204"
-          },
-          {
-            "date": "18.12.2024 -  22.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20241218"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-7",
-      "from": "11.12.2024",
-      "to": "17:00",
-      "location": "Mala",
-      "summary": "Weihnachtsmarkt",
-      "description": "Food & Drinks, Crafts, Arts, Music",
-      "details": {
-        "date": "11.12.2024",
-        "time": "17:00 - 22:00",
-        "location": {
-          "name": "Mala",
-          "street": "Schulze-Delitzsch-Straße 19",
-          "zipcode": "04315",
           "city": "Leipzig"
         },
-        "description": "Food & Drinks, Crafts, Arts, Music",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-7?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-23-20241212",
-      "from": "12.12.2024",
-      "to": "15.12.2024",
-      "location": "Landgasthof Walradus Hof",
-      "summary": "Weihnachtsmarkt",
-      "description": "Weihnachtsmarkt im Walradus Hof.",
-      "details": {
-        "date": "12.12.2024 -  15.12.2024",
-        "time": "",
-        "location": {
-          "name": "Landgasthof Walradus Hof",
-          "street": "Emil-Teich-Str. 4",
-          "zipcode": "04249",
-          "city": "Leipzig,"
-        },
-        "description": "Weihnachtsmarkt im Walradus Hof.  Donnerstag bis Freitag ab 17:00 Uhr Samstag und Sonntag ab 14:00 Uhr",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-23-20241212?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Vom 26.11. – 21.12.2025 Glanz und Fröhlichkeit des Advent in der besinnlichen Atmosphäre des Gohliser Schlösschens. Verweilen bei festlicher Stimmung und zu weihnachtlicher Musik im Barockgarten mit elbstgebackenen süßen und herzhaften Waffeln, gebrannten Mandeln und „hausgeglühtem“ Glühwein, Punsch und heißen Säften. Abgerundet wird das Angebot durch ein abwechslungsreiches Kulturprogramm – Chormusik, Instrumentalisten, gemeinsames Adventsliedersingen, Turmbläser, Weihnachtsgeschichten und vieles mehr.„Weihnachtsduft und Lichterglanz“ ist kein klassischer Weihnachtsmarkt! Das Gohliser Schlösschen bietet eine Alternative zu den klassischen Weihnachtsmärkten. Ganz bewusst verzichtet wird auf Marktbuden und Verkaufsstände und geboten wird ein stimmungsvoller und besinnlicher Ort für Kunst, Kultur, Gespräche und geselliges Miteinander. https://gohliserschloesschen.de/weihnachtsduft/",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20251217-3?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": [
           {
-            "date": "05.12.2024 -  08.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-23-20241205"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241213",
-      "from": "13.12.2024",
-      "to": "15:00",
-      "location": "Budde-Haus",
-      "summary": "Kulturweihnachtsmarkt unterm Ginkgobaum",
-      "description": "Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer,...",
-      "details": {
-        "date": "13.12.2024",
-        "time": "15:00 - 20:00",
-        "location": {
-          "name": "Budde-Haus",
-          "street": "Lützowstraße 19",
-          "zipcode": "04157",
-          "city": "Leipzig"
-        },
-        "description": "Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer, Weihnachtsbasteleien und viel Kultur Zum dritten Adventswochenende, vom 13. bis zum 15. Dezember, lädt das Budde-Haus wieder auf das Gelände zum Kulturweihnachtsmarkt. Mit allem was dazu gehört: Speis und Trank, Lagerfeuer, Weihnachtsbasteleien, Verkaufsständen und natürlich mit einem abwechslungsreichen Kulturprogramm. Programm nähere Infos folgen auf unserer Website unter https://www.budde-haus.de/veranstaltungen/Eintritt: Zahl wie du dich Weihnachten fühlst! Von „Ostern fühle ich ja mehr“ (0,50 €) bis zu „Seit dem 27.12.2023 freue ich mich auf Weihnachten“ (3,00 €)Die Veranstaltung findet auf dem Außengelände des Budde-Hauses statt. Der Biergarten ist geöffnet.Förderer: Das Budde-Haus wird unterstützt vom Kulturamt der Stadt Leipzig.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241213?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "14.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241214"
+            "date": "03.12.2025-07.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20251203-1"
           },
           {
-            "date": "15.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241215"
+            "date": "10.12.2025-14.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20251210-2"
           }
         ]
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241213",
-      "from": "13.12.2024",
-      "to": "17:00",
-      "location": "Rathausplatz Markkleeberg",
-      "summary": "Weihnachtsmarkt \"Rund um´s Eis\"",
-      "description": "Dem Motto folgend, dreht sich auf dem Markkleeberger Weihnachtsmarkt...",
-      "details": {
-        "date": "13.12.2024",
-        "time": "17:00",
-        "location": {
-          "name": "Rathausplatz Markkleeberg",
-          "street": "04416 Markkleeberg"
-        },
-        "description": "Dem Motto folgend, dreht sich auf dem Markkleeberger Weihnachtsmarkt alles um eisige Überraschungen und sportliche Winter- und Schneewettkämpfe, zum Beispiel Eishockeytorschießen, Eisstockschießen, Scheeballzielwurf. Dazwischen verbreiten große und kleine Künstler und der Duft der Backwaren, Speisen und Getränke weihnachtliches Flair. Flocke der Eisbär präsentiert ein buntes Programm der Markkleeberger Tanz- und Musikschulen, Kinderschminken und anderen Überraschungen.https://www.markkleeberg.de/communice-calendar/veranstaltungskalender/veranstaltung-1-1/weihnachtsmarkt-rund-ums-eis-1-1",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241213?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "14.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241214"
-          },
-          {
-            "date": "15.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241215"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241214",
-      "from": "14.12.2024",
-      "to": "15.12.2024",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251220-3",
+      "from": "20.12.2025",
+      "to": "21.12.2025",
       "location": "Feinkost",
-      "summary": "Advent, Advent, ein Lichtlein brennt … Weihnachtsmarkt auf der Feinkost 2024",
-      "description": "Der Weihnachtsmarkt auf der Feinkost begeistert auch dieses Jahr wieder...",
+      "summary": "Lichterglanz im Advent – Der Weihnachtsmarkt auf der Feinkost 2025",
       "details": {
-        "date": "14.12.2024 -  15.12.2024",
-        "time": "",
+        "name": "Lichterglanz im Advent – Der Weihnachtsmarkt auf der Feinkost 2025",
+        "date": "20.12.2025",
+        "time": "21.12.2025",
         "location": {
-          "name": "Feinkost",
+          "name": "",
           "street": "Karl-Liebknecht-Straße 36",
           "zipcode": "04107",
-          "city": "Leipzig",
-          "w3c": "http://www.feinkostgenossenschaft.de"
-        },
-        "description": "Der Weihnachtsmarkt auf der Feinkost begeistert auch dieses Jahr wieder mit seiner besonderen Atmosphäre und einer wunderbaren Auswahl an schönen und einzigartigen Produkten. Ob Porzellan, Keramik und Schmuck, Gestricktes und Gehäkeltes, künstlerische Grafiken oder Zeichnungen – zahlreiche Handwerker*innen und Künstler*innen bieten ihre kreativen Unikate an. Wer etwas Außergewöhnliches für Weihnachten sucht, wird hier sicherlich fündig werden.Nach dem Rundgang kann man sich mit afrikanischem Essen aus Gambia und köstlichen Crêpes stärken. Oder man macht es sich am Grill gemütlich und genießt einen Glühwein oder heißen Saft – unter den funkelnden Weihnachtslichtern der Feinkost.Öffnungszeiten: Samstag 11 bis 20 Uhr; Sonntag 11 bis 18 Uhrwww.feinkostgenossenschaft.de",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241214?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "30.11.2024 -  01.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241130"
-          },
-          {
-            "date": "07.12.2024 -  08.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241207"
-          },
-          {
-            "date": "21.12.2024 -  22.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241221"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/hof-advent",
-      "from": "14.12.2024",
-      "to": "15.12.2024",
-      "location": "Marktplatz Liebertwolkwitz",
-      "summary": "Hof-Advent",
-      "description": "Erleben Sie den vermutlich schönsten Adventsmarkt in Leipzig und...",
-      "details": {
-        "date": "14.12.2024 -  15.12.2024",
-        "time": "",
-        "location": {
-          "name": "Marktplatz Liebertwolkwitz",
-          "street": "Liebertwolkwitzer Markt",
-          "zipcode": "04288",
           "city": "Leipzig"
         },
-        "description": "Erleben Sie den vermutlich schönsten Adventsmarkt in Leipzig und Umgebung auf dem Stiftsgut Liebertwolkwitz.https://hofgenossenschaft.com/hof-advent/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/hof-advent?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/veganer-weihnachtsmarkt-2",
-      "from": "14.12.2024",
-      "to": "15.12.2024",
-      "location": "Pittlerwerk",
-      "summary": "Veganer Weihnachtsmarkt",
-      "description": "Veganer Weihnachtsmarkt im Wuest voller festlicher Atmosphäre, leckeren...",
-      "details": {
-        "date": "14.12.2024 -  15.12.2024",
-        "time": "",
-        "location": {
-          "name": "Pittlerwerk",
-          "street": "Pittlerstraße 26",
-          "zipcode": "04159",
-          "city": "Leipzig"
-        },
-        "description": "Veganer Weihnachtsmarkt im Wuest voller festlicher Atmosphäre, leckeren veganen Köstlichkeiten und nachhaltigen Geschenkideen.12 bis 20 Uhrhttps://pittlerwerke.org/events/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/veganer-weihnachtsmarkt-2?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241214",
-      "from": "14.12.2024",
-      "to": "12:00",
-      "location": "Rathausplatz Markkleeberg",
-      "summary": "Weihnachtsmarkt \"Rund um´s Eis\"",
-      "description": "Dem Motto folgend, dreht sich auf dem Markkleeberger Weihnachtsmarkt...",
-      "details": {
-        "date": "14.12.2024",
-        "time": "12:00",
-        "location": {
-          "name": "Rathausplatz Markkleeberg",
-          "street": "04416 Markkleeberg"
-        },
-        "description": "Dem Motto folgend, dreht sich auf dem Markkleeberger Weihnachtsmarkt alles um eisige Überraschungen und sportliche Winter- und Schneewettkämpfe, zum Beispiel Eishockeytorschießen, Eisstockschießen, Scheeballzielwurf. Dazwischen verbreiten große und kleine Künstler und der Duft der Backwaren, Speisen und Getränke weihnachtliches Flair. Flocke der Eisbär präsentiert ein buntes Programm der Markkleeberger Tanz- und Musikschulen, Kinderschminken und anderen Überraschungen.https://www.markkleeberg.de/communice-calendar/veranstaltungskalender/veranstaltung-1-1/weihnachtsmarkt-rund-ums-eis-1-1",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241214?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "description": "Der Weihnachtsmarkt auf der Feinkost begeistert jedes Jahr wieder mit seiner besonderen Atmosphäre und einer wunderbaren Auswahl an schönen und einzigartigen Produkten. Ob Porzellan, Keramik und Schmuck, Gestricktes und Gehäkeltes, künstlerische Grafiken oder Zeichnungen – zahlreiche Kunsthandwerker/-innen und Händler/-innen bieten ihre kreativen Unikate an. Wer etwas Außergewöhnliches für Weihnachten sucht, wird bei uns sicherlich fündig werden.Nach dem Rundgang kann man sich mit burmesischem Essen, koreanischem Corn Dog, leckeren Crêpes sowie veganen und vegetarischen Köstlichkeiten stärken. Oder man macht es sich am Grill gemütlich und genießt unter den funkelnden Weihnachtslichtern der Feinkost einen Glühwein oder heißen Saft.Samstag: 11 – 20 Uhr Sonntag: 11 – 18 Uhrhttps://feinkostgenossenschaft.de",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251220-3?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
         "otherDates": [
           {
-            "date": "13.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241213"
+            "date": "29.11.2025-30.11.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251129"
           },
           {
-            "date": "15.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241215"
+            "date": "06.12.2025-07.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251206-1"
+          },
+          {
+            "date": "13.12.2025-14.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterglanz-im-advent-der-weihnachtsmarkt-auf-der-feinkost-2025-7-20251213-2"
           }
         ]
       }
     },
     {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/vegan-winter-festival-20241214",
-      "from": "14.12.2024",
-      "to": "12:00",
-      "location": "Wuest in den Pittlerwerken",
-      "summary": "Vegan-Winter-Festival",
-      "description": "",
+      "url": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251220-3",
+      "from": "20.12.2025",
+      "location": "Philippus-Biergarten",
+      "summary": "Glühgarten",
       "details": {
-        "date": "14.12.2024",
-        "time": "12:00",
+        "name": "Glühgarten",
+        "date": "20.12.2025",
+        "time": "14:24",
         "location": {
-          "name": "Wuest in den Pittlerwerken",
-          "street": "Polyphonstraße 8",
-          "zipcode": "04159",
-          "city": "Leipzig"
-        },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/vegan-winter-festival-20241214?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "15.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/vegan-winter-festival-20241215"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241214",
-      "from": "14.12.2024",
-      "to": "13:00",
-      "location": "LVZ-Verlagsgebäude",
-      "summary": "LVZ-Budenzauber",
-      "description": "",
-      "details": {
-        "date": "14.12.2024",
-        "time": "13:00",
-        "location": {
-          "name": "LVZ-Verlagsgebäude",
-          "street": "Peterssteinweg 19",
-          "zipcode": "04107",
-          "city": "Leipzig",
-          "w3c": "https://www.lvz.de"
-        },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241214?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "15.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241215"
-          },
-          {
-            "date": "16.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241216"
-          },
-          {
-            "date": "17.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241217"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-9",
-      "from": "14.12.2024",
-      "to": "14:00",
-      "location": "Zuckelhausener Teich",
-      "summary": "Weihnachtsmarkt Holzhausen",
-      "description": "Der Heimatverein, die Freiwillige Feuerwehr und die Kirchgemeinde...",
-      "details": {
-        "date": "14.12.2024",
-        "time": "14:00",
-        "location": {
-          "name": "Zuckelhausener Teich",
-          "street": "04288 Leipzig"
-        },
-        "description": "Der Heimatverein, die Freiwillige Feuerwehr und die Kirchgemeinde Holzhausen laden am 14. Dezember 2024 ab 14:00 Uhr zum vorweihnachtlichen Nachmittag an den Höfen um den Zuckelhausener Teich, im Heimatverein und in der Zuckelhäuser Kirche ein. Weihnachtliches Flair mit viel Lichterglanz und vielen Überraschungen für Groß und Klein kann der Besucher erwarten. Auch die gastronomische Versorgung kommt nicht zu kurz. https://www.holzhausen-sachsen.de/veranstaltungen/weihnachtsmarkt/index.htm",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-9?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/advent-in-den-hoefen-kleinzschochers",
-      "from": "14.12.2024",
-      "to": "14:00",
-      "location": "Kleinzschocher",
-      "summary": "Advent in den Höfen Kleinzschochers",
-      "description": "Bereits zum 6. Mal gestalten Einwohner/-innen und Akteure aus dem...",
-      "details": {
-        "date": "14.12.2024",
-        "time": "14:00 - 18:00",
-        "location": {
-          "name": "Kleinzschocher",
-          "street": "04229 Leipzig, Stadt"
-        },
-        "description": "Bereits zum 6. Mal gestalten Einwohner/-innen und Akteure aus dem Stadtteil mit Unterstützung der Bürgerinitiative Kleinzschocher den Advent in den Höfen Kleinzschochers. Diesmal wieder am Samstagnachmittag vor dem 3. Advent.Neben den Örtlichkeiten selbst gibt es Vieles aus liebevoller Hand zu entdecken – sei es leckeres Weihnachtsgebäck, Kreatives, Antikes, (weihnachtliche) Raritäten aus privaten Haushalten und natürlich selbstgemachten Glühwein (mit und ohne Alkohol). Das Papiertheater ZSCHO lässt mit „König Drosselbart\" Kinderherzen höher schlagen und mancherorts wird zum Basteln oder Weihnachtsliedersingen am wärmenden Feuer mit Stockbrot eingeladen. In vorweihnachtlicher Atmosphäre trifft sich hier nicht nur die Nachbarschaft. Auch Gäste aus nah und fern sind herzlich willkommen. Zum Ausklang des Abends gibt es eine spektakuläre Feuershow für Groß und Klein vor der Taborkirche von ViVine-PerformanceArt und abschließend ein Konzert in der Taborkirche mit dem Chor der Hochschule für Grafik und Buchkunst. Weihnachten kann kommen!www.biklz.de",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/advent-in-den-hoefen-kleinzschochers?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventssause",
-      "from": "14.12.2024",
-      "to": "14:30",
-      "location": "Parkbühne Geyserhaus",
-      "summary": "Adventssause",
-      "description": "Am 14.12.2024 wird es auf dem Gelände der Parkbühne GeyserHaus...",
-      "details": {
-        "date": "14.12.2024",
-        "time": "14:30",
-        "location": {
-          "name": "Parkbühne Geyserhaus",
-          "street": "Kleiststraße 52",
-          "zipcode": "04157",
-          "city": "Leipzig",
-          "w3c": "http://www.geyserhaus.de"
-        },
-        "description": "Am 14.12.2024 wird es auf dem Gelände der Parkbühne GeyserHaus weihnachtlich. Es gibt:Eintritt frei",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventssause?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241214",
-      "from": "14.12.2024",
-      "to": "15:00",
-      "location": "Budde-Haus",
-      "summary": "Kulturweihnachtsmarkt unterm Ginkgobaum",
-      "description": "Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer,...",
-      "details": {
-        "date": "14.12.2024",
-        "time": "15:00 - 20:00",
-        "location": {
-          "name": "Budde-Haus",
-          "street": "Lützowstraße 19",
-          "zipcode": "04157",
-          "city": "Leipzig"
-        },
-        "description": "Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer, Weihnachtsbasteleien und viel Kultur Zum dritten Adventswochenende, vom 13. bis zum 15. Dezember, lädt das Budde-Haus wieder auf das Gelände zum Kulturweihnachtsmarkt. Mit allem was dazu gehört: Speis und Trank, Lagerfeuer, Weihnachtsbasteleien, Verkaufsständen und natürlich mit einem abwechslungsreichen Kulturprogramm. Programm nähere Infos folgen auf unserer Website unter https://www.budde-haus.de/veranstaltungen/Eintritt: Zahl wie du dich Weihnachten fühlst! Von „Ostern fühle ich ja mehr“ (0,50 €) bis zu „Seit dem 27.12.2023 freue ich mich auf Weihnachten“ (3,00 €)Die Veranstaltung findet auf dem Außengelände des Budde-Hauses statt. Der Biergarten ist geöffnet.Förderer: Das Budde-Haus wird unterstützt vom Kulturamt der Stadt Leipzig.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241214?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "13.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241213"
-          },
-          {
-            "date": "15.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241215"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-8",
-      "from": "15.12.2024",
-      "to": "11:00",
-      "location": "Imkerei Beer",
-      "summary": "Adventsmarkt & Kerzenziehen",
-      "description": "Auch in 2024 laden wir euch wieder zur unseren kleinen, gemütlichen...",
-      "details": {
-        "date": "15.12.2024",
-        "time": "11:00 - 18:00",
-        "location": {
-          "name": "Imkerei Beer",
-          "street": "Bienenweg 14",
-          "zipcode": "04356",
-          "city": "Leipzig"
-        },
-        "description": "Auch in 2024 laden wir euch wieder zur unseren kleinen, gemütlichen Adventsmarkt ein. Ihr könnt wieder am Lagerfeuer zu Stockbrot, heißen Met und heißen Apfelsaft den Adventssontag - die Weihnachtszeit genießen. Hungrig muss niemand nach Hause gehen. Wir haben für jeden Geschmack etwas dabei, eine leckere Bratwurst, einen frischen Flammlachs oder einen süßen Crêpes. Dazu Met, Apfelsaft, Kaffee oder Tee zum aufwärmen. Mit etwas Geschick zieht Ihr euch Eure eigenen Kerzen beim Kerzenziehen. Wer es gemütlich mag, setzt sich in der Imkerei in die Leseecke und hört sich die weihnachtlichen Geschichten an. Der Verein LeseLust Leipzig e. V. liest an dem Tag dreimal Weihnachtsgeschichten vor. Sportlich wird es für die Kleinsten beim Pony reiten, Geschicklichkeit und Reaktionvermögen ist bei den Holzspielgeräten gefragt, ob beim Stockfangen oder Tischhockey lustig wird das auf jeden Fall.https://www.imkerei-beer.de",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-8?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-14",
-      "from": "15.12.2024",
-      "to": "11:00",
-      "location": "Markthalle Plagwitz",
-      "summary": "Weihnachtsmarkt",
-      "description": "Familienfreundlicher Weihnachtsmarkt in der Plagwitzer Markthalle,...",
-      "details": {
-        "date": "15.12.2024",
-        "time": "11:00 - 18:00",
-        "location": {
-          "name": "Markthalle Plagwitz",
-          "street": "Markranstädter Straße 8",
-          "zipcode": "04229",
-          "city": "Leipzig"
-        },
-        "description": "Familienfreundlicher Weihnachtsmarkt in der Plagwitzer Markthalle, organsiert von coriole Keramik und Filde Keramik. Unter anderem mit Keramik, Illustration, Schmuck und Kunsthandwerk sowie regionalen Lebensmitteln, Kuchen, Glühwein und Burgern.https://plagwitzer-markthalle.de/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-14?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241215",
-      "from": "15.12.2024",
-      "to": "12:00",
-      "location": "Rathausplatz Markkleeberg",
-      "summary": "Weihnachtsmarkt \"Rund um´s Eis\"",
-      "description": "Dem Motto folgend, dreht sich auf dem Markkleeberger Weihnachtsmarkt...",
-      "details": {
-        "date": "15.12.2024",
-        "time": "12:00",
-        "location": {
-          "name": "Rathausplatz Markkleeberg",
-          "street": "04416 Markkleeberg"
-        },
-        "description": "Dem Motto folgend, dreht sich auf dem Markkleeberger Weihnachtsmarkt alles um eisige Überraschungen und sportliche Winter- und Schneewettkämpfe, zum Beispiel Eishockeytorschießen, Eisstockschießen, Scheeballzielwurf. Dazwischen verbreiten große und kleine Künstler und der Duft der Backwaren, Speisen und Getränke weihnachtliches Flair. Flocke der Eisbär präsentiert ein buntes Programm der Markkleeberger Tanz- und Musikschulen, Kinderschminken und anderen Überraschungen.https://www.markkleeberg.de/communice-calendar/veranstaltungskalender/veranstaltung-1-1/weihnachtsmarkt-rund-ums-eis-1-1",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241215?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "13.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241213"
-          },
-          {
-            "date": "14.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-6-20241214"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/dark-xmas-markt-1",
-      "from": "15.12.2024",
-      "to": "12:00",
-      "location": "Moritzbastei",
-      "summary": "Dark-Xmas-Markt",
-      "description": "Der Leipzig Dark Markt freut sich wieder einen Weihnachtsmarkt zu...",
-      "details": {
-        "date": "15.12.2024",
-        "time": "12:00",
-        "location": {
-          "name": "Moritzbastei",
-          "street": "Kurt-Masur-Platz 1",
-          "zipcode": "04109",
-          "city": "Leipzig",
-          "w3c": "http://www.moritzbastei.de"
-        },
-        "description": "Der Leipzig Dark Markt freut sich wieder einen Weihnachtsmarkt zu veranstalten. Einen Tag lang könnt kann die Handwerkskunst der Szene bewundert werden. Der Dark-Xmas-Markt bietet einen schaurig schönen schwarzen Adventssonntag.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/dark-xmas-markt-1?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/vegan-winter-festival-20241215",
-      "from": "15.12.2024",
-      "to": "12:00",
-      "location": "Wuest in den Pittlerwerken",
-      "summary": "Vegan-Winter-Festival",
-      "description": "",
-      "details": {
-        "date": "15.12.2024",
-        "time": "12:00",
-        "location": {
-          "name": "Wuest in den Pittlerwerken",
-          "street": "Polyphonstraße 8",
-          "zipcode": "04159",
-          "city": "Leipzig"
-        },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/vegan-winter-festival-20241215?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "14.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/vegan-winter-festival-20241214"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241215",
-      "from": "15.12.2024",
-      "to": "13:00",
-      "location": "LVZ-Verlagsgebäude",
-      "summary": "LVZ-Budenzauber",
-      "description": "",
-      "details": {
-        "date": "15.12.2024",
-        "time": "13:00",
-        "location": {
-          "name": "LVZ-Verlagsgebäude",
-          "street": "Peterssteinweg 19",
-          "zipcode": "04107",
-          "city": "Leipzig",
-          "w3c": "https://www.lvz.de"
-        },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241215?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "14.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241214"
-          },
-          {
-            "date": "16.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241216"
-          },
-          {
-            "date": "17.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241217"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241215",
-      "from": "15.12.2024",
-      "to": "15:00",
-      "location": "Budde-Haus",
-      "summary": "Kulturweihnachtsmarkt unterm Ginkgobaum",
-      "description": "Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer,...",
-      "details": {
-        "date": "15.12.2024",
-        "time": "15:00 - 20:00",
-        "location": {
-          "name": "Budde-Haus",
-          "street": "Lützowstraße 19",
-          "zipcode": "04157",
-          "city": "Leipzig"
-        },
-        "description": "Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer, Weihnachtsbasteleien und viel Kultur Zum dritten Adventswochenende, vom 13. bis zum 15. Dezember, lädt das Budde-Haus wieder auf das Gelände zum Kulturweihnachtsmarkt. Mit allem was dazu gehört: Speis und Trank, Lagerfeuer, Weihnachtsbasteleien, Verkaufsständen und natürlich mit einem abwechslungsreichen Kulturprogramm. Programm nähere Infos folgen auf unserer Website unter https://www.budde-haus.de/veranstaltungen/Eintritt: Zahl wie du dich Weihnachten fühlst! Von „Ostern fühle ich ja mehr“ (0,50 €) bis zu „Seit dem 27.12.2023 freue ich mich auf Weihnachten“ (3,00 €)Die Veranstaltung findet auf dem Außengelände des Budde-Hauses statt. Der Biergarten ist geöffnet.Förderer: Das Budde-Haus wird unterstützt vom Kulturamt der Stadt Leipzig.",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241215?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "13.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241213"
-          },
-          {
-            "date": "14.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/kulturweihnachtsmarkt-unterm-ginkgobaum-20241214"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241216",
-      "from": "16.12.2024",
-      "to": "15:00",
-      "location": "LVZ-Verlagsgebäude",
-      "summary": "LVZ-Budenzauber",
-      "description": "",
-      "details": {
-        "date": "16.12.2024",
-        "time": "15:00",
-        "location": {
-          "name": "LVZ-Verlagsgebäude",
-          "street": "Peterssteinweg 19",
-          "zipcode": "04107",
-          "city": "Leipzig",
-          "w3c": "https://www.lvz.de"
-        },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241216?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "14.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241214"
-          },
-          {
-            "date": "15.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241215"
-          },
-          {
-            "date": "17.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241217"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241217",
-      "from": "17.12.2024",
-      "to": "15:00",
-      "location": "LVZ-Verlagsgebäude",
-      "summary": "LVZ-Budenzauber",
-      "description": "",
-      "details": {
-        "date": "17.12.2024",
-        "time": "15:00",
-        "location": {
-          "name": "LVZ-Verlagsgebäude",
-          "street": "Peterssteinweg 19",
-          "zipcode": "04107",
-          "city": "Leipzig",
-          "w3c": "https://www.lvz.de"
-        },
-        "description": "",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241217?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "14.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241214"
-          },
-          {
-            "date": "15.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241215"
-          },
-          {
-            "date": "16.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/lvz-budenzauber-20241216"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20241218",
-      "from": "18.12.2024",
-      "to": "22.12.2024",
-      "location": "Gohliser Schlösschen",
-      "summary": "Weihnachtsduft und Lichterglanz",
-      "description": "Vom 27.11. – 22.12.2024 Glanz und Fröhlichkeit des Advent in der...",
-      "details": {
-        "date": "18.12.2024 -  22.12.2024",
-        "time": "",
-        "location": {
-          "name": "Gohliser Schlösschen",
-          "street": "Menckestraße 23",
-          "zipcode": "04155",
-          "city": "Leipzig",
-          "w3c": "http://www.gohliserschloesschen.de"
-        },
-        "description": "Vom 27.11. – 22.12.2024 Glanz und Fröhlichkeit des Advent in der besinnlichen Atmosphäre des Gohliser Schlösschens. Verweilen bei festlicher Stimmung und zu weihnachtlicher Musik im Barockgarten mit selbstgebackenen süßen und herzhaften Waffeln, gebrannten Mandeln und „hausgeglühtem“ Glühwein, Punsch und heißen Säften. Abgerundet wird das Angebot durch ein abwechslungsreiches Kulturprogramm – Chormusik, Instrumentalisten, gemeinsames Adventsliedersingen, Turmbläser, Weihnachtsgeschichten und vieles mehr.„Weihnachtsduft und Lichterglanz“ ist kein klassischer Weihnachtsmarkt! Das Gohliser Schlösschen bietet eine Alternative zu den klassischen Weihnachtsmärkten. Ganz bewusst verzichtet wird auf Marktbuden und Verkaufsstände und geboten wird ein stimmungsvoller und besinnlicher Ort für Kunst, Kultur, Gespräche und geselliges Miteinander.27.11. – 22.12.2024Mittwoch – Samstag 15:00 – 19:00 Uhr Sonntag 12:00 – 18:00 Uhrhttps://gohliserschloesschen.de/events/weihnachtsduft-2024/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20241218?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "04.12.2024 -  08.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20241204"
-          },
-          {
-            "date": "11.12.2024 -  15.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsduft-und-lichterglanz-1-20241211"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241221",
-      "from": "21.12.2024",
-      "to": "22.12.2024",
-      "location": "Feinkost",
-      "summary": "Advent, Advent, ein Lichtlein brennt … Weihnachtsmarkt auf der Feinkost 2024",
-      "description": "Der Weihnachtsmarkt auf der Feinkost begeistert auch dieses Jahr wieder...",
-      "details": {
-        "date": "21.12.2024 -  22.12.2024",
-        "time": "",
-        "location": {
-          "name": "Feinkost",
-          "street": "Karl-Liebknecht-Straße 36",
-          "zipcode": "04107",
-          "city": "Leipzig",
-          "w3c": "http://www.feinkostgenossenschaft.de"
-        },
-        "description": "Der Weihnachtsmarkt auf der Feinkost begeistert auch dieses Jahr wieder mit seiner besonderen Atmosphäre und einer wunderbaren Auswahl an schönen und einzigartigen Produkten. Ob Porzellan, Keramik und Schmuck, Gestricktes und Gehäkeltes, künstlerische Grafiken oder Zeichnungen – zahlreiche Handwerker*innen und Künstler*innen bieten ihre kreativen Unikate an. Wer etwas Außergewöhnliches für Weihnachten sucht, wird hier sicherlich fündig werden.Nach dem Rundgang kann man sich mit afrikanischem Essen aus Gambia und köstlichen Crêpes stärken. Oder man macht es sich am Grill gemütlich und genießt einen Glühwein oder heißen Saft – unter den funkelnden Weihnachtslichtern der Feinkost.Öffnungszeiten: Samstag 11 bis 20 Uhr; Sonntag 11 bis 18 Uhrwww.feinkostgenossenschaft.de",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241221?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": [
-          {
-            "date": "30.11.2024 -  01.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241130"
-          },
-          {
-            "date": "07.12.2024 -  08.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241207"
-          },
-          {
-            "date": "14.12.2024 -  15.12.2024",
-            "link": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/weihnachtsmarkt-1-20241214"
-          }
-        ]
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/9-veganer-weihnachtsmarkt",
-      "from": "21.12.2024",
-      "to": "22.12.2024",
-      "location": "Hotel Philippus",
-      "summary": "9. Veganer Weihnachtsmarkt",
-      "description": "herzhafte und süße Köstlichkeiten – vieles in Bio-Qualität und alles...",
-      "details": {
-        "date": "21.12.2024 -  22.12.2024",
-        "time": "",
-        "location": {
-          "name": "Hotel Philippus",
+          "name": "Philippus-Biergarten",
           "street": "Aurelienstraße 54",
           "zipcode": "04177",
           "city": "Leipzig"
         },
-        "description": "Freier Eintritt12 bis 20 Uhrhttps://veganer-markt-leipzig.de/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/9-veganer-weihnachtsmarkt?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
-      }
-    },
-    {
-      "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-6",
-      "from": "21.12.2024",
-      "to": "13:00",
-      "location": "Kirchenruine Wachau",
-      "summary": "Adventsmarkt",
-      "description": "Adventsmarkt mit Bastelstrecke, Essen & Trinken Kindertheater,...",
-      "details": {
-        "date": "21.12.2024",
-        "time": "13:00 - 17:00",
-        "location": {
-          "name": "Kirchenruine Wachau",
-          "street": "Kirchplatz 1",
-          "zipcode": "04416",
-          "city": "Markkleeberg",
-          "w3c": "http://www.kirchenruinewachau.de"
-        },
-        "description": "Adventsmarkt mit Bastelstrecke, Essen & TrinkenKindertheater, Führungen in der Kirchenruine und ab 18 Uhr weihnachtliches Konzert. https://www.kirchenruine-wachau.de/veranstaltungen/",
-        "ical": "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/adventsmarkt-6?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
-        "otherDates": []
+        "description": "Der Philippus-Biergarten öffnet als winterlicher Glühgarten. An der Feuerschale kann man sich wärmen und am Weihnachtshäuschen mit wärmenden Getränken und leckeren Speisen versorgen.",
+        "ical": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251220-3?tx_calendarize_calendar%5Bformat%5D=ics&cHash=360ad6373925e272755e4c7edf3f79fe",
+        "otherDates": [
+          {
+            "date": "30.11.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251130"
+          },
+          {
+            "date": "13.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251213-1"
+          },
+          {
+            "date": "14.12.2025",
+            "link": "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/eventsingle/event/gluehgarten-20251214-2"
+          }
+        ]
       }
     }
   ]

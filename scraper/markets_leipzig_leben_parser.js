@@ -7,49 +7,44 @@ const getHtml = async (url) => {
 };
 
 const scrape = async (content) => {
-  const $ = cheerio.load(content);
-  const events = $(".wp-block-heading");
+  const $ = cheerio.load(content, null, false)
+  const events = $(".wp-block-media-text__content");
   const markets = events
     .map(function () {
-      const name = $(this).text();
-      const desc = $(this).next();
-      const descTextComplete = desc.text().trim();
-      const whereSegments = descTextComplete.split("Wo? ");
-      const descText = whereSegments.length > 1
-        ? whereSegments[0]
-        : descTextComplete;
-      const description = descText.replace("Was? ", "");
-      var nextSegment, location, when;
-      if (whereSegments.length > 1) {
-        nextSegment = desc;
-        const whenSegments = whereSegments[1].split("Wann? ");
-        location = whereSegments[0];
-        if (whenSegments.length > 1) {
-          when = whenSegments[1];
+      const children = $(this).children();
+      const nameTag = children.next();
+      const name = $(this).children(".wp-block-heading").first().text();
+      const contentTag = children.next();
+      const result = [];
+      let nodes = contentTag.contents().toArray();
+      for (let i = 0; i < nodes.length; i++) {
+        if (nodes[i].tagName === 'strong') {
+          const tag = $(nodes[i]).text().trim();
+          let value = '';
+          let j = i + 1;
+          while (j < nodes.length && !(nodes[j].tagName === 'strong')) {
+            value += $.html(nodes[j]) || $(nodes[j]).text();
+            j++;
+          }
+          value = cheerio.load(`<div>${value}</div>`)('div').text().trim();
+          result.push({ tag, value });
+        } else if (nodes[i].tagName === 'a') {
+          result.push({ tag: 'a', value: nodes[i].attribs['href'] });
         }
-      } else {
-        nextSegment = desc.next();
       }
-      if (!location) {
-        location = nextSegment.text().replace("Wo? ", "");
-        const whenSegments = location.split("Wann? ");
-        if (whenSegments.length > 1) {
-          location = whenSegments[0];
-          when = whenSegments[1];
-        }
-        nextSegment = nextSegment.next();
-      }
-      if (!when) {
-        when = nextSegment.text().replace("Wann? ", "");
-        nextSegment = nextSegment.next();
-      }
-      const date = nextSegment.text();
-      const w3c = nextSegment.next().find("a").first().attr("href");
+      const location = result.find(entry => entry.tag === 'Wo?')?.value;
+      const date = result[0].tag.replace(". November 2025", ".11.25").replace(". Dezember 2025", ".12.25").replace(". Januar 2026", ".01.26").replace(". November", ".11.25").replace(". Dezember", ".12.25").replace(". Januar", ".01.26");
+      const when = result[0].value.replace("// ", "").replace(" Uhr", "").replace(" bis ", "-").replace(" - ", "-");
+      const parts = when.split("-")
+      const start = parts[0].indexOf(":") >=0 ? parts[0] : parts[0] + ":00";
+      const end = parts.length > 1 ? parts[1].indexOf(":") >=0 ? parts[1] : parts[1] + ":00" : "";
+      const description = result.find(entry => entry.tag === 'Was?')?.value;
+      const w3c = result.find(entry => entry.tag === 'a')?.value;
       return {
         name,
         description,
         location,
-        time: when,
+        time: end ? start + "-" + end : when,
         date,
         w3c,
       };
@@ -66,7 +61,7 @@ const scrape = async (content) => {
 };
 
 const content = fs.readFileSync(
-  "D:/42 Weihnachtsmärkte in Leipzig 2024 _ Alle Orte & Termine.html",
+  "/Users/joerg_p/Desktop/62 Weihnachtsmärkte in Leipzig 2025 _ Alle Orte & Termine.html",
   "utf-8",
 );
 scrape(content);

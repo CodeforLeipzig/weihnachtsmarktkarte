@@ -75,8 +75,8 @@ const FilterDate: FC<FilterDateType> = ({
     color: #BDA33B;
   }
 `;
-  const fromMonth = new Date(2024, 10);
-  const toDate = new Date(2025, 0, 7);
+  const fromMonth = new Date(2025, 10);
+  const toDate = new Date(2026, 0, 7);
   const now = new Date();
   const today = now.getTime() > toDate.getTime() ? toDate : now;
   const defaultMonth = new Date(today.getFullYear(), today.getMonth());

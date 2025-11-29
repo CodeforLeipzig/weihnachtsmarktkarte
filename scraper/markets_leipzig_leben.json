@@ -1,340 +1,558 @@
 {
   "markets": [
     {
-      "name": "Die gemütlichsten Weihnachtsmärkte in Leipzig & Umgebung:",
-      "description": "",
-      "location": "",
-      "time": "Alle Leipziger Adventsmärkte nach Datum:",
-      "date": "",
-      "w3c": "https://www.facebook.com/events/349672897722976/349672987722967/"
-    },
-    {
-      "name": "Alle Leipziger Adventsmärkte nach Datum:",
-      "description": "",
-      "location": "\nDer kauzige Wintermarkt\n\n\n\nWas? MARKTSTÄNDE, Musik & Naschereien für Kleine und GroßeHerr KAUZIG, Jahnallee 52",
-      "time": "\n\n\n\n31. Oktober 2024 bis 19. Januar 2025Di bis Fr // 17 bis 22 UhrSa + So // 15 bis 22 Uhr»  Zum Wintermarkt\n",
-      "date": ""
-    },
-    {
       "name": "Der kauzige Wintermarkt",
-      "description": "MARKTSTÄNDE, Musik & Naschereien für Kleine und Große",
-      "location": "Was? MARKTSTÄNDE, Musik & Naschereien für Kleine und Große",
-      "time": "Was? MARKTSTÄNDE, Musik & Naschereien für Kleine und GroßeWo? Herr KAUZIG, Jahnallee 52",
-      "date": "31. Oktober 2024 bis 19. Januar 2025Di bis Fr // 17 bis 22 UhrSa + So // 15 bis 22 Uhr»  Zum Wintermarkt"
+      "time": "Di – So ab 16",
+      "date": "ab 31. Oktober 2025",
+      "w3c": "https://herrkauzig.de/der-kauzige-wintermarkt"
     },
     {
-      "name": "Winterdorf im Paunsdorf Center",
-      "description": "Winterlicher Zauber, Unterhaltung und Spaß für die ganze Familie ",
-      "location": "Was? Winterlicher Zauber, Unterhaltung und Spaß für die ganze Familie ",
-      "time": "Was? Winterlicher Zauber, Unterhaltung und Spaß für die ganze Familie Wo? Paunsdorf Center",
-      "date": "ab 22. November 2024 Mo bis Sa // 10 bis 20 Uhr So // 11 bis 19 Uhr»  Zum Winterdorf"
-    },
-    {
-      "name": "Leipziger Weihnachtsmarkt // Marktplatz",
-      "description": "Der klassische Weihnachtsmarkt auf dem Leipziger Marktplatz ist die zentrale Anlaufstelle für Glühwein, Kräppelchen und Heimlichkeiten.",
-      "location": "Was? Der klassische Weihnachtsmarkt auf dem Leipziger Marktplatz ist die zentrale Anlaufstelle für Glühwein, Kräppelchen und Heimlichkeiten.",
-      "time": "Was? Der klassische Weihnachtsmarkt auf dem Leipziger Marktplatz ist die zentrale Anlaufstelle für Glühwein, Kräppelchen und Heimlichkeiten.Wo? Leipziger Marktplatz",
-      "date": "26. November bis 23. Dezember 2024Sonntag bis Donnerstag // 10 bis 21 UhrFreitag und Samstag // 10 bis 22 Uhr",
+      "name": "Weihnachtsmarkt Innenstadt",
+      "time": "Sonntag:00-Donnerstag: 11 bis 21Freitag und Samstag: 11 bis 22 Uhr",
+      "date": "25.11.25 bis 23.12.25",
       "w3c": "https://www.leipzig.de/freizeit-kultur-und-tourismus/einkaufen-und-ausgehen/maerkte/leipziger-weihnachtsmarkt"
     },
     {
       "name": "Weihnachtsduft und Lichterglanz",
-      "description": "selbstgebackene süße oder herzhaften Waffeln, gebrannte Mandeln und hausgemachter Glühwein, Punsch und heiße Säfte. Festliche Stimmung und weihnachtliche Musik im Barockgarten. Kunst, Kultur und Miteinander statt Marktbuden und Verkaufsstände ♥",
-      "location": "Was? selbstgebackene süße oder herzhaften Waffeln, gebrannte Mandeln und hausgemachter Glühwein, Punsch und heiße Säfte. Festliche Stimmung und weihnachtliche Musik im Barockgarten. Kunst, Kultur und Miteinander statt Marktbuden und Verkaufsstände ♥",
-      "time": "Was? selbstgebackene süße oder herzhaften Waffeln, gebrannte Mandeln und hausgemachter Glühwein, Punsch und heiße Säfte. Festliche Stimmung und weihnachtliche Musik im Barockgarten. Kunst, Kultur und Miteinander statt Marktbuden und Verkaufsstände ♥Wo? Gohliser SchlösschenWann?",
-      "date": "27. November bis 22. Dezember 2024 Mittwoch bis Samstag // 15 bis 19 UhrSonntag // 12 bis 18 Uhr",
-      "w3c": "https://gohliserschloesschen.de/events/weihnachtsduft-2024/"
+      "description": "Festliche Stimmung und weihnachtliche Musik im Barockgarten.Mehr Infos",
+      "location": "Gohliser Schlösschen",
+      "time": "Mittwoch:00-Samstag: 15 bis 19Sonntag: 12 bis 18 Uhr",
+      "date": "26.11.25 bis 21.12.25",
+      "w3c": "https://gohliserschloesschen.de/weihnachtsduft/"
     },
     {
-      "name": "Felsenkeller Weihnachtsmarkt 2024",
-      "description": "Der Felsenkeller-Weihnachtsmarkt öffnet im Biergarten des renommierten Felsenkeller im Leipziger Szene-Stadtteil Plagwitz.",
-      "location": "Was? Der Felsenkeller-Weihnachtsmarkt öffnet im Biergarten des renommierten Felsenkeller im Leipziger Szene-Stadtteil Plagwitz.",
-      "time": "Was? Der Felsenkeller-Weihnachtsmarkt öffnet im Biergarten des renommierten Felsenkeller im Leipziger Szene-Stadtteil Plagwitz.Wo? Felsenkeller",
-      "date": "28. November bis 30. Dezember 2024Mo bis Fr // 15 bis 21:30 UhrSamstag // 11 bis 21:30 UhrSonntag // 11 bis 20:00 Uhr»  Zum Felsenkeller Weihnachtsmarkt "
+      "name": "Mittelalter Weihnachtsmarkt im Felsenkeller ",
+      "description": "Weihnachtsmarkt im Szene-Stadtteil Plagwitz.Mehr Infos",
+      "location": "Felsenkeller",
+      "time": "",
+      "date": "27.11.25 bis 30.12.25",
+      "w3c": "https://www.felsenkeller-leipzig.com/"
+    },
+    {
+      "name": "Kleiner Weihnachtsmarkt in Knauthain",
+      "description": "Warme und kalte Köstlichkeiten, Adventskalender uvm.Mehr Infos",
+      "location": "Walradus Hof, Emil-Teich-Straße 4",
+      "time": "Mittwoch:00-Freitag: 17 bis 21Samstag & Sonntag: 14 bis 21 Uhr",
+      "date": "30.11.25 bis 21.12.25",
+      "w3c": "https://walradushof.de/veranstaltungen/"
+    },
+    {
+      "name": "Handwerker-Weihnachtsmarkt",
+      "description": "liebevoll gestaltete HandwerksständeMehr Infos",
+      "location": "Gasthof zum Siedlerheim, Wendelin-Hipler-Weg 33",
+      "time": "ab 16",
+      "date": "28.11.25",
+      "w3c": "https://www.gasthof-zum-siedlerheim.de/veranstaltungen/details/handwerker-weihnachtsmarkt-2025"
     },
     {
       "name": "Tauchaer Weihnachtsmarkt",
-      "description": "Die Stadt Taucha veranstaltet gleich ein zwei Orten einen Weihnachtsmarkt, auf dem Marktplatz und auf dem Schlosshof. Auf dem Marktplatz bieten Händler und Vereine in festlich geschmückten Marktbuden ihre Weihnachtserzeugnisse uns Geschenkartikel an.",
-      "location": "Was? Die Stadt Taucha veranstaltet gleich ein zwei Orten einen Weihnachtsmarkt, auf dem Marktplatz und auf dem Schlosshof. Auf dem Marktplatz bieten Händler und Vereine in festlich geschmückten Marktbuden ihre Weihnachtserzeugnisse uns Geschenkartikel an.",
-      "time": "Was? Die Stadt Taucha veranstaltet gleich ein zwei Orten einen Weihnachtsmarkt, auf dem Marktplatz und auf dem Schlosshof. Auf dem Marktplatz bieten Händler und Vereine in festlich geschmückten Marktbuden ihre Weihnachtserzeugnisse uns Geschenkartikel an.Wo? Marktplatz Taucha",
-      "date": "29. November 2024 30. November 2024 01. Dezember 2024",
-      "w3c": "https://www.taucha.de/kalender/veranstaltungen/2024-11-29-tauchaer-weihnachtsmaerkte/"
+      "description": "Festlich geschmückte Marktbuden mit WeihnachtlichemMehr Infos",
+      "location": "Marktplatz Taucha",
+      "time": "16:00-21:00",
+      "date": "28.11.25",
+      "w3c": "https://www.taucha.de/themen/tauchaer-weihnachtsmaerkte/"
     },
     {
       "name": "Lametta for Heinz",
-      "description": "viele schöne Stände mit regionalen, handgefertigten, gebastelten und verrückten Dingen.",
-      "location": "Was? viele schöne Stände mit regionalen, handgefertigten, gebastelten und verrückten Dingen.",
-      "time": "Was? viele schöne Stände mit regionalen, handgefertigten, gebastelten und verrückten Dingen.Wo? Zum Wilden Heinz, Hähnelstraße 22",
-      "date": "29. November 2024 // 16 bis 20 Uhr30. November 2024 // 14 bis 20 Uhr01. Dezember 2024 // 14 bis 20 Uhr",
-      "w3c": "https://www.facebook.com/events/421517427144552"
+      "description": "Stände mit regionalen, handgefertigten, gebastelten und verrückten Dingen.Mehr Infos",
+      "location": "Zum Wilden Heinz, Hähnelstraße 22",
+      "time": "12:00-20:00",
+      "date": "28.11.25",
+      "w3c": "https://www.instagram.com/reel/DQfGpVqiaht/"
     },
     {
-      "name": "Mittelalterlicher Weihnachtsmarkt Schloss Taucha ",
-      "description": "mittelalterlich geprägter Schloss-Weihnachtsmarkt",
-      "location": "Was? mittelalterlich geprägter Schloss-Weihnachtsmarkt",
-      "time": "Was? mittelalterlich geprägter Schloss-WeihnachtsmarktWo? Rittergut Schloss TauchaWann?",
-      "date": "29. November 2024 30. November 2024 01. Dezember 2024»  Zum mittelalterlichen Weihnachtsmarkt"
-    },
-    {
-      "name": "Adventsmarkt in der Versöhnungskirche Gohlis",
-      "description": "zum Stöbern, zum Basteln, zum Singen und zum Zuhören, zu Kaffee, Kuchen, Bratwurst und Glühwein – kurz gesagt: zum Adventsmarkt.",
-      "location": "Was? zum Stöbern, zum Basteln, zum Singen und zum Zuhören, zu Kaffee, Kuchen, Bratwurst und Glühwein – kurz gesagt: zum Adventsmarkt.",
-      "time": "15 bis 17 Uhr",
-      "date": "Was? zum Stöbern, zum Basteln, zum Singen und zum Zuhören, zu Kaffee, Kuchen, Bratwurst und Glühwein – kurz gesagt: zum Adventsmarkt.Wo? Versöhnungskirche Leipzig GohlisWann? 15 bis 17 Uhr",
-      "w3c": "https://versoehnungs-gemeinde.de/veranstaltungen/adventsmarkt"
+      "name": "Adventsmarkt in der Versöhnungskirche",
+      "description": "Stöbern, Basteln, Singen und ZuhörenMehr Infos",
+      "location": "Versöhnungskirche Leipzig Gohlis",
+      "time": "15:00-18:00",
+      "date": "29.11.25",
+      "w3c": "https://kalender.evlks.de/d-103584"
     },
     {
       "name": "Weihnachtsmarkt im Miltitzer Park",
-      "description": "Deftiges aus der Region, kleine Verkaufsstände, Weihnachtsmusik, Kindereisenbahn und Feuerschale. Nachhaltigkeit: Eigene Tasse mitbringen!",
-      "location": "Was? Deftiges aus der Region, kleine Verkaufsstände, Weihnachtsmusik, Kindereisenbahn und Feuerschale. Nachhaltigkeit: Eigene Tasse mitbringen!",
-      "time": "ab 15 Uhr",
-      "date": "Was? Deftiges aus der Region, kleine Verkaufsstände, Weihnachtsmusik, Kindereisenbahn und Feuerschale. Nachhaltigkeit: Eigene Tasse mitbringen!Wo? Miltitzer ParkWann? ab 15 Uhr"
+      "description": "Verkaufsstände, Weihnachtsmusik, Kindereisenbahn und Feuerschale. Nachhaltigkeit: Eigene Tasse mitbringen!Mehr Infos",
+      "location": "Miltitzer Park",
+      "time": "ab 15",
+      "date": "29.11.25",
+      "w3c": "https://www.heimatverein-miltitz.de/"
+    },
+    {
+      "name": "WeihnARTsmarktKunsttanker + Makerspace",
+      "description": "Offene Ateliers, Kunst und HandwerkMehr Infos",
+      "location": "Kunsttanker & Makerspace",
+      "time": "11:00-19:00",
+      "date": "29.11.25",
+      "w3c": "https://makerspace-leipzig.de/"
     },
     {
       "name": "Weihnachtsmarkt Böhlitz-Ehrenberg",
-      "description": "Ein kleines Programm für Groß und Klein beim TSV Böhlitz-Ehrenberg",
-      "location": "Was? Ein kleines Programm für Groß und Klein beim TSV Böhlitz-Ehrenberg",
-      "time": "von 14 bis 21 Uhr",
-      "date": "Was? Ein kleines Programm für Groß und Klein beim TSV Böhlitz-EhrenbergWo? Leipziger Straße 124Wann? von 14 bis 21 Uhr"
+      "description": "Ein kleines Programm für Groß und KleinMehr Infos",
+      "location": "Freiwillige Feuerwehr Leipzig – Böhlitz-Ehrenberg",
+      "time": "ab 14",
+      "date": "29.11.25",
+      "w3c": "https://www.facebook.com/events/freiwillige-feuerwehr-leipzig-b%C3%B6hlitz-ehrenberg/8-weihnachtsmarkt-b%C3%B6hlitz-ehrenberg/1089493016250332/"
+    },
+    {
+      "name": "Adventsfest am KreARTiv Lädchen",
+      "description": "handgemachte Produkte, Basteltisch & WaffelnMehr Infos",
+      "location": "Delitzscher Straße 95",
+      "time": "14:00-18:00",
+      "date": "29.11.25",
+      "w3c": "https://www.leipzig-leben.de/wp-content/uploads/2025/06/Flyer.jpg"
+    },
+    {
+      "name": "Weihnachtlicher Kunst- und Designmarkt",
+      "description": "Schmuck, Porzellan/Keramik, Grafik, Textil- und ProduktdesignMehr Infos",
+      "location": "HP7 – historischer Kunst- und Gewerbehof // Hans-Poeche-Straße 7",
+      "time": "14:00-20:00",
+      "date": "29.11.25",
+      "w3c": "https://hp-sieben.de/"
+    },
+    {
+      "name": "Advent im Schloss Trebsen",
+      "description": "Weihnachtszauber für Kinder, Genießer, Geschenksucher und  Kulturbegeisterte.Mehr Infos",
+      "location": "Schloss Trebsen",
+      "time": "",
+      "date": "29.",
+      "w3c": "https://www.schloss-trebsen.com/events/schlossadvent/"
     },
     {
       "name": "Feinkost Weihnachtsmarkt ",
-      "description": "Originalität, Regionalität und Familienfreundlichkeit. An rund 30 Ständen werden Händler:innen originelle und nachhaltige Geschenke, Handwerk und Kunst anbieten. Das Angebot wechselt von Wochenende zu Wochenende.",
-      "location": "Was? Originalität, Regionalität und Familienfreundlichkeit. An rund 30 Ständen werden Händler:innen originelle und nachhaltige Geschenke, Handwerk und Kunst anbieten. Das Angebot wechselt von Wochenende zu Wochenende.",
-      "time": "Was? Originalität, Regionalität und Familienfreundlichkeit. An rund 30 Ständen werden Händler:innen originelle und nachhaltige Geschenke, Handwerk und Kunst anbieten. Das Angebot wechselt von Wochenende zu Wochenende.Wo? Feinkost Innenhof (Außengelände)",
-      "date": "30./01. Dezember 202407./08. Dezember 202414./15. Dezember 202421./22. Dezember 2024Sonnabends 11 – 20 UhrSonntags 11 – 18 Uhr»  Zum Feinkost Weihnachtsmarkt"
+      "description": "Rund 30 Stände mit originellen und nachhaltigen Geschenken, Handwerk und KunstMehr Infos",
+      "location": "Feinkost Innenhof",
+      "time": "11:00-20:00",
+      "date": "29.11.25",
+      "w3c": "https://feinkostgenossenschaft.de/maerkte/#weihnachtsmarkt"
     },
     {
-      "name": "Adventsmarkt im Kulturhof Gohlis",
-      "description": "Modeaccessoires, Keramik und Porzellan, feiner, erlesener Schmuck, Feinkost, Naturkosmetik, wunderschöne Papeterie, Filzkunst, allerlei Wohnaccessoires und vieles mehr",
-      "location": "Was? Modeaccessoires, Keramik und Porzellan, feiner, erlesener Schmuck, Feinkost, Naturkosmetik, wunderschöne Papeterie, Filzkunst, allerlei Wohnaccessoires und vieles mehr",
-      "time": "Was? Modeaccessoires, Keramik und Porzellan, feiner, erlesener Schmuck, Feinkost, Naturkosmetik, wunderschöne Papeterie, Filzkunst, allerlei Wohnaccessoires und vieles mehrWo? Werkcafé im Kulturhof Gohlis",
-      "date": "30. November // 13 – 20 Uhr01. Dezember // 11 – 18 Uhr»  Zum Adventsmarkt im Kulturhof Gohlis"
+      "name": "Mittelalterlicher Weihnachtsmarkt Schloss Taucha ",
+      "description": "mittelalterlicher WeihnachtsmarktMehr Infos",
+      "location": "Rittergut Schloss Taucha",
+      "time": "14:00-20:00",
+      "date": "29.11.25",
+      "w3c": "https://www.taucha.de/themen/tauchaer-weihnachtsmaerkte/"
     },
     {
       "name": "Schlossweihnacht in Podelwitz",
-      "description": "Schausteller, Künstler und Händler im weihnachtlichen Glanz ♥",
-      "location": "Was? Schausteller, Künstler und Händler im weihnachtlichen Glanz ♥",
-      "time": "Was? Schausteller, Künstler und Händler im weihnachtlichen Glanz ♥Wo? Wasserschloss PodelwitzWann?",
-      "date": "30. November 202401. Dezember 2024»  Zur Schlossweihnachten in Podelwitz"
+      "description": "Schausteller, Künstler und Händler Mehr Infos",
+      "location": "Wasserschloss Podelwitz",
+      "time": "11:00-19:00",
+      "date": "29.11.25",
+      "w3c": "https://www.wasserschloss-podelwitz.de/index.php"
+    },
+    {
+      "name": "Adventsmarkt im Kulturhof Gohlis",
+      "description": "Modeaccessoires, Keramik und Porzellan, erlesener Schmuck, Feinkost, Naturkosmetik, wunderschöne Papeterie, Filzkunst & mehrMehr Infos",
+      "location": "Werkcafé im Kulturhof Gohlis",
+      "time": "13:00-20:00",
+      "date": "29.11.25",
+      "w3c": "http://kulturhof-gohlis.de/"
+    },
+    {
+      "name": "Weihnachts Brimborium in der Villa Hasenholz",
+      "description": "Keramik, Schmuck, Gestricktes, Kunst & Grafik, Lagerfeuer, regionale LeckereienMehr Infos",
+      "location": "Villa Hasenholz",
+      "time": "12:00-20:00",
+      "date": "29.11.25",
+      "w3c": "https://www.facebook.com/photo/?fbid=1371465871375527&set=pcb.1371465898042191"
     },
     {
       "name": "Weihnachtsmarkt Schloss Schönefeld",
-      "description": " Über 30 Weihnachtsbuden zeichnen sich durch handgefertigte, regionale oder fair gehandelte Produkte aus.",
-      "location": "Was?  Über 30 Weihnachtsbuden zeichnen sich durch handgefertigte, regionale oder fair gehandelte Produkte aus.",
-      "time": "Was?  Über 30 Weihnachtsbuden zeichnen sich durch handgefertigte, regionale oder fair gehandelte Produkte aus.Wo? Schloss Schönefeld",
-      "date": "01. Dezember 2024 // 11 bis 18 Uhr",
-      "w3c": "https://verein.schloss-schoenefeld.de/2024/11/07/weihnachtsmarkt-2024-schloss-schoenefeld-vorab-information/"
+      "description": "30 Weihnachtsbuden handgefertigte, regionale oder fair gehandelte Produkte Mehr Infos",
+      "location": "Schloss Schönefeld",
+      "time": "11:00-18:00",
+      "date": "30.11.25",
+      "w3c": "https://verein.schloss-schoenefeld.de/veranstaltungen/weihnachtsmarkt/"
+    },
+    {
+      "name": "Adventsmarkt bei Brot & Kees in Markkleeberg",
+      "description": "Adventsstimmung in MarkkleebergMehr Infos",
+      "location": "Im Kees´schen Park",
+      "time": "11:00-18:00",
+      "date": "30.11.25",
+      "w3c": "https://kalender.markkleeberg.de/node/5200?time=2023-12-03T11%3A00%3A00"
     },
     {
       "name": "Stötteritzer Adventsmarkt auf dem Gutshof",
-      "description": "Adventsauftakt auf dem Gutshof Stötteritz & adventlicher Einkauf mit Waren von lokalen Händlern und Produzenten",
-      "location": "Was? Adventsauftakt auf dem Gutshof Stötteritz & adventlicher Einkauf mit Waren von lokalen Händlern und Produzenten",
-      "time": "Was? Adventsauftakt auf dem Gutshof Stötteritz & adventlicher Einkauf mit Waren von lokalen Händlern und ProduzentenWo? Gutshof Stötteritz",
-      "date": "01. Dezember 2023 // 14 bis 19 Uhr Uhr",
+      "description": "Adventsauftakt Mehr Infos",
+      "location": "Gutshof Stötteritz",
+      "time": "14:00-19:00",
+      "date": "30.11.25",
       "w3c": "https://gutshof-stoetteritz.de/"
     },
     {
       "name": "Dölitzer Adventsmarkt",
-      "description": "Bunte Marktstände, Feuerschale, Leckeres aus dem Lehmbackofen,  ein Tannenbaum, Suppe und selbstgemachter Glühwein",
-      "location": "Was? Bunte Marktstände, Feuerschale, Leckeres aus dem Lehmbackofen,  ein Tannenbaum, Suppe und selbstgemachter Glühwein",
-      "time": "Was? Bunte Marktstände, Feuerschale, Leckeres aus dem Lehmbackofen,  ein Tannenbaum, Suppe und selbstgemachter GlühweinWo? Dölitzer Wassermühle",
-      "date": "01. Dezember 2024 // 13 bis 18 Uhr",
+      "description": "Bunte Marktstände & Leckeres aus dem LehmbackofenMehr Infos",
+      "location": "Dölitzer Wassermühle",
+      "time": "13:00-18:00",
+      "date": "30.11.25",
       "w3c": "https://doelitzer-wassermuehle.de/?page_id=259"
     },
     {
       "name": "Weihnachtsmarkt im Wannenbad",
-      "description": "einer der kleinsten, aber auf jeden Fall romantischsten Gohliser Weihnachtsmärkte",
-      "location": "Was? einer der kleinsten, aber auf jeden Fall romantischsten Gohliser Weihnachtsmärkte",
-      "time": "Was? einer der kleinsten, aber auf jeden Fall romantischsten Gohliser WeihnachtsmärkteWo? Gohliser Wannenbad, Georg-Schumann-Str. 116 HH",
-      "date": "Wann? "
+      "description": "einer der kleinsten, aber auf jeden Fall romantischsten Gohliser WeihnachtsmärkteMehr Infos",
+      "location": "Gohliser Wannenbad, Georg-Schumann-Str. 116 HH",
+      "time": "14:00-18:00",
+      "date": "30.11.25",
+      "w3c": "https://www.leipziger-ecken.de/events/weihnachtsmarkt-im-wannenbad-04155-2"
     },
     {
-      "name": "Hundeweihnachtsmarkt 2024",
-      "description": "Alles zum Thema Hund, sowie Accessoires für Frauchen und Herrchen",
-      "location": "Was? Alles zum Thema Hund, sowie Accessoires für Frauchen und Herrchen",
-      "time": "Was? Alles zum Thema Hund, sowie Accessoires für Frauchen und HerrchenWo? An der Lagune 17, Hafengelände, NeukieritzschWann?",
-      "date": "01. Dezember 2024 // 10 bis 17 Uhr",
-      "w3c": "https://www.facebook.com/events/671178584566050"
+      "name": "Weihnachts ART MARKT im Poege Haus",
+      "description": "Weihnachtlicher KunstmarktMehr Infos",
+      "location": "Poega Haus, Hedwigstraße 20",
+      "time": "",
+      "date": "30.11.25",
+      "w3c": "https://www.instagram.com/p/DRAlYLwjrjH/?igsh=Y3B3bXM2NDFycm0z"
     },
     {
-      "name": "Advent im Schloss Trebsen",
-      "description": "Weihnachtszauber für Kinder, Genießer, Geschenksucher und  Kulturbegeisterte.",
-      "location": "Was? Weihnachtszauber für Kinder, Genießer, Geschenksucher und  Kulturbegeisterte.",
-      "time": "Was? Weihnachtszauber für Kinder, Genießer, Geschenksucher und  Kulturbegeisterte.Wo? Schloss Trebsen",
-      "date": "30./01. Dezember 202407./08. Dezember 202414./15. Dezember 202421./22. Dezember 2024"
+      "name": "Weihnachtsmarkt in der alten Likörfabrik",
+      "description": "Idyllische Stände und offene AteliersMehr Infos",
+      "location": "Hinterhof der alten Hornlikörfabrik, Prellerstraße 54a",
+      "time": "14:00-20:00",
+      "date": "30.11.25",
+      "w3c": "https://www.instagram.com/p/DQd2giUjOe6/?img_index=2&igsh=MTRtZ2d1M2N5cDQ3bA=="
     },
     {
-      "name": "Kleiner Weihnachtsmarkt in Knauthain",
-      "description": "Warme und kalte Köstlichkeiten, feine Naschereien, genussvolle Getränke, Adventskalender und vieles mehr ",
-      "location": "Was? Warme und kalte Köstlichkeiten, feine Naschereien, genussvolle Getränke, Adventskalender und vieles mehr ",
-      "time": "Was? Warme und kalte Köstlichkeiten, feine Naschereien, genussvolle Getränke, Adventskalender und vieles mehr Wo? Walradus Hof, Emil-Teich-Straße 4",
-      "date": "01. Dezember bis 15. Dezember 2024"
+      "name": "Wintermarkt im Weltoffen e.V. ",
+      "description": "Upcycling, Faire Produkte, Food & DrinksMehr Infos",
+      "location": "Weltoffen e.V., Straße des 17. Juni 11",
+      "time": "15 – 19",
+      "date": "04.12.25",
+      "w3c": "https://www.instagram.com/p/DRKRgZaDLVC/?img_index=1&igsh=MXZ2MWFhejFhdnY3Yg=="
     },
     {
-      "name": "Adventsmarkt bei Brot & Kees in Markkleeberg",
-      "description": "Adventsstimmung in Markkleeberg",
-      "location": "Was? Adventsstimmung in Markkleeberg",
-      "time": "01. Dezember 2024 // 11 bis 18 Uhr",
-      "date": "Was? Adventsstimmung in MarkkleebergWo? Im Kees´schen Park, MarkkleebergWann? 01. Dezember 2024 // 11 bis 18 Uhr",
-      "w3c": "https://www.brotundkees.de/veranstaltungen/adventsmarkt/"
-    },
-    {
-      "name": "Weihnachtsmarkt in der Mühlstraße",
-      "description": "kleiner feiner Weihnachtsmarkt im Haus & Hof der Mühlstrasse 14, mit Weihnachtsständen, Waffelbäckerei, Kerzenziehen, Geschenke angeln, Glücksrad, Holz- und Naturwerkstatt, Knüppelkuchen, Weihnachtssingen uvm. ",
-      "location": "Was? kleiner feiner Weihnachtsmarkt im Haus & Hof der Mühlstrasse 14, mit Weihnachtsständen, Waffelbäckerei, Kerzenziehen, Geschenke angeln, Glücksrad, Holz- und Naturwerkstatt, Knüppelkuchen, Weihnachtssingen uvm. ",
-      "time": "Was? kleiner feiner Weihnachtsmarkt im Haus & Hof der Mühlstrasse 14, mit Weihnachtsständen, Waffelbäckerei, Kerzenziehen, Geschenke angeln, Glücksrad, Holz- und Naturwerkstatt, Knüppelkuchen, Weihnachtssingen uvm. Wo? Mühlstraße 14",
-      "date": "01. Dezember 2024 // 14 bis 19 Uhr",
-      "w3c": "https://www.muehlstrasse.de/index.php?id=weihnachtsmarkt"
-    },
-    {
-      "name": "Weihnachtsmarkt im Kulturhaus Eutritzsch",
-      "description": "Feuerchen, gut Gegrilltes, Kräppelchen und Flohmarkt",
-      "location": "Kulturhaus Eutritzsch, Thaerstraße 39",
-      "time": "14 bis 19 Uhr",
-      "date": "03. Dezember 2024",
-      "w3c": "https://kulturhauseutritzsch.de/events/kulturhaus-weihnachtsmarkt/"
-    },
-    {
-      "name": "WERK 2 Weihnachtsmarkt",
-      "description": "Connewitzer Weihnachtsmarkt. Alternative Stände, Kunsthandwerk, Feuerschale und Gemütlichkeit",
-      "location": "Was? Connewitzer Weihnachtsmarkt. Alternative Stände, Kunsthandwerk, Feuerschale und Gemütlichkeit",
-      "time": "06. bis 12. Dezember 2024",
-      "date": "Was? Connewitzer Weihnachtsmarkt. Alternative Stände, Kunsthandwerk, Feuerschale und GemütlichkeitWo? WERK 2 GeländeWann? 06. bis 12. Dezember 2024"
-    },
-    {
-      "name": "Delitzscher Adventsmarkt 2024",
-      "description": "An mehr als 80 Ständen warten Spezialitäten auf die Gäste des  beliebten Adventsmarktes.",
-      "location": "Was? An mehr als 80 Ständen warten Spezialitäten auf die Gäste des  beliebten Adventsmarktes.",
-      "time": "Was? An mehr als 80 Ständen warten Spezialitäten auf die Gäste des  beliebten Adventsmarktes.Wo? Marktplatz, Delitzsch",
-      "date": "06. Dezember 2024 // 14 bis 22 Uhr07. Dezember 2024 // 12 bis 22 Uhr08. Dezember 2024 // 12 bis 19 Uhr",
-      "w3c": "https://www.delitzsch.de/regional/veranstaltungen/detail-900003050-27640.html"
-    },
-    {
-      "name": "Advents-Faktum // Kranwerk Naunhof",
-      "description": "In der Verkaufsauslage findet der geneigte Käufer anspruchsvolle Objekte aus Holz, Glas, Stahl, Weide, Filz, Ton & Stein aber auch Grafisches und natürlich Naschhaftes. ",
-      "location": "Was? In der Verkaufsauslage findet der geneigte Käufer anspruchsvolle Objekte aus Holz, Glas, Stahl, Weide, Filz, Ton & Stein aber auch Grafisches und natürlich Naschhaftes. ",
-      "time": "Was? In der Verkaufsauslage findet der geneigte Käufer anspruchsvolle Objekte aus Holz, Glas, Stahl, Weide, Filz, Ton & Stein aber auch Grafisches und natürlich Naschhaftes. Wo? Altes Kranwerk Naunhof",
-      "date": "6. bis 15. Dezember 2024",
+      "name": "Advents-Faktum Kranwerk Naunhof",
+      "description": "anspruchsvolle Objekte aus Holz, Glas, Stahl, Weide, Filz, Ton & Stein aber auch Grafisches Mehr Infos",
+      "location": "Altes Kranwerk Naunhof",
+      "time": "13 – 19",
+      "date": "5. bis 14.12.25",
       "w3c": "https://www.kranwerk.com/advents-faktum/"
     },
     {
-      "name": "Alternativer Adventsmarkt in der Heilandskirche Plagwitz",
-      "description": "Tolles Kinderprogramm, Basteln, Kuchen und Glühwein ",
-      "location": "Was? Tolles Kinderprogramm, Basteln, Kuchen und Glühwein ",
-      "time": "Was? Tolles Kinderprogramm, Basteln, Kuchen und Glühwein Wo? Heilandskirche Plagwitz",
-      "date": "07. Dezember 2024 //  14 bis 18 Uhr»  Zum Adventsmarkt der Heilandskirche"
+      "name": "Budenzauber in der Kochstraße",
+      "description": "Kunst, Textiles, Unikate, Sinnliches, Kulinarisches",
+      "location": "Stofftieratelier Aichinger, Kochstraße 98",
+      "time": "",
+      "date": "5. bis 21.12.25"
     },
     {
-      "name": "Adventsmarkt im Zaubergarten Stötteritz",
-      "description": "Kesselgulasch, Glühwein, Feuerzauber, Handgemachtes aus der Region",
-      "location": "Was? Kesselgulasch, Glühwein, Feuerzauber, Handgemachtes aus der Region",
-      "time": "Was? Kesselgulasch, Glühwein, Feuerzauber, Handgemachtes aus der RegionWo? Oststraße 181Wann?",
-      "date": "07. Dezember 2024 //  15 bis 20 Uhr»  Zum Adventsmarkt im Zaubergarten"
+      "name": "Delitzscher Adventsmarkt 2025",
+      "description": "mehr als 80 StändeMehr Infos",
+      "location": "Marktplatz, Delitzsch",
+      "time": "14:00-22:00",
+      "date": "05.12.25",
+      "w3c": "https://www.delitzsch.de/regional/veranstaltungen/detail-900003380-27640.html"
+    },
+    {
+      "name": "Weihnachtsmarkt im Schloss Hohenprießnitz",
+      "description": "magisches AmbienteMehr Infos",
+      "location": "Schloss Hohenprießnitz",
+      "time": "16:00-20:00",
+      "date": "05.12.25",
+      "w3c": "http://www.schloss-hohenpriessnitz.de/"
+    },
+    {
+      "name": "Alternativer Adventsmarkt in der Heilandskirche Plagwitz",
+      "description": "künstlerische Verkaufsstände, Kinderprogramm, Kuchen & Glühwein Mehr Infos",
+      "location": "Heilandskirche Plagwitz",
+      "time": "14:00-18:00",
+      "date": "06.12.25",
+      "w3c": "https://www.kirche-lindenau-plagwitz.de/termine-detail/alternativer-adventsmarkt-2025.html"
+    },
+    {
+      "name": "Ostwache Weihnachtsmarkt",
+      "description": "Weihnachtsmarkt in der FahrzeughalleMehr Infos",
+      "location": "Ostwache",
+      "time": "",
+      "date": "06.12.25",
+      "w3c": "https://www.ostwache.org/"
     },
     {
       "name": "Viktorianischer Weihnachtsmarkt",
-      "description": "Marktstände, die in liebevoller Handarbeit gefertigte Accessoires, Kleidung, Schmuck oder Weihnachtsdekoration anbieten",
+      "description": "handgefertigte WeihnachtsfreudenMehr Infos",
       "location": "am Biedermeierstrand am Schladitzer See",
-      "time": "07. Dezember 2024 // 13 bis 18 Uhr",
-      "date": "»  Zum Vikoriansichen Adventsmarkt"
+      "time": "ab 13",
+      "date": "06.12.25",
+      "w3c": "https://www.leipzig.travel/event/viktorianischer-weihnachtsmarkt-am-biedermeierstrand"
     },
     {
-      "name": "OSTWACHE-Weihnachtsmarkt 2024",
-      "description": "Verweilen, Stöbern und Nachbarschaft treffen",
-      "location": "Was? Verweilen, Stöbern und Nachbarschaft treffen",
-      "time": "Was? Verweilen, Stöbern und Nachbarschaft treffenWo? Alte Feuerzeughalle OSTWACHE",
-      "date": "07. Dezember 2024 //  14 bis 20 Uhr»  Zum Weihnachtsmarkt der Ostwache"
+      "name": "vonMIR. vonHIER. Kreativmarkt X-MAS Special",
+      "description": "ca. 60 Handwerker aus der RegionMehr Infos",
+      "location": "Da Capo, Karl-Heine-Str. 105",
+      "time": "12:00-19:00",
+      "date": "06.12.25",
+      "w3c": "https://www.facebook.com/events/4237767076544544"
     },
     {
       "name": "Historischer Weihnachtsmarkt am Torhaus Markkleeberg",
-      "description": "Weihnachtlich-romantische Stimmung im historischen Ensemble zwischen Auenkirche, Torhaus und Schloss Markkleeberg",
-      "location": "Was? Weihnachtlich-romantische Stimmung im historischen Ensemble zwischen Auenkirche, Torhaus und Schloss Markkleeberg",
-      "time": "Was? Weihnachtlich-romantische Stimmung im historischen Ensemble zwischen Auenkirche, Torhaus und Schloss MarkkleebergWo? Am Torhaus Markkleeberg, Kirchstraße 40",
-      "date": "07. Dezember 2024 // ab 14 Uhr08. Dezember 2024 // ab 14 Uhr»  Zum Weihnachtsmarkt am Torhaus"
+      "description": "Weihnachtlich-romantische Stimmung im historischen EnsembleMehr Infos",
+      "location": "Am Torhaus Markkleeberg, Kirchstraße 40",
+      "time": "14:00-18:00",
+      "date": "06.12.25",
+      "w3c": "https://www.markkleeberg.de/freizeit-und-tourismus/veranstaltungen/veranstaltungskalender/veranstaltung/weihnachtsmarkt-am-torhaus-markkleeberg"
     },
     {
-      "name": "Sellerhäuser Adventslicht 2024",
-      "description": "Feuerchen, gut Gegrilltes, Kräppelchen und Flohmarkt",
-      "location": "Emmauskirche Sellerhausen, Wurzner Straße 160",
-      "time": "08. Dezember 2024 // ab 14 Uhr",
-      "date": "»  Zum Sellerhäuser Adventslicht"
+      "name": "ATVentsmarkt ",
+      "description": "Glühwein, Leckereien & ÜberraschungenMehr Infos",
+      "location": "ATV Vereinsgaststätte – Schnittstelle 1845 –",
+      "time": "14 – 22",
+      "date": "06.12.25",
+      "w3c": "https://www.atv1845.de/events/atv-adventsmarkt-751/"
     },
     {
-      "name": "TV CLUB Weihnachtsmarkt",
-      "description": "Weihnachtsgeschenke, Glühwein & Kräppelchen",
-      "location": "TV Club (Theresienstraße 2)",
-      "time": "14 bis 20 Uhr",
-      "date": "08. Dezember 2024",
-      "w3c": "https://www.facebook.com/events/1068773437874103/"
+      "name": "Adventsmarkt in der Oststraße",
+      "description": "Handgemachtes aus der RegionMehr Infos",
+      "location": "Jugendclub Oststraße",
+      "time": "14 – 19",
+      "date": "06.12.25",
+      "w3c": "https://www.instagram.com/p/DREoe0fDcXb/?igsh=MWw2MzRocnlmaXZ3bg=="
     },
     {
-      "name": "Advent unterm Ginkgobaum // Kulturweihnachtsmarkt",
-      "description": "Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer, Weihnachtsbasteleien und viel Kultur",
-      "location": "Was? Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer, Weihnachtsbasteleien und viel Kultur",
-      "time": "Was? Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer, Weihnachtsbasteleien und viel KulturWo? Budde-Haus in Gohlis",
-      "date": "Freitag 13. Dezember // 15 bis 20 UhrSamastag 14. Dezember // 15 bis 20 UhrSonntag 15. Dezember // 15 bis 20 Uhr",
-      "w3c": "https://www.budde-haus.de/veranstaltungen/advent-unterm-ginkgobaum-10/"
-    },
-    {
-      "name": "Weihnachtsmarkt am Gut Graßdorf",
-      "description": "Kuscheliger, regionaler Weihnachtsmarkt für Handwerkskunst und Familien",
-      "location": "Was? Kuscheliger, regionaler Weihnachtsmarkt für Handwerkskunst und Familien",
-      "time": "Was? Kuscheliger, regionaler Weihnachtsmarkt für Handwerkskunst und FamilienWo? Landgasthof Gut Graßdorf, Am Volksgut 2 (Taucha)",
-      "date": "Freitag 13. Dezember // 17 bis 21 UhrSamastag 14. Dezember // 14 bis 21 UhrSonntag 15. Dezember // 14 bis 19 Uhr",
-      "w3c": "https://www.wulf-catering.de/veranstaltungen/"
-    },
-    {
-      "name": "Weihnachtsmarkt in Holzhausen",
-      "description": "Flammlachs, BBQ-Burger, Kesselgulasch und viele andere Leckereien",
-      "location": "Zuckelhausener Ring, Holzhausen",
-      "time": "14. Dezember 2024 // ab 15 Uhr",
-      "date": "»  Zum Weihnachtsmarkt in Holzhausen"
-    },
-    {
-      "name": "Hof-Advent in Liebertwolkwitz",
-      "description": "Abseits der Einkaufshektik der Großstadt, im vorweihnachtlichen Lichterglanz die unterschiedlichsten Handwerkerstuben aus längst vergangenen Zeiten besuchen: ob Branntweinbrenner, Seilermeister oder Grempler",
-      "location": "Liebertwolkwitzer Markt",
-      "time": "16 bis 22 Uhr",
-      "date": "14./15. Dezember 2024Samstag: 14 bis 20 Uhr Sonntag: 14 bis 18 Uhr",
-      "w3c": "https://hofgenossenschaft.com/hof-advent/"
-    },
-    {
-      "name": "Adventsmarkt und Kerzenziehen",
-      "description": "Verkostungen, Geschenkkörbe, Vorlesungen, Holzspielgeräte, Ponyreiten, Lagerfeuer mit Stockbrot, Flammlachs, Weihnachtsmann",
-      "location": "im Hof der Imkerei Beer, Bienenweg 14 (Leipzig Nord)",
-      "time": "11 bis 18 Uhr",
-      "date": "15. Dezember 2024",
-      "w3c": "https://www.imkerei-beer.de/info/termine-und-aktuelles.html"
-    },
-    {
-      "name": "Dark XMAS Markt in der Moritzbastei",
-      "description": "Schaurig schöner, schwarzer Adventssonntag mit Handwerkskunst der Szene",
-      "location": "Was? Schaurig schöner, schwarzer Adventssonntag mit Handwerkskunst der Szene",
-      "time": "12 bis 19 Uhr",
-      "date": "Was? Schaurig schöner, schwarzer Adventssonntag mit Handwerkskunst der SzeneWo? MoritzbasteiWann? 12 bis 19 Uhr"
-    },
-    {
-      "name": "Adventsmarkt bei Faunauge",
-      "description": "Der wohl kleinste Weihnachtsmarkt Leipzigs. Ein Wintermärchen voller kleiner Labels und Keksen im Ladenatelier",
-      "location": "Faunauge // Kurt-Eisner-Straße 11",
-      "time": "18. bis 21. Dezember 2024",
-      "date": "»  Zur Adventswoche von Faunauge"
-    },
-    {
-      "name": "Weihnachtsmarkt in der Kirchenruine Wachau",
-      "description": "Besinnlicher Weihnachtsmarkt in der Kirchenruine Wachau",
-      "location": "Kirchenruine Wachau, Kirchplatz 1 (Wachau)",
-      "time": "13 bis 17 Uhr",
-      "date": "21. Dezember 2024",
-      "w3c": "https://www.kirchenruine-wachau.de/veranstaltungen/"
+      "name": "Feinkost Weihnachtsmarkt ",
+      "description": "30 Stände originelle GeschenkeMehr Infos",
+      "location": "Feinkost Innenhof",
+      "time": "11 – 20",
+      "date": "06.12.25",
+      "w3c": "https://feinkostgenossenschaft.de/maerkte/#weihnachtsmarkt"
     },
     {
       "name": "Veganer Weihnachtsmarkt ",
-      "description": "Gemütlicher veganer Weihnachtsmarkt in Lindenau",
-      "location": "Was? Gemütlicher veganer Weihnachtsmarkt in Lindenau",
-      "time": "Was? Gemütlicher veganer Weihnachtsmarkt in LindenauWo? Philippus Gelände, Aurelienstraße 54 (Lindenau)",
-      "date": "21. Dezember 2024 // 12 bis 20 Uhr22. Dezember 2024 // 12 bis 20 Uhr»  Zum veganen Weihnachtsmarkt"
+      "description": "Gemütlicher veganer Weihnachtsmarkt Mehr Infos",
+      "location": "Philippus Gelände, Aurelienstraße 54",
+      "time": "12:00-20:00",
+      "date": "06.12.25",
+      "w3c": "http://www.veganer-markt-leipzig.de/"
+    },
+    {
+      "name": "Advent im Schloss Trebsen",
+      "description": "Weihnachtszauber für Genießer, Geschenksucher und  KulturbegeisterteMehr Infos",
+      "location": "Schloss Trebsen",
+      "time": "11 – 19",
+      "date": "06.12.25",
+      "w3c": "https://www.schloss-trebsen.com/events/schlossadvent/"
+    },
+    {
+      "name": "HGB Wintermarkt",
+      "description": "Soli-WinterflohmarktMehr Infos",
+      "location": "HGB Leipzig",
+      "time": "11 – 18",
+      "date": "06.12.25",
+      "w3c": "https://www.hgb-leipzig.de/"
+    },
+    {
+      "name": "Weihnachtsmarkt in der Mühlstraße",
+      "description": "kleiner feiner Weihnachtsmarkt im Haus & Hof Mehr Infos",
+      "location": "Mühlstraße 14",
+      "time": "14:00-19:00",
+      "date": "07.12.25",
+      "w3c": "https://www.muehlstrasse.de/feste-festivals/weihnachtsmarkt.html"
+    },
+    {
+      "name": "Weihnachtliches Getümmel an der Rad Tanke",
+      "description": "Handgemachtes & Live-MusikMehr Infos",
+      "location": "Rad Tanke",
+      "time": "12:00-18:00",
+      "date": "07.12.25",
+      "w3c": "https://www.radtanke.de/"
+    },
+    {
+      "name": "Weihnachts ART MARKT im Poege Haus",
+      "location": "Weihnachtlicher KunstmarktMehr Infos",
+      "time": "",
+      "date": "07.12.25",
+      "w3c": "https://www.instagram.com/p/DRAlYLwjrjH/?igsh=Y3B3bXM2NDFycm0z"
+    },
+    {
+      "name": "TV CLUB Weihnachtsmarkt",
+      "description": "Weihnachtsgeschenke, Glühwein & KräppelchenMehr Infos",
+      "location": "TV Club (Theresienstraße 2)",
+      "time": "ab 11",
+      "date": "07.12.25",
+      "w3c": "https://www.tv-club-leipzig.de/weihnachtlich-winterlicher-floh-und-pflanzenmarkt-am-07-12-2025/"
+    },
+    {
+      "name": "Mitmach Weihnachtsmarkt im Werk 2",
+      "description": "Kreativ, inklusiv, weihnachtlichMehr Infos",
+      "location": "Werk 2",
+      "time": "14:00-17:00",
+      "date": "07.12.25",
+      "w3c": "https://www.werk-2.de/programm/2025-12-07_mitmach-weihnachtsmarkt_im_werk_2"
+    },
+    {
+      "name": "Advent in Reudnitz",
+      "description": "Theater, Singen, MitMachAction, Kreatives, Speis & TrankMehr Infos",
+      "location": "Weihnachtsmarkt im Lene-Voigt-Park",
+      "time": "14:00-19:00",
+      "date": "07.12.25",
+      "w3c": "https://www.instagram.com/p/DRUGEMogiES/"
+    },
+    {
+      "name": "WERK 2 Weihnachtsmarkt",
+      "description": "Alternative Stände, Kunsthandwerk & FeuerschaleMehr Infos",
+      "location": "WERK 2 Gelände",
+      "time": "10.12. Mittwoch: 16–2111.12. // Donnerstag: 14–21 Uhr12.12. // Freitag: 13–22 Uhr13.12. // Samstag: 13–22 Uhr14.12. // Sonntag: 13–21 Uhr15.12. // Montag: 14–21 Uhr16.12. // Dienstag: 14–21 Uhr17.12. // Mittwoch: 14–21 Uhr18.12. // Donnerstag: 14–21 Uhr19.12. // Freitag: 13-22 Uhr20.12. // Samstag: 13",
+      "date": "10. bis 21.12.25",
+      "w3c": "https://www.leipzig-leben.de/weihnachten-am-kreuz/"
+    },
+    {
+      "name": "Adventsmarkt Eutritzsch",
+      "description": "Knüppelteig, Kinderpunsch, Grillgut uvm.Mehr Infos",
+      "location": "SV Lipsia 93, Thaerstraße 5",
+      "time": "17:00-21:00",
+      "date": "12.12.25",
+      "w3c": "https://www.leipzig-leben.de/wp-content/uploads/2023/08/Flyer-Hofflohmarkt-Nov-rendered_231112_120905.pdf"
+    },
+    {
+      "name": "Weihnachtsmarkt im Schloss Hohenprießnitz",
+      "description": "magisches AmbienteMehr Infos",
+      "location": "Schloss Hohenprießnitz",
+      "time": "16:00-20:00",
+      "date": "12.12.25",
+      "w3c": "http://www.schloss-hohenpriessnitz.de/"
+    },
+    {
+      "name": "Weihnachtsmarkt am Gut Graßdorf",
+      "description": "Kuscheliger, regionaler Weihnachtsmarkt für HandwerkskunstMehr Infos",
+      "location": "Landgasthof Gut Graßdorf, Am Volksgut 2 (Taucha)",
+      "time": "17:00-21:00",
+      "date": "12.12.25",
+      "w3c": "https://www.wulf-catering.de/veranstaltungen/"
+    },
+    {
+      "name": "Advent unterm Ginkgobaum // Kulturweihnachtsmarkt",
+      "description": "Verkaufsständen, Lagerfeuer, Weihnachtsbasteleien und viel KulturMehr Infos",
+      "location": "Budde-Haus in Gohlis",
+      "time": "15:00-20:00",
+      "date": "12.12.25",
+      "w3c": "https://www.budde-haus.de/veranstaltungen/"
+    },
+    {
+      "name": "Weihnachtsmarkt in Holzhausen",
+      "description": "Flammlachs, BBQ-Burger, Kesselgulasch und viele andere LeckereienMehr Infos",
+      "location": "Zuckelhausener Ring, Holzhausen",
+      "time": "ab 15",
+      "date": "13.12.25",
+      "w3c": "https://www.holzhausen-sachsen.de/veranstaltungen/index.htm#weihnachtsmarkt/index.htm"
+    },
+    {
+      "name": "Weihnachtlicher Denkmal-Hofmarkt",
+      "description": "Flohmarkt, Kulturoase, Live-MusikMehr Infos",
+      "location": "Lützner Straße 39",
+      "time": "15:00-19:00",
+      "date": "13.12.25",
+      "w3c": "https://www.leipziger-denkmalstiftung.de/"
+    },
+    {
+      "name": "Advent in den Höfen Kleinzschochers",
+      "description": "14 Höfe mit umfangreichem AngebotMehr Infos",
+      "location": "verschiedene Orte in Kleinzschocher",
+      "time": "14:00-17:30",
+      "date": "13.12.25",
+      "w3c": "https://bi-kleinzschocher.blogspot.com/2025/11/vorbereitungen-zum-advent-in-den-hofen.html?m=1"
+    },
+    {
+      "name": "Weihnachten mit KreuzDer Ilses Erika Weihnachtsmarkt",
+      "description": "Stände, Gastro und KulturprogrammMehr Infos",
+      "location": "Biergartengelände Ilses Erika",
+      "time": "14:00-21:00",
+      "date": "13.12.25",
+      "w3c": "https://www.ilseserika.de/termine-65/weihnachten-mit-kreuz-der-ilses-erika-weihnachtsmarkt.html"
+    },
+    {
+      "name": "Antifaschistischer Wintermarkt im Pixi",
+      "description": "Artists & GlühweinMehr Infos",
+      "location": "Pixi Kollektivbar",
+      "time": "12:00-18:00",
+      "date": "13.12.25",
+      "w3c": "https://www.instagram.com/p/DQ2bzPSiFmC/?__d=1%3Futm_source%3Dig_embed"
+    },
+    {
+      "name": "Feinkost Weihnachtsmarkt ",
+      "description": "30 Stände originelle und nachhaltige GeschenkeMehr Infos",
+      "location": "Feinkost Innenhof",
+      "time": "11:00-20:00",
+      "date": "13.12.25",
+      "w3c": "https://feinkostgenossenschaft.de/maerkte/#weihnachtsmarkt"
+    },
+    {
+      "name": "Hof-Advent in Liebertwolkwitz",
+      "description": "Abseits der Einkaufshektik der Großstadt, im vorweihnachtlichen Lichterglanz die unterschiedlichsten Handwerkerstuben aus längst vergangenen Zeiten besuchen: ob Branntweinbrenner, Seilermeister oder GremplerMehr Infos",
+      "location": "Liebertwolkwitzer Markt",
+      "time": "14:00-20:00",
+      "date": "13.12.25",
+      "w3c": "https://hofgenossenschaft.com/hof-advent/"
+    },
+    {
+      "name": "Vegan Winter Festival",
+      "description": "Stände mit veganen Köstlichkeiten, nachhaltigen Produkten, handgemachten GeschenkideenMehr Infos",
+      "location": "Pittlerwerke",
+      "time": "12 – 20",
+      "date": "13.12.25",
+      "w3c": "https://www.pittlerwerke.org/de/event/vegan-festival-leipzig-winter"
+    },
+    {
+      "name": "Advent im Schloss Trebsen",
+      "description": "Weihnachtszauber für Genießer, Geschenksucher und  KulturbegeisterteMehr Infos",
+      "location": "Schloss Trebsen",
+      "time": "11:00-19:00",
+      "date": "13.12.25",
+      "w3c": "https://www.schloss-trebsen.com/events/schlossadvent/"
+    },
+    {
+      "name": "NAUND Wintermarkt",
+      "description": "Prints, Illu, Schmuck, Keramik, Fotografie, etc.Mehr Infos",
+      "location": "naund e.V. // Zweinaundorfer Str. 10",
+      "time": "14 – 20",
+      "date": "13.12.25",
+      "w3c": "https://www.instagram.com/p/DRXyA_eiKls/"
+    },
+    {
+      "name": "Dark XMAS Markt in der Moritzbastei",
+      "description": "Handwerkskunst aus der schwarzen SzeneMehr Infos",
+      "location": "Moritzbastei",
+      "time": "13:00-19:00",
+      "date": "14.12.25",
+      "w3c": "https://www.facebook.com/events/4237767076544544"
+    },
+    {
+      "name": "Weihnachtsmarkt in der Plagwitzer Markthalle",
+      "description": "Keramik, Illustrationen, Schmuck & KunsthandwerkMehr Infos",
+      "location": "Plagwitzer Markthalle",
+      "time": "10:00-17:00",
+      "date": "14.12.25",
+      "w3c": "https://plagwitzer-markthalle.de/"
+    },
+    {
+      "name": "Adventsmarkt und Kerzenziehen",
+      "description": "Verkostungen, Geschenkkörbe, Vorlesungen, Holzspielgeräte, Ponyreiten, Lagerfeuer mit Stockbrot, Flammlachs, WeihnachtsmannMehr Infos",
+      "location": "Imkerei Beer, Bienenweg 14",
+      "time": "11:00-18:00",
+      "date": "14.12.25",
+      "w3c": "https://www.instagram.com/p/DRRG0NxCI9m/"
+    },
+    {
+      "name": "Weihnachtsmarkt in der Kirchenruine Wachau",
+      "description": "Besinnlicher Weihnachtsmarkt Mehr Infos",
+      "location": "Kirchenruine Wachau, Kirchplatz 1",
+      "time": "13 – 17",
+      "date": "20.12.25",
+      "w3c": "https://www.kirchenruine-wachau.de/veranstaltungen/"
+    },
+    {
+      "name": "Feinkost Weihnachtsmarkt ",
+      "description": "30 Stände originelle und nachhaltige GeschenkeMehr Infos",
+      "location": "Feinkost Innenhof",
+      "time": "11:00-20:00",
+      "date": "20.12.25",
+      "w3c": "https://feinkostgenossenschaft.de/maerkte/#weihnachtsmarkt"
+    },
+    {
+      "name": "Advent im Schloss Trebsen",
+      "description": "Weihnachtszauber für Genießer, Geschenksucher und  Kulturbegeisterte.Mehr Infos",
+      "location": "Schloss Trebsen",
+      "time": "11:00-19:00",
+      "date": "20.12.25",
+      "w3c": "https://www.schloss-trebsen.com/events/schlossadvent/"
     }
   ]
 }

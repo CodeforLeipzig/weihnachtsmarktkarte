@@ -12,47 +12,45 @@ const handleDetails = (content) => {
     content.length,
   );
   const $ = cheerio.load("<html>" + adaptedContent);
-  const table = $(".cal_meta_singleview");
-  const ical = $(".cal_export_singleview > div > a").first();
-  const description = $(".cal_content_singleview > p")?.text()?.trim();
-  const otherDateSection = $("#eventdetail-additionaldates-accordeon");
-  const otherDates = otherDateSection
+  const ical = $(".calendar-link > a").first();
+  const time = $(".event-info-card-infos > .time > dd > time");
+  const location = $(".event-info-card-infos > div > dd");
+  const description = $(".event-detail-grid-text > p")?.text()?.trim();
+  const otherDates = $(".link_intern")
     .map(function () {
+      let otherDate = $(this).find(".d-inline-block").text().trim().replaceAll("\n", "").replaceAll("  ", " ");
+      while (otherDate.indexOf("  ") >= 0) {
+        otherDate = otherDate.replaceAll(" ", "");
+      }
       return $(this)
-        .find("a")
         .map(function () {
           return {
-            date: $(this).text().trim(),
+            date: otherDate,
             link: "https://www.leipzig.de" + $(this).attr("href"),
           };
         })
         .toArray();
     })
     .toArray();
-  const locationSection = $(".cal_location_singleview").first();
-  const address = locationSection
-    .find(".cal_address_location")
+  const locationSection = $(".event-info-card-infos > div[2] > dd").first();
+  const address = location.find("p > .address")
     .text()
     .trim()
     .split(" 04");
-  const street = address[0];
+  const street = address[0].split("\n")[0];
   const zipcode = address[1] && "04" + address[1].split(" ")[0];
   const city = address[1] && address[1].split(" ")[1];
 
   return {
-    date: table.find(".date").first().text().trim().replace("Datum ", ""),
-    time: table.find(".time").first().text().trim().replace("Uhrzeit ", ""),
-    location: table
-      .find(".location")
-      .first()
-      .text()
-      .trim()
-      .replace("Veranstaltungsort ", ""),
+    name: $(".event-title").text().trim(),
+    date: time.first().text().trim(),
+    time: time.last().text().trim(),
+    location: location.text().trim(),
     description,
     ical: "https://www.leipzig.de" + ical.attr("href"),
     otherDates,
     location: {
-      name: locationSection.find("h3").text().trim(),
+      name: location.find("dd > span").text().trim(),
       street,
       zipcode,
       city,
@@ -63,23 +61,23 @@ const handleDetails = (content) => {
 
 const scrape = async (content) => {
   const $ = cheerio.load(content);
-  const events = $(".vevent > div > a");
+  const events = $(".event-card > a");
 
   const config = events
     .map(function () {
-      const eventDate = $(this)
-        .find(".event-date")
-        .first()
+      const iconText = $(this).find("a > .event-card-body > div > .icon-text");
+      const time = iconText.find(".icon").next();
+      const eventDate = time
         .text()
         .trim()
-        .split(" ");
+        .split(" - ").map(t => t.trim());
+      const location = iconText.next().find(".icon").next();
       return {
         url: "https://www.leipzig.de" + $(this).attr("href").trim(),
-        from: eventDate[0].trim(),
-        to: eventDate[2]?.trim(),
-        location: $(this).find(".events_meta > strong").first().text().trim(),
-        summary: $(this).find(".summary > h3").first().text().trim(),
-        description: $(this).find(".description_teaser").first().text().trim(),
+        from: eventDate[0].trim().split("\n")[0],
+        to: eventDate[1]?.trim().split("\n")[0],
+        location: location.text().trim(),
+        summary: $(this).find(".event-card-body > h3").first().text().trim(),
       };
     })
     .toArray();
@@ -109,7 +107,7 @@ const streetMappings = {
   "Menckestr. 23": "Menckestraße 23",
   "Aurelienstr. 54": "Aurelienstraße 54",
   "Nikolai-Rumjanzew-Straße 100 (Zufahrt Schönauer Straße)":
-    "Nikolai-Rumjanzew-Straße 100",
+  "Nikolai-Rumjanzew-Straße 100",
   "Kochstr. 132": "Kochstraße 132",
   "Vollhardtstr. 16": "Vollhardtstraße 16",
   "Park Miltitz": "Geschwister-Scholl-Str. 8a",
@@ -236,16 +234,20 @@ const parseDate = (str) => {
   const segments = str.split(".");
   const year = segments[2];
   return new Date(
-    (year.length == 2) ? `20${year}` : year,
+    (year && year.length && year.length == 2) ? `20${year}` : year,
     Number(segments[1]) - 1,
     segments[0],
   );
 };
 const formatDate = (dt) => {
-  const dayStr = ("0" + dt.getDate()).slice(-2);
-  const monthStr = ("0" + (dt.getMonth() + 1)).slice(-2);
-  const yearStr = ("" + dt.getYear()).slice(-2);
-  return `${dayStr}.${monthStr}.${yearStr}`;
+  if (dt.getDate) {
+    const dayStr = ("0" + dt.getDate()).slice(-2);
+    const monthStr = ("0" + (dt.getMonth() + 1)).slice(-2);
+    const yearStr = ("" + dt.getYear()).slice(-2);
+    return `${dayStr}.${monthStr}.${yearStr}`;
+  } else {
+  return `${dt}`;
+  }
 };
 
 const updateFromToDates = () => {
@@ -403,7 +405,7 @@ const updateWeekDays = () => {
 };
 
 getHtml(
-  "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/weihnachten/weihnachtsmaerkte/",
+  "https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/weihnachten/weihnachtsmaerkte/",
 ).then((content) => scrape(content));
 getUniqueLocations();
 updateDescription();
