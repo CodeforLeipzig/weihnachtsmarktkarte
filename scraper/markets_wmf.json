@@ -977,6 +977,8 @@
     "short_distance": 0,
     "rss_beschreibung": "Seit vielen Jahren ist der Adventsmarkt in der Friedenskirche ein fester Punkt im vorweihnachtlichen Trubel. Auch dieses Jahr wird es in der Friedenskirche wieder einen Adventsmarkt mit vielen verschiedenen Angeboten geben. Herzliche Einladung! Glühwein und Gebäck gibt es natürlich auch."
   },
+  null,
+  null,
   {
     "id": 65,
     "bezirk": "Zentrum-Süd",
@@ -1017,6 +1019,13 @@
     "short_distance": 0,
     "rss_beschreibung": ""
   },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
   {
     "id": 87,
     "bezirk": "Plagwitz",
@@ -1055,6 +1064,8 @@
     "short_distance": 0,
     "rss_beschreibung": "Familienfreundlicher Weihnachtsmarkt in der Plagwitzer Markthalle, organisiert von coriole Keramik und Filde Keramik. Unter anderem mit Keramik, Illustration, Schmuck und Kunsthandwerk, sowie regionalen Lebensmitteln, Kuchen, Glühwein, Lagerfeuer, Tannenbaumverkauf und vielen Essensständen.https://plagwitzer-markthalle.de/"
   },
+  null,
+  null,
   {
     "id": 90,
     "bezirk": "Böhlitz-Ehrenberg",
@@ -1094,6 +1105,7 @@
     "short_distance": 1,
     "rss_beschreibung": "Verschiedene Verkaufsstände, Bastelstraße, Ponyreiten, Märchenstunde, Besuch des Weihnachtsmannes und mehr. Eintritt freihttps://www.bgbe.de/weihnachtsmarkt"
   },
+  null,
   {
     "id": 100,
     "bezirk": "Zentrum-Südost",
@@ -1206,6 +1218,44 @@
     "urheberschaft": "<a href=\"https://commons.wikimedia.org/wiki/File:Stadtgut_Leipzig_Moelkau_2.JPG\">myself, CC BY-SA 3.0</a>",
     "train": "Bus 72 oder 73 bis \"Leipzig, Am Bahndamm\"",
     "train_distance": 1000,
+    "short_distance": 0
+  },
+  {
+    "id": 104,
+    "bezirk": "Neustadt-Neuschönefeld",
+    "name": "ArtMarkt – Weihnachtsedition",
+    "shortname": "ArtMarkt",
+    "strasse": "Hedwigstraße 20",
+    "plz_ort": "04315 Leipzig",
+    "von": "30.11.25",
+    "bis": "30.11.25",
+    "veranstalter": "Pöge-Haus e.V.",
+    "oeffnungszeiten": "14:00-20:00",
+    "email": null,
+    "w3": "https://www.pöge-haus.de/de/pec-events/artmarkt-4-2/",
+    "bemerkungen": "<a class='text-sm underline' target='blank' href='https://www.pöge-haus.de/de/pec-events/artmarkt-4-2/'>Offizielle Seite</a>",
+    "lat": 51.34751349240341,
+    "lng": 12.403518984235774,
+    "rss_titel": "ArtMarkt",
+    "rss_beschreibung": "Der ArtMarkt bringt Künstler*innen und Kreative aus Leipzig und der Region zusammen und schafft einen offenen Raum für Austausch, Begegnung und den Kauf einzigartiger Kunstwerke. Stöbert durch die vielfältigen Stände und entdeckt besondere Schätze: Keramik, Schmuck, Textilkunst, Drucke, Gemälde und vieles mehr. Ob ihr lokale Kunstschaffende unterstützen oder einfach die kreative Atmosphäre genießen möchtet – kommt vorbei und erlebt Leipzigs Kreativszene von ihrer besten Seite!",
+    "immer-kostenlos": 1,
+    "Mo": 0,
+    "Di": 0,
+    "Mi": 0,
+    "Do": 0,
+    "Fr": 0,
+    "Sa": 0,
+    "So": "14:00-20:00",
+    "closed-exc": 0,
+    "hours-exc": 0,
+    "ignore": 0,
+    "merged": 0,
+    "international": 0,
+    "action": 0,
+    "image": null,
+    "urheberschaft": null,
+    "train": "Straßenbahn 1, 3, oder 8 bis Einertstraße",
+    "train_distance": 100,
     "short_distance": 0
   }
 ]
