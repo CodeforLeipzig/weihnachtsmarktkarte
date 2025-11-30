@@ -8,7 +8,7 @@
     }
   },
   "features": [{
-      "type": "Feature",
+  "type": "Feature",
   "properties": {
     "id": 1,
     "bezirk": "Altlindenau",
@@ -49,9 +49,16 @@
     "train_distance": 501,
     "short_distance": 0,
     "rss_beschreibung": "Der kauzige Wintermarkt mit Marktständen, Musik und PartyParty nach dem Wintermarkt Mittwoch und Donnerstag – ab 21:00 UhrApres Party mit den beliebtesten Apres Ski Hits Freitag – ab 22:00 UhrKauzige Themenabende (Latino / 80er / 90er & 2000er / RnB & HipHop / Querbeet) Samtag – ab 22:00 UhrKauzTanz mit Pop, Rock und Hip Hop – Klassiker der 80er, 90er und 2000er / Melodic House & Techno Sonntag ab 18:00 bis 22:00 UhrMittwoch bis Sonntag immer 16:00 Uhr bis 22:00 Uhr"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.3424501,
+      51.338934
+    ]
   }
-    },{
-        "type": "Feature",
+},{
+  "type": "Feature",
   "properties": {
     "id": 2,
     "bezirk": "Markranstädt",
@@ -90,9 +97,16 @@
     "train": "Bus 65 bis 'Markranstädt, Schulstr. (Markt)'",
     "train_distance": 65,
     "short_distance": 1
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.220582363130251,
+      51.3019336
+    ]
   }
-  },{
-      "type": "Feature",
+},{
+  "type": "Feature",
   "properties": {
     "id": 3,
     "bezirk": "Holzhausen",
@@ -131,7 +145,15 @@
     "train_distance": 148,
     "short_distance": 1,
     "rss_beschreibung": "Der Heimatverein, die Freiwillige Feuerwehr und die Kirchgemeinde Holzhausen laden am 14. Dezember 2024 ab 14:00 Uhr zum vorweihnachtlichen Nachmittag an den Höfen um den Zuckelhausener Teich, im Heimatverein und in der Zuckelhäuser Kirche ein. Weihnachtliches Flair mit viel Lichterglanz und vielen Überraschungen für Groß und Klein kann der Besucher erwarten. Auch die gastronomische Versorgung kommt nicht zu kurz. https://www.holzhausen-sachsen.de/veranstaltungen/weihnachtsmarkt/index.htm"
-  }},{
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.452355509581167,
+      51.30342633572286
+    ]
+  }
+},{
   "type": "Feature",
   "properties": {
     "id": 4,
@@ -277,7 +299,7 @@
     ]
   }
 },{
-    "type": "Feature",
+  "type": "Feature",
   "properties": {
     "id": 7,
     "bezirk": "Hohenheida",
@@ -316,7 +338,15 @@
     "train": "Bus 86 bis 'Hohenheida (Leipzig), Lindengasse'",
     "train_distance": 334,
     "short_distance": 1
-  }},{
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.451029922691248,
+      51.419213301086245
+    ]
+  }
+},{
   "type": "Feature",
   "properties": {
     "id": 8,
@@ -365,7 +395,7 @@
     ]
   }
 },{
-    "type": "Feature",
+  "type": "Feature",
   "properties": {
     "id": 9,
     "bezirk": "Zwenkau",
@@ -404,8 +434,16 @@
     "train_distance": 118,
     "short_distance": 1,
     "rss_beschreibung": ""
-  }},{
-      "type": "Feature",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.334048942485769,
+      51.23417845
+    ]
+  }
+},{
+  "type": "Feature",
   "properties": {
     "id": 10,
     "bezirk": "Liebertwolkwitz",
@@ -444,46 +482,15 @@
     "train_distance": 423,
     "short_distance": 0,
     "rss_beschreibung": "Lassen Sie sich einladen, zum Hof-Advent auf den historischen Gewerkehof des Stiftsgutes am Liebertwolkwitzer Markt 11. Hier können Sie, abseits der Einkaufshektik der Großstadt, im vorweihnachtlichen Lichterglanz die unterschiedlichsten Handwerkerstuben aus längst vergangenen Zeiten besuchen: ob Branntweinbrenner, Seilermeister und Grempler, Töpfer oder Parfümeur, sie und viele weitere erwarten Sie."
-  }},{
-    "id": 11,
-    "bezirk": "Knautkleeberg-Knauthain",
-    "name": "Kleiner Weihnachtsmarkt",
-    "shortname": "Landgasthof Walradus Hof",
-    "strasse": "Emil-Teich-Str. 4",
-    "plz_ort": "04249 Leipzig",
-    "von": "30.11.25",
-    "bis": "21.12.25",
-    "veranstalter": "Landgasthof Walradus Hof",
-    "oeffnungszeiten": "17:00-23:59",
-    "email": null,
-    "w3": "https://walradushof.de/veranstaltungen/",
-    "bemerkungen": "<a class='text-sm underline' target='blank' href='https://walradushof.de/veranstaltungen/'>Offizielle Seite</a>",
-    "lat": 51.279671,
-    "lng": 12.30584502441339,
-    "rss_titel": "Kleiner Weihnachtsmarkt",
-    "immer-kostenlos": 1,
-    "barrierefrei": "unbekannt",
-    "Mo": 0,
-    "Di": 0,
-    "Mi": "17:00-23:59",
-    "Do": "17:00-23:59",
-    "Fr": "17:00-23:59",
-    "Sa": "14:00-23:59",
-    "So": "14:00-23:59",
-    "closed-exc": "01.12.25,02.12.25,08.12.25,09.12.25,15.12.25,16.12.25",
-    "closed-exc-readable": "Montag - Mittwoch",
-    "hours-exc": "30.11.25=14:00-23:59,06.12.25=14:00-23:59,07.12.25=14:00-23:59,13.12.25=14:00-23:59,14.12.25=14:00-23:59,20.12.25=14:00-23:59,21.12.25=14:00-23:59",
-    "ignore": 0,
-    "merged": null,
-    "international": 0,
-    "action": 0,
-    "image": null,
-    "urheberschaft": null,
-    "train": "Straßenbahn 3 bis 'Fortunabadstr.'",
-    "train_distance": 290,
-    "short_distance": 1,
-    "rss_beschreibung": "Weihnachtsmarkt im Walradus Hof. Mittwoch bis Freitag ab 17:00 Uhr Samstag und Sonntag ab 14:00 Uhr"
-  },{
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.464161707847325,
+      51.2823255
+    ]
+  }
+},{
   "type": "Feature",
   "properties": {
     "id": 12,
@@ -580,7 +587,7 @@
     ]
   }
 },{
-    "type": "Feature",
+  "type": "Feature",
   "properties": {
     "id": 14,
     "bezirk": "Graßdorf",
@@ -619,7 +626,15 @@
     "train_distance": 587,
     "short_distance": 0,
     "rss_beschreibung": "Glühwein, honigwein, Feuerzangenbohle, Leckeres vom Grill, Schlosswein und Edelbrand vom eigenen Weinberg, Kräppelchen-Mann, Gutes vom Honig, Feldküche, Nachereien vom Bäcker, Feldbeckerey, Tombola, Ponyreiten um den Weihnachtsbaum. Kindertheater, Brass Fusion St. Moritz. Astrid Höschel-Bellmann liest aus weihnachtlichen Briefen historischer Persönlichkeiten, Heidi Steger begleitet mit weihnachtlichen Weisen am Akkordion."
-  }},{
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.4973428,
+      51.3813807
+    ]
+  }
+},{
   "type": "Feature",
   "properties": {
     "id": 15,
@@ -669,7 +684,7 @@
     ]
   }
 },{
-    "type": "Feature",
+  "type": "Feature",
   "properties": {
     "id": 16,
     "bezirk": "Plagwitz",
@@ -708,7 +723,15 @@
     "train_distance": 384,
     "short_distance": 1,
     "rss_beschreibung": "Künstlerische oder kulinarische Verkaufsstände, Café mit selbstgemachtem Kuchen, Live-Musik und für Kinder: Basteln und Puppenspiel."
-  }},{
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.3396974,
+      51.3306668
+    ]
+  }
+},{
   "type": "Feature",
   "properties": {
     "id": 17,
@@ -807,7 +830,7 @@
     ]
   }
 },{
-    "type": "Feature",
+  "type": "Feature",
   "properties": {
     "id": 19,
     "bezirk": "Zentrum-Südost",
@@ -846,7 +869,15 @@
     "train_distance": 518,
     "short_distance": 0,
     "rss_beschreibung": "Werfen Sie auch im Winter einen Blick in die Gewächshäuser und basteln oder finden besondere, grüne Geschenke. Weihnachten steht vor der Tür und der Förderverein lässt auch dieses Jahr wieder den Garten im Advent glänzen. Mit alkoholfreien Punsch und hausgemachten Waffeln stimmen wir sie winterlich-botanisch ein und machen ausnahmsweise sogar die Gewächshaustüren auf. Diese Geschenke gibt's zu erwerben: HIGHLIGHT: Natürlich unsere exklusiven selbst-präparierten „Alten Falter“ aus unserer Schmetterlingsschau im dekorativem Holzrahmen; Gutscheine für Führungen, Eintritte und Jahreskarte; Artikel aus dem Verkaufssortiment unseres Shops; Glasbiotope in vielen verschiedenen Größen; Lokale Fruchtaufstriche, Fruchtleder und Liköre; Adventsbasteln für Kinder; Mit Geschenken aus dem Botanischen Garten machen Sie gleich mehreren eine Freude. Alle Einnahmen kommen dem Ausbau, dem Erhalt und Pflege des Gartens zugute. Sie sorgen für den Erhalt der Artenvielfalt und geben unseren Gärtner:innen die finanzielle Freiheit, wirklich alles aus den Sammlungen rauszuholen."
-  }},{
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.391405804762092,
+      51.32867415
+    ]
+  }
+},{
   "type": "Feature",
   "properties": {
     "id": 20,
@@ -897,7 +928,7 @@
     ]
   }
 },{
-    "type": "Feature",
+  "type": "Feature",
   "properties": {
     "id": 21,
     "bezirk": "Graßdorf",
@@ -937,7 +968,15 @@
     "train_distance": 771,
     "short_distance": 0,
     "rss_beschreibung": "Weihnachtsmarkt auf dem Marktplatz Taucha mit leckeren weihnachtlichen Köstlichkeiten und Getränken. Weihnachtlich-musikalisches Programm von Vereinen und Künstlern an allen drei Tagen."
-  }},{
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.500227480821401,
+      51.38031935
+    ]
+  }
+},{
   "type": "Feature",
   "properties": {
     "id": 22,
@@ -1082,7 +1121,7 @@
     ]
   }
 },{
-    "type": "Feature",
+  "type": "Feature",
   "properties": {
     "id": 25,
     "bezirk": "Grünau-Ost",
@@ -1121,7 +1160,15 @@
     "train_distance": 305,
     "short_distance": 1,
     "rss_beschreibung": "Das Haus Steinstraße hat ein buntes Programm geplant. Neben Fruchtpunsch wird es allerlei Leckereien geben, wie Grillwürstchen, Suppe und Waffeln. Außerdem erwarten Euch verschiedene Kreativangebote zum Mitmachen sowie 15:00 Uhr Musik vom Grünauer Frauenchor und 16:00 Uhr das Theaterstück „META MORFOSS“ von Peter Hacks (Altersempfehlung ab 5 Jahren). Haus IV, Zufahrt über Nikolai-Rumjanzew-Str., rechte Seite vor dem Krankenhaus."
-  }},{
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.3020738,
+      51.3177763
+    ]
+  }
+},{
   "type": "Feature",
   "properties": {
     "id": 26,
@@ -1269,7 +1316,7 @@
     ]
   }
 },{
-    "type": "Feature",
+  "type": "Feature",
   "properties": {
     "id": 29,
     "bezirk": "Markkleeberg-Ost",
@@ -1308,46 +1355,16 @@
     "train_distance": 214,
     "short_distance": 1,
     "rss_beschreibung": "Adventsmarkt mit Bastelstrecke, Essen & Trinken. Kindertheater, Führungen in der Kirchenruine und ab 18 Uhr weihnachtliches Konzert. "
-  }},{
-    "id": 30,
-    "bezirk": "Großpösna",
-    "name": "Wichtelmarkt",
-    "shortname": "Wichtelmarkt",
-    "strasse": "Im Rittergut 1",
-    "plz_ort": "04463 Großpösna",
-    "von": "29.11.25",
-    "bis": "29.11.25",
-    "veranstalter": "Bürger- und Vereinshaus Großpösna/Rittergut",
-    "oeffnungszeiten": "15:00-21:00",
-    "email": null,
-    "w3": "https://www.grosspoesna.de/news/3774/1160384/kategorie/wichtelmarkt-gro%C3%9Fp%C3%B6sna.html",
-    "bemerkungen": "<a class='text-sm underline' target='blank' href='https://www.grosspoesna.de/news/3774/1160384/kategorie/wichtelmarkt-gro%C3%9Fp%C3%B6sna.html'>Offizielle Seite</a>",
-    "lat": 51.269111249999995,
-    "lng": 12.50240850118493,
-    "rss_titel": "Wichtelmarkt",
-    "rss_beschreibung": "Anstoß der Weihnachtspyramide mit musikalischer Umrahmung durch den Posaunenchor Großpösna, Wichtelmarkt mit Verkaufs- und Aktionsständen Plätzchen und Knüppelbrot backen sowie Besuch vom Weihnachtsmann, Lebendiger Adventkalender und Musik mit dem Posaunenchor Großpösna, Kleines Konzert mit der Schalmeienkapelle „Grün-Weiß“ 1950 Großpösna e.V., Kleines winterliches Stelldichein mit dem Chor Großpösna e.V.",
-    "immer-kostenlos": 1,
-    "barrierefrei": "unbekannt",
-    "Mo": 0,
-    "Di": 0,
-    "Mi": 0,
-    "Do": 0,
-    "Fr": 0,
-    "Sa": "15:00-21:00",
-    "So": 0,
-    "closed-exc": 0,
-    "hours-exc": 0,
-    "ignore": 0,
-    "merged": null,
-    "international": 0,
-    "action": 0,
-    "image": "rittergut_grosspoesna.jpg",
-    "urheberschaft": "<a href=\"https://commons.wikimedia.org/wiki/File:Grosspoesna_Herrenhaus.jpg\">Radler59, CC BY-SA 4.0</a>",
-    "train": "Bus 75 bis 'Großpösna, Brauteich'",
-    "train_distance": 47,
-    "short_distance": 1
-  },{
-      "type": "Feature",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.430313577910052,
+      51.27533665
+    ]
+  }
+},{
+  "type": "Feature",
   "properties": {
     "id": 31,
     "bezirk": "Erdmannshain",
@@ -1386,7 +1403,15 @@
     "train": "RB110 bis Naunhof",
     "train_distance": 368,
     "short_distance": 1
-  }},{
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.5937703,
+      51.2800429
+    ]
+  }
+},{
   "type": "Feature",
   "properties": {
     "id": 33,
@@ -1486,7 +1511,7 @@
     ]
   }
 },{
-    "type": "Feature",
+  "type": "Feature",
   "properties": {
     "id": 36,
     "bezirk": "Pauschwitz",
@@ -1526,8 +1551,16 @@
     "train": "Bus 693 bis 'Trebsen (Mulde), Markt'",
     "train_distance": 354,
     "short_distance": 1
-  }},{
-      "type": "Feature",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.757395843456795,
+      51.291175100000004
+    ]
+  }
+},{
+  "type": "Feature",
   "properties": {
     "id": 37,
     "bezirk": "Hayna",
@@ -1566,8 +1599,16 @@
     "train_distance": 0,
     "short_distance": 1,
     "rss_beschreibung": "Weihnachten, wie wir es heute als Familienfest kennen, wurde praktisch im Biedermeier erfunden. Erfindungen wie der Adventskranz, die Christbaumkugel oder der Schokoladenweihnachtsmann wurden damals gemacht. Natürlich darf somit ein historisch inspirierter Weihnachtsmarkt am Biedermeierstrand nicht fehlen. An Marktständen, die in liebevoller Handarbeit angefertigte Accessoires, Kleidung, Bio-Produkte, Schmuck oder Weihnachtsdekoration von Kleinstbetrieben und Privatpersonen der Region anbieten, kann geschlemmt, geschaut und Weihnachtseinkäufe erledigt werden. Untermalt wird das Ambiente von weihnachtlicher Chormusik und der vielleicht größten Weihnachtspyramide der Region. Kulinarische Köstlichkeiten von Glühwein bis Weihnachtseis verwöhnen dabei den Gaumen der Gäste."
-  }},{
-      "type": "Feature",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.323037893857437,
+      51.43051905
+    ]
+  }
+},{
+  "type": "Feature",
   "properties": {
     "id": 38,
     "bezirk": "Reudnitz-Thonberg",
@@ -1606,8 +1647,16 @@
     "train_distance": 453,
     "short_distance": 0,
     "rss_beschreibung": "Im Lene-Voigt-Park (Höhe Heinrichstr.) lädt der Mühlstraße 14 e.V. mit Geschenke-Angeln, Spiel und Bewegung, Stockbrot und einer Tombola ein. Natürlich fehlt das Weihnachtssingen und die MiniWeihnachtswerkstatt nicht!"
-  }},{
-      "type": "Feature",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.400011451909961,
+      51.334448917348084
+    ]
+  }
+},{
+  "type": "Feature",
   "properties": {
     "id": 39,
     "bezirk": null,
@@ -1647,7 +1696,15 @@
     "train": "S3 bis 'Machern (Sachs)'",
     "train_distance": 752,
     "short_distance": 0
-  }},{
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.631030438422616,
+      51.36103885
+    ]
+  }
+},{
   "type": "Feature",
   "properties": {
     "id": 40,
@@ -1746,7 +1803,7 @@
     ]
   }
 },{
-    "type": "Feature",
+  "type": "Feature",
   "properties": {
     "id": 42,
     "bezirk": "Stötteritz",
@@ -1786,8 +1843,16 @@
     "train_distance": 451,
     "short_distance": 1,
     "rss_beschreibung": ""
-  }},{
-      "type": "Feature",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.423261107950479,
+      51.32194455
+    ]
+  }
+},{
+  "type": "Feature",
   "properties": {
     "id": 45,
     "bezirk": null,
@@ -1827,7 +1892,15 @@
     "train_distance": 1300,
     "short_distance": 0,
     "rss_beschreibung": "Am 3. Adventwochenende vom 12. bis 14. Dezember findet unser 5. Graßdorfer Weihnachtsmarkt auf dem Hof statt. Genießen Sie einen unserer leckeren Glühweine in verschiedenen Sorten oder unsere hausgemachte Feuerzangenbowle und stillen Sie Ihren Appetit mit einem kleinen Snack auf unserem Hof. Eine gute Möglichkeit zur Pause auf einer kleinen vorweihnachtlichen Spazierrunde oder eine willkommene Gelegenheit, sich mit Freunden auf ein kleines Heißgetränk zu treffen. Wir legen viel Wert auf Handwerkskunst und Familien. Weil wir nicht nur unser Restaurantangebot vorrangig regional beziehen, sondern eben auch unseren Weihnachtsmarkt durch Regionalität prägen möchten, haben wir vorrangig lokale Anbieter eingeladen."
-  }},{
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.488752999999999,
+      51.388350450000004
+    ]
+  }
+},{
   "type": "Feature",
   "properties": {
     "id": 47,
@@ -1877,7 +1950,7 @@
     ]
   }
 },{
-    "type": "Feature",
+  "type": "Feature",
   "properties": {
     "id": 48,
     "bezirk": "Paunsdorf",
@@ -1917,8 +1990,16 @@
     "train_distance": 280,
     "short_distance": 1,
     "rss_beschreibung": "Ab dem 20. November öffnet wieder unser Winterdorf auf dem Außengelände vor Eingang 1 – und mit ihm eine der beliebtesten Attraktionen der Saison: die 1000 Quadratmeter große Freiluft-Eisbahn."
-  }},{
-      "type": "Feature",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.477865158631062,
+      51.34860449999999
+    ]
+  }
+},{
+  "type": "Feature",
   "properties": {
     "id": 49,
     "bezirk": "Böhlitz-Ehrenberg",
@@ -1958,8 +2039,16 @@
     "train": "Straßenbahn 7 bis 'Burghausenerstr'",
     "train_distance": 100,
     "short_distance": 1
-  }},{
-      "type": "Feature",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.250375386441817,
+      51.327565576661755
+    ]
+  }
+},{
+  "type": "Feature",
   "properties": {
     "id": 50,
     "bezirk": "Podelwitz",
@@ -1999,7 +2088,15 @@
     "train": "Bus 621 bis 'Hauptstr, Podelwitz'",
     "train_distance": 347,
     "short_distance": 1
-  }},{
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.834418668118957,
+      51.152758649999996
+    ]
+  }
+},{
   "type": "Feature",
   "properties": {
     "id": 54,
@@ -2147,7 +2244,7 @@
     ]
   }
 },{
-    "type": "Feature",
+  "type": "Feature",
   "properties": {
     "id": 62,
     "bezirk": "Altscherbitz",
@@ -2187,46 +2284,15 @@
     "train_distance": 427,
     "short_distance": 1,
     "rss_beschreibung": "Zum 9. Adventsmarkt in der art Kapella Schkeuditz gibt es wieder Grafiken, Malerei, Strick. Deko, Gestecke, Marmeladen, Gebäck und einen Trödelstand. Bratwurst, Fettbemme, Glühwein, Apfelpunsch, Kaffee, Stolle und mehr laden zum Verweilen und lauschen ein. Konzert der \"Angel's Share\" - irish keltisch Folk / 14 Uhr / Eintritt: frei"
-  }},{
-    "id": 64,
-    "bezirk": "Zentrum-Süd",
-    "name": "Adventmarkt Drei der Münze",
-    "shortname": "Adventmarkt Drei der Münze",
-    "strasse": "Münzgasse 28",
-    "plz_ort": "04107 Leipzig",
-    "von": "07.12.25",
-    "bis": "07.12.25",
-    "veranstalter": "Drei der Münze",
-    "oeffnungszeiten": "12:00-18:00",
-    "email": null,
-    "w3": "https://www.instagram.com/dreidermuenze/",
-    "bemerkungen": "<a class='text-sm underline' target='blank' href='https://imginn.com/p/DQ9hjk0jXq0/'>Offizielle Seite</a>",
-    "lat": 51.3317033,
-    "lng": 12.372008911530216,
-    "rss_titel": "Adventmarkt Drei der Münze",
-    "immer-kostenlos": 1,
-    "Mo": 0,
-    "Di": 0,
-    "Mi": 0,
-    "Do": 0,
-    "Fr": 0,
-    "Sa": 0,
-    "So": "12:00-18:00",
-    "closed-exc": 0,
-    "closed-exc-readable": null,
-    "hours-exc": 0,
-    "hours-exc-readable": null,
-    "ignore": 0,
-    "merged": null,
-    "international": 0,
-    "action": 0,
-    "image": "drei_der_muenze.jpg",
-    "urheberschaft": "Jörg Reichert, CC BY-SA 4.0",
-    "train": "Straßenbahn 10 oder 11 bis 'Münzgasse'",
-    "train_distance": 256,
-    "short_distance": 1,
-    "rss_beschreibung": "Die erste Kerze wollen wir mit euch anzünden - kommt zu unserem Adventmarkt und lasst euch einstimmen Am 1. Dezember von 12-20 Uhr liefern wir euch Arts&Crafts, Glühwein, Pizza von @pizza_tizio Japanisches Streetfood von @yabai.leipzig, hot Cocktails, Kaffee und Kuchen und vieles mehr! "
-  },{
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.215018057719163,
+      51.39498348457599
+    ]
+  }
+},{
   "type": "Feature",
   "properties": {
     "id": 65,
@@ -2276,7 +2342,7 @@
     ]
   }
 },{
-    "type": "Feature",
+  "type": "Feature",
   "properties": {
     "id": 67,
     "bezirk": "Zentrum",
@@ -2316,9 +2382,16 @@
     "train_distance": 72,
     "short_distance": 1,
     "rss_beschreibung": "Die Tradition des Leipziger Weihnachtsmarktes reicht bis in das Jahr 1458 zurück, womit er der zweitälteste in Deutschland ist. Aufgrund seines einzigartigen kulturellen und kulinarischen Angebotes in der fußgängerfreundlichen, illuminierten Innenstadt hat er sich einen legendären Ruf erworben. Umrahmt wird das weihnachtliche Warenangebot von Höhepunkten wie den Orgelmusiken und Aufführungen des Weihnachtsoratoriums von Johann Sebastian Bach in den Leipziger Kirchen, den Turmbläserauftritten auf dem Turm des Alten Rathauses, der Weihnachtsshow des Krystallpalast Varietés und nicht zuletzt dem Märchenwald und der Weihnachtsmannsprechstunde."
-}},
-  {
-      "type": "Feature",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.37565282789842,
+      51.34011925
+    ]
+  }
+},{
+  "type": "Feature",
   "properties": {
     "id": 68,
     "bezirk": "Zentrum",
@@ -2358,9 +2431,16 @@
     "train_distance": 20,
     "short_distance": 1,
     "rss_beschreibung": "Die Tradition des Leipziger Weihnachtsmarktes reicht bis in das Jahr 1458 zurück, womit er der zweitälteste in Deutschland ist. Aufgrund seines einzigartigen kulturellen und kulinarischen Angebotes in der fußgängerfreundlichen, illuminierten Innenstadt hat er sich einen legendären Ruf erworben. Umrahmt wird das weihnachtliche Warenangebot von Höhepunkten wie den Orgelmusiken und Aufführungen des Weihnachtsoratoriums von Johann Sebastian Bach in den Leipziger Kirchen, den Turmbläserauftritten auf dem Turm des Alten Rathauses, der Weihnachtsshow des Krystallpalast Varietés und nicht zuletzt dem Märchenwald und der Weihnachtsmannsprechstunde."
-  }},
-  {
-      "type": "Feature",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.381041279883647,
+      51.34011925
+    ]
+  }
+},{
+  "type": "Feature",
   "properties": {
     "id": 69,
     "bezirk": "Zentrum",
@@ -2400,9 +2480,16 @@
     "train_distance": 20,
     "short_distance": 1,
     "rss_beschreibung": "Die Tradition des Leipziger Weihnachtsmarktes reicht bis in das Jahr 1458 zurück, womit er der zweitälteste in Deutschland ist. Aufgrund seines einzigartigen kulturellen und kulinarischen Angebotes in der fußgängerfreundlichen, illuminierten Innenstadt hat er sich einen legendären Ruf erworben. Umrahmt wird das weihnachtliche Warenangebot von Höhepunkten wie den Orgelmusiken und Aufführungen des Weihnachtsoratoriums von Johann Sebastian Bach in den Leipziger Kirchen, den Turmbläserauftritten auf dem Turm des Alten Rathauses, der Weihnachtsshow des Krystallpalast Varietés und nicht zuletzt dem Märchenwald und der Weihnachtsmannsprechstunde."
-  }},
-  {
-      "type": "Feature",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.380828370494555,
+      51.338716300226906
+    ]
+  }
+},{
+  "type": "Feature",
   "properties": {
     "id": 70,
     "bezirk": "Zentrum",
@@ -2442,9 +2529,16 @@
     "train_distance": 20,
     "short_distance": 1,
     "rss_beschreibung": "Die Tradition des Leipziger Weihnachtsmarktes reicht bis in das Jahr 1458 zurück, womit er der zweitälteste in Deutschland ist. Aufgrund seines einzigartigen kulturellen und kulinarischen Angebotes in der fußgängerfreundlichen, illuminierten Innenstadt hat er sich einen legendären Ruf erworben. Umrahmt wird das weihnachtliche Warenangebot von Höhepunkten wie den Orgelmusiken und Aufführungen des Weihnachtsoratoriums von Johann Sebastian Bach in den Leipziger Kirchen, den Turmbläserauftritten auf dem Turm des Alten Rathauses, der Weihnachtsshow des Krystallpalast Varietés und nicht zuletzt dem Märchenwald und der Weihnachtsmannsprechstunde."
-  }},
-  {
-      "type": "Feature",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.379759298142602,
+      51.33873825087565
+    ]
+  }
+},{
+  "type": "Feature",
   "properties": {
     "id": 71,
     "bezirk": "Zentrum",
@@ -2484,8 +2578,16 @@
     "train": "S1, S2, S3, S4, S5, S5X und S6 bis 'Wilhelm-Leuschner-Platz'",
     "train_distance": 20,
     "short_distance": 1
-  }},{
-      "type": "Feature",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.37318048186259,
+      51.33702095731854
+    ]
+  }
+},{
+  "type": "Feature",
   "properties": {
     "id": 76,
     "bezirk": "Volkmarsdorf",
@@ -2526,8 +2628,16 @@
     "train": "Straßenbahn 7 bis 'Sellerhausen / Emmaustraße'",
     "train_distance": 89,
     "short_distance": 1
-  }},{
-      "type": "Feature",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.427336693200154,
+      51.34325225
+    ]
+  }
+},{
+  "type": "Feature",
   "properties": {
     "id": 77,
     "bezirk": "Leutzsch",
@@ -2568,7 +2678,15 @@
     "train": "S1 oder Bus 80 bis 'Leipzig Leutzsch' bzw. 'Am Viadukt'",
     "train_distance": 769,
     "short_distance": 0
-  }},{
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.307036511832258,
+      51.35940785
+    ]
+  }
+},{
   "type": "Feature",
   "properties": {
     "id": 87,
@@ -2616,7 +2734,7 @@
     ]
   }
 },{
-    "type": "Feature",
+  "type": "Feature",
   "properties": {
     "id": 88,
     "bezirk": "Leutzsch",
@@ -2653,46 +2771,15 @@
     "train": "Bus 80 bis \"Am Sportpark\"",
     "train_distance": 71,
     "short_distance": 1
-  }},{
-    "id": 89,
-    "bezirk": "Wahren",
-    "name": "Veganer Weihnachtsmarkt Pittlerwerke",
-    "shortname": "Weihnachtsmarkt Pittlerwerke",
-    "strasse": "Polyphonstr. 8",
-    "plz_ort": "04159 Leipzig",
-    "von": "13.12.25",
-    "bis": "14.12.25",
-    "veranstalter": "Pittlerwerke open air",
-    "oeffnungszeiten": "12:00-21:00",
-    "email": null,
-    "w3": "https://www.pittlerwerke.org/event/vegan-festival-leipzig-winter",
-    "bemerkungen": "<a class='text-sm underline' target='blank' href='https://www.pittlerwerke.org/event/vegan-festival-leipzig-winter'>Offizielle Seite</a>",
-    "lat": 51.37813989490391,
-    "lng": 12.315551255306474,
-    "rss_titel": "Weihnachtsmarkt",
-    "rss_beschreibung": "Erinnert ihr Euch noch an unser wunderbares Vegan Summer Festival? Hier kommt jetzt die Winteredition für Euch – am 14. und 15. Dezember laden wir euch herzlich zum Veganen Weihnachtsmarkt im WUEST ein! Freut euch auf zwei Tage voller festlicher Atmosphäre, leckeren veganen Köstlichkeiten und nachhaltigen Geschenkideen. Es wird gemütlich, es wird lecker, es wird weihnachtlich und natürlich alles VEGAN!",
-    "immer-kostenlos": 1,
-    "Mo": 0,
-    "Di": 0,
-    "Mi": 0,
-    "Do": 0,
-    "Fr": 0,
-    "Sa": "12:00-22:00",
-    "So": "12:00-20:00",
-    "closed-exc": 0,
-    "closed-exc-readable": null,
-    "hours-exc": "14.12.25=12:00-20:00",
-    "hours-exc-readable": null,
-    "ignore": 0,
-    "merged": null,
-    "international": 0,
-    "action": 0,
-    "image": null,
-    "urheberschaft": null,
-    "train": "Straßenbahn 11 bis \"Wahren (Rathaus)\"",
-    "train_distance": 997,
-    "short_distance": 0
-  },{
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.313838432762196,
+      51.357568349999994
+    ]
+  }
+},{
   "type": "Feature",
   "properties": {
     "id": 90,
@@ -2741,7 +2828,7 @@
     ]
   }
 },{
-    "type": "Feature",
+  "type": "Feature",
   "properties": {
     "id": 99,
     "bezirk": "Zentrum-Süd",
@@ -2779,7 +2866,15 @@
     "train": "Straßenbahn 8, 9 oder 14 bis \"Neues Rathaus\"",
     "train_distance": 429,
     "short_distance": 0
-  }},{
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.367862729319143,
+      51.33338583266172
+    ]
+  }
+},{
   "type": "Feature",
   "properties": {
     "id": 100,
