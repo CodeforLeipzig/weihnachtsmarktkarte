@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Hafenweihnacht
+X-WR-CALNAME:Hafenweihnacht
+BEGIN:VEVENT
+UID:593d4ecb-fb24-4f3c-9b62-4077b44f92a7
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251207T123000Z
+DTEND:20251207T225900Z
+SUMMARY:Hafenweihnacht
+LOCATION:An der Mole 1\, 04442 Zwenkau
+URL;VALUE=URI:https://www.zwenkauer-see.com/termine/detail/hafenweihnacht-
+ 141/
+END:VEVENT
+END:VCALENDAR

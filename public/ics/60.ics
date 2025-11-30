@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Adventsmarkt Gnadenkirche
+X-WR-CALNAME:Adventsmarkt Gnadenkirche
+BEGIN:VEVENT
+UID:70744ae7-7366-4d19-8369-5bf1bf7fd156
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251130T110000Z
+DTEND:20251130T160000Z
+SUMMARY:Adventsmarkt Gnadenkirche
+LOCATION:Opferweg\, 04159 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/adventsmarkt-in-wahren
+END:VEVENT
+END:VCALENDAR

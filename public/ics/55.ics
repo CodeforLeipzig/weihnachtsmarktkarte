@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:TV-Club Weihnachtsmarkt
+X-WR-CALNAME:TV-Club Weihnachtsmarkt
+BEGIN:VEVENT
+UID:6747e5eb-53a0-403d-82f5-0f30bbfe9fb8
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251207T100000Z
+DTEND:20251207T190000Z
+SUMMARY:TV-Club Weihnachtsmarkt
+LOCATION:Theresienstr. 2\, 04105 Leipzig
+URL;VALUE=URI:https://www.tv-club-leipzig.de/weihnachtlich-winterlicher-fl
+ oh-und-pflanzenmarkt-am-07-12-2025/
+END:VEVENT
+END:VCALENDAR

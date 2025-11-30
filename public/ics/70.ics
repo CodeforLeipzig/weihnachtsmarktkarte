@@ -1,0 +1,326 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Südtiroler Dorf
+X-WR-CALNAME:Südtiroler Dorf
+BEGIN:VEVENT
+UID:4d700c5a-d0ff-4276-8511-1ef960bd1865
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251125T090000Z
+DTEND:20251125T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:062cf20d-ada6-4b07-a876-1473bb7be178
+SEQUENCE:1
+DTSTAMP:20251130T205733Z
+DTSTART:20251126T090000Z
+DTEND:20251126T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:642d2384-956d-43bf-be09-216aa5d4f268
+SEQUENCE:2
+DTSTAMP:20251130T205733Z
+DTSTART:20251127T090000Z
+DTEND:20251127T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:a4591ad7-fb0a-4d76-b41b-6fb17902fb23
+SEQUENCE:3
+DTSTAMP:20251130T205733Z
+DTSTART:20251128T090000Z
+DTEND:20251128T210000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:ccec16d1-d2cc-4a8f-b1be-3a53e7cb7474
+SEQUENCE:4
+DTSTAMP:20251130T205733Z
+DTSTART:20251129T090000Z
+DTEND:20251129T210000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:691bd1da-087d-4532-8d20-afcb2cba5bbe
+SEQUENCE:5
+DTSTAMP:20251130T205733Z
+DTSTART:20251130T090000Z
+DTEND:20251130T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:33d2dfc8-63e4-4a29-a644-b62bdbad0560
+SEQUENCE:6
+DTSTAMP:20251130T205733Z
+DTSTART:20251201T090000Z
+DTEND:20251201T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:d97c1ef7-375b-4cbc-b61e-9b46e0d4253e
+SEQUENCE:7
+DTSTAMP:20251130T205733Z
+DTSTART:20251202T090000Z
+DTEND:20251202T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:824a0db9-cf6d-44a6-8733-875a62cebb82
+SEQUENCE:8
+DTSTAMP:20251130T205733Z
+DTSTART:20251203T090000Z
+DTEND:20251203T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:90db2a16-b04c-4b4b-a8c3-c5db3eed2f9a
+SEQUENCE:9
+DTSTAMP:20251130T205733Z
+DTSTART:20251204T090000Z
+DTEND:20251204T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:5697c473-6696-4826-a14a-2c1e48279ce8
+SEQUENCE:10
+DTSTAMP:20251130T205733Z
+DTSTART:20251205T090000Z
+DTEND:20251205T210000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:44822db0-d7b7-44cc-ad1a-680b78be24c7
+SEQUENCE:11
+DTSTAMP:20251130T205733Z
+DTSTART:20251206T090000Z
+DTEND:20251206T210000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:55e1b8e6-dbba-41ca-8900-ae6cdd852de6
+SEQUENCE:12
+DTSTAMP:20251130T205733Z
+DTSTART:20251207T090000Z
+DTEND:20251207T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:cfee823a-ddb0-453b-b0f4-e5c2f1018654
+SEQUENCE:13
+DTSTAMP:20251130T205733Z
+DTSTART:20251208T090000Z
+DTEND:20251208T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:bebbf5e6-f3c7-4851-86c0-ec18ea0f82ff
+SEQUENCE:14
+DTSTAMP:20251130T205733Z
+DTSTART:20251209T090000Z
+DTEND:20251209T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:c168f00f-1650-4618-b4d9-df9dcbe27182
+SEQUENCE:15
+DTSTAMP:20251130T205733Z
+DTSTART:20251210T090000Z
+DTEND:20251210T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:d2d1cb3a-c806-4165-a374-ff3500529607
+SEQUENCE:16
+DTSTAMP:20251130T205733Z
+DTSTART:20251211T090000Z
+DTEND:20251211T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:253867a1-d161-423d-b80e-a055443a6b1b
+SEQUENCE:17
+DTSTAMP:20251130T205733Z
+DTSTART:20251212T090000Z
+DTEND:20251212T210000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:c60a0b34-c62e-4233-a62b-57ad9e15eb89
+SEQUENCE:18
+DTSTAMP:20251130T205733Z
+DTSTART:20251213T090000Z
+DTEND:20251213T210000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:58337ad7-f369-4090-acda-9555c040e413
+SEQUENCE:19
+DTSTAMP:20251130T205733Z
+DTSTART:20251214T090000Z
+DTEND:20251214T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:bed1823d-fe27-4cf4-97ea-14d1193144f3
+SEQUENCE:20
+DTSTAMP:20251130T205733Z
+DTSTART:20251215T090000Z
+DTEND:20251215T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:8c70582a-4753-4fcf-b61d-a5666b630728
+SEQUENCE:21
+DTSTAMP:20251130T205733Z
+DTSTART:20251216T090000Z
+DTEND:20251216T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:322926b2-7557-46f8-aaff-750e4123c13c
+SEQUENCE:22
+DTSTAMP:20251130T205733Z
+DTSTART:20251217T090000Z
+DTEND:20251217T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:f313489b-04e0-4ff2-9e08-d0cc9140b314
+SEQUENCE:23
+DTSTAMP:20251130T205733Z
+DTSTART:20251218T090000Z
+DTEND:20251218T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:6f51aa09-68a2-4b48-92ff-7afd50eca8e7
+SEQUENCE:24
+DTSTAMP:20251130T205733Z
+DTSTART:20251219T090000Z
+DTEND:20251219T210000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:237422d7-e109-4ad0-8763-32639dce1f27
+SEQUENCE:25
+DTSTAMP:20251130T205733Z
+DTSTART:20251220T090000Z
+DTEND:20251220T210000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:17b5a6d3-47c4-4321-acbc-dd391842dc81
+SEQUENCE:26
+DTSTAMP:20251130T205733Z
+DTSTART:20251221T090000Z
+DTEND:20251221T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:20ece6e9-6622-43b9-8f87-154c65b2923e
+SEQUENCE:27
+DTSTAMP:20251130T205733Z
+DTSTART:20251222T090000Z
+DTEND:20251222T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:770d51f0-88c5-4530-b900-2b2594c937ec
+SEQUENCE:28
+DTSTAMP:20251130T205733Z
+DTSTART:20251223T090000Z
+DTEND:20251223T200000Z
+SUMMARY:Südtiroler Dorf
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
+END:VEVENT
+END:VCALENDAR

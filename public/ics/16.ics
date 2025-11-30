@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Alternativer Adventsmarkt
+X-WR-CALNAME:Alternativer Adventsmarkt
+BEGIN:VEVENT
+UID:29401598-5da3-4f73-8e47-915cd0acf367
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251206T130000Z
+DTEND:20251206T170000Z
+SUMMARY:Alternativer Adventsmarkt
+LOCATION:Weißenfelser Straße 16\, 04229 Leipzig
+URL;VALUE=URI:https://www.kirche-lindenau-plagwitz.de/event/alternativer-a
+ dventsmarkt-2025
+END:VEVENT
+END:VCALENDAR

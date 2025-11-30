@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Antifaschistischer Wintermarkt
+X-WR-CALNAME:Antifaschistischer Wintermarkt
+BEGIN:VEVENT
+UID:2987cd94-c55d-428e-88fa-b333769bbd6c
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251213T110000Z
+DTEND:20251213T170000Z
+SUMMARY:Antifaschistischer Wintermarkt
+LOCATION:Georg-Schwarz-Straße 3\, 04177 Leipzig
+URL;VALUE=URI:https://www.instagram.com/p/DQ2bzPSiFmC/
+END:VEVENT
+END:VCALENDAR

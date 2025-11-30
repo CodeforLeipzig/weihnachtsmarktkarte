@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:biocity Leipzig
+X-WR-CALNAME:biocity Leipzig
+BEGIN:VEVENT
+UID:bd1040f9-c53a-4a07-b3ca-509a84c9cc05
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251202T110000Z
+DTEND:20251202T143000Z
+SUMMARY:biocity Leipzig
+LOCATION:Deutscher Platz 5\, 04103 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachtsmarkt-in-der-bio-city
+END:VEVENT
+END:VCALENDAR

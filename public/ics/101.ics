@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Kunst- und Gewerbehof HP7
+X-WR-CALNAME:Kunst- und Gewerbehof HP7
+BEGIN:VEVENT
+UID:f6b71932-6325-4715-9108-178fa49dc2f3
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251129T130000Z
+DTEND:20251129T190000Z
+SUMMARY:Kunst- und Gewerbehof HP7
+LOCATION:Hans-Poeche-Straße 7\, 04103 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/hp7-weihnachts-kunst-designmarkt-kunst-gewerbehof-hp7
+END:VEVENT
+END:VCALENDAR

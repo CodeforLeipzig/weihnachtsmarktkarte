@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Schlossweihnacht in Podelwitz
+X-WR-CALNAME:Schlossweihnacht in Podelwitz
+BEGIN:VEVENT
+UID:8edd25e8-3f78-4955-a45f-c4328594f454
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251129T090000Z
+DTEND:20251129T180000Z
+SUMMARY:Schlossweihnacht in Podelwitz
+LOCATION:Am Schloss 4\, 04680 Colditz
+URL;VALUE=URI:https://www.wasserschloss-podelwitz.de/veranstaltungen/24861
+ 91/2024/11/30/schlossweihnacht.html
+END:VEVENT
+BEGIN:VEVENT
+UID:afba6bf6-662c-4ff1-89af-c5d0503e8918
+SEQUENCE:1
+DTSTAMP:20251130T205733Z
+DTSTART:20251130T090000Z
+DTEND:20251130T180000Z
+SUMMARY:Schlossweihnacht in Podelwitz
+LOCATION:Am Schloss 4\, 04680 Colditz
+URL;VALUE=URI:https://www.wasserschloss-podelwitz.de/veranstaltungen/24861
+ 91/2024/11/30/schlossweihnacht.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Sellerhäuser Adventslicht
+X-WR-CALNAME:Sellerhäuser Adventslicht
+BEGIN:VEVENT
+UID:74a95fc6-5a32-414c-9fac-92cb0f3b7247
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251207T130000Z
+DTEND:20251207T160000Z
+SUMMARY:Sellerhäuser Adventslicht
+LOCATION:Wurzner Straße 160\, 04318 Leipzig
+URL;VALUE=URI:https://www.kirchspiel-leipzig.de/aktuelles/veranstaltungen-
+ 2/
+END:VEVENT
+END:VCALENDAR

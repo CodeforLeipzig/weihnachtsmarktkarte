@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Adventsmarkt Kees'scher Park
+X-WR-CALNAME:Adventsmarkt Kees'scher Park
+BEGIN:VEVENT
+UID:cab87463-6292-4822-ae4a-dc923c63fe4c
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251130T100000Z
+DTEND:20251130T170000Z
+SUMMARY:Adventsmarkt Kees'scher Park
+LOCATION:Kees'scher Park 1\, 04416 Markkleeberg
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/advent-im-park
+END:VEVENT
+END:VCALENDAR

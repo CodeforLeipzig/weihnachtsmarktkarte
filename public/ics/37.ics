@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Viktorianischer Weihnachtsmarkt
+X-WR-CALNAME:Viktorianischer Weihnachtsmarkt
+BEGIN:VEVENT
+UID:88485982-e5cc-462f-92d9-3973571add97
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251206T120000Z
+DTEND:20251206T170000Z
+SUMMARY:Viktorianischer Weihnachtsmarkt
+LOCATION:Zum Biedermeierstrand\, 04435 Schkeuditz
+URL;VALUE=URI:https://biedermeierstrand.de/a-victorian-christmas-br-6-12-2
+ 025-ab-13-uhr/
+END:VEVENT
+END:VCALENDAR

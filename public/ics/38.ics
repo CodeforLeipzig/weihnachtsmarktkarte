@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Mit-Mach-Weihnachtsmarkt
+X-WR-CALNAME:Mit-Mach-Weihnachtsmarkt
+BEGIN:VEVENT
+UID:7d3080ab-7312-4fe3-a204-2dd074c7c829
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251207T130000Z
+DTEND:20251207T180000Z
+SUMMARY:Mit-Mach-Weihnachtsmarkt
+LOCATION:Lene-Voigt-Park (Höhe Heinrichstr.)\, 04317 Leipzig
+URL;VALUE=URI:https://www.muehlstrasse.de/fileadmin/muehlstrasse/user_uplo
+ ad/fotos/Projekte/Dezember_Muehle_14_kurz.pdf
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Advent unterm Ginkgobaum: Kulturweihnachtsmarkt
+X-WR-CALNAME:Advent unterm Ginkgobaum: Kulturweihnachtsmarkt
+BEGIN:VEVENT
+UID:fb4d6801-4999-4a2f-9131-fab0898251c4
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251212T140000Z
+DTEND:20251212T190000Z
+SUMMARY:Advent unterm Ginkgobaum: Kulturweihnachtsmarkt
+LOCATION:Lützowstraße 19\, 04157 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/advent-unterm-ginkgobaum-kulturweihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:862a4e54-dcc6-4719-9940-885b25bdfebe
+SEQUENCE:1
+DTSTAMP:20251130T205733Z
+DTSTART:20251213T140000Z
+DTEND:20251213T190000Z
+SUMMARY:Advent unterm Ginkgobaum: Kulturweihnachtsmarkt
+LOCATION:Lützowstraße 19\, 04157 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/advent-unterm-ginkgobaum-kulturweihnachtsmarkt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ed076ade-5863-4176-9e29-aad0e3e4d55b
+SEQUENCE:2
+DTSTAMP:20251130T205733Z
+DTSTART:20251214T140000Z
+DTEND:20251214T170000Z
+SUMMARY:Advent unterm Ginkgobaum: Kulturweihnachtsmarkt
+LOCATION:Lützowstraße 19\, 04157 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/advent-unterm-ginkgobaum-kulturweihnachtsmarkt-2
+END:VEVENT
+END:VCALENDAR

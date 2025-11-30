@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Weihnachtsmarkt Markkleeberg
+X-WR-CALNAME:Weihnachtsmarkt Markkleeberg
+BEGIN:VEVENT
+UID:630c8dd6-67da-44e7-86c6-72cb494ddd4b
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251212T160000Z
+DTEND:20251212T210000Z
+SUMMARY:Weihnachtsmarkt Markkleeberg
+LOCATION:Rathausplatz\, 04416 Markkleeberg
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachtsmarkt-rund-ums-eis
+END:VEVENT
+BEGIN:VEVENT
+UID:069977fa-e88b-4e03-a231-3e640dc4781a
+SEQUENCE:1
+DTSTAMP:20251130T205733Z
+DTSTART:20251213T110000Z
+DTEND:20251213T210000Z
+SUMMARY:Weihnachtsmarkt Markkleeberg
+LOCATION:Rathausplatz\, 04416 Markkleeberg
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachtsmarkt-rund-ums-eis
+END:VEVENT
+BEGIN:VEVENT
+UID:60a5aa22-4c87-4745-bb1e-47c665336a4d
+SEQUENCE:2
+DTSTAMP:20251130T205733Z
+DTSTART:20251214T110000Z
+DTEND:20251214T170000Z
+SUMMARY:Weihnachtsmarkt Markkleeberg
+LOCATION:Rathausplatz\, 04416 Markkleeberg
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachtsmarkt-rund-ums-eis
+END:VEVENT
+END:VCALENDAR

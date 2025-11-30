@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Adventmarkt Lützschena
+X-WR-CALNAME:Adventmarkt Lützschena
+BEGIN:VEVENT
+UID:44b73dff-8c70-4047-8dad-899df7152b68
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251214T130000Z
+DTEND:20251214T170000Z
+SUMMARY:Adventmarkt Lützschena
+LOCATION:Schloßweg 4\, 04159 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/adventsmarkt-an-der-schlosskirche-1
+END:VEVENT
+END:VCALENDAR

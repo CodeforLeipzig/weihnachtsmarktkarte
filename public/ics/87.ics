@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:OH-Supermarkt
+X-WR-CALNAME:OH-Supermarkt
+BEGIN:VEVENT
+UID:6f76b473-3f13-40d0-acfc-1e450de1f9b1
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251214T090000Z
+DTEND:20251214T160000Z
+SUMMARY:OH-Supermarkt
+LOCATION:Markranstädter Straße 8\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachtsmarkt-plagwitzer-markthalle
+END:VEVENT
+END:VCALENDAR

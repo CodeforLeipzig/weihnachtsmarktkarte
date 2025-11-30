@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Weihnachtsmarkt Böhlitz-Ehrenberg
+X-WR-CALNAME:Weihnachtsmarkt Böhlitz-Ehrenberg
+BEGIN:VEVENT
+UID:4f6f51f1-c461-450c-bde8-1f7b9f502d68
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251129T130000Z
+DTEND:20251129T190000Z
+SUMMARY:Weihnachtsmarkt Böhlitz-Ehrenberg
+LOCATION:Schönauer Landstraße 2A\, 04178 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachtsmarkt-boehlitz-ehrenberg-2
+END:VEVENT
+END:VCALENDAR

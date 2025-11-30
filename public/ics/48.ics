@@ -1,0 +1,523 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Winterdorf Paunsdorf
+X-WR-CALNAME:Winterdorf Paunsdorf
+BEGIN:VEVENT
+UID:05d76030-31fd-46cd-a157-2fb476b517cc
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251120T090000Z
+DTEND:20251120T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:64e04d0c-1019-412f-beca-4c6a433cbe46
+SEQUENCE:1
+DTSTAMP:20251130T205733Z
+DTSTART:20251121T090000Z
+DTEND:20251121T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:64eadd02-439a-4938-85da-2405cf2a574c
+SEQUENCE:2
+DTSTAMP:20251130T205733Z
+DTSTART:20251122T090000Z
+DTEND:20251122T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:0e17cb5a-093a-4f2f-aea4-29b92fd4324a
+SEQUENCE:3
+DTSTAMP:20251130T205733Z
+DTSTART:20251123T100000Z
+DTEND:20251123T180000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:eedc7936-05b8-4de5-b73f-77471e09871c
+SEQUENCE:4
+DTSTAMP:20251130T205733Z
+DTSTART:20251124T090000Z
+DTEND:20251124T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:2a1656d4-fb20-4f7c-9d0e-11f95acb2d84
+SEQUENCE:5
+DTSTAMP:20251130T205733Z
+DTSTART:20251125T090000Z
+DTEND:20251125T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:f388a90f-1128-4176-a0ef-c4f3a39a6032
+SEQUENCE:6
+DTSTAMP:20251130T205733Z
+DTSTART:20251126T090000Z
+DTEND:20251126T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:620f68ed-8890-484f-a523-948978c09461
+SEQUENCE:7
+DTSTAMP:20251130T205733Z
+DTSTART:20251127T090000Z
+DTEND:20251127T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:72598045-52ae-4144-a7a2-060809fc8b47
+SEQUENCE:8
+DTSTAMP:20251130T205733Z
+DTSTART:20251128T090000Z
+DTEND:20251128T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:356e3c05-b203-45e9-97c4-713556682ac0
+SEQUENCE:9
+DTSTAMP:20251130T205733Z
+DTSTART:20251129T090000Z
+DTEND:20251129T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:c17a6f3e-0f08-4720-916d-835d43efbea7
+SEQUENCE:10
+DTSTAMP:20251130T205733Z
+DTSTART:20251130T100000Z
+DTEND:20251130T180000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:0b84d827-fce9-473f-96ff-dc35baff4577
+SEQUENCE:11
+DTSTAMP:20251130T205733Z
+DTSTART:20251201T090000Z
+DTEND:20251201T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:17282495-a45e-4061-ad9b-ed0635961b5e
+SEQUENCE:12
+DTSTAMP:20251130T205733Z
+DTSTART:20251202T090000Z
+DTEND:20251202T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:c1d0109d-fc40-4d6b-95e8-297a38a4f15f
+SEQUENCE:13
+DTSTAMP:20251130T205733Z
+DTSTART:20251203T090000Z
+DTEND:20251203T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:e1759d21-abc7-4f4f-8f0b-3e28a01a7e75
+SEQUENCE:14
+DTSTAMP:20251130T205733Z
+DTSTART:20251204T090000Z
+DTEND:20251204T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:6acee041-a9e7-4476-8863-332813c5ef15
+SEQUENCE:15
+DTSTAMP:20251130T205733Z
+DTSTART:20251205T090000Z
+DTEND:20251205T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:3d9860c5-3249-4466-85a6-807d3fa5e98c
+SEQUENCE:16
+DTSTAMP:20251130T205733Z
+DTSTART:20251206T090000Z
+DTEND:20251206T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:06689247-161c-4ba4-8247-55573b611ad0
+SEQUENCE:17
+DTSTAMP:20251130T205733Z
+DTSTART:20251207T100000Z
+DTEND:20251207T180000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:6ff0e5fb-7202-40e1-932e-5e379e29a029
+SEQUENCE:18
+DTSTAMP:20251130T205733Z
+DTSTART:20251208T090000Z
+DTEND:20251208T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:050f56b5-9bc7-434e-aad4-9b1d4c00ea08
+SEQUENCE:19
+DTSTAMP:20251130T205733Z
+DTSTART:20251209T090000Z
+DTEND:20251209T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:ebbf68a6-a5f6-43a3-9e45-c7009d613981
+SEQUENCE:20
+DTSTAMP:20251130T205733Z
+DTSTART:20251210T090000Z
+DTEND:20251210T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:e737195e-d339-4057-93c7-c1875c94b16b
+SEQUENCE:21
+DTSTAMP:20251130T205733Z
+DTSTART:20251211T090000Z
+DTEND:20251211T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:e818ad26-2f30-4fc0-b8d4-f526841b8548
+SEQUENCE:22
+DTSTAMP:20251130T205733Z
+DTSTART:20251212T090000Z
+DTEND:20251212T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:bd71bcf2-5c1c-475e-bac9-211bf4555d4e
+SEQUENCE:23
+DTSTAMP:20251130T205733Z
+DTSTART:20251213T090000Z
+DTEND:20251213T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:a89181d0-6013-4d24-8cfa-47234427bccb
+SEQUENCE:24
+DTSTAMP:20251130T205733Z
+DTSTART:20251214T100000Z
+DTEND:20251214T180000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:9ddc8588-57dd-45e6-9bc5-a4c62445012c
+SEQUENCE:25
+DTSTAMP:20251130T205733Z
+DTSTART:20251215T090000Z
+DTEND:20251215T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:2d43289b-2b5c-45a5-8c46-bdce69ad2c9e
+SEQUENCE:26
+DTSTAMP:20251130T205733Z
+DTSTART:20251216T090000Z
+DTEND:20251216T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:e815ac39-e489-4c34-a0b4-84a733775b69
+SEQUENCE:27
+DTSTAMP:20251130T205733Z
+DTSTART:20251217T090000Z
+DTEND:20251217T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:0b326151-fd86-404d-91e0-f8cc43f55477
+SEQUENCE:28
+DTSTAMP:20251130T205733Z
+DTSTART:20251218T090000Z
+DTEND:20251218T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:d8445b42-76b5-4487-b909-9a393bb318c5
+SEQUENCE:29
+DTSTAMP:20251130T205733Z
+DTSTART:20251219T090000Z
+DTEND:20251219T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:78930f61-b911-4f22-9ad1-2a6f3844c22d
+SEQUENCE:30
+DTSTAMP:20251130T205733Z
+DTSTART:20251220T090000Z
+DTEND:20251220T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:a7d13bad-6819-4d06-a9cb-557a23866dae
+SEQUENCE:31
+DTSTAMP:20251130T205733Z
+DTSTART:20251221T100000Z
+DTEND:20251221T180000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:665738e2-39ab-46f4-bec2-5ba166775831
+SEQUENCE:32
+DTSTAMP:20251130T205733Z
+DTSTART:20251222T090000Z
+DTEND:20251222T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:129736a4-ebe0-425d-a55a-67fa8c6dde18
+SEQUENCE:33
+DTSTAMP:20251130T205733Z
+DTSTART:20251223T090000Z
+DTEND:20251223T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:c439aceb-3e8e-4ae5-b69e-a1b53e4e19f6
+SEQUENCE:34
+DTSTAMP:20251130T205733Z
+DTSTART:20251224T090000Z
+DTEND:20251224T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:e8a62dbc-04e8-45a1-9d9f-9889f0938529
+SEQUENCE:35
+DTSTAMP:20251130T205733Z
+DTSTART:20251225T090000Z
+DTEND:20251225T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:e5c00507-686f-41d6-acd4-fb9119171aff
+SEQUENCE:36
+DTSTAMP:20251130T205733Z
+DTSTART:20251226T090000Z
+DTEND:20251226T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:e26ff622-5aa0-432e-925e-f3f773e0dc1d
+SEQUENCE:37
+DTSTAMP:20251130T205733Z
+DTSTART:20251227T090000Z
+DTEND:20251227T210000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:209917e6-e5f9-4adb-987e-5aaf3ab4edaf
+SEQUENCE:38
+DTSTAMP:20251130T205733Z
+DTSTART:20251228T100000Z
+DTEND:20251228T180000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:0b2c2d2d-b2f8-4a32-aa85-36647cd51524
+SEQUENCE:39
+DTSTAMP:20251130T205733Z
+DTSTART:20251229T090000Z
+DTEND:20251229T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:51f2abf5-17d2-4b42-8e41-8ca84e3e7a45
+SEQUENCE:40
+DTSTAMP:20251130T205733Z
+DTSTART:20251230T090000Z
+DTEND:20251230T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:67e0cf93-debb-4942-ac3d-547a9a767749
+SEQUENCE:41
+DTSTAMP:20251130T205733Z
+DTSTART:20251231T090000Z
+DTEND:20251231T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+BEGIN:VEVENT
+UID:069712d5-d905-4cd6-b72e-aa565d791f0d
+SEQUENCE:42
+DTSTAMP:20251130T205733Z
+DTSTART:20260101T090000Z
+DTEND:20260101T190000Z
+SUMMARY:Winterdorf Paunsdorf
+LOCATION:Paunsdorfer Allee 1\, 04329 Leipzig
+URL;VALUE=URI:https://www.westfield.com/de/germany/paunsdorfcenter/news/wi
+ nterdorf-mit-grosser-freiluft-eisbahn-winterrutsche-and-kinderattraktionen
+ /132845
+END:VEVENT
+END:VCALENDAR

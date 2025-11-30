@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:WeihnARTsmarkt
+X-WR-CALNAME:WeihnARTsmarkt
+BEGIN:VEVENT
+UID:c6458869-bea5-4bad-99ee-39d0f756e2c4
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251129T100000Z
+DTEND:20251129T225900Z
+SUMMARY:WeihnARTsmarkt
+LOCATION:Lindenthaler Straße 61-65\, 04129 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnartsmarkt
+END:VEVENT
+END:VCALENDAR

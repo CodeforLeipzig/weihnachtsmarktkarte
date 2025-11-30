@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Schlossadvent in Trebsen
+X-WR-CALNAME:Schlossadvent in Trebsen
+BEGIN:VEVENT
+UID:3f6591cb-7494-4bcf-adcb-f46121d09889
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251129T100000Z
+DTEND:20251129T180000Z
+SUMMARY:Schlossadvent in Trebsen
+LOCATION:Zum Schloss 1\, 04687 Trebsen
+URL;VALUE=URI:https://www.schloss-trebsen.com/events/schlossadvent/
+END:VEVENT
+BEGIN:VEVENT
+UID:c12a375d-e91e-4bce-a074-43d3a486d270
+SEQUENCE:1
+DTSTAMP:20251130T205733Z
+DTSTART:20251130T100000Z
+DTEND:20251130T180000Z
+SUMMARY:Schlossadvent in Trebsen
+LOCATION:Zum Schloss 1\, 04687 Trebsen
+URL;VALUE=URI:https://www.schloss-trebsen.com/events/schlossadvent/
+END:VEVENT
+END:VCALENDAR

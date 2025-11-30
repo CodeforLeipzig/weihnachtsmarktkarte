@@ -1,0 +1,326 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Märchenwald
+X-WR-CALNAME:Märchenwald
+BEGIN:VEVENT
+UID:fb50b0c6-4dd4-43d9-bcdf-6a8e67741446
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251125T090000Z
+DTEND:20251125T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:3ef79004-87c4-410c-bf03-e6f21332c1cf
+SEQUENCE:1
+DTSTAMP:20251130T205733Z
+DTSTART:20251126T090000Z
+DTEND:20251126T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:47518509-2d0e-457b-9c11-60a0c755e1d4
+SEQUENCE:2
+DTSTAMP:20251130T205733Z
+DTSTART:20251127T090000Z
+DTEND:20251127T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:098e1012-a490-45ab-863d-c356de8644f9
+SEQUENCE:3
+DTSTAMP:20251130T205733Z
+DTSTART:20251128T090000Z
+DTEND:20251128T210000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:67c64818-04ed-4416-b239-dc28fde19abe
+SEQUENCE:4
+DTSTAMP:20251130T205733Z
+DTSTART:20251129T090000Z
+DTEND:20251129T210000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:9a595863-7371-4549-bd14-59072804be66
+SEQUENCE:5
+DTSTAMP:20251130T205733Z
+DTSTART:20251130T090000Z
+DTEND:20251130T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:55b3b2dc-7ae2-489b-967a-c3bb566d60e9
+SEQUENCE:6
+DTSTAMP:20251130T205733Z
+DTSTART:20251201T090000Z
+DTEND:20251201T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:f2d46d35-4599-456f-9b4f-1f47ffddb570
+SEQUENCE:7
+DTSTAMP:20251130T205733Z
+DTSTART:20251202T090000Z
+DTEND:20251202T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cfc0c069-838d-4b2e-a605-6f9787ebea91
+SEQUENCE:8
+DTSTAMP:20251130T205733Z
+DTSTART:20251203T090000Z
+DTEND:20251203T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:d19e1697-5f17-4663-8ac4-09bd20f038da
+SEQUENCE:9
+DTSTAMP:20251130T205733Z
+DTSTART:20251204T090000Z
+DTEND:20251204T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:c3a1c4d2-0a91-449a-a112-61bc7692aaec
+SEQUENCE:10
+DTSTAMP:20251130T205733Z
+DTSTART:20251205T090000Z
+DTEND:20251205T210000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:36dad539-1802-4164-96b8-309b0c84f09f
+SEQUENCE:11
+DTSTAMP:20251130T205733Z
+DTSTART:20251206T090000Z
+DTEND:20251206T210000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:f9e85d5a-1ab6-4e5d-b28f-ba05209c0abb
+SEQUENCE:12
+DTSTAMP:20251130T205733Z
+DTSTART:20251207T090000Z
+DTEND:20251207T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:141cd394-7122-4c54-8a5f-7ab09b70d752
+SEQUENCE:13
+DTSTAMP:20251130T205733Z
+DTSTART:20251208T090000Z
+DTEND:20251208T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:1461ce92-7a5e-4217-a843-4bb28d8da56d
+SEQUENCE:14
+DTSTAMP:20251130T205733Z
+DTSTART:20251209T090000Z
+DTEND:20251209T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:ceff3bfc-caf1-4d8f-a591-3071cca6419a
+SEQUENCE:15
+DTSTAMP:20251130T205733Z
+DTSTART:20251210T090000Z
+DTEND:20251210T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2ab927c9-27bf-4097-bb8c-021dbea482f9
+SEQUENCE:16
+DTSTAMP:20251130T205733Z
+DTSTART:20251211T090000Z
+DTEND:20251211T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:c5bfac51-6b6c-491a-9564-681b89fa4701
+SEQUENCE:17
+DTSTAMP:20251130T205733Z
+DTSTART:20251212T090000Z
+DTEND:20251212T210000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:07b9eeff-263d-43ee-bb72-9e1f1790fdb9
+SEQUENCE:18
+DTSTAMP:20251130T205733Z
+DTSTART:20251213T090000Z
+DTEND:20251213T210000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:c5e0f8d1-be2b-468f-adca-6771838d5245
+SEQUENCE:19
+DTSTAMP:20251130T205733Z
+DTSTART:20251214T090000Z
+DTEND:20251214T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:dabce784-c76f-4924-b52a-499a1e9ddce7
+SEQUENCE:20
+DTSTAMP:20251130T205733Z
+DTSTART:20251215T090000Z
+DTEND:20251215T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:40cd8360-83e7-4a96-9925-fc07841f6d28
+SEQUENCE:21
+DTSTAMP:20251130T205733Z
+DTSTART:20251216T090000Z
+DTEND:20251216T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:49b052f5-8f38-474c-9a23-96ca0de2efdf
+SEQUENCE:22
+DTSTAMP:20251130T205733Z
+DTSTART:20251217T090000Z
+DTEND:20251217T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:e3c02a58-5cae-431e-a447-4f5d858cc78c
+SEQUENCE:23
+DTSTAMP:20251130T205733Z
+DTSTART:20251218T090000Z
+DTEND:20251218T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2ff68f6c-1ccb-4d69-9c44-a86138fc20c3
+SEQUENCE:24
+DTSTAMP:20251130T205733Z
+DTSTART:20251219T090000Z
+DTEND:20251219T210000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:34a26fb6-bd76-4031-af54-e5011861c65a
+SEQUENCE:25
+DTSTAMP:20251130T205733Z
+DTSTART:20251220T090000Z
+DTEND:20251220T210000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2e57f9a3-9da4-4f8a-8295-f4f30b490039
+SEQUENCE:26
+DTSTAMP:20251130T205733Z
+DTSTART:20251221T090000Z
+DTEND:20251221T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:de3dea39-68b9-4acc-86f4-4fbf2735ab2b
+SEQUENCE:27
+DTSTAMP:20251130T205733Z
+DTSTART:20251222T090000Z
+DTEND:20251222T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2e67f857-50a7-46d8-9fce-9a2436d040af
+SEQUENCE:28
+DTSTAMP:20251130T205733Z
+DTSTART:20251223T090000Z
+DTEND:20251223T200000Z
+SUMMARY:Märchenwald
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+END:VCALENDAR

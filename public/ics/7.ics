@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Adventsmarkt und Kerzenziehen
+X-WR-CALNAME:Adventsmarkt und Kerzenziehen
+BEGIN:VEVENT
+UID:a8d1a060-c5e6-45ac-8658-34b43e58db4f
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251214T100000Z
+DTEND:20251214T170000Z
+SUMMARY:Adventsmarkt und Kerzenziehen
+LOCATION:Bienenweg 14\, 04346 Leipzig
+URL;VALUE=URI:https://www.imkerei-beer.de/info/termine-und-aktuelles.html
+END:VEVENT
+END:VCALENDAR

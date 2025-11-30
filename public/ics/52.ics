@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Delitzscher Adventsmarkt
+X-WR-CALNAME:Delitzscher Adventsmarkt
+BEGIN:VEVENT
+UID:fd668896-0fa3-4c12-8863-58ba693426f9
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251205T130000Z
+DTEND:20251205T210000Z
+SUMMARY:Delitzscher Adventsmarkt
+LOCATION:Marktplatz\, 04509 Delitzsch
+URL;VALUE=URI:https://www.delitzsch.de/regional/veranstaltungen/delitzsche
+ r-adventsmarkt-2025-900003380-27640.html
+END:VEVENT
+BEGIN:VEVENT
+UID:b9a24ec9-9f24-494a-ab8c-e14a0c59cc1d
+SEQUENCE:1
+DTSTAMP:20251130T205733Z
+DTSTART:20251206T110000Z
+DTEND:20251206T210000Z
+SUMMARY:Delitzscher Adventsmarkt
+LOCATION:Marktplatz\, 04509 Delitzsch
+URL;VALUE=URI:https://www.delitzsch.de/regional/veranstaltungen/delitzsche
+ r-adventsmarkt-2025-900003380-27640.html
+END:VEVENT
+BEGIN:VEVENT
+UID:5cb46895-ac58-4c00-b6c1-a822dab65558
+SEQUENCE:2
+DTSTAMP:20251130T205733Z
+DTSTART:20251207T110000Z
+DTEND:20251207T180000Z
+SUMMARY:Delitzscher Adventsmarkt
+LOCATION:Marktplatz\, 04509 Delitzsch
+URL;VALUE=URI:https://www.delitzsch.de/regional/veranstaltungen/delitzsche
+ r-adventsmarkt-2025-900003380-27640.html
+END:VEVENT
+END:VCALENDAR

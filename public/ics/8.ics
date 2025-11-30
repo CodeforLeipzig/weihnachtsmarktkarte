@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Dölitzer Adventsmarkt
+X-WR-CALNAME:Dölitzer Adventsmarkt
+BEGIN:VEVENT
+UID:7859c6bd-5aa5-42a4-8090-dfdd36404522
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251130T130000Z
+DTEND:20251130T225900Z
+SUMMARY:Dölitzer Adventsmarkt
+LOCATION:Vollhardtstraße 16\, 04279 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/adventsmarkt-in-der-doelitzer-wassermuehle
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Adventsmarkt Friedenskirche Gohlis
+X-WR-CALNAME:Adventsmarkt Friedenskirche Gohlis
+BEGIN:VEVENT
+UID:7ee341fc-321b-4d31-b8ac-391f8487ed1a
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251206T130000Z
+DTEND:20251206T163000Z
+SUMMARY:Adventsmarkt Friedenskirche Gohlis
+LOCATION:Kirchplatz 9\, 04155 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/adventsmarkt-in-der-friedenskirche
+END:VEVENT
+END:VCALENDAR

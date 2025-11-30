@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Weihnachtsmarkt Schönefeld
+X-WR-CALNAME:Weihnachtsmarkt Schönefeld
+BEGIN:VEVENT
+UID:ec716e2d-f512-45e0-96ed-61277531977d
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251130T100000Z
+DTEND:20251130T170000Z
+SUMMARY:Weihnachtsmarkt Schönefeld
+LOCATION:Zeumerstraße 1\, 04347 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachtsmarkt-2025-am-schloss-schoenefeld
+END:VEVENT
+END:VCALENDAR

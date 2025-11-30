@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Advent in den Hinterhöfen Kleinzschochers
+X-WR-CALNAME:Advent in den Hinterhöfen Kleinzschochers
+BEGIN:VEVENT
+UID:9fc2a922-b744-49e7-861a-f249ccbe636f
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251213T130000Z
+DTEND:20251213T163000Z
+SUMMARY:Advent in den Hinterhöfen Kleinzschochers
+LOCATION:Windorfer Straße 49\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/advent-in-den-hoefen-kleinzschochers-1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Weihnachtsmarkt am Zuckelhausener Teich
+X-WR-CALNAME:Weihnachtsmarkt am Zuckelhausener Teich
+BEGIN:VEVENT
+UID:c33df240-a075-4667-a7d0-e30158e6e02f
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251213T130000Z
+DTEND:20251213T225900Z
+SUMMARY:Weihnachtsmarkt am Zuckelhausener Teich
+LOCATION:Zuckelhausener Ring 17 \, 04288 Leipzig
+URL;VALUE=URI:https://www.berggut.de/veranstaltungen/aktuelle-veranstaltun
+ gen/aktuell-detail/termin/2025/dezember/13//weihnachtsmarkt-holzhausen
+END:VEVENT
+END:VCALENDAR

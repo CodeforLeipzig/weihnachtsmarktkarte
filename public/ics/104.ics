@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:ArtMarkt – Weihnachtsedition
+X-WR-CALNAME:ArtMarkt – Weihnachtsedition
+BEGIN:VEVENT
+UID:7a6a36cb-c9ac-47bb-b86c-2bce0aa64a30
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251130T130000Z
+DTEND:20251130T190000Z
+SUMMARY:ArtMarkt – Weihnachtsedition
+LOCATION:Hedwigstraße 20\, 04315 Leipzig
+URL;VALUE=URI:https://www.pöge-haus.de/de/pec-events/artmarkt-4-2/
+END:VEVENT
+END:VCALENDAR

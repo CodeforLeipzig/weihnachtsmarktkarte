@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Weihnachtsmarkt Torhaus
+X-WR-CALNAME:Weihnachtsmarkt Torhaus
+BEGIN:VEVENT
+UID:e48aad4b-17cf-4a97-83a1-80f893ad66c9
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251206T130000Z
+DTEND:20251206T170000Z
+SUMMARY:Weihnachtsmarkt Torhaus
+LOCATION:Kirchstraße 40\, 04416 Markkleeberg
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachtsmarkt-im-schlosshof-am-torhaus-markkleeberg
+END:VEVENT
+BEGIN:VEVENT
+UID:a1731080-5e56-42f7-abfd-e4b1fe2490bb
+SEQUENCE:1
+DTSTAMP:20251130T205733Z
+DTSTART:20251207T130000Z
+DTEND:20251207T170000Z
+SUMMARY:Weihnachtsmarkt Torhaus
+LOCATION:Kirchstraße 40\, 04416 Markkleeberg
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachtsmarkt-im-schlosshof-am-torhaus-markkleeberg
+END:VEVENT
+END:VCALENDAR

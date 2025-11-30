@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Markranstädter Weihnachtsmarkt
+X-WR-CALNAME:Markranstädter Weihnachtsmarkt
+BEGIN:VEVENT
+UID:19ab521b-bfa0-409a-84e4-81b2381e09eb
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251206T130000Z
+DTEND:20251206T200000Z
+SUMMARY:Markranstädter Weihnachtsmarkt
+LOCATION:Marktplatz 1\, 04420 Markranstädt
+URL;VALUE=URI:https://markranstaedt.de/de/markranstaedter_weihnachtsmarkt.
+ html
+END:VEVENT
+END:VCALENDAR

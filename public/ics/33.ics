@@ -1,0 +1,381 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Felsenkeller Weihnachtsmarkt
+X-WR-CALNAME:Felsenkeller Weihnachtsmarkt
+BEGIN:VEVENT
+UID:afeed040-8b50-472e-8d77-67428070bb4b
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251127T140000Z
+DTEND:20251127T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:4575ae81-2e6f-4d6a-83f4-58998f7fd1d6
+SEQUENCE:1
+DTSTAMP:20251130T205733Z
+DTSTART:20251128T140000Z
+DTEND:20251128T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:e8ad5502-04e3-4d51-ad58-6c0f700aa756
+SEQUENCE:2
+DTSTAMP:20251130T205733Z
+DTSTART:20251129T100000Z
+DTEND:20251129T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:e0f233c3-7e90-4305-9b76-6355abbf5418
+SEQUENCE:3
+DTSTAMP:20251130T205733Z
+DTSTART:20251130T100000Z
+DTEND:20251130T190000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:920597ad-13bb-4725-9ad3-7cf2da30965f
+SEQUENCE:4
+DTSTAMP:20251130T205733Z
+DTSTART:20251201T140000Z
+DTEND:20251201T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:92c130f9-b3b8-49bc-a8d9-6d182c0ffa57
+SEQUENCE:5
+DTSTAMP:20251130T205733Z
+DTSTART:20251202T140000Z
+DTEND:20251202T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:adb65809-34a0-4108-a624-dddfb11139dd
+SEQUENCE:6
+DTSTAMP:20251130T205733Z
+DTSTART:20251203T140000Z
+DTEND:20251203T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:e0516c8a-3639-4f5a-bda6-2ec0d91658d5
+SEQUENCE:7
+DTSTAMP:20251130T205733Z
+DTSTART:20251204T140000Z
+DTEND:20251204T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:16fe40b8-5699-49e8-ad31-180ea8caf316
+SEQUENCE:8
+DTSTAMP:20251130T205733Z
+DTSTART:20251205T140000Z
+DTEND:20251205T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:dcc41806-c1fb-471e-8d56-ea928e7335e8
+SEQUENCE:9
+DTSTAMP:20251130T205733Z
+DTSTART:20251206T100000Z
+DTEND:20251206T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:a85f38c3-41f0-4916-badb-14cdd75df118
+SEQUENCE:10
+DTSTAMP:20251130T205733Z
+DTSTART:20251207T100000Z
+DTEND:20251207T190000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:538eb13b-0f12-483e-beb3-00888b4e783f
+SEQUENCE:11
+DTSTAMP:20251130T205733Z
+DTSTART:20251208T140000Z
+DTEND:20251208T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:3fd122ca-6f12-40cd-9ad2-6ab1f601e2a7
+SEQUENCE:12
+DTSTAMP:20251130T205733Z
+DTSTART:20251209T140000Z
+DTEND:20251209T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:900360e1-78ee-4c3a-a89c-533b81273d79
+SEQUENCE:13
+DTSTAMP:20251130T205733Z
+DTSTART:20251210T140000Z
+DTEND:20251210T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:e7efd6b0-1d09-485b-9794-a5993341f367
+SEQUENCE:14
+DTSTAMP:20251130T205733Z
+DTSTART:20251211T140000Z
+DTEND:20251211T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:ca5a39b4-9709-4f9c-805c-f7ab410642af
+SEQUENCE:15
+DTSTAMP:20251130T205733Z
+DTSTART:20251212T140000Z
+DTEND:20251212T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:7addfa9f-e587-4e9f-bd91-621778608b70
+SEQUENCE:16
+DTSTAMP:20251130T205733Z
+DTSTART:20251213T100000Z
+DTEND:20251213T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:a8b07e60-7e29-4877-bad3-4f2a974e7529
+SEQUENCE:17
+DTSTAMP:20251130T205733Z
+DTSTART:20251214T100000Z
+DTEND:20251214T190000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:6f812f21-c680-44a5-9a4c-057ab37efc50
+SEQUENCE:18
+DTSTAMP:20251130T205733Z
+DTSTART:20251215T140000Z
+DTEND:20251215T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:b6da2916-e51e-45ce-807e-fb6dd35ca773
+SEQUENCE:19
+DTSTAMP:20251130T205733Z
+DTSTART:20251216T140000Z
+DTEND:20251216T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:f8f0d476-3f5c-4ddb-b3d5-237e96949068
+SEQUENCE:20
+DTSTAMP:20251130T205733Z
+DTSTART:20251217T140000Z
+DTEND:20251217T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:b6486007-ad51-44ee-aea1-3fb715a35725
+SEQUENCE:21
+DTSTAMP:20251130T205733Z
+DTSTART:20251218T140000Z
+DTEND:20251218T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa87425-bb1a-4121-b9fa-8464c4e9e09a
+SEQUENCE:22
+DTSTAMP:20251130T205733Z
+DTSTART:20251219T140000Z
+DTEND:20251219T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:7a842741-ed70-4909-b2fe-06e4dd66a0c4
+SEQUENCE:23
+DTSTAMP:20251130T205733Z
+DTSTART:20251220T100000Z
+DTEND:20251220T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:23bbc304-db29-484b-bed3-48cc69b01564
+SEQUENCE:24
+DTSTAMP:20251130T205733Z
+DTSTART:20251221T100000Z
+DTEND:20251221T190000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:8f696016-d397-4e8f-bd83-0c8a3123f2b9
+SEQUENCE:25
+DTSTAMP:20251130T205733Z
+DTSTART:20251222T140000Z
+DTEND:20251222T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:ef6a1560-61cf-4929-918e-8a26de961714
+SEQUENCE:26
+DTSTAMP:20251130T205733Z
+DTSTART:20251223T140000Z
+DTEND:20251223T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:0352eefc-0e91-400c-89e9-07d5db71dc01
+SEQUENCE:27
+DTSTAMP:20251130T205733Z
+DTSTART:20251224T140000Z
+DTEND:20251224T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:7dff40e8-09ff-4108-aed1-2e847ef68b4e
+SEQUENCE:28
+DTSTAMP:20251130T205733Z
+DTSTART:20251225T140000Z
+DTEND:20251225T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:16a1f52d-ea0e-415d-a55f-0f009b38fd91
+SEQUENCE:29
+DTSTAMP:20251130T205733Z
+DTSTART:20251226T140000Z
+DTEND:20251226T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:42e55e69-c8b1-441e-a289-5bc6e353076e
+SEQUENCE:30
+DTSTAMP:20251130T205733Z
+DTSTART:20251227T100000Z
+DTEND:20251227T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:db1ca3cc-85a1-44a2-88c1-480b643b15bf
+SEQUENCE:31
+DTSTAMP:20251130T205733Z
+DTSTART:20251228T100000Z
+DTEND:20251228T190000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:0f022605-f921-4b74-a0fc-e1ea92c167b2
+SEQUENCE:32
+DTSTAMP:20251130T205733Z
+DTSTART:20251229T140000Z
+DTEND:20251229T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:8cb5ef6d-bb0d-4bfe-ac2d-77c2b0038a47
+SEQUENCE:33
+DTSTAMP:20251130T205733Z
+DTSTART:20251230T140000Z
+DTEND:20251230T203000Z
+SUMMARY:Felsenkeller Weihnachtsmarkt
+LOCATION:Karl-Heine-Straße 32\, 04229 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/felsenkeller-weihnachtsmarkt-2025
+END:VEVENT
+END:VCALENDAR

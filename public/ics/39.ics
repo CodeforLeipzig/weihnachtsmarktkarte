@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Weihnachtsmarkt Schloss Machern
+X-WR-CALNAME:Weihnachtsmarkt Schloss Machern
+BEGIN:VEVENT
+UID:51d54b04-b41a-473b-8221-ab0783012acd
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251212T170000Z
+DTEND:20251212T210000Z
+SUMMARY:Weihnachtsmarkt Schloss Machern
+LOCATION:Schloßplatz 1\, 04827 Machern
+URL;VALUE=URI:https://www.gemeinde-machern.de/regional/veranstaltungen/mac
+ herner-weihnachtsmarkt-900000568-27400.html
+END:VEVENT
+BEGIN:VEVENT
+UID:127187c3-08be-4c0b-833b-72704ddbc12d
+SEQUENCE:1
+DTSTAMP:20251130T205733Z
+DTSTART:20251213T130000Z
+DTEND:20251213T210000Z
+SUMMARY:Weihnachtsmarkt Schloss Machern
+LOCATION:Schloßplatz 1\, 04827 Machern
+URL;VALUE=URI:https://www.gemeinde-machern.de/regional/veranstaltungen/mac
+ herner-weihnachtsmarkt-900000568-27400.html
+END:VEVENT
+BEGIN:VEVENT
+UID:6f5f7abc-169d-45bb-ad26-83adbdefbfe4
+SEQUENCE:2
+DTSTAMP:20251130T205733Z
+DTSTART:20251214T130000Z
+DTEND:20251214T190000Z
+SUMMARY:Weihnachtsmarkt Schloss Machern
+LOCATION:Schloßplatz 1\, 04827 Machern
+URL;VALUE=URI:https://www.gemeinde-machern.de/regional/veranstaltungen/mac
+ herner-weihnachtsmarkt-900000568-27400.html
+END:VEVENT
+END:VCALENDAR

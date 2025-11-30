@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Adventsmarkt auf dem Schulhof
+X-WR-CALNAME:Adventsmarkt auf dem Schulhof
+BEGIN:VEVENT
+UID:92dd0510-c03f-4327-b613-e16ad2fb7450
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251209T140000Z
+DTEND:20251209T225900Z
+SUMMARY:Adventsmarkt auf dem Schulhof
+LOCATION:Schletterstraße 7\, 04107 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/adventsmarkt-evangelisches-schulzentrum-leipzig
+END:VEVENT
+END:VCALENDAR

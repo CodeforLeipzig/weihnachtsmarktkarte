@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Weihnachtsmarkt Koch-Park
+X-WR-CALNAME:Weihnachtsmarkt Koch-Park
+BEGIN:VEVENT
+UID:564b192e-2d15-40e6-aff9-56060e1cec30
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251130T130000Z
+DTEND:20251130T170000Z
+SUMMARY:Weihnachtsmarkt Koch-Park
+LOCATION:Nikolai-Rumjanzew-Straße 98\, 04207 Leipzig
+URL;VALUE=URI:https://haus-steinstrasse.de/termine/advent-im-park/?occurre
+ nce=2025-11-30
+END:VEVENT
+END:VCALENDAR

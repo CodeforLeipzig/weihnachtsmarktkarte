@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Kirchenruine Wachau
+X-WR-CALNAME:Kirchenruine Wachau
+BEGIN:VEVENT
+UID:8e74b6e5-06cc-42d0-9f3c-d8ef5d7ca89f
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251220T120000Z
+DTEND:20251220T160000Z
+SUMMARY:Kirchenruine Wachau
+LOCATION:Kirchplatz 1\, 04416 Markkleeberg
+URL;VALUE=URI:https://www.kirchenruine-wachau.de/veranstaltungen/
+END:VEVENT
+END:VCALENDAR

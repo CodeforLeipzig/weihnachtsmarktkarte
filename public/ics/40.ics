@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Weihnachtsmarkt Lametta for Heinz
+X-WR-CALNAME:Weihnachtsmarkt Lametta for Heinz
+BEGIN:VEVENT
+UID:46f63355-82d5-4482-a341-125bcb56e3da
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251128T150000Z
+DTEND:20251128T190000Z
+SUMMARY:Weihnachtsmarkt Lametta for Heinz
+LOCATION:Hähnelstr. 22\, 04177 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/lametta-for-heinz-kiezweihnachtsmarkt-1
+END:VEVENT
+BEGIN:VEVENT
+UID:b39b7ac7-b685-44a4-b1f4-2563b90f0ae8
+SEQUENCE:1
+DTSTAMP:20251130T205733Z
+DTSTART:20251129T130000Z
+DTEND:20251129T190000Z
+SUMMARY:Weihnachtsmarkt Lametta for Heinz
+LOCATION:Hähnelstr. 22\, 04177 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/lametta-for-heinz-kiezweihnachtsmarkt-1
+END:VEVENT
+END:VCALENDAR

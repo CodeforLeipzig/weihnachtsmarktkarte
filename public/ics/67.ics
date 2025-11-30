@@ -1,0 +1,326 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Mittelalter-Weihnachtsmarkt
+X-WR-CALNAME:Mittelalter-Weihnachtsmarkt
+BEGIN:VEVENT
+UID:dd3d2aec-d708-48e6-8389-878db91247ae
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251125T090000Z
+DTEND:20251125T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd63abe-496f-410d-bcd6-815cfb655562
+SEQUENCE:1
+DTSTAMP:20251130T205733Z
+DTSTART:20251126T090000Z
+DTEND:20251126T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:f7f6a8cd-985a-401c-85fe-75d7b2352824
+SEQUENCE:2
+DTSTAMP:20251130T205733Z
+DTSTART:20251127T090000Z
+DTEND:20251127T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:e4e9ab2c-de0c-4dd1-ac2e-e857326dad7f
+SEQUENCE:3
+DTSTAMP:20251130T205733Z
+DTSTART:20251128T090000Z
+DTEND:20251128T210000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:4b3a6f2c-f858-4eb2-8275-92a1f7b13e92
+SEQUENCE:4
+DTSTAMP:20251130T205733Z
+DTSTART:20251129T090000Z
+DTEND:20251129T210000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:59fcb216-fca4-4b92-8d60-479ca59d9252
+SEQUENCE:5
+DTSTAMP:20251130T205733Z
+DTSTART:20251130T090000Z
+DTEND:20251130T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:868e06dd-07e3-4cd6-8d2f-987d4cb98c3a
+SEQUENCE:6
+DTSTAMP:20251130T205733Z
+DTSTART:20251201T090000Z
+DTEND:20251201T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:0db26e88-bdae-4e2f-b7d3-7e42ed4988e5
+SEQUENCE:7
+DTSTAMP:20251130T205733Z
+DTSTART:20251202T090000Z
+DTEND:20251202T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:02d2cfe0-69d5-4d14-ac4f-8a55a2257e9a
+SEQUENCE:8
+DTSTAMP:20251130T205733Z
+DTSTART:20251203T090000Z
+DTEND:20251203T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:c7f33964-e7c4-4fec-9ccd-4bfabaa34f63
+SEQUENCE:9
+DTSTAMP:20251130T205733Z
+DTSTART:20251204T090000Z
+DTEND:20251204T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:fcb32369-69f1-4320-803b-8b6387f36849
+SEQUENCE:10
+DTSTAMP:20251130T205733Z
+DTSTART:20251205T090000Z
+DTEND:20251205T210000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:28fc5a32-6107-43e7-a786-5aa6387861fb
+SEQUENCE:11
+DTSTAMP:20251130T205733Z
+DTSTART:20251206T090000Z
+DTEND:20251206T210000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:8a71d48b-f08e-488a-a890-06c08b4087da
+SEQUENCE:12
+DTSTAMP:20251130T205733Z
+DTSTART:20251207T090000Z
+DTEND:20251207T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:7ec9b013-41d0-4302-ae09-16d5a023ca37
+SEQUENCE:13
+DTSTAMP:20251130T205733Z
+DTSTART:20251208T090000Z
+DTEND:20251208T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:c40f9f8e-e116-41ee-8b97-db83026d28c4
+SEQUENCE:14
+DTSTAMP:20251130T205733Z
+DTSTART:20251209T090000Z
+DTEND:20251209T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:547a1f96-2d56-471a-9ae8-e9bdf2d274bd
+SEQUENCE:15
+DTSTAMP:20251130T205733Z
+DTSTART:20251210T090000Z
+DTEND:20251210T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:b89bbde4-058d-41b4-b163-7c378a48ba49
+SEQUENCE:16
+DTSTAMP:20251130T205733Z
+DTSTART:20251211T090000Z
+DTEND:20251211T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:5345b75d-7709-4f89-ae76-1ddf05f0900b
+SEQUENCE:17
+DTSTAMP:20251130T205733Z
+DTSTART:20251212T090000Z
+DTEND:20251212T210000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:7e313f3e-09bd-428a-8818-3737ae6be298
+SEQUENCE:18
+DTSTAMP:20251130T205733Z
+DTSTART:20251213T090000Z
+DTEND:20251213T210000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:4024442f-f84c-4941-8fc7-0a9ce61b2cf5
+SEQUENCE:19
+DTSTAMP:20251130T205733Z
+DTSTART:20251214T090000Z
+DTEND:20251214T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:4e170ef9-2664-48b8-910a-845121ee071f
+SEQUENCE:20
+DTSTAMP:20251130T205733Z
+DTSTART:20251215T090000Z
+DTEND:20251215T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:9c7f812d-af31-4956-a7c5-db2e375890d7
+SEQUENCE:21
+DTSTAMP:20251130T205733Z
+DTSTART:20251216T090000Z
+DTEND:20251216T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:82c89f3a-dcb2-43f6-b3c2-4e140cfdf1fa
+SEQUENCE:22
+DTSTAMP:20251130T205733Z
+DTSTART:20251217T090000Z
+DTEND:20251217T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:4db4d282-a8a1-41f7-b27c-f0b93e91dd2c
+SEQUENCE:23
+DTSTAMP:20251130T205733Z
+DTSTART:20251218T090000Z
+DTEND:20251218T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:e33d6d17-e962-4a9f-91c9-f1a662477cb7
+SEQUENCE:24
+DTSTAMP:20251130T205733Z
+DTSTART:20251219T090000Z
+DTEND:20251219T210000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:dd68ee34-cdaa-4882-a550-c5622628ba75
+SEQUENCE:25
+DTSTAMP:20251130T205733Z
+DTSTART:20251220T090000Z
+DTEND:20251220T210000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2fc4dc1b-7ce8-4d39-a977-2c9d64e3cc44
+SEQUENCE:26
+DTSTAMP:20251130T205733Z
+DTSTART:20251221T090000Z
+DTEND:20251221T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:8ca658f2-75f1-4033-8d23-34917c1fe348
+SEQUENCE:27
+DTSTAMP:20251130T205733Z
+DTSTART:20251222T090000Z
+DTEND:20251222T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:e1b41965-0111-4b8d-bb33-ab38dd659111
+SEQUENCE:28
+DTSTAMP:20251130T205733Z
+DTSTART:20251223T090000Z
+DTEND:20251223T200000Z
+SUMMARY:Mittelalter-Weihnachtsmarkt
+LOCATION:Naschmarkt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+END:VCALENDAR

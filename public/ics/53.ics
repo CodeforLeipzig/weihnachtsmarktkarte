@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Ostwache-Weihnachtsmarkt
+X-WR-CALNAME:Ostwache-Weihnachtsmarkt
+BEGIN:VEVENT
+UID:de27daa7-1532-4789-bcb8-b6259d8d5570
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251206T130000Z
+DTEND:20251206T180000Z
+SUMMARY:Ostwache-Weihnachtsmarkt
+LOCATION:Gregor-Fuchs-Str. 45-47\, 04318 Leipzig
+URL;VALUE=URI:https://www.ostwache.org/ueber-uns/
+END:VEVENT
+END:VCALENDAR

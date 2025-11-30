@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Weihnachten am Kreuz
+X-WR-CALNAME:Weihnachten am Kreuz
+BEGIN:VEVENT
+UID:5d4c20ba-7332-4228-a700-30a5a902607f
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251210T150000Z
+DTEND:20251210T200000Z
+SUMMARY:Weihnachten am Kreuz
+LOCATION:Kochstraße 132\, 04277 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachten-am-kreuz-3
+END:VEVENT
+BEGIN:VEVENT
+UID:7bc635a7-7730-4fba-bc70-2ddfe907015b
+SEQUENCE:1
+DTSTAMP:20251130T205733Z
+DTSTART:20251211T130000Z
+DTEND:20251211T200000Z
+SUMMARY:Weihnachten am Kreuz
+LOCATION:Kochstraße 132\, 04277 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachten-am-kreuz-3
+END:VEVENT
+BEGIN:VEVENT
+UID:38fcf320-51b7-4fed-a1ff-02ec25ce61f4
+SEQUENCE:2
+DTSTAMP:20251130T205733Z
+DTSTART:20251212T130000Z
+DTEND:20251212T200000Z
+SUMMARY:Weihnachten am Kreuz
+LOCATION:Kochstraße 132\, 04277 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachten-am-kreuz-3
+END:VEVENT
+BEGIN:VEVENT
+UID:d1348eea-32b7-4cd1-ad84-930275b1a494
+SEQUENCE:3
+DTSTAMP:20251130T205733Z
+DTSTART:20251213T130000Z
+DTEND:20251213T200000Z
+SUMMARY:Weihnachten am Kreuz
+LOCATION:Kochstraße 132\, 04277 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachten-am-kreuz-3
+END:VEVENT
+BEGIN:VEVENT
+UID:30ed6edc-af0d-4b9a-b8c7-d7b92df60fbe
+SEQUENCE:4
+DTSTAMP:20251130T205733Z
+DTSTART:20251214T130000Z
+DTEND:20251214T200000Z
+SUMMARY:Weihnachten am Kreuz
+LOCATION:Kochstraße 132\, 04277 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachten-am-kreuz-3
+END:VEVENT
+BEGIN:VEVENT
+UID:24f254de-b11c-4d26-9280-e9f4f4a66f94
+SEQUENCE:5
+DTSTAMP:20251130T205733Z
+DTSTART:20251215T130000Z
+DTEND:20251215T200000Z
+SUMMARY:Weihnachten am Kreuz
+LOCATION:Kochstraße 132\, 04277 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachten-am-kreuz-3
+END:VEVENT
+BEGIN:VEVENT
+UID:455ded59-2397-45f1-ab5f-c9b99861964c
+SEQUENCE:6
+DTSTAMP:20251130T205733Z
+DTSTART:20251216T130000Z
+DTEND:20251216T200000Z
+SUMMARY:Weihnachten am Kreuz
+LOCATION:Kochstraße 132\, 04277 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachten-am-kreuz-3
+END:VEVENT
+BEGIN:VEVENT
+UID:55077e37-970d-4059-90c0-21c6cd7fda96
+SEQUENCE:7
+DTSTAMP:20251130T205733Z
+DTSTART:20251217T150000Z
+DTEND:20251217T200000Z
+SUMMARY:Weihnachten am Kreuz
+LOCATION:Kochstraße 132\, 04277 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachten-am-kreuz-3
+END:VEVENT
+BEGIN:VEVENT
+UID:84e67a97-ea03-4806-8dd1-f7e90d954e03
+SEQUENCE:8
+DTSTAMP:20251130T205733Z
+DTSTART:20251218T130000Z
+DTEND:20251218T200000Z
+SUMMARY:Weihnachten am Kreuz
+LOCATION:Kochstraße 132\, 04277 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachten-am-kreuz-3
+END:VEVENT
+BEGIN:VEVENT
+UID:66b10ccb-63a8-4a7a-90e7-3f505fd012e7
+SEQUENCE:9
+DTSTAMP:20251130T205733Z
+DTSTART:20251219T130000Z
+DTEND:20251219T200000Z
+SUMMARY:Weihnachten am Kreuz
+LOCATION:Kochstraße 132\, 04277 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachten-am-kreuz-3
+END:VEVENT
+BEGIN:VEVENT
+UID:19f236d0-16f5-4499-bb75-737a98124fc9
+SEQUENCE:10
+DTSTAMP:20251130T205733Z
+DTSTART:20251220T130000Z
+DTEND:20251220T200000Z
+SUMMARY:Weihnachten am Kreuz
+LOCATION:Kochstraße 132\, 04277 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachten-am-kreuz-3
+END:VEVENT
+BEGIN:VEVENT
+UID:f047c573-c524-4a9a-8942-79fca989be7f
+SEQUENCE:11
+DTSTAMP:20251130T205733Z
+DTSTART:20251221T130000Z
+DTEND:20251221T200000Z
+SUMMARY:Weihnachten am Kreuz
+LOCATION:Kochstraße 132\, 04277 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachten-am-kreuz-3
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Weihnachten mit Kreuz - der Ilses Erika Weihnachtsmarkt
+X-WR-CALNAME:Weihnachten mit Kreuz - der Ilses Erika Weihnachtsmarkt
+BEGIN:VEVENT
+UID:e6d4db25-d01a-4c2f-b09c-7abbc44408d9
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251213T130000Z
+DTEND:20251213T200000Z
+SUMMARY:Weihnachten mit Kreuz - der Ilses Erika Weihnachtsmarkt
+LOCATION:Bernhard-Göring-Str. 152\, 04277 Leipzig
+URL;VALUE=URI:https://www.ilseserika.de/termine-65/weihnachten-mit-kreuz-d
+ er-ilses-erika-weihnachtsmarkt.html
+END:VEVENT
+END:VCALENDAR

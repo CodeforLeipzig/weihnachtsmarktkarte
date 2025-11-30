@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Weihnachtsmarkt im Miltitzer Park
+X-WR-CALNAME:Weihnachtsmarkt im Miltitzer Park
+BEGIN:VEVENT
+UID:46793b73-3626-47fb-8977-bbfb20842ce5
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251129T140000Z
+DTEND:20251129T225900Z
+SUMMARY:Weihnachtsmarkt im Miltitzer Park
+LOCATION:Geschwister-Scholl-Str. 8a\, 04205 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/weihnachtsmarkt-10
+END:VEVENT
+END:VCALENDAR

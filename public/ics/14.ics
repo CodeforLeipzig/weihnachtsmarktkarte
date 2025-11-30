@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Mittelalterlicher Weihnachtsmarkt
+X-WR-CALNAME:Mittelalterlicher Weihnachtsmarkt
+BEGIN:VEVENT
+UID:6d8a8626-4f59-4e67-b508-c3f086e30fd4
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251129T130000Z
+DTEND:20251129T190000Z
+SUMMARY:Mittelalterlicher Weihnachtsmarkt
+LOCATION:Haugwitzwinkel 1\, 04425 Taucha
+URL;VALUE=URI:https://schlossverein-taucha.de/terminvorschau.html
+END:VEVENT
+BEGIN:VEVENT
+UID:dcc2c745-572d-4760-b3b0-9c89078e41eb
+SEQUENCE:1
+DTSTAMP:20251130T205733Z
+DTSTART:20251130T130000Z
+DTEND:20251130T170000Z
+SUMMARY:Mittelalterlicher Weihnachtsmarkt
+LOCATION:Haugwitzwinkel 1\, 04425 Taucha
+URL;VALUE=URI:https://schlossverein-taucha.de/terminvorschau.html
+END:VEVENT
+END:VCALENDAR

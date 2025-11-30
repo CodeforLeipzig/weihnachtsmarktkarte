@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Weihnachtsmarkt Böhlitz-Ehrenberg
+X-WR-CALNAME:Weihnachtsmarkt Böhlitz-Ehrenberg
+BEGIN:VEVENT
+UID:c4c1a9d7-9fab-40f1-9484-02b7055bff0b
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251129T130000Z
+DTEND:20251129T190000Z
+SUMMARY:Weihnachtsmarkt Böhlitz-Ehrenberg
+LOCATION:Ludwig-Jahn-Str. 12c\, 04178 Leipzig
+URL;VALUE=URI:http://www.bgbe.de/weihnachtsmarkt
+END:VEVENT
+END:VCALENDAR

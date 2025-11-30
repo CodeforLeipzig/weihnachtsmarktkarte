@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Adventsmarkt in der art Kapella Schkeuditz
+X-WR-CALNAME:Adventsmarkt in der art Kapella Schkeuditz
+BEGIN:VEVENT
+UID:3462e57f-ec31-4152-a666-13c673b6f2d5
+SEQUENCE:0
+DTSTAMP:20251130T205733Z
+DTSTART:20251130T110000Z
+DTEND:20251130T170000Z
+SUMMARY:Adventsmarkt in der art Kapella Schkeuditz
+LOCATION:Teichstraße 7\, 04435 Schkeuditz
+URL;VALUE=URI:https://www.schkeuditz.de/regional/veranstaltungen/adventsma
+ rkt-in-der-art-kapella-schkeuditz-900002107-27780.html
+END:VEVENT
+END:VCALENDAR
