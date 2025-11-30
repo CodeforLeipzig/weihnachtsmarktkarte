@@ -1,3 +1,4 @@
+import mapboxgl from 'mapbox-gl';
 import { FC, useCallback, useEffect, useMemo, useRef } from "react";
 import Map, {
   GeolocateControl,
