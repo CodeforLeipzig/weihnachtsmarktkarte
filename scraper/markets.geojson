@@ -2554,6 +2554,42 @@
     ]
   }
 },{
+    "id": 88,
+    "bezirk": "Leutzsch",
+    "name": "Weihnachts-Brimborium",
+    "shortname": "Weihnachts-Brimborium",
+    "strasse": "Gustav-Esche-Straße 1",
+    "plz_ort": "04179 Leipzig",
+    "von": "29.11.25",
+    "bis": "30.11.25",
+    "veranstalter": "Villa Hasenholz",
+    "oeffnungszeiten": "12:00-20:00",
+    "email": null,
+    "w3": "https://www.facebook.com/photo/?fbid=1371465871375527&set=pcb.1371465898042191",
+    "bemerkungen": null,
+    "lat": 51.357568349999994,
+    "lng": 12.313838432762196,
+    "RSS-Titel": "Weihnachts-Brimborium",
+    "immer-kostenlos": 1,
+    "Mo": 0,
+    "Di": 0,
+    "Mi": 0,
+    "Do": 0,
+    "Fr": 0,
+    "Sa": "12:00-20:00",
+    "So": "12:00-20:00",
+    "closed-exc": 0,
+    "hours-exc": 0,
+    "ignore": 0,
+    "merged": null,
+    "international": 0,
+    "action": 0,
+    "image": null,
+    "urheberschaft": null,
+    "train": "Bus 80 bis \"Am Sportpark\"",
+    "train_distance": 71,
+    "short_distance": 1
+  },{
     "id": 89,
     "bezirk": "Wahren",
     "name": "Veganer Weihnachtsmarkt Pittlerwerke",
@@ -2816,6 +2852,53 @@
     "coordinates": [
       12.452295913043997,
       51.32651855886607
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "id": 104,
+    "bezirk": "Neustadt-Neuschönefeld",
+    "name": "ArtMarkt – Weihnachtsedition",
+    "shortname": "ArtMarkt",
+    "strasse": "Hedwigstraße 20",
+    "plz_ort": "04315 Leipzig",
+    "von": "30.11.25",
+    "bis": "30.11.25",
+    "veranstalter": "Pöge-Haus e.V.",
+    "oeffnungszeiten": "14:00-20:00",
+    "email": null,
+    "w3": "https://www.pöge-haus.de/de/pec-events/artmarkt-4-2/",
+    "bemerkungen": "<a class='text-sm underline' target='blank' href='https://www.pöge-haus.de/de/pec-events/artmarkt-4-2/'>Offizielle Seite</a>",
+    "lat": 51.34751349240341,
+    "lng": 12.403518984235774,
+    "rss_titel": "ArtMarkt",
+    "rss_beschreibung": "Der ArtMarkt bringt Künstler*innen und Kreative aus Leipzig und der Region zusammen und schafft einen offenen Raum für Austausch, Begegnung und den Kauf einzigartiger Kunstwerke. Stöbert durch die vielfältigen Stände und entdeckt besondere Schätze: Keramik, Schmuck, Textilkunst, Drucke, Gemälde und vieles mehr. Ob ihr lokale Kunstschaffende unterstützen oder einfach die kreative Atmosphäre genießen möchtet – kommt vorbei und erlebt Leipzigs Kreativszene von ihrer besten Seite!",
+    "immer-kostenlos": 1,
+    "Mo": 0,
+    "Di": 0,
+    "Mi": 0,
+    "Do": 0,
+    "Fr": 0,
+    "Sa": 0,
+    "So": "14:00-20:00",
+    "closed-exc": 0,
+    "hours-exc": 0,
+    "ignore": 0,
+    "merged": 0,
+    "international": 0,
+    "action": 0,
+    "image": null,
+    "urheberschaft": null,
+    "train": "Straßenbahn 1, 3, oder 8 bis Einertstraße",
+    "train_distance": 100,
+    "short_distance": 0
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.403518984235774,
+      51.34751349240341
     ]
   }
 }]
