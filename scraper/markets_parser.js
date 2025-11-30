@@ -337,11 +337,16 @@ const registry = {
   LeipzigLeben: () => parseLeipzigLeben(),
   MarketsWmf: () => {
     parseJson("./markets_wmf.json").then((data_unfiltered) => {
-      const data = data_unfiltered.filter((entry) =>
-        !(entry.von.indexOf(".2022") > 0 || entry.von.indexOf(".22") > 0 ||
-          entry.von.indexOf(".2023") > 0 || entry.von.indexOf(".23") > 0 ||
-          entry.von.indexOf(".2024") > 0 || entry.von.indexOf(".24") > 0)
-      );
+      const data = data_unfiltered.filter(entry => !!entry).filter((entry, index) => {
+        try {
+          return !(entry.von.indexOf(".2022") > 0 || entry.von.indexOf(".22") > 0 ||
+            entry.von.indexOf(".2023") > 0 || entry.von.indexOf(".23") > 0 ||
+            entry.von.indexOf(".2024") > 0 || entry.von.indexOf(".24") > 0);
+        } catch(e) {
+          console.log("Fehler an Stelle " + index + " - " + e.message + ": " + JSON.stringify(entry, null, 2));
+          return false
+        }
+      });
       const csvContent = jsonToCsv(data);
       fs.writeFile("markets.csv", csvContent, (err) => {
         if (err) throw err;

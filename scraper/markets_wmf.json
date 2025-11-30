@@ -1,4 +1,7 @@
 [
+  null,
+  null,
+  null,
   {
     "id": 4,
     "bezirk": "Kleinzschocher",
@@ -117,6 +120,7 @@
     "short_distance": 1,
     "rss_beschreibung": "Knapp 30 Ausstellerinnen und Aussteller nehmen am 1. Adventswochenende wieder am diesjährigen Markt bei uns im Kulturhof Gohlis teil.Stände mit Modeaccessoires, Keramik und Porzellan, feiner, erlesener Schmuck, Feinkost, Naturkosmetik, wunderschöne Papeterie, Filzkunst, allerlei Wohnaccessoires und vieles mehr bieten den Besuchern eine wunderbare Auswahl an Geschenkideen. Alle Aussteller sind Designer/-innen, Kunsthandwerker/-innen und Manufakturen aus Leipzig und Umgebung.Erstmalig öffnet ein weiteres Gebäude im Kulturhof Gohlis, in dem sich Bildende Künstler/-innen präsentieren. Es gibt Workshops für die Kleineren und gemeinsames Singen…Für die kulinarischen Genüsse sorgt das Werkcafé mit den liebevoll hausgemachten Köstlichkeiten. Der Eintritt ist frei!Samstag: 13 bis 20 UhrSonntag: 11 bis 18 Uhrhttps://kulturhof-gohlis.de/"
   },
+  null,
   {
     "id": 8,
     "bezirk": "Dölitz-Dösen",
@@ -156,6 +160,9 @@
     "short_distance": 1,
     "rss_beschreibung": "Süße Dinge und schöne Gaben gibt es am 1. Advent in der Dölitzer Wassermühle. Kinderbackstube, Glühwein und Chorgesang läuten die Vorweihnachtszeit ein."
   },
+  null,
+  null,
+  null,
   {
     "id": 12,
     "bezirk": "Gohlis-Süd",
@@ -234,6 +241,7 @@
     "short_distance": 1,
     "rss_beschreibung": "Kulturweihnachtsmarkt mit Speis & Trank, Verkaufsständen, Lagerfeuer, Weihnachtsbasteleien und viel Kultur.Märchen und Geschichten am Lagerfeuer, weihnachtliche Leckereien und Basteleien, Verkaufsstände und musikalische Geschenke von Klezmer bis zu frisch gewaschenen Popsongs – am dritten Adventswochenende bietet das Budde-Haus wieder abwechslungsreiche Einstimmungen auf das Weihnachtsfest. Vom 12. bis zum 14. Dezember 2025, täglich ab 15:00 Uhr, auf dem gesamten Außengelände. Und als Highlight kann die weltweit größte Weihnachtskarte mit gestaltet und versendet werden.12. und 13. Dezember 2025: 15:00 bis 20:0014. Dezember 2025 : 15 bis 18 Uhrhttps://www.budde-haus.de/"
   },
+  null,
   {
     "id": 15,
     "bezirk": "Altlindenau",
@@ -274,6 +282,7 @@
     "short_distance": 1,
     "rss_beschreibung": "Der Philippus-Biergarten öffnet als winterlicher Glühgarten. An der Feuerschale kann man sich wärmen und am Weihnachtshäuschen mit wärmenden Getränken und leckeren Speisen versorgen."
   },
+  null,
   {
     "id": 17,
     "bezirk": "Stötteritz",
@@ -354,6 +363,7 @@
     "short_distance": 1,
     "rss_beschreibung": "Das gesamte Gelände vom Werk 2 wird zum wundervollen Connewitzer Weihnachtsmarkt. Vom 10.12. – 21.12.2025 präsentieren wieder zahlreiche Händler/-innen ihre handgemachten, kreativen, leckeren und duftenden Produkte. Neben vielen Ständen und einer gemütlichen Atmosphäre warten viele Mitmachangebote und Veranstaltungen.Mittwoch 10.12.2025: 16–21 Uhr"
   },
+  null,
   {
     "id": 20,
     "bezirk": "Gohlis-Süd",
@@ -395,6 +405,7 @@
     "short_distance": 0,
     "rss_beschreibung": "Vom 26.11. – 21.12.2025 Glanz und Fröhlichkeit des Advent in der besinnlichen Atmosphäre des Gohliser Schlösschens. Verweilen bei festlicher Stimmung und zu weihnachtlicher Musik im Barockgarten mit elbstgebackenen süßen und herzhaften Waffeln, gebrannten Mandeln und „hausgeglühtem“ Glühwein, Punsch und heißen Säften. Abgerundet wird das Angebot durch ein abwechslungsreiches Kulturprogramm – Chormusik, Instrumentalisten, gemeinsames Adventsliedersingen, Turmbläser, Weihnachtsgeschichten und vieles mehr.„Weihnachtsduft und Lichterglanz“ ist kein klassischer Weihnachtsmarkt! Das Gohliser Schlösschen bietet eine Alternative zu den klassischen Weihnachtsmärkten. Ganz bewusst verzichtet wird auf Marktbuden und Verkaufsstände und geboten wird ein stimmungsvoller und besinnlicher Ort für Kunst, Kultur, Gespräche und geselliges Miteinander. https://gohliserschloesschen.de/weihnachtsduft/"
   },
+  null,
   {
     "id": 22,
     "bezirk": "Gohlis-Mitte",
@@ -512,6 +523,7 @@
     "short_distance": 1,
     "rss_beschreibung": "Besucherinnen und Besucher erwartet ein stimmungsvoller Adventstag mit zahlreichen Ständen regionaler Händler/-innen, die handgemachte, fair gehandelte und regionale Produkte anbieten.Vor dem Schloss sorgen kulinarische Leckereien, Glühwein und weihnachtliche Musik für eine festliche Atmosphäre. Besonders beliebt ist der Bereich hinter dem Schloss, der sich ganz den Kindern widmet. Dort gibt es Bastel- und Kreativangebote, Ponyreiten und eine Weihnachtsmannsprechstunde. Auch im Schloss werden kreative Mitmachaktionen wie z.B. Töpfern und Steine schleifen sowie eine Märchenstunde angeboten.https://verein.schloss-schoenefeld.de/"
   },
+  null,
   {
     "id": 26,
     "bezirk": "Markkleeberg-Mitte",
@@ -632,6 +644,9 @@
     "train_distance": 176,
     "short_distance": 1
   },
+  null,
+  null,
+  null,
   {
     "id": 33,
     "bezirk": "Plagwitz",
@@ -713,6 +728,10 @@
     "short_distance": 1,
     "rss_beschreibung": "Die Tradition des Leipziger Weihnachtsmarktes reicht bis in das Jahr 1458 zurück, womit er der zweitälteste in Deutschland ist. Aufgrund seines einzigartigen kulturellen und kulinarischen Angebotes in der fußgängerfreundlichen, illuminierten Innenstadt hat er sich einen legendären Ruf erworben. Umrahmt wird das weihnachtliche Warenangebot von Höhepunkten wie den Orgelmusiken und Aufführungen des Weihnachtsoratoriums von Johann Sebastian Bach in den Leipziger Kirchen, den Turmbläserauftritten auf dem Turm des Alten Rathauses, der Weihnachtsshow des Krystallpalast Varietés und nicht zuletzt dem Märchenwald und der Weihnachtsmannsprechstunde."
   },
+  null,
+  null,
+  null,
+  null,
   {
     "id": 40,
     "bezirk": "Lindenau",
@@ -793,6 +812,8 @@
     "train_distance": 304,
     "short_distance": 1
   },
+  null,
+  null,
   {
     "id": 47,
     "bezirk": "Lützschena-Stahmeln",
@@ -833,6 +854,9 @@
     "short_distance": 0,
     "rss_beschreibung": "mit Adventsgottesdienst, danach Stände rund um die Kirche, 16.300 Uhr Konzert mit der Fiddle Folk Family „Weihnachten in Irland“"
   },
+  null,
+  null,
+  null,
   {
     "id": 54,
     "bezirk": "Zentrum",
