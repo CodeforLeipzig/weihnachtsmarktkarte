@@ -18,7 +18,7 @@ jobs:
           cd ./scraper
           npm install
           npm run leipzigde
-          git diff markets_leipzig_de.json | echo >> git_diff.txt
+          git diff --cached markets_leipzig_de.json | echo >> git_diff.txt
           if [ -s git_diff.txt ]; then echo "HAS_CHANGES=TRUE" >> "$GITHUB_OUTPUT"; fi
       - name: UploadWeihnachtsmaerkte
         if: ${{ steps.ScrapeMarkets.outputs.HAS_CHANGES }}
