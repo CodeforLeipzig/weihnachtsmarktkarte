@@ -2686,7 +2686,7 @@
     "short_distance": 1
   },
   {
-    "id": 105,
+    "id": 106,
     "bezirk": "Altlindenau",
     "name": "Antifaschistischer Wintermarkt",
     "shortname": "pixi",
@@ -2724,7 +2724,7 @@
     "short_distance": 1
   },
   {
-    "id": 106,
+    "id": 107,
     "bezirk": "Connewitz",
     "name": "Weihnachten mit Kreuz - der Ilses Erika Weihnachtsmarkt",
     "shortname": "Ilses Erika",
@@ -2762,7 +2762,7 @@
     "short_distance": 1
   },
   {
-    "id": 107,
+    "id": 108,
     "bezirk": "Connewitz",
     "name": "ATVentsmarkt",
     "shortname": "ATVentsmarkt",
@@ -2800,7 +2800,7 @@
     "short_distance": 1
   },
   {
-    "id": 107,
+    "id": 109,
     "bezirk": "Zentrum-Süd",
     "name": "Wintermarkt im WeltOffen",
     "shortname": "WeltOffen",
@@ -2838,7 +2838,7 @@
     "short_distance": 1
   },
   {
-    "id": 107,
+    "id": 110,
     "bezirk": "Connewitz",
     "name": "2. Weihnachtsmarkt in der Likörfabrik",
     "shortname": "Likörfabrik",
@@ -2874,5 +2874,43 @@
     "train": "Straßenbahn 12 bis Fritz-Seger-Str.",
     "train_distance": 347,
     "short_distance": 1
+  },
+  {
+    "id": 111,
+    "bezirk": "Südvorstadt",
+    "name": "Haus Steinstraße",
+    "shortname": "Haus Steinstraße",
+    "strasse": "Steinstraße 18",
+    "plz_ort": "04275 Leipzig",
+    "von": "07.12.25",
+    "bis": "07.12.25",
+    "veranstalter": "Haus Steinstraße",
+    "oeffnungszeiten": "15:00-18:00",
+    "email": null,
+    "w3": "https://haus-steinstrasse.de/termine/weihnachtsmarkt-im-haus-steinstrasse-2/?occurrence=2025-12-07",
+    "bemerkungen": "<a class='text-sm underline' target='blank' href='https://haus-steinstrasse.de/termine/weihnachtsmarkt-im-haus-steinstrasse-2/?occurrence=2025-12-07'>Offizielle Seite</a>",
+    "lat": 51.317629472266105,
+    "lng": 12.37063363558326,
+    "rss_titel": "Haus Steinstraße",
+    "rss_beschreibung": "Auch in diesem Jahr wird es wieder unseren beliebten Familienweihnachtsmarkt geben. Im Hof, im Café und in verschiedenen Kreativwerkstätten erwartet euch ein vielfältiges und kostenfreies Angebot zum Aktivwerden und Genießen: Tanzen, Schneekugeln und Fensterschmuck basteln, Kerzen verzieren … und einiges mehr. Natürlich wird es auch alkoholfreien Punsch und Waffeln in besinnlicher Atmosphäre am Feuer geben. Im Café Yellow warten herzhafte Kleinigkeiten darauf, verzehrt zu werden. Und die Theatergruppe  „Kaninchenkatze“ erwartet die großen und kleinen Besucher:innen zum Märchentheater „Frau Holle“ um 16.00 Uhr (kostenpflichtig). Wir freuen uns auf euch und einen gemeinsamen Nachmittag.",
+    "immer-kostenlos": 1,
+    "Mo": 0,
+    "Di": 0,
+    "Mi": 0,
+    "Do": 0,
+    "Fr": 0,
+    "Sa": 0,
+    "So": "15:00-18:00",
+    "closed-exc": 0,
+    "hours-exc": 0,
+    "ignore": 0,
+    "merged": 0,
+    "international": 0,
+    "action": 0,
+    "image": null,
+    "urheberschaft": null,
+    "train": "Straßenbahn 10 oder 11 bis Karl-Liebknecht-/Kurt-Eisner-Straße",
+    "train_distance": 421,
+    "short_distance": 0
   }
 ]
