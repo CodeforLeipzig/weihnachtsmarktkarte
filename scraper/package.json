@@ -12,6 +12,9 @@
     "innermarkets2json": "node ./markets_parser.js InnerMarketsJson",
     "innermarkets2csv": "node ./markets_parser.js InnerMarketsCsv",
     "innermarkettoilets": "node ./markets_parser.js InnerToilets",
+    "missing-images": "node ./missing_images.js",
+    "missing-ids": "node ./missing_ids.js",
+    "closing-times-adjust": "node ./closing_times_adjust.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Joerg Reichert",

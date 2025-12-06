@@ -36,6 +36,12 @@ parseJson("./markets.geojson").then((data) => {
     const friday = feature.properties.Fr;
     const saturday = feature.properties.Sa;
     const sunday = feature.properties.So;
+    const weekdayAccs = [sunday, monday, tuesday, wednesday, thursday, friday, saturday];
+
+    const closedExc = feature.properties["closed-exc"];
+    const closedExcReadable = feature.properties["closed-exc-readable"];
+    const hoursExc = feature.properties["hours-exc"];
+    const hoursExcReadable = feature.properties["hours-exc-readable"];
 
     const from = parseDate(fromStr);
     const to = parseDate(toStr);
@@ -46,7 +52,6 @@ parseJson("./markets.geojson").then((data) => {
     //console.log(weekday);
     
     if (fromStr === toStr) {
-      const weekdayAccs = [sunday, monday, tuesday, wednesday, thursday, friday, saturday];
       const weekdayIndex = weekdays.indexOf(weekday);
       for (var i=0; i<weekdays.length; i++) {
         if (i !== weekdayIndex) {
@@ -61,21 +66,55 @@ parseJson("./markets.geojson").then((data) => {
           }
         }
       }
-      if (!!feature["closed-exc"]) {
-        console.log("** ERROR: closed-exc " + feature["closed-exc"] + " should be null");
+      if (!!closedExc) {
+        console.log("** ERROR: closed-exc " + closedExc + " should be 0");
       }
-      if (!!feature["closed-exc-readable"]) {
-        console.log("** ERROR: closed-exc-readable " + feature["closed-exc-readable"] + " should be null");
+      if (!!closedExcReadable) {
+        console.log("** ERROR: closed-exc-readable " + closedExcReadable + " should be null");
       }
-      if (!!feature["hours-exc"]) {
-        console.log("** ERROR: hours-exc " + feature["hours-exc"] + " should be 0");
+      if (!!hoursExc) {
+        console.log("** ERROR: hours-exc " + hoursExc + " should be 0");
       }
-      if (!!feature["hours-exc-readable"]) {
-        console.log("** ERROR: hours-exc-readable " + feature["hours-exc-readable"] + " should be null");
+      if (!!hoursExcReadable) {
+        console.log("** ERROR: hours-exc-readable " + hoursExcReadable + " should be null");
       }
     } else {
       if (from.getTime() > to.getTime()) {
         console.log("** ERROR: from " + from + "should be before " + toStr);
+      }
+      const closingDays = [];
+      const closingHours = [];
+      for (var i=1; i<90; i++) {
+        const next = new Date(from.getTime());
+        next.setDate(from.getDate() + i);
+        if (next.getTime() > to.getTime()) {
+          break;
+        }
+        const weekdayAcc = weekdayAccs[next.getDay()];
+        if (weekdayAcc === 0) {
+          const nextStr = formatDate(next);
+          closingDays.push(nextStr);
+        }
+      }
+      for (var i=0; i<90; i++) {
+        const next = new Date(from.getTime());
+        next.setDate(from.getDate() + i);
+        if (next.getTime() > to.getTime()) {
+          break;
+        }
+        const weekdayAcc = weekdayAccs[next.getDay()];
+        if (weekdayAcc !== 0 && weekdayAcc !== generalOpen) {
+          const nextStr = formatDate(next);
+          closingHours.push(nextStr + "=" + weekdayAcc);
+        }
+      }
+      const expectedClosingDays = closingDays.length ? closingDays.join(",") : 0; 
+      if (expectedClosingDays !== closedExc) {
+        console.log("** ERROR: closed-exc " + closedExc + " should match expected " + expectedClosingDays);
+      }
+      const expectedClosingHours = closingHours.length ? closingHours.join(",") : 0; 
+      if (expectedClosingHours !== hoursExc) {
+        console.log("** ERROR: hours-exc " + hoursExc + " should match expected " + expectedClosingHours);
       }
     }
   });
@@ -85,6 +124,13 @@ const parseDate = (str) => {
     const parts = str.split(".");
     const formattedDate = ("20" + parts[2]) + "-" + parts[1] + "-" + parts[0];
     return new Date(Date.parse(formattedDate));
+}
+
+const formatDate = (date) => {
+  const day = date.getDate();
+  const month = date.getMonth() + 1;
+  const twoDigits = (val) => (val < 10 ? ("0" + val) : val);
+  return twoDigits(day) + "." + twoDigits(month) + "." + (date.getFullYear()-2000);
 }
 
 const resolveWeekday = (date) => {
