@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Vegan Festival Leipzig – Winteredition
+X-WR-CALNAME:Vegan Festival Leipzig – Winteredition
+BEGIN:VEVENT
+UID:6247d7ac-8072-4da2-85d5-9b226a7118a8
+SEQUENCE:0
+DTSTAMP:20251206T152105Z
+DTSTART:20251213T110000Z
+DTEND:20251213T200000Z
+SUMMARY:Vegan Festival Leipzig – Winteredition
+LOCATION:Polyphonstr. 8\, 04159 Leipzig
+URL;VALUE=URI:https://www.pittlerwerke.org/de/event/vegan-festival-leipzig
+ -winter
+END:VEVENT
+BEGIN:VEVENT
+UID:f7fdb284-734a-4bf3-81a4-b36e48818336
+SEQUENCE:1
+DTSTAMP:20251206T152105Z
+DTSTART:20251214T110000Z
+DTEND:20251214T190000Z
+SUMMARY:Vegan Festival Leipzig – Winteredition
+LOCATION:Polyphonstr. 8\, 04159 Leipzig
+URL;VALUE=URI:https://www.pittlerwerke.org/de/event/vegan-festival-leipzig
+ -winter
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Haus Steinstraße
+X-WR-CALNAME:Haus Steinstraße
+BEGIN:VEVENT
+UID:c5da464c-18d2-430c-9ce2-63d594292f82
+SEQUENCE:0
+DTSTAMP:20251206T152105Z
+DTSTART:20251207T140000Z
+DTEND:20251207T170000Z
+SUMMARY:Haus Steinstraße
+LOCATION:Steinstraße 18\, 04275 Leipzig
+URL;VALUE=URI:https://haus-steinstrasse.de/termine/weihnachtsmarkt-im-haus
+ -steinstrasse-2/?occurrence=2025-12-07
+END:VEVENT
+END:VCALENDAR

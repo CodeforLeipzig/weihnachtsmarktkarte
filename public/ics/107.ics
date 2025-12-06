@@ -2,16 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 METHOD:REQUEST
-NAME:ATVentsmarkt
-X-WR-CALNAME:ATVentsmarkt
+NAME:ArtMarkt – Weihnachtsedition
+X-WR-CALNAME:ArtMarkt – Weihnachtsedition
 BEGIN:VEVENT
-UID:47dcf26d-cf47-4c7d-a6d8-d46cadc55c36
+UID:1187787a-7c58-4d0b-8ccf-dc77988fa50d
 SEQUENCE:0
-DTSTAMP:20251130T205733Z
-DTSTART:20251206T130000Z
-DTEND:20251206T210000Z
-SUMMARY:ATVentsmarkt
-LOCATION:Gerhard-Langner-Weg 1\, 04299 Leipzig
-URL;VALUE=URI:https://www.atv1845.de/events/atv-adventsmarkt-751/
+DTSTAMP:20251206T152105Z
+DTSTART:20251130T130000Z
+DTEND:20251130T190000Z
+SUMMARY:ArtMarkt – Weihnachtsedition
+LOCATION:Hedwigstraße 20\, 04315 Leipzig
+URL;VALUE=URI:https://www.pöge-haus.de/de/pec-events/artmarkt-4-2/
 END:VEVENT
 END:VCALENDAR

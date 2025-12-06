@@ -5,9 +5,9 @@ METHOD:REQUEST
 NAME:Weihnachtsmarkt im Stadtgut Mölkau
 X-WR-CALNAME:Weihnachtsmarkt im Stadtgut Mölkau
 BEGIN:VEVENT
-UID:104cb7b6-a6a9-40ea-a3bf-9f1afe768c7b
+UID:bca42b5e-9582-4675-81a1-b8d6e7009f83
 SEQUENCE:0
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251206T110000Z
 DTEND:20251206T225900Z
 SUMMARY:Weihnachtsmarkt im Stadtgut Mölkau
@@ -16,9 +16,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/weihnachtsmarkt-im-stadtgut-moelkau
 END:VEVENT
 BEGIN:VEVENT
-UID:ef0169d8-3ccf-4cf3-b9c4-acedf0fcb4d3
+UID:216ef09c-bab8-4db2-a788-a8ea19a98523
 SEQUENCE:1
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251207T110000Z
 DTEND:20251207T225900Z
 SUMMARY:Weihnachtsmarkt im Stadtgut Mölkau

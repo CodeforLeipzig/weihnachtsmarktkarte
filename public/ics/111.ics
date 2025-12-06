@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 METHOD:REQUEST
-NAME:Haus Steinstraße
-X-WR-CALNAME:Haus Steinstraße
+NAME:ATVentsmarkt
+X-WR-CALNAME:ATVentsmarkt
 BEGIN:VEVENT
-UID:55966f06-07ef-4ea3-84e3-b564fa0e8a78
+UID:fdf498b4-b49e-495d-b62e-d0f5ce9dbe14
 SEQUENCE:0
-DTSTAMP:20251203T185737Z
-DTSTART:20251207T140000Z
-DTEND:20251207T170000Z
-SUMMARY:Haus Steinstraße
-LOCATION:Steinstraße 18\, 04275 Leipzig
-URL;VALUE=URI:https://haus-steinstrasse.de/termine/weihnachtsmarkt-im-haus
- -steinstrasse-2/?occurrence=2025-12-07
+DTSTAMP:20251206T152105Z
+DTSTART:20251206T130000Z
+DTEND:20251206T210000Z
+SUMMARY:ATVentsmarkt
+LOCATION:Gerhard-Langner-Weg 1\, 04299 Leipzig
+URL;VALUE=URI:https://www.atv1845.de/events/atv-adventsmarkt-751/
 END:VEVENT
 END:VCALENDAR

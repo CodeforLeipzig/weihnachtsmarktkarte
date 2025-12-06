@@ -5,9 +5,9 @@ METHOD:REQUEST
 NAME:Finnisches Dorf
 X-WR-CALNAME:Finnisches Dorf
 BEGIN:VEVENT
-UID:419e8c9f-4440-4d46-a21f-39eab7f0d03c
+UID:503683da-c020-4272-ae32-674c5c8c8b0e
 SEQUENCE:0
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251125T090000Z
 DTEND:20251125T200000Z
 SUMMARY:Finnisches Dorf
@@ -16,9 +16,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:c73ff36e-c83d-4e07-a212-faa772df6645
+UID:b0c9e15b-8aab-4386-8d08-e4a582c5ecd8
 SEQUENCE:1
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251126T090000Z
 DTEND:20251126T200000Z
 SUMMARY:Finnisches Dorf
@@ -27,9 +27,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:e77c11c4-8233-4ebb-b7fb-ba1723cf8ca1
+UID:8e98cafe-e569-4215-9da1-e574896193f8
 SEQUENCE:2
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251127T090000Z
 DTEND:20251127T200000Z
 SUMMARY:Finnisches Dorf
@@ -38,9 +38,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:38e0d7e8-9efd-4f67-964b-67cddfcff370
+UID:8204ddcd-549d-4cfd-ba76-07329873da2a
 SEQUENCE:3
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251128T090000Z
 DTEND:20251128T210000Z
 SUMMARY:Finnisches Dorf
@@ -49,9 +49,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:8b61a703-92d0-490c-82e5-553b7756f291
+UID:7ce5fb74-545f-473f-9de7-071a26817224
 SEQUENCE:4
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251129T090000Z
 DTEND:20251129T210000Z
 SUMMARY:Finnisches Dorf
@@ -60,9 +60,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:abb2d862-b5df-4422-8831-4d65192804fe
+UID:b61fb394-346c-4513-9574-6e89d95d2193
 SEQUENCE:5
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251130T090000Z
 DTEND:20251130T200000Z
 SUMMARY:Finnisches Dorf
@@ -71,9 +71,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:372a556c-e05d-4741-98fd-31e23d3ca4ac
+UID:631a72bd-6ae7-4071-9d47-c386e7b8dbb8
 SEQUENCE:6
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251201T090000Z
 DTEND:20251201T200000Z
 SUMMARY:Finnisches Dorf
@@ -82,9 +82,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:f30ada6d-5e72-463e-9140-26af7f0b247f
+UID:798e385e-38d0-4e24-a129-6e56cd2c7de6
 SEQUENCE:7
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251202T090000Z
 DTEND:20251202T200000Z
 SUMMARY:Finnisches Dorf
@@ -93,9 +93,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:ec8fc4f0-73d8-4d7b-9fc7-d5da77c4519b
+UID:a5700a28-eb31-499a-81ed-1b5b854c8de5
 SEQUENCE:8
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251203T090000Z
 DTEND:20251203T200000Z
 SUMMARY:Finnisches Dorf
@@ -104,9 +104,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:358cd068-0c70-4a9f-a64c-b1023856a2e1
+UID:7f1a216c-5203-4eeb-8430-438bbe2a85f4
 SEQUENCE:9
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251204T090000Z
 DTEND:20251204T200000Z
 SUMMARY:Finnisches Dorf
@@ -115,9 +115,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:f4947603-e041-49fe-b52d-bf54ef3aee88
+UID:fee22619-8cdd-44b4-9f2b-6af180f13394
 SEQUENCE:10
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251205T090000Z
 DTEND:20251205T210000Z
 SUMMARY:Finnisches Dorf
@@ -126,9 +126,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:e24ebf4d-c9fa-41a6-a326-0cfd2f402d78
+UID:59d7ef4a-543c-4364-97d9-cc77c2bba6eb
 SEQUENCE:11
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251206T090000Z
 DTEND:20251206T210000Z
 SUMMARY:Finnisches Dorf
@@ -137,9 +137,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:6cc0c69c-d896-466b-b2cd-471a842300d8
+UID:56fafb1c-33c5-4c40-b1e0-387f6f33875d
 SEQUENCE:12
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251207T090000Z
 DTEND:20251207T200000Z
 SUMMARY:Finnisches Dorf
@@ -148,9 +148,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:52872448-825d-4768-91f7-b6f6c0135deb
+UID:0bbb487b-cb87-4fdb-b1bf-c888021e0de0
 SEQUENCE:13
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251208T090000Z
 DTEND:20251208T200000Z
 SUMMARY:Finnisches Dorf
@@ -159,9 +159,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:db268661-6e3b-496d-83bb-7e42ffc19c82
+UID:0cbcac5f-be2c-4c26-bfa2-514cee6dd8ca
 SEQUENCE:14
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251209T090000Z
 DTEND:20251209T200000Z
 SUMMARY:Finnisches Dorf
@@ -170,9 +170,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:2f172e78-3f9f-4560-8eda-59d4acd9884a
+UID:b3fb9e1e-3209-45fc-915c-a153cbd2f6fb
 SEQUENCE:15
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251210T090000Z
 DTEND:20251210T200000Z
 SUMMARY:Finnisches Dorf
@@ -181,9 +181,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:0d5248a9-93dc-40a0-a18f-c270944997bb
+UID:4bd36a04-1543-4a7d-838b-0d8748713395
 SEQUENCE:16
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251211T090000Z
 DTEND:20251211T200000Z
 SUMMARY:Finnisches Dorf
@@ -192,9 +192,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:f11d79ef-52b4-4da1-8100-1eeb8fa8a72f
+UID:0a071a3f-7bd3-4eab-8c6f-70bf6a63d3a9
 SEQUENCE:17
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251212T090000Z
 DTEND:20251212T210000Z
 SUMMARY:Finnisches Dorf
@@ -203,9 +203,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:15228027-7d64-4575-a76b-f08bd1c08c9f
+UID:be60ac15-233a-430c-b9ca-14bee3059653
 SEQUENCE:18
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251213T090000Z
 DTEND:20251213T210000Z
 SUMMARY:Finnisches Dorf
@@ -214,9 +214,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:8f9b8483-ccb5-47b7-83ac-60db6d70ad76
+UID:1967a583-d518-4c2b-a7a8-47c53158201c
 SEQUENCE:19
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251214T090000Z
 DTEND:20251214T200000Z
 SUMMARY:Finnisches Dorf
@@ -225,9 +225,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:9e250303-f017-498a-ab99-a1c44ebfda63
+UID:6651af7c-d605-49d9-ba2c-060e41e5ef0f
 SEQUENCE:20
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251215T090000Z
 DTEND:20251215T200000Z
 SUMMARY:Finnisches Dorf
@@ -236,9 +236,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:6e72c354-afb9-4df5-8473-4fad52612f9a
+UID:04b4e8f1-60eb-4dfd-8464-012868bd45ed
 SEQUENCE:21
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251216T090000Z
 DTEND:20251216T200000Z
 SUMMARY:Finnisches Dorf
@@ -247,9 +247,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:5eac371f-fe6b-41a7-9d41-bba4687b0b97
+UID:ffc3941c-76da-4cf2-ba1b-6d313349c281
 SEQUENCE:22
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251217T090000Z
 DTEND:20251217T200000Z
 SUMMARY:Finnisches Dorf
@@ -258,9 +258,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:178b2510-3a1d-4ee6-8405-273c76a818df
+UID:6def6f47-1693-4d20-9eab-04a8b3b12094
 SEQUENCE:23
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251218T090000Z
 DTEND:20251218T200000Z
 SUMMARY:Finnisches Dorf
@@ -269,9 +269,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:2aa4a559-ffed-4e2a-8890-0e2a2a489f52
+UID:136ec030-1918-4b00-ba5a-4b8b28481e98
 SEQUENCE:24
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251219T090000Z
 DTEND:20251219T210000Z
 SUMMARY:Finnisches Dorf
@@ -280,9 +280,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:1845a5f8-1c17-4a4b-b017-06d3919f01a3
+UID:2da71094-bbfc-4549-8670-9b6c83837064
 SEQUENCE:25
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251220T090000Z
 DTEND:20251220T210000Z
 SUMMARY:Finnisches Dorf
@@ -291,9 +291,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:21fbed68-5076-4b76-8561-1aa20b6ba87c
+UID:9510eac0-2b12-4a81-ab68-aada09d66409
 SEQUENCE:26
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251221T090000Z
 DTEND:20251221T200000Z
 SUMMARY:Finnisches Dorf
@@ -302,9 +302,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:7aaf9311-495b-48d9-af87-27c89dee32ee
+UID:5b6b2173-fd97-4d0b-9737-f3b8a79d4b4a
 SEQUENCE:27
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251222T090000Z
 DTEND:20251222T200000Z
 SUMMARY:Finnisches Dorf
@@ -313,9 +313,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
 END:VEVENT
 BEGIN:VEVENT
-UID:9031f1ff-1e5f-4df3-889f-9d2ee8fe7c69
+UID:fa66c18e-4018-4be5-bff7-63774ef957b4
 SEQUENCE:28
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251223T090000Z
 DTEND:20251223T200000Z
 SUMMARY:Finnisches Dorf

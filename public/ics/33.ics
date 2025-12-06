@@ -5,9 +5,9 @@ METHOD:REQUEST
 NAME:Felsenkeller Weihnachtsmarkt
 X-WR-CALNAME:Felsenkeller Weihnachtsmarkt
 BEGIN:VEVENT
-UID:afeed040-8b50-472e-8d77-67428070bb4b
+UID:17684d44-82fa-4f6f-b922-6c1309454f50
 SEQUENCE:0
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251127T140000Z
 DTEND:20251127T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -16,9 +16,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:4575ae81-2e6f-4d6a-83f4-58998f7fd1d6
+UID:7b9f686c-6c0b-4394-b914-5f579c2fd7a6
 SEQUENCE:1
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251128T140000Z
 DTEND:20251128T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -27,9 +27,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:e8ad5502-04e3-4d51-ad58-6c0f700aa756
+UID:49f6a09d-1f80-4735-bea8-a9d5665c626b
 SEQUENCE:2
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251129T100000Z
 DTEND:20251129T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -38,9 +38,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:e0f233c3-7e90-4305-9b76-6355abbf5418
+UID:22201639-b580-4f6e-a276-4f1c118d9000
 SEQUENCE:3
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251130T100000Z
 DTEND:20251130T190000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -49,9 +49,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:920597ad-13bb-4725-9ad3-7cf2da30965f
+UID:c2e6f64f-0bc0-453f-b1da-d2e9f69fe8a3
 SEQUENCE:4
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251201T140000Z
 DTEND:20251201T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -60,9 +60,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:92c130f9-b3b8-49bc-a8d9-6d182c0ffa57
+UID:c00cf652-fe10-4b07-b4f9-ca9c4995db43
 SEQUENCE:5
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251202T140000Z
 DTEND:20251202T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -71,9 +71,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:adb65809-34a0-4108-a624-dddfb11139dd
+UID:a1aaf8a6-17a6-4f09-8624-388370dc5faa
 SEQUENCE:6
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251203T140000Z
 DTEND:20251203T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -82,9 +82,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:e0516c8a-3639-4f5a-bda6-2ec0d91658d5
+UID:401acf26-f882-495e-bbcb-0072859fe442
 SEQUENCE:7
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251204T140000Z
 DTEND:20251204T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -93,9 +93,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:16fe40b8-5699-49e8-ad31-180ea8caf316
+UID:d34ffdf1-dad0-4a6f-999d-401c43b87567
 SEQUENCE:8
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251205T140000Z
 DTEND:20251205T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -104,9 +104,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:dcc41806-c1fb-471e-8d56-ea928e7335e8
+UID:610c2ec2-9848-499c-aa1b-acf68b70a9dd
 SEQUENCE:9
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251206T100000Z
 DTEND:20251206T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -115,9 +115,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:a85f38c3-41f0-4916-badb-14cdd75df118
+UID:7e5f2f47-1bab-4e08-ac03-3d7c977693b9
 SEQUENCE:10
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251207T100000Z
 DTEND:20251207T190000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -126,9 +126,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:538eb13b-0f12-483e-beb3-00888b4e783f
+UID:c22e0424-3365-40ea-858d-82a43403355d
 SEQUENCE:11
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251208T140000Z
 DTEND:20251208T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -137,9 +137,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:3fd122ca-6f12-40cd-9ad2-6ab1f601e2a7
+UID:6aa47a34-bd56-47a1-aab4-3fc715053a59
 SEQUENCE:12
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251209T140000Z
 DTEND:20251209T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -148,9 +148,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:900360e1-78ee-4c3a-a89c-533b81273d79
+UID:d45e2fff-1202-48b4-8813-6ba7a43e414a
 SEQUENCE:13
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251210T140000Z
 DTEND:20251210T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -159,9 +159,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:e7efd6b0-1d09-485b-9794-a5993341f367
+UID:ce7ba0cd-48c0-48d8-aa4c-d89e786640cc
 SEQUENCE:14
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251211T140000Z
 DTEND:20251211T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -170,9 +170,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:ca5a39b4-9709-4f9c-805c-f7ab410642af
+UID:ada4de9e-e039-4d15-b508-4459cbafeea2
 SEQUENCE:15
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251212T140000Z
 DTEND:20251212T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -181,9 +181,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:7addfa9f-e587-4e9f-bd91-621778608b70
+UID:9f8aa6f9-19f7-43c5-ba43-0ded0a5c40b0
 SEQUENCE:16
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251213T100000Z
 DTEND:20251213T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -192,9 +192,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:a8b07e60-7e29-4877-bad3-4f2a974e7529
+UID:03587205-5c79-43de-ac2d-b776ba8f1c06
 SEQUENCE:17
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251214T100000Z
 DTEND:20251214T190000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -203,9 +203,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:6f812f21-c680-44a5-9a4c-057ab37efc50
+UID:53e878c1-b6f7-4c4e-9437-e2206a5deca5
 SEQUENCE:18
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251215T140000Z
 DTEND:20251215T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -214,9 +214,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:b6da2916-e51e-45ce-807e-fb6dd35ca773
+UID:1d8ed14e-e58c-44cb-97f2-256b4ede2113
 SEQUENCE:19
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251216T140000Z
 DTEND:20251216T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -225,9 +225,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:f8f0d476-3f5c-4ddb-b3d5-237e96949068
+UID:96b24a14-b67a-4192-9308-aace3fa78387
 SEQUENCE:20
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251217T140000Z
 DTEND:20251217T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -236,9 +236,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:b6486007-ad51-44ee-aea1-3fb715a35725
+UID:ef09198f-4823-4656-9843-7d1463d66ee3
 SEQUENCE:21
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251218T140000Z
 DTEND:20251218T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -247,9 +247,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:6aa87425-bb1a-4121-b9fa-8464c4e9e09a
+UID:da844671-752c-4367-8702-8be039f7778c
 SEQUENCE:22
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251219T140000Z
 DTEND:20251219T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -258,9 +258,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:7a842741-ed70-4909-b2fe-06e4dd66a0c4
+UID:2c282a48-b7ad-4b5b-8fcd-5c6fb8db1564
 SEQUENCE:23
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251220T100000Z
 DTEND:20251220T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -269,9 +269,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:23bbc304-db29-484b-bed3-48cc69b01564
+UID:d022e924-e4d9-4674-b204-43be6e6b21ff
 SEQUENCE:24
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251221T100000Z
 DTEND:20251221T190000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -280,9 +280,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:8f696016-d397-4e8f-bd83-0c8a3123f2b9
+UID:29139503-1f5d-4990-bfe8-20130bb22478
 SEQUENCE:25
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251222T140000Z
 DTEND:20251222T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -291,9 +291,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:ef6a1560-61cf-4929-918e-8a26de961714
+UID:6b75825a-f9a9-4893-90bf-c4ec4b788db1
 SEQUENCE:26
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251223T140000Z
 DTEND:20251223T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -302,9 +302,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:0352eefc-0e91-400c-89e9-07d5db71dc01
+UID:c03564e8-26da-4c94-9624-7f5444201f7d
 SEQUENCE:27
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251224T140000Z
 DTEND:20251224T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -313,9 +313,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:7dff40e8-09ff-4108-aed1-2e847ef68b4e
+UID:ed6f4e7c-c438-4751-8dd5-3fccc48b6a4e
 SEQUENCE:28
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251225T140000Z
 DTEND:20251225T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -324,9 +324,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:16a1f52d-ea0e-415d-a55f-0f009b38fd91
+UID:d7ea1802-2c45-4550-b428-7a73bcef6665
 SEQUENCE:29
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251226T140000Z
 DTEND:20251226T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -335,9 +335,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:42e55e69-c8b1-441e-a289-5bc6e353076e
+UID:b7160fbb-3a1d-48ee-bc59-2833318f2c55
 SEQUENCE:30
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251227T100000Z
 DTEND:20251227T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -346,9 +346,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:db1ca3cc-85a1-44a2-88c1-480b643b15bf
+UID:96812aae-eaec-48b8-a449-7715e90bcb60
 SEQUENCE:31
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251228T100000Z
 DTEND:20251228T190000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -357,9 +357,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:0f022605-f921-4b74-a0fc-e1ea92c167b2
+UID:db6b1e41-cba2-4934-bf6c-4960d0f8ccd2
 SEQUENCE:32
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251229T140000Z
 DTEND:20251229T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
@@ -368,9 +368,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/felsenkeller-weihnachtsmarkt-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:8cb5ef6d-bb0d-4bfe-ac2d-77c2b0038a47
+UID:d36bf568-9658-4c96-9ce3-f80127520e0c
 SEQUENCE:33
-DTSTAMP:20251130T205733Z
+DTSTAMP:20251206T152105Z
 DTSTART:20251230T140000Z
 DTEND:20251230T203000Z
 SUMMARY:Felsenkeller Weihnachtsmarkt
