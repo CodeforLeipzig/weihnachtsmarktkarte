@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Dark XMAS Markt in der Moritzbastei
+X-WR-CALNAME:Dark XMAS Markt in der Moritzbastei
+BEGIN:VEVENT
+UID:3dbef756-ff99-42e3-97e7-bfd87e08a31c
+SEQUENCE:0
+DTSTAMP:20251206T171617Z
+DTSTART:20251214T120000Z
+DTEND:20251214T180000Z
+SUMMARY:Dark XMAS Markt in der Moritzbastei
+LOCATION:Kurt-Masur-Platz 1\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
+ ventsingle/event/dark-xmas-markt
+END:VEVENT
+END:VCALENDAR

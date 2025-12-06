@@ -5,9 +5,9 @@ METHOD:REQUEST
 NAME:Leipziger Weihnachtsmarkt
 X-WR-CALNAME:Leipziger Weihnachtsmarkt
 BEGIN:VEVENT
-UID:ebaeebdb-0a03-4b67-b185-f633c7cfe37e
+UID:f5d5fc25-0963-46c2-af56-c59f1399c75e
 SEQUENCE:0
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251125T100000Z
 DTEND:20251125T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -16,9 +16,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:cfdcc90c-fb23-40b1-a68b-2591b4d906e2
+UID:88327263-b691-4495-8356-b1e49e6b526f
 SEQUENCE:1
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251126T100000Z
 DTEND:20251126T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -27,9 +27,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:646023b8-2b9d-4356-8c91-698cdfa8c69e
+UID:3b33fd94-9d04-4c96-918b-d9b9aa48c255
 SEQUENCE:2
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251127T100000Z
 DTEND:20251127T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -38,9 +38,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:ca3a1bf5-5107-4252-af06-d502c85abbe4
+UID:e60cae6a-0469-4708-8f63-69364a598937
 SEQUENCE:3
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251128T100000Z
 DTEND:20251128T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -49,9 +49,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:1595e50a-1717-41d4-9103-59f6d4dd063e
+UID:c81bf7ce-4cb7-4fbb-9a6f-098dae9d84ae
 SEQUENCE:4
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251129T100000Z
 DTEND:20251129T210000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -60,9 +60,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:63e72cc3-9e7d-45ba-8f30-fcfc07dd04f1
+UID:9fbf6f82-f785-45e9-88ef-ebdddfdcae84
 SEQUENCE:5
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251130T100000Z
 DTEND:20251130T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -71,9 +71,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:7c5fb6b4-02a9-4543-bdb6-92f315589a1d
+UID:118aada4-0bc8-4616-b8ab-c8a801e10cdf
 SEQUENCE:6
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251201T100000Z
 DTEND:20251201T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -82,9 +82,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:2846bfa4-17f3-4267-9d71-8587fd7e0d2e
+UID:ff1af80e-acb2-4bfa-a72c-0d584bee49de
 SEQUENCE:7
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251202T100000Z
 DTEND:20251202T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -93,9 +93,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:0884c255-a2f1-4101-8cdd-11b74b474453
+UID:b81a1646-9482-440e-abf6-c964d3998b61
 SEQUENCE:8
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251203T100000Z
 DTEND:20251203T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -104,9 +104,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:f8c195ec-b49e-4660-aa70-c1c12de3ddb9
+UID:03dfa2c7-ff19-4758-80c9-336d4fed26ba
 SEQUENCE:9
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251204T100000Z
 DTEND:20251204T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -115,9 +115,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:a9ca5df3-ab31-476a-90b1-76d1481a5a57
+UID:a0a7513a-64dc-4f00-8696-eba7405d1cf0
 SEQUENCE:10
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251205T100000Z
 DTEND:20251205T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -126,9 +126,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:b7ca0472-3f80-40a0-b52b-fb603395fda9
+UID:1e9965cb-3604-467a-8e8a-3b8aea9e2ff7
 SEQUENCE:11
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251206T100000Z
 DTEND:20251206T210000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -137,9 +137,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:e3303e93-aabb-492b-ada8-cf8c4d3d456f
+UID:5f469bbb-c002-4466-bd0a-472c742070fe
 SEQUENCE:12
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251207T100000Z
 DTEND:20251207T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -148,9 +148,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:a402b4d3-9897-4173-a539-357d01b9e000
+UID:d9e3cd74-a37e-4b4d-85c0-01e887603875
 SEQUENCE:13
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251208T100000Z
 DTEND:20251208T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -159,9 +159,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:a7425b41-700a-46e0-b71a-11a35c86774a
+UID:9fdf1aa8-a0c6-4aab-8bef-87d5c196cb7a
 SEQUENCE:14
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251209T100000Z
 DTEND:20251209T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -170,9 +170,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:228aebad-a793-407b-b3d1-eb7a845f07ce
+UID:0b10d48b-24a8-4edc-a5a4-c43a9407952e
 SEQUENCE:15
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251210T100000Z
 DTEND:20251210T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -181,9 +181,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:8e335237-ab16-4f77-b517-325c28d52fec
+UID:387845e7-eff7-4061-bbb6-a483b8eece69
 SEQUENCE:16
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251211T100000Z
 DTEND:20251211T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -192,9 +192,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:dad70530-bb4c-470d-b6eb-18be003aed9e
+UID:c45ff162-6570-40a6-9fe4-24a95b9cfd4f
 SEQUENCE:17
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251212T100000Z
 DTEND:20251212T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -203,9 +203,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:73152176-2af9-4fe2-8d26-86e75c58e766
+UID:f778bd96-c4d7-4c38-92cc-d527542846d6
 SEQUENCE:18
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251213T100000Z
 DTEND:20251213T210000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -214,9 +214,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:98e25254-fa28-4d1c-9020-79e8affaa3c2
+UID:373d8296-d205-4b54-8ddf-ab5396989253
 SEQUENCE:19
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251214T100000Z
 DTEND:20251214T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -225,9 +225,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:55d51388-2803-41af-90d8-9d29c9784963
+UID:dd55f0ca-3fa3-4b9b-b644-1d092fd2da3e
 SEQUENCE:20
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251215T100000Z
 DTEND:20251215T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -236,9 +236,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:1d63c2a0-adb0-427b-b416-6835f41a0942
+UID:69cd5608-1a56-4106-ae0a-b9baa375f808
 SEQUENCE:21
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251216T100000Z
 DTEND:20251216T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -247,9 +247,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:a7b25753-d760-4aa2-91c7-049032aebc70
+UID:520eb9cf-3c38-4349-a2e4-f9a0aa384a36
 SEQUENCE:22
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251217T100000Z
 DTEND:20251217T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -258,9 +258,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:eafa6bd9-eb40-4310-844f-393a031befaa
+UID:992b0ce8-8c2d-4ecc-83dd-be61bb7333d3
 SEQUENCE:23
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251218T100000Z
 DTEND:20251218T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -269,9 +269,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:54c1ad34-e7b6-4308-8f17-7897b7da2eee
+UID:0978a105-56ee-46cf-b6ac-7a9650f22207
 SEQUENCE:24
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251219T100000Z
 DTEND:20251219T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -280,9 +280,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:aa23ccbf-8ca6-4b2f-b55e-4b2fd2e26287
+UID:195249e2-d4f4-4dc4-ad5e-ba94c663caac
 SEQUENCE:25
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251220T100000Z
 DTEND:20251220T210000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -291,9 +291,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:cd0e1a35-c960-45f6-964b-da438d5b2c96
+UID:55da2399-1558-4311-8372-a11a45e90ae7
 SEQUENCE:26
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251221T100000Z
 DTEND:20251221T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -302,9 +302,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:e84c9651-1451-4ca3-8af7-153e605be4b9
+UID:027ea3b5-7c8d-4067-ba3e-f2f990341d6e
 SEQUENCE:27
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251222T100000Z
 DTEND:20251222T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt
@@ -313,9 +313,9 @@ URL;VALUE=URI:https://www.leipzig.de/newsarchiv/news/leipziger-weihnachtsm
  arkt-eroeffnet-mit-blockhaus-und-lesewerkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:e927f574-10a3-41c7-8548-41fac8a3a0c8
+UID:695ae14c-6a54-4c31-a0f2-043f821ba074
 SEQUENCE:28
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251223T100000Z
 DTEND:20251223T200000Z
 SUMMARY:Leipziger Weihnachtsmarkt

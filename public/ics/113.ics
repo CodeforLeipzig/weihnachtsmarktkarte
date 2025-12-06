@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:2. Weihnachtsmarkt in der Likörfabrik
+X-WR-CALNAME:2. Weihnachtsmarkt in der Likörfabrik
+BEGIN:VEVENT
+UID:d1b4e122-beea-408b-b75b-b645aa78d96e
+SEQUENCE:0
+DTSTAMP:20251206T171618Z
+DTSTART:20251130T130000Z
+DTEND:20251130T190000Z
+SUMMARY:2. Weihnachtsmarkt in der Likörfabrik
+LOCATION:Prellerstraße 54a\, 04155 Leipzig
+URL;VALUE=URI:https://www.instagram.com/p/DQd2giUjOe6/
+END:VEVENT
+END:VCALENDAR

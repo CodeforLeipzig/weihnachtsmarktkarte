@@ -5,11 +5,11 @@ METHOD:REQUEST
 NAME:Adventsmarkt in Versöhnungskirche
 X-WR-CALNAME:Adventsmarkt in Versöhnungskirche
 BEGIN:VEVENT
-UID:50a4657c-a58a-4507-b703-ce23116855d3
+UID:18205bb2-f9de-40f3-96a3-eb4dc6755531
 SEQUENCE:0
-DTSTAMP:20251206T152105Z
+DTSTAMP:20251206T171617Z
 DTSTART:20251129T140000Z
-DTEND:20251129T225900Z
+DTEND:20251129T170000Z
 SUMMARY:Adventsmarkt in Versöhnungskirche
 LOCATION:Franz-Mehring-Straße 44\, 04157 Leipzig
 URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
