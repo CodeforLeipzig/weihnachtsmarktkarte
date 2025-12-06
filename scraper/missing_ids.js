@@ -35,6 +35,7 @@ parseJson("./markets.geojson").then((data) => {
       max = id;
     }
   }
+  // 2022: https://github.com/CodeforLeipzig/weihnachtsmarktkarte/blob/b6df0b59b12b1c98a3708b9f8ac3d4d0f8960275/scraper/markets.geojson?short_path=9ca509e
   // 2023: https://raw.githubusercontent.com/CodeforLeipzig/weihnachtsmarktkarte/e7c0e19413d300d3d1f723245321e05bc0a5eaf8/scraper/markets.geojson
   // missing: 82, 84, 86, 91, 92, 93, 94, 95
   // 2024: https://raw.githubusercontent.com/CodeforLeipzig/weihnachtsmarktkarte/1b9b5de300a3749f6ebd8209d20d0c34cd3514b0/scraper/markets.geojson
