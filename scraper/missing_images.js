@@ -25,7 +25,7 @@ const parseJson = async (jsonFile) => {
 parseJson("./markets.geojson").then((data) => {
     data.features.forEach(feature => {
         if (!feature.properties.image) {
-            console.log("Missing image: " + feature.properties.name);
+            console.log("Missing image: " + feature.properties.name + ", " + feature.properties.strasse + ", " + feature.properties.plz_ort);
         }
     });
 });
