@@ -2,59 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 METHOD:REQUEST
-NAME:Weihnachtsduft und Lichterglanz
-X-WR-CALNAME:Weihnachtsduft und Lichterglanz
+NAME:Gohliser Schlösschen - Weihnachtsduft und Lichterglanz
+X-WR-CALNAME:Gohliser Schlösschen - Weihnachtsduft und Lichterglanz
 BEGIN:VEVENT
-UID:0edd91c6-b8cf-4776-a140-09539317f8ad
+UID:fcda1e30-14f0-4396-852d-287dbe55580e
 SEQUENCE:0
-DTSTAMP:20251206T171617Z
+DTSTAMP:20251207T165704Z
 DTSTART:20251126T140000Z
 DTEND:20251126T180000Z
-SUMMARY:Weihnachtsduft und Lichterglanz
+SUMMARY:Gohliser Schlösschen - Weihnachtsduft und Lichterglanz
 LOCATION:Menckestraße 23\, 04155 Leipzig
 URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/weihnachtsduft-und-lichterglanz-1-20251217-3
 END:VEVENT
 BEGIN:VEVENT
-UID:64b4ef9f-6236-4ef8-9fc2-491847c3d912
+UID:28ddeab2-2ef6-44f9-b003-a7697e696d87
 SEQUENCE:1
-DTSTAMP:20251206T171617Z
+DTSTAMP:20251207T165704Z
 DTSTART:20251127T140000Z
 DTEND:20251127T180000Z
-SUMMARY:Weihnachtsduft und Lichterglanz
+SUMMARY:Gohliser Schlösschen - Weihnachtsduft und Lichterglanz
 LOCATION:Menckestraße 23\, 04155 Leipzig
 URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/weihnachtsduft-und-lichterglanz-1-20251217-3
 END:VEVENT
 BEGIN:VEVENT
-UID:5483d7ef-55ff-4237-b5b7-2e009547c395
+UID:029b7506-a0af-4aae-99fc-8539e662b9b3
 SEQUENCE:2
-DTSTAMP:20251206T171617Z
+DTSTAMP:20251207T165704Z
 DTSTART:20251128T140000Z
 DTEND:20251128T180000Z
-SUMMARY:Weihnachtsduft und Lichterglanz
+SUMMARY:Gohliser Schlösschen - Weihnachtsduft und Lichterglanz
 LOCATION:Menckestraße 23\, 04155 Leipzig
 URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/weihnachtsduft-und-lichterglanz-1-20251217-3
 END:VEVENT
 BEGIN:VEVENT
-UID:0b4f2a48-8dee-444f-97d6-e17df9aea57e
+UID:3eca6a3f-e4e6-461a-86e8-8b7f037f9f47
 SEQUENCE:3
-DTSTAMP:20251206T171617Z
+DTSTAMP:20251207T165704Z
 DTSTART:20251129T140000Z
 DTEND:20251129T180000Z
-SUMMARY:Weihnachtsduft und Lichterglanz
+SUMMARY:Gohliser Schlösschen - Weihnachtsduft und Lichterglanz
 LOCATION:Menckestraße 23\, 04155 Leipzig
 URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/weihnachtsduft-und-lichterglanz-1-20251217-3
 END:VEVENT
 BEGIN:VEVENT
-UID:11215aad-9ea6-4d77-9cf1-fe3866e7e2cf
+UID:f5725f56-f456-4725-9f72-4bc3404b147a
 SEQUENCE:4
-DTSTAMP:20251206T171617Z
+DTSTAMP:20251207T165704Z
 DTSTART:20251130T110000Z
 DTEND:20251130T170000Z
-SUMMARY:Weihnachtsduft und Lichterglanz
+SUMMARY:Gohliser Schlösschen - Weihnachtsduft und Lichterglanz
 LOCATION:Menckestraße 23\, 04155 Leipzig
 URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/weihnachtsduft-und-lichterglanz-1-20251217-3

@@ -5,9 +5,9 @@ METHOD:REQUEST
 NAME:Adventsmarkt im Kulturhof Gohlis
 X-WR-CALNAME:Adventsmarkt im Kulturhof Gohlis
 BEGIN:VEVENT
-UID:17d6d1fd-e3b3-4731-afe7-efb01b47dadc
+UID:62ab1bb5-58c9-4d77-adba-73b24401dcfc
 SEQUENCE:0
-DTSTAMP:20251206T171617Z
+DTSTAMP:20251207T165704Z
 DTSTART:20251129T120000Z
 DTEND:20251129T190000Z
 SUMMARY:Adventsmarkt im Kulturhof Gohlis
@@ -16,9 +16,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/adventsmarkt-im-kulturhof-gohlis
 END:VEVENT
 BEGIN:VEVENT
-UID:f6a6aa79-1906-4443-a617-0ba1d27f5f64
+UID:f5e2f7c8-84bd-42ed-90e7-ad4e00890b2b
 SEQUENCE:1
-DTSTAMP:20251206T171617Z
+DTSTAMP:20251207T165704Z
 DTSTART:20251130T100000Z
 DTEND:20251130T170000Z
 SUMMARY:Adventsmarkt im Kulturhof Gohlis

@@ -5,9 +5,9 @@ METHOD:REQUEST
 NAME:Advent unterm Ginkgobaum: Kulturweihnachtsmarkt
 X-WR-CALNAME:Advent unterm Ginkgobaum: Kulturweihnachtsmarkt
 BEGIN:VEVENT
-UID:24f72c8a-e32d-4321-aa80-e61e212038fe
+UID:38f9ae8b-b9f6-4786-aef0-d5e6704defd6
 SEQUENCE:0
-DTSTAMP:20251206T171617Z
+DTSTAMP:20251207T165704Z
 DTSTART:20251212T140000Z
 DTEND:20251212T190000Z
 SUMMARY:Advent unterm Ginkgobaum: Kulturweihnachtsmarkt
@@ -16,9 +16,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/advent-unterm-ginkgobaum-kulturweihnachtsmarkt-2
 END:VEVENT
 BEGIN:VEVENT
-UID:6d486551-db37-490d-a03e-3eae5bc2b788
+UID:c6ec1662-7f04-424d-85e0-3a24e5ff633a
 SEQUENCE:1
-DTSTAMP:20251206T171617Z
+DTSTAMP:20251207T165704Z
 DTSTART:20251213T140000Z
 DTEND:20251213T190000Z
 SUMMARY:Advent unterm Ginkgobaum: Kulturweihnachtsmarkt
@@ -27,9 +27,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/advent-unterm-ginkgobaum-kulturweihnachtsmarkt-2
 END:VEVENT
 BEGIN:VEVENT
-UID:ac079d0c-8aa9-431d-8ff1-c007e3af4478
+UID:93bb64e0-ced7-4733-ac98-886d50a47cf4
 SEQUENCE:2
-DTSTAMP:20251206T171617Z
+DTSTAMP:20251207T165704Z
 DTSTART:20251214T140000Z
 DTEND:20251214T170000Z
 SUMMARY:Advent unterm Ginkgobaum: Kulturweihnachtsmarkt
