@@ -5,9 +5,9 @@ METHOD:REQUEST
 NAME:Gohliser Schlösschen - Weihnachtsduft und Lichterglanz
 X-WR-CALNAME:Gohliser Schlösschen - Weihnachtsduft und Lichterglanz
 BEGIN:VEVENT
-UID:fcda1e30-14f0-4396-852d-287dbe55580e
+UID:48f67e43-bb5a-4450-9877-3ea7831411c6
 SEQUENCE:0
-DTSTAMP:20251207T165704Z
+DTSTAMP:20251212T143314Z
 DTSTART:20251126T140000Z
 DTEND:20251126T180000Z
 SUMMARY:Gohliser Schlösschen - Weihnachtsduft und Lichterglanz
@@ -16,9 +16,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/weihnachtsduft-und-lichterglanz-1-20251217-3
 END:VEVENT
 BEGIN:VEVENT
-UID:28ddeab2-2ef6-44f9-b003-a7697e696d87
+UID:1e92bfe2-b2e5-46c2-bda1-1039c01588c0
 SEQUENCE:1
-DTSTAMP:20251207T165704Z
+DTSTAMP:20251212T143314Z
 DTSTART:20251127T140000Z
 DTEND:20251127T180000Z
 SUMMARY:Gohliser Schlösschen - Weihnachtsduft und Lichterglanz
@@ -27,9 +27,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/weihnachtsduft-und-lichterglanz-1-20251217-3
 END:VEVENT
 BEGIN:VEVENT
-UID:029b7506-a0af-4aae-99fc-8539e662b9b3
+UID:65b0a2dc-3688-4e17-9f3c-5a97c895bcd1
 SEQUENCE:2
-DTSTAMP:20251207T165704Z
+DTSTAMP:20251212T143314Z
 DTSTART:20251128T140000Z
 DTEND:20251128T180000Z
 SUMMARY:Gohliser Schlösschen - Weihnachtsduft und Lichterglanz
@@ -38,9 +38,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/weihnachtsduft-und-lichterglanz-1-20251217-3
 END:VEVENT
 BEGIN:VEVENT
-UID:3eca6a3f-e4e6-461a-86e8-8b7f037f9f47
+UID:c0c5b690-13e4-4cf4-a8c3-8c7c4af6eeaa
 SEQUENCE:3
-DTSTAMP:20251207T165704Z
+DTSTAMP:20251212T143314Z
 DTSTART:20251129T140000Z
 DTEND:20251129T180000Z
 SUMMARY:Gohliser Schlösschen - Weihnachtsduft und Lichterglanz
@@ -49,9 +49,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/weihnachtsduft-und-lichterglanz-1-20251217-3
 END:VEVENT
 BEGIN:VEVENT
-UID:f5725f56-f456-4725-9f72-4bc3404b147a
+UID:09c62d01-91ff-4d9f-9100-11195560e6ce
 SEQUENCE:4
-DTSTAMP:20251207T165704Z
+DTSTAMP:20251212T143314Z
 DTSTART:20251130T110000Z
 DTEND:20251130T170000Z
 SUMMARY:Gohliser Schlösschen - Weihnachtsduft und Lichterglanz

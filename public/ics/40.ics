@@ -5,9 +5,9 @@ METHOD:REQUEST
 NAME:Weihnachtsmarkt Lametta for Heinz
 X-WR-CALNAME:Weihnachtsmarkt Lametta for Heinz
 BEGIN:VEVENT
-UID:b19c159a-c5a8-4301-acc8-05d74f5fce16
+UID:97fecd8a-5f13-4d03-aaa3-343475cc849e
 SEQUENCE:0
-DTSTAMP:20251207T165704Z
+DTSTAMP:20251212T143314Z
 DTSTART:20251128T150000Z
 DTEND:20251128T190000Z
 SUMMARY:Weihnachtsmarkt Lametta for Heinz
@@ -16,9 +16,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/lametta-for-heinz-kiezweihnachtsmarkt-1
 END:VEVENT
 BEGIN:VEVENT
-UID:1d8ff1fd-14af-4d50-9147-5a7e6ab281e6
+UID:10e2a7ab-f90c-485f-a6a8-b81329e50aee
 SEQUENCE:1
-DTSTAMP:20251207T165704Z
+DTSTAMP:20251212T143314Z
 DTSTART:20251129T130000Z
 DTEND:20251129T190000Z
 SUMMARY:Weihnachtsmarkt Lametta for Heinz
