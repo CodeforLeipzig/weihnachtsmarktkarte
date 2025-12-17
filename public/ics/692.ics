@@ -1,0 +1,326 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Haus A 24
+X-WR-CALNAME:Haus A 24
+BEGIN:VEVENT
+UID:19eb5fac-7068-4c96-8b94-0a50530dbb2a
+SEQUENCE:0
+DTSTAMP:20251217T184605Z
+DTSTART:20251125T090000Z
+DTEND:20251125T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:44d0f1a0-5e17-428f-b050-30ba6c8f2667
+SEQUENCE:1
+DTSTAMP:20251217T184605Z
+DTSTART:20251126T090000Z
+DTEND:20251126T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:65cd8fcd-272f-4930-91a9-6460762305bf
+SEQUENCE:2
+DTSTAMP:20251217T184605Z
+DTSTART:20251127T090000Z
+DTEND:20251127T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:028e3507-687e-4a6d-a9d1-02f7342afda2
+SEQUENCE:3
+DTSTAMP:20251217T184605Z
+DTSTART:20251128T090000Z
+DTEND:20251128T210000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:f844688f-c329-427a-921f-7e8f2ab82a0a
+SEQUENCE:4
+DTSTAMP:20251217T184605Z
+DTSTART:20251129T090000Z
+DTEND:20251129T210000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:f04800ce-2c50-4c88-a5e7-ca0f3c401f80
+SEQUENCE:5
+DTSTAMP:20251217T184605Z
+DTSTART:20251130T090000Z
+DTEND:20251130T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:0d76bc1d-72b3-4fc3-95b1-236e271ee5f1
+SEQUENCE:6
+DTSTAMP:20251217T184605Z
+DTSTART:20251201T090000Z
+DTEND:20251201T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:4966fc9c-750c-4b7b-a41a-f0f4cc1bd0c0
+SEQUENCE:7
+DTSTAMP:20251217T184605Z
+DTSTART:20251202T090000Z
+DTEND:20251202T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:b3513881-35ba-432b-af5a-fb8086b1db4a
+SEQUENCE:8
+DTSTAMP:20251217T184605Z
+DTSTART:20251203T090000Z
+DTEND:20251203T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:23fbff29-9cb5-45d4-a66b-ffcf3d9b334d
+SEQUENCE:9
+DTSTAMP:20251217T184605Z
+DTSTART:20251204T090000Z
+DTEND:20251204T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:5da71a24-24b9-421f-9de6-6b2303bb133f
+SEQUENCE:10
+DTSTAMP:20251217T184605Z
+DTSTART:20251205T090000Z
+DTEND:20251205T210000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:57c7b45f-6ad2-4dc0-bccb-db00daab726c
+SEQUENCE:11
+DTSTAMP:20251217T184605Z
+DTSTART:20251206T090000Z
+DTEND:20251206T210000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:c0932645-5de1-48df-b431-55d573d191a4
+SEQUENCE:12
+DTSTAMP:20251217T184605Z
+DTSTART:20251207T090000Z
+DTEND:20251207T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:7dce0861-ef93-408b-ba4b-3d64e8048f64
+SEQUENCE:13
+DTSTAMP:20251217T184605Z
+DTSTART:20251208T090000Z
+DTEND:20251208T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:748ad052-eaa6-4de4-94ba-8caa8a62d9d2
+SEQUENCE:14
+DTSTAMP:20251217T184605Z
+DTSTART:20251209T090000Z
+DTEND:20251209T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:c4e7f48a-6a20-4553-9c60-6f5c79bf75cf
+SEQUENCE:15
+DTSTAMP:20251217T184605Z
+DTSTART:20251210T090000Z
+DTEND:20251210T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:e9b5a3cf-ea29-41c1-a0c2-60896b16f816
+SEQUENCE:16
+DTSTAMP:20251217T184605Z
+DTSTART:20251211T090000Z
+DTEND:20251211T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:d96ceb14-8d20-4c80-bb21-e0f7554db887
+SEQUENCE:17
+DTSTAMP:20251217T184605Z
+DTSTART:20251212T090000Z
+DTEND:20251212T210000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:80c145e9-3239-4c75-9be6-7173feb7afae
+SEQUENCE:18
+DTSTAMP:20251217T184605Z
+DTSTART:20251213T090000Z
+DTEND:20251213T210000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:061ef854-9189-4d73-90c6-53c15c2b8a82
+SEQUENCE:19
+DTSTAMP:20251217T184605Z
+DTSTART:20251214T090000Z
+DTEND:20251214T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:345c68e5-ae08-4ff7-a64d-4e627dd3287c
+SEQUENCE:20
+DTSTAMP:20251217T184605Z
+DTSTART:20251215T090000Z
+DTEND:20251215T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:30558ba7-2564-4d01-82b7-0c6c042166ff
+SEQUENCE:21
+DTSTAMP:20251217T184605Z
+DTSTART:20251216T090000Z
+DTEND:20251216T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:9c65ae66-1aab-4ea1-9cbd-3acf88a0fe38
+SEQUENCE:22
+DTSTAMP:20251217T184605Z
+DTSTART:20251217T090000Z
+DTEND:20251217T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:382de231-50ba-4281-8040-d0b4b64ce655
+SEQUENCE:23
+DTSTAMP:20251217T184605Z
+DTSTART:20251218T090000Z
+DTEND:20251218T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:c1a48922-ed35-44d2-9c32-52706c8219d6
+SEQUENCE:24
+DTSTAMP:20251217T184605Z
+DTSTART:20251219T090000Z
+DTEND:20251219T210000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:31260b19-782c-4f6d-a069-e7d416661f5f
+SEQUENCE:25
+DTSTAMP:20251217T184605Z
+DTSTART:20251220T090000Z
+DTEND:20251220T210000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:ffa3d81d-1dc2-4e94-8a34-7907483211e8
+SEQUENCE:26
+DTSTAMP:20251217T184605Z
+DTSTART:20251221T090000Z
+DTEND:20251221T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:830c93c7-14b3-4b0c-a0e7-cb2638efcd48
+SEQUENCE:27
+DTSTAMP:20251217T184605Z
+DTSTART:20251222T090000Z
+DTEND:20251222T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:05841576-f42d-4557-a3c7-a176db709a86
+SEQUENCE:28
+DTSTAMP:20251217T184605Z
+DTSTART:20251223T090000Z
+DTEND:20251223T200000Z
+SUMMARY:Haus A 24
+LOCATION:Augustusplatz\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+END:VCALENDAR

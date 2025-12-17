@@ -1,0 +1,326 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Haus M 05/08
+X-WR-CALNAME:Haus M 05/08
+BEGIN:VEVENT
+UID:b7197fe3-3782-45b0-a72c-eb6e8b33686a
+SEQUENCE:0
+DTSTAMP:20251217T184608Z
+DTSTART:20251125T090000Z
+DTEND:20251125T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:49532d3a-3f06-4eb6-8759-9e144c24ae62
+SEQUENCE:1
+DTSTAMP:20251217T184608Z
+DTSTART:20251126T090000Z
+DTEND:20251126T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc7b476-338d-4938-be4c-fc178852cc9c
+SEQUENCE:2
+DTSTAMP:20251217T184608Z
+DTSTART:20251127T090000Z
+DTEND:20251127T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:9c2b9bde-a74e-491f-bfe0-b22be41d9c20
+SEQUENCE:3
+DTSTAMP:20251217T184608Z
+DTSTART:20251128T090000Z
+DTEND:20251128T210000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:7384df38-fe7f-4f9a-b0f3-4fa0d4e862df
+SEQUENCE:4
+DTSTAMP:20251217T184608Z
+DTSTART:20251129T090000Z
+DTEND:20251129T210000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:caf88e69-dff0-486b-ab8a-de8c9a060721
+SEQUENCE:5
+DTSTAMP:20251217T184608Z
+DTSTART:20251130T090000Z
+DTEND:20251130T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:c46f5186-879d-453c-b978-a3949cc0eadb
+SEQUENCE:6
+DTSTAMP:20251217T184608Z
+DTSTART:20251201T090000Z
+DTEND:20251201T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:c8fad1b0-dc17-4603-aa3e-01b8902a813a
+SEQUENCE:7
+DTSTAMP:20251217T184608Z
+DTSTART:20251202T090000Z
+DTEND:20251202T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:97e80b8e-ea7d-44f1-b785-4ff05e1b11ee
+SEQUENCE:8
+DTSTAMP:20251217T184608Z
+DTSTART:20251203T090000Z
+DTEND:20251203T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:a0357063-74a6-4f80-8e59-bf626b529504
+SEQUENCE:9
+DTSTAMP:20251217T184608Z
+DTSTART:20251204T090000Z
+DTEND:20251204T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:a6411757-c381-49ef-8073-3302259df781
+SEQUENCE:10
+DTSTAMP:20251217T184608Z
+DTSTART:20251205T090000Z
+DTEND:20251205T210000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:3dddf4cc-1f4a-47ea-808f-5acef1a0caba
+SEQUENCE:11
+DTSTAMP:20251217T184608Z
+DTSTART:20251206T090000Z
+DTEND:20251206T210000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:a2db6db6-6fa5-4947-9654-3bc42e9a8dba
+SEQUENCE:12
+DTSTAMP:20251217T184608Z
+DTSTART:20251207T090000Z
+DTEND:20251207T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:ab540f5c-ea15-4016-94f4-42f4579b8d4c
+SEQUENCE:13
+DTSTAMP:20251217T184608Z
+DTSTART:20251208T090000Z
+DTEND:20251208T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:a52a076a-5b94-42df-b8ce-bad990b09627
+SEQUENCE:14
+DTSTAMP:20251217T184608Z
+DTSTART:20251209T090000Z
+DTEND:20251209T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:533ccd98-907b-49eb-86b4-0118ba621b1c
+SEQUENCE:15
+DTSTAMP:20251217T184608Z
+DTSTART:20251210T090000Z
+DTEND:20251210T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:32bec8f7-63a2-48dd-b156-456dc3808c47
+SEQUENCE:16
+DTSTAMP:20251217T184608Z
+DTSTART:20251211T090000Z
+DTEND:20251211T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:616289f3-eb54-4717-9e30-c518e91949fa
+SEQUENCE:17
+DTSTAMP:20251217T184608Z
+DTSTART:20251212T090000Z
+DTEND:20251212T210000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:60833cee-81b2-4527-99ef-e22258ba1136
+SEQUENCE:18
+DTSTAMP:20251217T184608Z
+DTSTART:20251213T090000Z
+DTEND:20251213T210000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:6c9c5123-907f-43e7-9ffc-c9a24dcdc4ca
+SEQUENCE:19
+DTSTAMP:20251217T184608Z
+DTSTART:20251214T090000Z
+DTEND:20251214T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2136c135-588f-4805-b56e-afa9d1da23ca
+SEQUENCE:20
+DTSTAMP:20251217T184608Z
+DTSTART:20251215T090000Z
+DTEND:20251215T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:f9be65ad-7087-4ef6-ab97-115438e00f5a
+SEQUENCE:21
+DTSTAMP:20251217T184608Z
+DTSTART:20251216T090000Z
+DTEND:20251216T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:1fee4cd8-8aa4-4447-b9df-8380eda43881
+SEQUENCE:22
+DTSTAMP:20251217T184608Z
+DTSTART:20251217T090000Z
+DTEND:20251217T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:c117f932-ca14-4630-be62-65cd88e98130
+SEQUENCE:23
+DTSTAMP:20251217T184608Z
+DTSTART:20251218T090000Z
+DTEND:20251218T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:9e7f1318-f89d-4235-a425-cedef5c64838
+SEQUENCE:24
+DTSTAMP:20251217T184608Z
+DTSTART:20251219T090000Z
+DTEND:20251219T210000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2891aab8-3e74-48de-803b-7770847e8d85
+SEQUENCE:25
+DTSTAMP:20251217T184608Z
+DTSTART:20251220T090000Z
+DTEND:20251220T210000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:0dfb23e6-7e10-4fd4-8429-d42de5ae651b
+SEQUENCE:26
+DTSTAMP:20251217T184608Z
+DTSTART:20251221T090000Z
+DTEND:20251221T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:b121c52c-14ef-47ae-ad90-511f5827cf9c
+SEQUENCE:27
+DTSTAMP:20251217T184608Z
+DTSTART:20251222T090000Z
+DTEND:20251222T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:11b11479-3a5d-4acf-a5e2-80863ab51e7f
+SEQUENCE:28
+DTSTAMP:20251217T184608Z
+DTSTART:20251223T090000Z
+DTEND:20251223T200000Z
+SUMMARY:Haus M 05/08
+LOCATION:Markt\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+END:VCALENDAR

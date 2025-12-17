@@ -1,0 +1,326 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Haus R 01
+X-WR-CALNAME:Haus R 01
+BEGIN:VEVENT
+UID:c876e8ee-3005-437a-bff2-0412d573afbd
+SEQUENCE:0
+DTSTAMP:20251217T184612Z
+DTSTART:20251125T090000Z
+DTEND:20251125T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:9a47b760-f2a4-4b02-92f8-3e3dbc781c8e
+SEQUENCE:1
+DTSTAMP:20251217T184612Z
+DTSTART:20251126T090000Z
+DTEND:20251126T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:0766bd05-f30d-47e2-a58b-885f264c3383
+SEQUENCE:2
+DTSTAMP:20251217T184612Z
+DTSTART:20251127T090000Z
+DTEND:20251127T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:57bd5e44-9bb1-4071-880c-2520ede02b6d
+SEQUENCE:3
+DTSTAMP:20251217T184612Z
+DTSTART:20251128T090000Z
+DTEND:20251128T210000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:51b906c3-535b-427c-ab37-b2706fab84d2
+SEQUENCE:4
+DTSTAMP:20251217T184612Z
+DTSTART:20251129T090000Z
+DTEND:20251129T210000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:c439e82a-73e7-45b0-8905-a92552098833
+SEQUENCE:5
+DTSTAMP:20251217T184612Z
+DTSTART:20251130T090000Z
+DTEND:20251130T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:f9c5e87d-000f-48da-b805-396770569183
+SEQUENCE:6
+DTSTAMP:20251217T184612Z
+DTSTART:20251201T090000Z
+DTEND:20251201T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:ba4a3e09-4e1b-4df5-b199-2627f348db5f
+SEQUENCE:7
+DTSTAMP:20251217T184612Z
+DTSTART:20251202T090000Z
+DTEND:20251202T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:876cc7c2-8118-4094-8f51-98dc918bd4a1
+SEQUENCE:8
+DTSTAMP:20251217T184612Z
+DTSTART:20251203T090000Z
+DTEND:20251203T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:e53261f7-ecd6-481d-83c3-160294b73455
+SEQUENCE:9
+DTSTAMP:20251217T184612Z
+DTSTART:20251204T090000Z
+DTEND:20251204T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:1d89f8d8-b191-4121-a4b8-c28003ae92e4
+SEQUENCE:10
+DTSTAMP:20251217T184612Z
+DTSTART:20251205T090000Z
+DTEND:20251205T210000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:e73d7240-2c02-426c-b12b-000752b35b37
+SEQUENCE:11
+DTSTAMP:20251217T184612Z
+DTSTART:20251206T090000Z
+DTEND:20251206T210000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:81405d94-f3de-4afb-a927-3691689c7b65
+SEQUENCE:12
+DTSTAMP:20251217T184612Z
+DTSTART:20251207T090000Z
+DTEND:20251207T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:eb0d0906-513e-4914-bcfe-5c68a9e2eccd
+SEQUENCE:13
+DTSTAMP:20251217T184612Z
+DTSTART:20251208T090000Z
+DTEND:20251208T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:73434193-8ec9-496a-9a58-93c677fd4ea6
+SEQUENCE:14
+DTSTAMP:20251217T184612Z
+DTSTART:20251209T090000Z
+DTEND:20251209T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:21f6ba00-cb0b-4d2e-86df-f9457bed85ca
+SEQUENCE:15
+DTSTAMP:20251217T184612Z
+DTSTART:20251210T090000Z
+DTEND:20251210T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:93b60492-4885-4579-b166-5dd2a0f1a94e
+SEQUENCE:16
+DTSTAMP:20251217T184612Z
+DTSTART:20251211T090000Z
+DTEND:20251211T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:6fcbcf50-99d8-43d7-bb24-fa1d5c8c7fd4
+SEQUENCE:17
+DTSTAMP:20251217T184612Z
+DTSTART:20251212T090000Z
+DTEND:20251212T210000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:f7364f77-ea05-4aa6-ba0d-fc9477d1c125
+SEQUENCE:18
+DTSTAMP:20251217T184612Z
+DTSTART:20251213T090000Z
+DTEND:20251213T210000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:fdb0b9e3-b531-4d1d-811d-d6a8702c093e
+SEQUENCE:19
+DTSTAMP:20251217T184612Z
+DTSTART:20251214T090000Z
+DTEND:20251214T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:f8f90579-595b-43b3-a49a-ac1b7688b9ac
+SEQUENCE:20
+DTSTAMP:20251217T184612Z
+DTSTART:20251215T090000Z
+DTEND:20251215T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2ccee563-9f56-44a6-9fba-b89304ac57b8
+SEQUENCE:21
+DTSTAMP:20251217T184612Z
+DTSTART:20251216T090000Z
+DTEND:20251216T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:e845715a-7245-434c-9252-dfb7f937a50a
+SEQUENCE:22
+DTSTAMP:20251217T184612Z
+DTSTART:20251217T090000Z
+DTEND:20251217T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:c70af3bc-2d98-478b-8415-99ccfa389f3a
+SEQUENCE:23
+DTSTAMP:20251217T184612Z
+DTSTART:20251218T090000Z
+DTEND:20251218T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:e1d6457f-acee-4c0c-a6c2-1e7158b7e699
+SEQUENCE:24
+DTSTAMP:20251217T184612Z
+DTSTART:20251219T090000Z
+DTEND:20251219T210000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:847ecaab-0ed8-47be-8c64-131e47d7abf1
+SEQUENCE:25
+DTSTAMP:20251217T184612Z
+DTSTART:20251220T090000Z
+DTEND:20251220T210000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:764ad876-aba3-42d2-833b-afa4a72da8b2
+SEQUENCE:26
+DTSTAMP:20251217T184612Z
+DTSTART:20251221T090000Z
+DTEND:20251221T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:860dde17-2756-434d-aa38-63214a438789
+SEQUENCE:27
+DTSTAMP:20251217T184612Z
+DTSTART:20251222T090000Z
+DTEND:20251222T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:0111f907-756a-4004-95ec-72e417df1bad
+SEQUENCE:28
+DTSTAMP:20251217T184612Z
+DTSTART:20251223T090000Z
+DTEND:20251223T200000Z
+SUMMARY:Haus R 01
+LOCATION:Reichsstraße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+END:VCALENDAR

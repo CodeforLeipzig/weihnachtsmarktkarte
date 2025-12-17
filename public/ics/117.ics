@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Weihnachtsmarkt in der Kulturfabrik
+X-WR-CALNAME:Weihnachtsmarkt in der Kulturfabrik
+BEGIN:VEVENT
+UID:ff20a6f2-1552-494d-800d-31e512859825
+SEQUENCE:0
+DTSTAMP:20251217T184604Z
+DTSTART:20251212T150000Z
+DTEND:20251212T200000Z
+SUMMARY:Weihnachtsmarkt in der Kulturfabrik
+LOCATION:Windscheidstraße 51\, 04277 Leipzig
+URL;VALUE=URI:https://www.halle5.de/veranstaltung/weihnachtsmarkt-in-der-k
+ ulturfabrik/
+END:VEVENT
+BEGIN:VEVENT
+UID:34bedd53-94d2-4b6d-a4ce-9e070eeeef3c
+SEQUENCE:1
+DTSTAMP:20251217T184604Z
+DTSTART:20251213T150000Z
+DTEND:20251213T200000Z
+SUMMARY:Weihnachtsmarkt in der Kulturfabrik
+LOCATION:Windscheidstraße 51\, 04277 Leipzig
+URL;VALUE=URI:https://www.halle5.de/veranstaltung/weihnachtsmarkt-in-der-k
+ ulturfabrik/
+END:VEVENT
+BEGIN:VEVENT
+UID:a70888f7-9d7b-4f49-a1f6-983366680d77
+SEQUENCE:2
+DTSTAMP:20251217T184604Z
+DTSTART:20251214T150000Z
+DTEND:20251214T200000Z
+SUMMARY:Weihnachtsmarkt in der Kulturfabrik
+LOCATION:Windscheidstraße 51\, 04277 Leipzig
+URL;VALUE=URI:https://www.halle5.de/veranstaltung/weihnachtsmarkt-in-der-k
+ ulturfabrik/
+END:VEVENT
+BEGIN:VEVENT
+UID:ed8cb930-04a5-42d0-8f7e-e415d241422d
+SEQUENCE:3
+DTSTAMP:20251217T184604Z
+DTSTART:20251215T150000Z
+DTEND:20251215T200000Z
+SUMMARY:Weihnachtsmarkt in der Kulturfabrik
+LOCATION:Windscheidstraße 51\, 04277 Leipzig
+URL;VALUE=URI:https://www.halle5.de/veranstaltung/weihnachtsmarkt-in-der-k
+ ulturfabrik/
+END:VEVENT
+BEGIN:VEVENT
+UID:c675402f-7291-49c1-8552-6af31bac58bf
+SEQUENCE:4
+DTSTAMP:20251217T184604Z
+DTSTART:20251216T150000Z
+DTEND:20251216T200000Z
+SUMMARY:Weihnachtsmarkt in der Kulturfabrik
+LOCATION:Windscheidstraße 51\, 04277 Leipzig
+URL;VALUE=URI:https://www.halle5.de/veranstaltung/weihnachtsmarkt-in-der-k
+ ulturfabrik/
+END:VEVENT
+BEGIN:VEVENT
+UID:885d64f4-df4b-4105-9eaf-14b4312f90e9
+SEQUENCE:5
+DTSTAMP:20251217T184604Z
+DTSTART:20251217T150000Z
+DTEND:20251217T200000Z
+SUMMARY:Weihnachtsmarkt in der Kulturfabrik
+LOCATION:Windscheidstraße 51\, 04277 Leipzig
+URL;VALUE=URI:https://www.halle5.de/veranstaltung/weihnachtsmarkt-in-der-k
+ ulturfabrik/
+END:VEVENT
+BEGIN:VEVENT
+UID:1c373d17-b5b0-43e4-ab18-11a9c1636f4b
+SEQUENCE:6
+DTSTAMP:20251217T184604Z
+DTSTART:20251218T150000Z
+DTEND:20251218T200000Z
+SUMMARY:Weihnachtsmarkt in der Kulturfabrik
+LOCATION:Windscheidstraße 51\, 04277 Leipzig
+URL;VALUE=URI:https://www.halle5.de/veranstaltung/weihnachtsmarkt-in-der-k
+ ulturfabrik/
+END:VEVENT
+BEGIN:VEVENT
+UID:9e5688da-a3fb-44ac-9d97-f20c33d803c5
+SEQUENCE:7
+DTSTAMP:20251217T184604Z
+DTSTART:20251219T150000Z
+DTEND:20251219T200000Z
+SUMMARY:Weihnachtsmarkt in der Kulturfabrik
+LOCATION:Windscheidstraße 51\, 04277 Leipzig
+URL;VALUE=URI:https://www.halle5.de/veranstaltung/weihnachtsmarkt-in-der-k
+ ulturfabrik/
+END:VEVENT
+BEGIN:VEVENT
+UID:682f1539-18b6-447a-953b-e779a970a8a1
+SEQUENCE:8
+DTSTAMP:20251217T184604Z
+DTSTART:20251220T150000Z
+DTEND:20251220T200000Z
+SUMMARY:Weihnachtsmarkt in der Kulturfabrik
+LOCATION:Windscheidstraße 51\, 04277 Leipzig
+URL;VALUE=URI:https://www.halle5.de/veranstaltung/weihnachtsmarkt-in-der-k
+ ulturfabrik/
+END:VEVENT
+BEGIN:VEVENT
+UID:6a86c318-17cb-4282-8b6a-9d7c8bfb03c0
+SEQUENCE:9
+DTSTAMP:20251217T184604Z
+DTSTART:20251221T150000Z
+DTEND:20251221T200000Z
+SUMMARY:Weihnachtsmarkt in der Kulturfabrik
+LOCATION:Windscheidstraße 51\, 04277 Leipzig
+URL;VALUE=URI:https://www.halle5.de/veranstaltung/weihnachtsmarkt-in-der-k
+ ulturfabrik/
+END:VEVENT
+END:VCALENDAR

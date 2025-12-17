@@ -5,9 +5,9 @@ METHOD:REQUEST
 NAME:Weihnachtsmarkt Markkleeberg
 X-WR-CALNAME:Weihnachtsmarkt Markkleeberg
 BEGIN:VEVENT
-UID:9623722f-2cc5-4c35-a161-4b1a19e13c2f
+UID:61d162de-ae52-48d7-8cc5-afccda73b6d8
 SEQUENCE:0
-DTSTAMP:20251212T143314Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251212T160000Z
 DTEND:20251212T210000Z
 SUMMARY:Weihnachtsmarkt Markkleeberg
@@ -16,9 +16,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/weihnachtsmarkt-rund-ums-eis
 END:VEVENT
 BEGIN:VEVENT
-UID:ff38f2a9-a69e-48cf-aaf7-604f1768de27
+UID:1d23bb84-decb-4ed2-9442-e26f772bfa5a
 SEQUENCE:1
-DTSTAMP:20251212T143314Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251213T110000Z
 DTEND:20251213T210000Z
 SUMMARY:Weihnachtsmarkt Markkleeberg
@@ -27,9 +27,9 @@ URL;VALUE=URI:https://www.leipzig.de/kultur-und-freizeit/veranstaltungen/e
  ventsingle/event/weihnachtsmarkt-rund-ums-eis
 END:VEVENT
 BEGIN:VEVENT
-UID:47255f0f-1ae4-4fa9-8744-9f674ae655b0
+UID:9560594c-e37a-4c15-8d51-d4c3cee84fc8
 SEQUENCE:2
-DTSTAMP:20251212T143314Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251214T110000Z
 DTEND:20251214T170000Z
 SUMMARY:Weihnachtsmarkt Markkleeberg

@@ -5,9 +5,9 @@ METHOD:REQUEST
 NAME:Südtiroler Dorf
 X-WR-CALNAME:Südtiroler Dorf
 BEGIN:VEVENT
-UID:cccb1ad1-253f-41e5-8a9f-cd9afe072f9e
+UID:0dfc3990-161f-4257-a9cd-c5abfa4ea874
 SEQUENCE:0
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251125T090000Z
 DTEND:20251125T200000Z
 SUMMARY:Südtiroler Dorf
@@ -16,9 +16,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:8b71ada0-1359-4f34-ae03-828d26726f17
+UID:c4791cb8-69ec-487a-afbd-fa2bad1f8917
 SEQUENCE:1
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251126T090000Z
 DTEND:20251126T200000Z
 SUMMARY:Südtiroler Dorf
@@ -27,9 +27,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:de33e2e2-97cf-4c9f-84db-dcff08fc560a
+UID:10fd2064-e357-46a9-b65d-79d398f1d12f
 SEQUENCE:2
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251127T090000Z
 DTEND:20251127T200000Z
 SUMMARY:Südtiroler Dorf
@@ -38,9 +38,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:bdcea7e6-adea-4477-9492-18fb3492a20d
+UID:d72f11b9-691b-4203-8817-8642798dbef5
 SEQUENCE:3
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251128T090000Z
 DTEND:20251128T210000Z
 SUMMARY:Südtiroler Dorf
@@ -49,9 +49,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:42afdcaf-bf1e-489a-abea-e07b730b10bf
+UID:5cbf0a58-c6aa-4512-8b3c-a942b050144c
 SEQUENCE:4
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251129T090000Z
 DTEND:20251129T210000Z
 SUMMARY:Südtiroler Dorf
@@ -60,9 +60,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:b5d9e538-9787-44bf-b184-e5f8d6981738
+UID:765f678b-fb02-40fd-9679-7fc9e958947c
 SEQUENCE:5
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251130T090000Z
 DTEND:20251130T200000Z
 SUMMARY:Südtiroler Dorf
@@ -71,9 +71,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:80f86f02-345b-41ae-9e41-6f292fac0a6f
+UID:62b4b08f-7492-454d-a4a6-0f91560250de
 SEQUENCE:6
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251201T090000Z
 DTEND:20251201T200000Z
 SUMMARY:Südtiroler Dorf
@@ -82,9 +82,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:9271306c-d686-4be8-9679-8b7a63378e90
+UID:b5766d60-30b2-45e3-baff-2854a94a68e4
 SEQUENCE:7
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251202T090000Z
 DTEND:20251202T200000Z
 SUMMARY:Südtiroler Dorf
@@ -93,9 +93,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:201e614b-fb4e-47f2-9127-19d93355a47e
+UID:45e90c8a-49ca-4670-bd61-060eaf71aedd
 SEQUENCE:8
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251203T090000Z
 DTEND:20251203T200000Z
 SUMMARY:Südtiroler Dorf
@@ -104,9 +104,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:c33c8b3a-c2bd-4219-9a23-bcb3b539a406
+UID:e68ba0dc-766a-4b45-8fcc-b4c3be42f001
 SEQUENCE:9
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251204T090000Z
 DTEND:20251204T200000Z
 SUMMARY:Südtiroler Dorf
@@ -115,9 +115,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:507c8d12-5b41-4e6b-a184-79e24cbc52da
+UID:6bdea2c4-8c7f-440c-a906-a63b37cf75df
 SEQUENCE:10
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251205T090000Z
 DTEND:20251205T210000Z
 SUMMARY:Südtiroler Dorf
@@ -126,9 +126,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:3288f087-9072-4761-afd1-7f7170ad83a0
+UID:14009e47-ddf7-40e5-a3d1-f3992af51210
 SEQUENCE:11
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251206T090000Z
 DTEND:20251206T210000Z
 SUMMARY:Südtiroler Dorf
@@ -137,9 +137,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:10edd559-2c36-48e1-a305-38cb9c308cb1
+UID:7878128a-7430-442f-87f9-4b4cd5fb5435
 SEQUENCE:12
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251207T090000Z
 DTEND:20251207T200000Z
 SUMMARY:Südtiroler Dorf
@@ -148,9 +148,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:436b2ecd-f62c-4187-a266-14289fe40d6e
+UID:1f5dc147-fa78-4469-971c-f93e836e8308
 SEQUENCE:13
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251208T090000Z
 DTEND:20251208T200000Z
 SUMMARY:Südtiroler Dorf
@@ -159,9 +159,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:c292b121-03dc-487d-bf88-898928763403
+UID:c58409dc-8ac8-4a6d-bcbe-ac1b7816cd6b
 SEQUENCE:14
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251209T090000Z
 DTEND:20251209T200000Z
 SUMMARY:Südtiroler Dorf
@@ -170,9 +170,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:2ab5f8c1-2ba6-454a-9f13-9fb1d03a429d
+UID:32c8d25f-f873-46ba-9d35-bafb61b6f736
 SEQUENCE:15
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251210T090000Z
 DTEND:20251210T200000Z
 SUMMARY:Südtiroler Dorf
@@ -181,9 +181,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:bb73b12e-b419-4216-8bc8-140c4b8ff0d7
+UID:dc71151f-c0a3-41fe-b298-02fbc87113e7
 SEQUENCE:16
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251211T090000Z
 DTEND:20251211T200000Z
 SUMMARY:Südtiroler Dorf
@@ -192,9 +192,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:30227c13-9fdc-42b9-9ab1-f0388e88dcb5
+UID:4326c332-3fa7-4faf-a2f2-0b8e4a51e4ea
 SEQUENCE:17
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251212T090000Z
 DTEND:20251212T210000Z
 SUMMARY:Südtiroler Dorf
@@ -203,9 +203,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:57c2bfb0-1c43-46f0-ab87-ceae99dbf1df
+UID:61dad8ba-1af5-4332-9d83-de20f2e0a081
 SEQUENCE:18
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251213T090000Z
 DTEND:20251213T210000Z
 SUMMARY:Südtiroler Dorf
@@ -214,9 +214,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:77db391c-cd8d-4078-955d-f9672a9307ec
+UID:c16c1d8f-5111-40db-93d0-af530b43df15
 SEQUENCE:19
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251214T090000Z
 DTEND:20251214T200000Z
 SUMMARY:Südtiroler Dorf
@@ -225,9 +225,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:38c3fbd5-b251-4a62-a471-f0ee3fa060d6
+UID:b8cf5032-31a3-4e4d-93c3-e10978c47900
 SEQUENCE:20
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251215T090000Z
 DTEND:20251215T200000Z
 SUMMARY:Südtiroler Dorf
@@ -236,9 +236,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:5d825564-1f5b-4630-a327-c590cdd65e1c
+UID:5effd709-01b1-4f2e-aa48-17790383e257
 SEQUENCE:21
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251216T090000Z
 DTEND:20251216T200000Z
 SUMMARY:Südtiroler Dorf
@@ -247,9 +247,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:7cc25b1a-60cd-4ede-bb4a-54577430f0f5
+UID:4cf97505-175e-4d48-bd3d-b6f6f8116b3f
 SEQUENCE:22
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251217T090000Z
 DTEND:20251217T200000Z
 SUMMARY:Südtiroler Dorf
@@ -258,9 +258,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:0442f8ec-cd88-47cc-83d6-2a57026b1ed9
+UID:dc17289a-b5dc-43df-b0e7-8ae10e991026
 SEQUENCE:23
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251218T090000Z
 DTEND:20251218T200000Z
 SUMMARY:Südtiroler Dorf
@@ -269,9 +269,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:c163c0bd-c117-4f21-bcdd-38e8544f4b7a
+UID:d9eeb00e-ea51-41d5-aede-3dabc1051603
 SEQUENCE:24
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251219T090000Z
 DTEND:20251219T210000Z
 SUMMARY:Südtiroler Dorf
@@ -280,9 +280,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:9d96827e-5789-443a-951b-782a10bda1c5
+UID:fa6cb39f-8be1-4aec-a6d7-b38c79629041
 SEQUENCE:25
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251220T090000Z
 DTEND:20251220T210000Z
 SUMMARY:Südtiroler Dorf
@@ -291,9 +291,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:25766581-ee36-48ce-9410-e13a5c4fc8c7
+UID:a0b46c01-1dad-47e0-a6fb-ed2673cda6d0
 SEQUENCE:26
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251221T090000Z
 DTEND:20251221T200000Z
 SUMMARY:Südtiroler Dorf
@@ -302,9 +302,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:3f4780d9-dd69-49e7-bbfd-90befe016997
+UID:199656bf-5f0c-4cb6-9d2e-c46d235ad7d8
 SEQUENCE:27
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251222T090000Z
 DTEND:20251222T200000Z
 SUMMARY:Südtiroler Dorf
@@ -313,9 +313,9 @@ URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
  altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023
 END:VEVENT
 BEGIN:VEVENT
-UID:9cda8719-de02-4dd9-8fc5-8dcbea6a09ac
+UID:08ae77a8-046d-41b6-8f61-e633a021e98f
 SEQUENCE:28
-DTSTAMP:20251212T143315Z
+DTSTAMP:20251217T184604Z
 DTSTART:20251223T090000Z
 DTEND:20251223T200000Z
 SUMMARY:Südtiroler Dorf

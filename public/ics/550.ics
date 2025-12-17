@@ -1,0 +1,326 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:Haus G 07
+X-WR-CALNAME:Haus G 07
+BEGIN:VEVENT
+UID:aebeb2a8-a0bc-4d5b-99ab-832efaf74e89
+SEQUENCE:0
+DTSTAMP:20251217T184606Z
+DTSTART:20251125T090000Z
+DTEND:20251125T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:ac55d302-e20f-4a9b-866d-3689f55f9cbd
+SEQUENCE:1
+DTSTAMP:20251217T184606Z
+DTSTART:20251126T090000Z
+DTEND:20251126T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:3948843a-1b83-41b2-846b-cb2f43644eed
+SEQUENCE:2
+DTSTAMP:20251217T184606Z
+DTSTART:20251127T090000Z
+DTEND:20251127T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:1edf8d9c-4a26-4eb0-82b2-fe6a35a3cbca
+SEQUENCE:3
+DTSTAMP:20251217T184606Z
+DTSTART:20251128T090000Z
+DTEND:20251128T210000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:89cfed92-4a2d-4601-a6ad-0b10525865c5
+SEQUENCE:4
+DTSTAMP:20251217T184606Z
+DTSTART:20251129T090000Z
+DTEND:20251129T210000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:c4d3998e-bef1-4467-a1b9-4f98f2923461
+SEQUENCE:5
+DTSTAMP:20251217T184606Z
+DTSTART:20251130T090000Z
+DTEND:20251130T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cc144195-5cb2-4be2-b668-77bef56d2e02
+SEQUENCE:6
+DTSTAMP:20251217T184606Z
+DTSTART:20251201T090000Z
+DTEND:20251201T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:a9cfffe0-e5e7-41e3-8446-d2c3ba8f1049
+SEQUENCE:7
+DTSTAMP:20251217T184606Z
+DTSTART:20251202T090000Z
+DTEND:20251202T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:c3a449ff-8a07-4fb4-934e-c1e7d582b1f6
+SEQUENCE:8
+DTSTAMP:20251217T184606Z
+DTSTART:20251203T090000Z
+DTEND:20251203T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:72b7ca80-ab06-4e4f-a412-e84a1e1b4003
+SEQUENCE:9
+DTSTAMP:20251217T184606Z
+DTSTART:20251204T090000Z
+DTEND:20251204T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:10c72fb3-ba14-44c2-9085-7c7dcd4756dd
+SEQUENCE:10
+DTSTAMP:20251217T184606Z
+DTSTART:20251205T090000Z
+DTEND:20251205T210000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:abe1dc89-025f-483d-b5ea-f35efc6068df
+SEQUENCE:11
+DTSTAMP:20251217T184606Z
+DTSTART:20251206T090000Z
+DTEND:20251206T210000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:77cddd42-0351-4d5c-86ea-1bf30e3f727e
+SEQUENCE:12
+DTSTAMP:20251217T184606Z
+DTSTART:20251207T090000Z
+DTEND:20251207T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:b5e3a35a-d262-4e67-b098-7597b0a8c6c4
+SEQUENCE:13
+DTSTAMP:20251217T184606Z
+DTSTART:20251208T090000Z
+DTEND:20251208T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:3fc6a95c-fc95-4b4c-b81c-cd393d88f080
+SEQUENCE:14
+DTSTAMP:20251217T184606Z
+DTSTART:20251209T090000Z
+DTEND:20251209T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:97e5a7d6-8238-426c-9bce-f00dfecac6cd
+SEQUENCE:15
+DTSTAMP:20251217T184606Z
+DTSTART:20251210T090000Z
+DTEND:20251210T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:28ee3e67-a6d5-4a44-aae9-0ba141ea5b18
+SEQUENCE:16
+DTSTAMP:20251217T184606Z
+DTSTART:20251211T090000Z
+DTEND:20251211T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:c20ae363-e243-460e-a4c6-c627c0539807
+SEQUENCE:17
+DTSTAMP:20251217T184606Z
+DTSTART:20251212T090000Z
+DTEND:20251212T210000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:3649a9f1-f856-426b-a69f-b47238eb154f
+SEQUENCE:18
+DTSTAMP:20251217T184606Z
+DTSTART:20251213T090000Z
+DTEND:20251213T210000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:6e37c4b2-d08c-458a-91f8-32d6e129c179
+SEQUENCE:19
+DTSTAMP:20251217T184606Z
+DTSTART:20251214T090000Z
+DTEND:20251214T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:fb5fa092-7410-4b8c-bd83-1275d852c55b
+SEQUENCE:20
+DTSTAMP:20251217T184606Z
+DTSTART:20251215T090000Z
+DTEND:20251215T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:6c45dfb4-5090-4222-854c-0e208b83cbbb
+SEQUENCE:21
+DTSTAMP:20251217T184606Z
+DTSTART:20251216T090000Z
+DTEND:20251216T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:ca63aea1-12e1-4c82-ac78-73197e37aeb2
+SEQUENCE:22
+DTSTAMP:20251217T184606Z
+DTSTART:20251217T090000Z
+DTEND:20251217T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2e09cda9-cbe5-4d2b-aef7-88dfcc4c0ccd
+SEQUENCE:23
+DTSTAMP:20251217T184606Z
+DTSTART:20251218T090000Z
+DTEND:20251218T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:8d256d7e-5972-440d-8592-e1c449f976a1
+SEQUENCE:24
+DTSTAMP:20251217T184606Z
+DTSTART:20251219T090000Z
+DTEND:20251219T210000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2d94f1d7-7cea-4cb0-9c20-c86b5a0a52d2
+SEQUENCE:25
+DTSTAMP:20251217T184606Z
+DTSTART:20251220T090000Z
+DTEND:20251220T210000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:371a9d92-2fdc-4022-a12a-9bff566ac7e8
+SEQUENCE:26
+DTSTAMP:20251217T184606Z
+DTSTART:20251221T090000Z
+DTEND:20251221T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:37a67114-50f7-4cd5-95c4-1fa5e331833b
+SEQUENCE:27
+DTSTAMP:20251217T184606Z
+DTSTART:20251222T090000Z
+DTEND:20251222T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+BEGIN:VEVENT
+UID:387b8cf2-77d7-4e5d-8558-feed4dd2d8fb
+SEQUENCE:28
+DTSTAMP:20251217T184606Z
+DTSTART:20251223T090000Z
+DTEND:20251223T200000Z
+SUMMARY:Haus G 07
+LOCATION:Grimmaische Straße\, 04109 Leipzig
+URL;VALUE=URI:https://www.leipzig.de/freizeit-kultur-und-tourismus/veranst
+ altungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1
+END:VEVENT
+END:VCALENDAR
