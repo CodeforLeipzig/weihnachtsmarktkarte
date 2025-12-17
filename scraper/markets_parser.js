@@ -242,10 +242,10 @@ const readInnerGeojson = () => {
         const lat = coords[1];
         const lng = coords[0];
         const atts = entry.properties;
-        if (atts.hausnummer.startsWith("Musikschule")) {
+        //if (atts.hausnummer.startsWith("Musikschule")) {
           // already handled by leipzigde parser
-          continue;
-        }
+          //continue;
+        //}
         const train = "Augustusplatz".localeCompare(atts.standort) == 0
           ? "Straßenbahn 4, 7, 12, 14, 15 (oder 8, 10, 11, 14 auf Ostseite)"
           : 'S1, S2, S3, S4, S5, S5X und S6 bis "Leipzig, Markt"';
@@ -256,31 +256,30 @@ const readInnerGeojson = () => {
           shortname: atts.firma,
           strasse: atts.standort,
           plz_ort: "04109 Leipzig",
-          von: "26.11.24",
-          bis: "23.12.24",
+          von: "25.11.25",
+          bis: "23.12.25",
           veranstalter: atts.firma,
           oeffnungszeiten: "10:00-21:00",
           email: null,
-          w3: atts.internet ||
-            "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023",
+          w3: (!atts.internet || (atts.internet == 'keine Webseite hinterlegt')) ?
+            "https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/eventsingle/event/leipziger-weihnachtsmarkt-2023-1" : atts.internet,
           bemerkungen: null,
           lat: lat,
           lng: lng,
           rss_titel: atts.firma,
           barrierefrei: null,
           "immer-kostenlos": 1,
-          "Mo": "11:00-21:00",
-          "Di": "11:00-21:00",
-          "Mi": "11:00-21:00",
-          "Do": "11:00-21:00",
-          "Fr": "11:00-22:00",
-          "Sa": "11:00-22:00",
-          "So": "11:00-21:00",
+          "Mo": "10:00-21:00",
+          "Di": "10:00-21:00",
+          "Mi": "10:00-21:00",
+          "Do": "10:00-21:00",
+          "Fr": "10:00-22:00",
+          "Sa": "10:00-22:00",
+          "So": "10:00-21:00",
           "closed-exc": 0,
-          "closed-exc-readable": null,
-          "hours-exc":
-            "29.11.24=10:00-22:00,30.11.24=10:00-22:00,06.12.24=10:00-22:00,08.12.24=10:00-22:00,13.12.24=10:00-22:00,14.12.24=10:00-22:00,20.12.24=10:00-22:00,21.12.24=10:00-22:00",
-          "hours-exc-readable": null,
+          "closed-exc-readable": "",
+          "hours-exc": "28.11.25=10:00-22:00,29.11.25=10:00-22:00,05.12.25=10:00-22:00,06.12.25=10:00-22:00,12.12.25=10:00-22:00,13.12.25=10:00-22:00,19.12.25=10:00-22:00,20.12.25=10:00-22:00",
+          "hours-exc-readable": "",
           ignore: 0,
           merged: null,
           international: 0,
