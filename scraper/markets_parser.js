@@ -256,8 +256,8 @@ const readInnerGeojson = () => {
           shortname: atts.firma,
           strasse: atts.standort,
           plz_ort: "04109 Leipzig",
-          von: "25.11.25",
-          bis: "23.12.25",
+          von: "25.11.26",
+          bis: "23.12.26",
           veranstalter: atts.firma,
           oeffnungszeiten: "10:00-21:00",
           email: null,
@@ -278,7 +278,7 @@ const readInnerGeojson = () => {
           "So": "10:00-21:00",
           "closed-exc": 0,
           "closed-exc-readable": "",
-          "hours-exc": "28.11.25=10:00-22:00,29.11.25=10:00-22:00,05.12.25=10:00-22:00,06.12.25=10:00-22:00,12.12.25=10:00-22:00,13.12.25=10:00-22:00,19.12.25=10:00-22:00,20.12.25=10:00-22:00",
+          "hours-exc": "28.11.26=10:00-22:00,29.11.26=10:00-22:00,05.12.26=10:00-22:00,06.12.26=10:00-22:00,12.12.26=10:00-22:00,13.12.26=10:00-22:00,19.12.26=10:00-22:00,20.12.26=10:00-22:00",
           "hours-exc-readable": "",
           ignore: 0,
           merged: null,
@@ -340,7 +340,8 @@ const registry = {
         try {
           return !(entry.von.indexOf(".2022") > 0 || entry.von.indexOf(".22") > 0 ||
             entry.von.indexOf(".2023") > 0 || entry.von.indexOf(".23") > 0 ||
-            entry.von.indexOf(".2024") > 0 || entry.von.indexOf(".24") > 0);
+            entry.von.indexOf(".2024") > 0 || entry.von.indexOf(".24") > 0 ||
+            entry.von.indexOf(".2025") > 0 || entry.von.indexOf(".25") > 0);
         } catch(e) {
           console.log("Fehler an Stelle " + index + " - " + e.message + ": " + JSON.stringify(entry, null, 2));
           return false

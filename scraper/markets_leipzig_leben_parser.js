@@ -33,7 +33,7 @@ const scrape = async (content) => {
         }
       }
       const location = result.find(entry => entry.tag === 'Wo?')?.value;
-      const date = result[0].tag.replace(". November 2025", ".11.25").replace(". Dezember 2025", ".12.25").replace(". Januar 2026", ".01.26").replace(". November", ".11.25").replace(". Dezember", ".12.25").replace(". Januar", ".01.26");
+      const date = result[0].tag.replace(". November 2026", ".11.26").replace(". Dezember 2026", ".12.26").replace(". Januar 2027", ".01.27").replace(". November", ".11.26").replace(". Dezember", ".12.26").replace(". Januar", ".01.27");
       const when = result[0].value.replace("// ", "").replace(" Uhr", "").replace(" bis ", "-").replace(" - ", "-");
       const parts = when.split("-")
       const start = parts[0].indexOf(":") >=0 ? parts[0] : parts[0] + ":00";
@@ -61,7 +61,7 @@ const scrape = async (content) => {
 };
 
 const content = fs.readFileSync(
-  "/Users/joerg_p/Desktop/62 Weihnachtsmärkte in Leipzig 2025 _ Alle Orte & Termine.html",
+  "/Users/joerg_p/Desktop/Weihnachtsmärkte Leipzig 2026 ♥ Alle Termine.html",
   "utf-8",
 );
 scrape(content);
