@@ -165,7 +165,7 @@ export const SidebarContentFilter: FC<SidebarContentFilterType> = ({
                 style={{ background: "black" }}
                 value={(marketFilterFulltext && marketFilterFulltext.filter) ||
                   ""}
-                onInput={onMarketSearch}
+                onChange={onMarketSearch}
               />
             </div>
             <div style={{ paddingBottom: "5px" }}>Suche in:</div>

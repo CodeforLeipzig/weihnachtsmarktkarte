@@ -77,6 +77,7 @@ const FilterDate: FC<FilterDateType> = ({
 `;
   const fromMonth = new Date(2025, 10);
   const toDate = new Date(2026, 0, 7);
+  const toMonth = new Date(2026, 0);
   const now = new Date();
   const today = now.getTime() > toDate.getTime() ? toDate : now;
   const defaultMonth = new Date(today.getFullYear(), today.getMonth());
@@ -99,8 +100,8 @@ const FilterDate: FC<FilterDateType> = ({
           }}
           defaultMonth={defaultMonth}
           today={today}
-          fromMonth={fromMonth}
-          toDate={toDate}
+          month={fromMonth}
+          endMonth={toMonth}
           locale={de}
           weekStartsOn={1}
         />
