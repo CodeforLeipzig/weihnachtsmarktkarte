@@ -129,15 +129,51 @@ const MapSite: NextPage = (mapData: any) => {
   useEffect(() => {
     setMarketFilterDate(new Date());
     if (typeof window !== "undefined") {
-      const script = document.createElement("script");
-      script.src = "snowstorm.js";
-      script.async = true;
-      document.body.appendChild(script);
-      setTimeout(() => {
-        // eslint-disable-next-line @typescript-eslint/ban-ts-comment
-        // @ts-ignore
-        window.snowStorm.start();
-      }, 1000);
+      const w = window as any;
+      let booted = false;
+
+      const bootSnow = () => {
+        if (booted || !w.snowStorm) return;
+        booted = true;
+        // If the script was already injected before (client-side navigation
+        // back to this page), reuse the existing instance instead of
+        // re-executing the script - a second execution replaces the global
+        // snowStorm object while stale loops still run, which crashes with
+        // "Cannot read properties of undefined (reading 'active')".
+        if (w.snowStorm.flakes && w.snowStorm.flakes.length > 0) {
+          // instance already initialized -> reset it so it re-attaches
+          // to the fresh #snowId container and restarts cleanly
+          w.snowStorm.stop();
+          w.snowStorm.flakes = [];
+          w.snowStorm.targetElement = "snowId";
+          w.snowStorm.disabled = 0;
+          w.snowStorm.timer = null;
+        }
+        w.snowStorm.start();
+      };
+
+      let script = document.querySelector<HTMLScriptElement>(
+        'script[src="snowstorm.js"]'
+      );
+      if (!script) {
+        script = document.createElement("script");
+        script.src = "snowstorm.js";
+        script.async = true;
+        script.addEventListener("load", () => setTimeout(bootSnow, 200));
+        document.body.appendChild(script);
+        // fallback in case the load event already fired (cached script)
+        setTimeout(bootSnow, 1000);
+      } else {
+        // script already in the DOM (client-side navigation back) -> boot now
+        setTimeout(bootSnow, 100);
+      }
+
+      return () => {
+        // stop the snow animation when leaving the map page
+        if (w.snowStorm) {
+          w.snowStorm.stop();
+        }
+      };
     }
   }, []);
 

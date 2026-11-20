@@ -561,9 +561,9 @@ var snowStorm = (function (window, document) {
         storm.flakes[i].melt()
       }
     }
-    if (active < storm.flakesMaxActive) {
+    if (active < storm.flakesMaxActive && storm.flakes.length > 0) {
       flake = storm.flakes[parseInt(rnd(storm.flakes.length), 10)]
-      if (flake.active === 0) {
+      if (flake && flake.active === 0) {
         flake.melting = true
       }
     }

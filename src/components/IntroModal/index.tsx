@@ -1,6 +1,7 @@
 import { FC } from 'react'
+import Link from 'next/link'
 import { Dialog } from '@headlessui/react'
-import { Cross, UnderConstruction } from '../Icons'
+import { Calendar, Cross, UnderConstruction } from '../Icons'
 
 import { TsbLogo } from '@components/Logos/TsbLogo'
 import { OdisLogo } from '@components/Logos/OdisLogo'
@@ -74,18 +75,28 @@ export const IntroModal: FC<IntroModalType> = ({
                 Freund:innen! Frohe Weihnachten!
               </p>
 
-              <button
-                className="xmas-btn px-4 bg-darkblue hover:bg-gold hover:text-lightblue text-gold p-2 text-bold rounded border-2 border-gold hover:border-gold"
-                onClick={closeModalExplore}
-              >
-                Erkunden
-              </button>
-              <button
-                className="px-4 ml-4 bg-darkblue text-lightblue text-bold border-2 border-lightblue/90 hover:border-gold p-2 rounded hover:text-lightblue hover:bg-gold"
-                onClick={closeModalInfo}
-              >
-                Mehr Infos
-              </button>
+              <div className="flex flex-wrap gap-4">
+                <button
+                  className="xmas-btn px-4 bg-darkblue hover:bg-gold hover:text-lightblue text-gold p-2 text-bold rounded border-2 border-gold hover:border-gold"
+                  onClick={closeModalExplore}
+                >
+                  Erkunden
+                </button>
+                <Link
+                  href="/adventskalender"
+                  className="px-4 inline-flex items-center gap-2 bg-darkblue text-lightblue text-bold border-2 border-lightblue/90 hover:border-gold p-2 rounded hover:text-lightblue hover:bg-gold no-underline"
+                  onClick={closeModal}
+                >
+                  <Calendar />
+                  Adventskalender
+                </Link>
+                <button
+                  className="px-4 bg-darkblue text-lightblue text-bold border-2 border-lightblue/90 hover:border-gold p-2 rounded hover:text-lightblue hover:bg-gold"
+                  onClick={closeModalInfo}
+                >
+                  Mehr Infos
+                </button>
+              </div>
 
               <div className="grid md:grid-cols-[1fr,auto] gap-4 mt-4 md:mt-6">
                 <p className="text-xs mb-2 md:mb-0 text-gray-500 w-11/12 md:w-full pt-4">
