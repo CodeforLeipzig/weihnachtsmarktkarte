@@ -1,5 +1,5 @@
 import { AudioEntry } from "@components/MusicPlayer";
-import { useState, useEffect, useMemo, useContext } from "react";
+import { useState, useEffect, useMemo, useContext, useRef } from "react";
 import { InitialAudioContext, Initial } from "@lib/hooks/useAudio/InitialAudioContext"
 
 export default (track: AudioEntry, handleSongEnd: () => void) => {
@@ -23,18 +23,39 @@ export default (track: AudioEntry, handleSongEnd: () => void) => {
   useEffect(() => {
     audio.addEventListener('ended', () => handleSongEnd());
   }, []);
+
+  // pause when the audio element changes or the component unmounts,
+  // so music does not keep playing after navigating away (e.g. to the
+  // Adventskalender page)
   useEffect(() => {
-    if (initialState?.initial) {
-      if (initialState && initialState.setInitial) {
+    return () => {
+      audio.pause();
+    };
+  }, [audio]);
+
+  // Never autoplay on (re)mount. This effect also runs on mount, and after
+  // client-side navigation (e.g. back from the Adventskalender) the
+  // navigation click counts as user activation, so audio.play() would
+  // succeed and the music would start unexpectedly. Only register the
+  // autoplay listener when the track src actually changed (next/prev
+  // button or song end). Comparing against the previous src (instead of a
+  // boolean ref) is robust against StrictMode double-invoking effects and
+  // against page remounts.
+  const prevSrcRef = useRef(track.music.src);
+  useEffect(() => {
+    if (prevSrcRef.current === track.music.src) {
+      // mount / remount (or StrictMode re-run) -> no autoplay
+      if (initialState?.initial && initialState.setInitial) {
         initialState.setInitial(false);
       }
-    } else {
-      const eventListener = () => {
-        audio.play().then(() => setPlaying(true));
-      }
-      audio.removeEventListener("loadeddata", eventListener);
-      audio.addEventListener("loadeddata", eventListener);
+      return;
     }
+    prevSrcRef.current = track.music.src;
+    const eventListener = () => {
+      audio.play().then(() => setPlaying(true));
+    }
+    audio.removeEventListener("loadeddata", eventListener);
+    audio.addEventListener("loadeddata", eventListener);
   }, [track.music.src]);
   return { playing, toggle, updateAudio };
 };
