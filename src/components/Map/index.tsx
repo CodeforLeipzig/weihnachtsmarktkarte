@@ -1,4 +1,4 @@
-import mapboxgl from 'mapbox-gl';
+import type mapboxgl from 'mapbox-gl';
 import { FC, useCallback, useEffect, useMemo, useRef } from "react";
 import Map, {
   GeolocateControl,
@@ -7,7 +7,13 @@ import Map, {
   Popup,
   Source,
 } from "react-map-gl/maplibre";
+import { setWorkerUrl } from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
+
+// maplibre-gl v6 resolves its worker URL at runtime from import.meta.url, which
+// points into /_next/static/chunks/ under Next.js — the worker file is not
+// served there (404), so the map never initializes. Serve it from /public instead.
+setWorkerUrl("/maplibre-gl-worker.mjs");
 import mapStyle from "./mapStyle";
 import { layerStyles } from "./layerStyles";
 import { useState } from "react";
