@@ -341,7 +341,7 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({}) => {
           © 2024 Technologiestiftung Berlin
         </span>
         <a
-          href="https://codefor.de/impressum/"
+          href="https://joergreichert.de/impressum/"
           className={`text-xs hover:underline mr-4`}
           target="_blank"
           rel="noreferrer"
@@ -349,7 +349,7 @@ export const SidebarContentInfo: FC<SidebarContentInfoType> = ({}) => {
           Impressum
         </a>
         <a
-          href="https://codefor.de/impressum/#datenschutzerkl%C3%A4rung"
+          href="https://joergreichert.de/datenschutzerklaerung/"
           className={`text-xs hover:underline`}
           target="_blank"
           rel="noreferrer"
