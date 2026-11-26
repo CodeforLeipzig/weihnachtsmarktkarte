@@ -18,7 +18,7 @@
     "classnames": "2.5.1",
     "date-fns": "4.4.0",
     "ical-generator": "^11.1.4",
-    "mapbox-gl": "3.35.2",
+    "mapbox-gl": "3.36.0",
     "maplibre-gl": "6.19.0",
     "next": "16.4.6",
     "papaparse": "5.7.1",
