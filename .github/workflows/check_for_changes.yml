@@ -12,7 +12,7 @@ jobs:
       - name: UseNode
         uses: actions/setup-node@v6
         with:
-          node-version: "24.x"
+          node-version: "26.x"
       - name: ScrapeMarkets
         run: |
           cd ./scraper
